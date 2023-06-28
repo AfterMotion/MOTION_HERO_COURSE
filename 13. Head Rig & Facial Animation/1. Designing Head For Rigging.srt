@@ -1,0 +1,791 @@
+1
+00:00:00,090 --> 00:00:06,990
+In this video, I work on the head of a character and how to prepare it for the point that you need
+
+2
+00:00:06,990 --> 00:00:11,400
+to know is draw three steps for animating the head or character.
+
+3
+00:00:11,430 --> 00:00:15,000
+The first step is designing the character and the head.
+
+4
+00:00:15,030 --> 00:00:19,260
+The second one is rigging and the third one is animating.
+
+5
+00:00:19,290 --> 00:00:25,740
+Every step is dependent on the next one, which means I do rigging according to the animation I want
+
+6
+00:00:25,740 --> 00:00:28,050
+to create for the character or its head.
+
+7
+00:00:28,080 --> 00:00:35,220
+This means if the animation of the character is simple, the rigging process is also simple, or if
+
+8
+00:00:35,220 --> 00:00:42,120
+the animation is complex and contains a lot of positions and whatnot, the rigging process is as time
+
+9
+00:00:42,120 --> 00:00:46,350
+consuming and complicated and also for designing.
+
+10
+00:00:46,380 --> 00:00:53,190
+What I mean is that based on how complex you want the rigging to be, the character design and the layers
+
+11
+00:00:53,190 --> 00:00:55,210
+of the character should be just as.
+
+12
+00:00:56,370 --> 00:00:58,320
+Now let's get right into it.
+
+13
+00:00:58,500 --> 00:01:02,780
+The first thing that I want to make is the circle, like part of the head.
+
+14
+00:01:02,790 --> 00:01:05,220
+So I make this part using shape.
+
+15
+00:01:09,250 --> 00:01:13,390
+Let me disable stroke and feel so I can just see the path.
+
+16
+00:01:31,820 --> 00:01:37,100
+When I want to only move one of the handles, I just hold out and then drag it.
+
+17
+00:01:38,590 --> 00:01:40,240
+I rename it to head.
+
+18
+00:01:42,340 --> 00:01:45,190
+And enable it, feel and recover it.
+
+19
+00:01:48,450 --> 00:01:51,600
+Well, after that, it's time for the back here.
+
+20
+00:02:06,220 --> 00:02:08,890
+I hold arms and drag it like this.
+
+21
+00:02:12,020 --> 00:02:18,770
+I hold out again, I click and hold again so I can make sharp angles.
+
+22
+00:02:31,480 --> 00:02:38,050
+Well, I wanted to make the bag here in a separate layer, but since the head layer was selected, it's
+
+23
+00:02:38,050 --> 00:02:39,550
+added to the head layer.
+
+24
+00:02:39,550 --> 00:02:42,420
+And so I can separate these two layers.
+
+25
+00:02:42,430 --> 00:02:45,100
+I duplicate this layer here.
+
+26
+00:02:45,100 --> 00:02:50,800
+I delete the second shape, and in this layer I delete the first one.
+
+27
+00:02:50,800 --> 00:02:53,650
+So the back here would be in a separate layer.
+
+28
+00:02:58,340 --> 00:03:02,180
+I change its color to the same color as the reference.
+
+29
+00:03:02,840 --> 00:03:05,420
+Now it's time to work on the front hair.
+
+30
+00:03:48,510 --> 00:03:54,900
+Ask for that in order not for the front hair to move outside of the face area while animating.
+
+31
+00:03:54,900 --> 00:03:59,850
+I copy this shape from the head layer, then in the front hair.
+
+32
+00:04:01,380 --> 00:04:03,930
+In contents and I paste it here.
+
+33
+00:04:04,110 --> 00:04:09,450
+The next thing that I have to do is add merge pass modifier to the content.
+
+34
+00:04:10,020 --> 00:04:13,030
+I don't want the stroke in the merge pass.
+
+35
+00:04:13,050 --> 00:04:14,810
+I say it's more to intersect.
+
+36
+00:04:17,750 --> 00:04:23,510
+This means it will only show the areas that are in common with both James and the rest.
+
+37
+00:04:23,510 --> 00:04:27,380
+And I change color to the same color as the reference.
+
+38
+00:04:30,830 --> 00:04:32,810
+Let me rename this one as well.
+
+39
+00:04:34,330 --> 00:04:40,210
+Now, if you pay attention when I move the hair layer, it won't show anything outside of this area.
+
+40
+00:04:41,340 --> 00:04:47,640
+After that, the next thing that you need to know is that when I'm animating, definitely I'm changing
+
+41
+00:04:47,640 --> 00:04:48,390
+the face.
+
+42
+00:04:48,390 --> 00:04:52,950
+And as you can see, if I do so, the previous problem still remains.
+
+43
+00:04:55,810 --> 00:04:57,190
+To fix this problem.
+
+44
+00:04:57,190 --> 00:05:02,950
+I parent the face path in the front handle layer to the main face path.
+
+45
+00:05:03,280 --> 00:05:06,550
+So by picking a pair in this to this.
+
+46
+00:05:07,740 --> 00:05:13,010
+Now, if I change the shape of the face, that problem won't occur anymore.
+
+47
+00:05:13,020 --> 00:05:14,400
+And it works fine.
+
+48
+00:05:14,880 --> 00:05:17,340
+I move this point a little bit upper.
+
+49
+00:05:18,610 --> 00:05:27,550
+After that, you can see that there is a line right here to face this in the front her face and transform.
+
+50
+00:05:30,070 --> 00:05:32,540
+I increase the scale a little bit.
+
+51
+00:05:32,560 --> 00:05:34,600
+I say it's 101.
+
+52
+00:05:36,830 --> 00:05:39,350
+So the line wouldn't be there anymore.
+
+53
+00:05:44,170 --> 00:05:46,990
+Then I do these two hair strands.
+
+54
+00:05:56,440 --> 00:05:58,930
+I put both of them in the same layer.
+
+55
+00:06:07,510 --> 00:06:09,820
+Now let's work on the years.
+
+56
+00:06:32,510 --> 00:06:35,570
+I changed its color to the same color as the skin.
+
+57
+00:07:01,690 --> 00:07:03,370
+For both of the strokes.
+
+58
+00:07:03,370 --> 00:07:05,440
+I said line kept around.
+
+59
+00:07:10,560 --> 00:07:16,230
+So these parts would be around and I recolor it just like the reference.
+
+60
+00:07:19,440 --> 00:07:20,820
+For the other year.
+
+61
+00:07:20,820 --> 00:07:23,490
+I duplicate this layer and rename it.
+
+62
+00:07:26,290 --> 00:07:30,820
+And to flip it, isolate the layer slate only one point.
+
+63
+00:07:30,820 --> 00:07:37,810
+And by holding all and dragging, isolate all points and then hit control t I move it over here and
+
+64
+00:07:37,810 --> 00:07:39,430
+I flip it just like this.
+
+65
+00:07:43,160 --> 00:07:49,760
+As you can see in the reference, the ears aren't symmetrical and this here is a little bit bigger,
+
+66
+00:07:49,760 --> 00:07:54,320
+but I want both of them to be symmetrical, so I won't change that.
+
+67
+00:07:55,040 --> 00:07:57,830
+I move its anchor point right here.
+
+68
+00:08:03,770 --> 00:08:06,470
+Now I'll be working on the eyebrows.
+
+69
+00:08:25,690 --> 00:08:26,530
+In this truck.
+
+70
+00:08:26,530 --> 00:08:28,120
+I increased the size.
+
+71
+00:08:29,450 --> 00:08:34,490
+Then in the taper, let me slow the layer so I can see it better.
+
+72
+00:08:35,570 --> 00:08:36,650
+And the taper.
+
+73
+00:08:36,650 --> 00:08:40,940
+I set the stall length to 100 so it would look like this.
+
+74
+00:08:40,940 --> 00:08:43,610
+And I said it's slim cap to round cap.
+
+75
+00:08:45,190 --> 00:08:50,260
+I increased the start with just a bit, so this part of the eyebrow would look around.
+
+76
+00:08:56,930 --> 00:08:58,370
+For the other eyebrow.
+
+77
+00:08:58,400 --> 00:09:00,020
+I duplicate the layer.
+
+78
+00:09:04,570 --> 00:09:10,320
+Isolate one point and then I hit control A So all of the points would be selected.
+
+79
+00:09:10,330 --> 00:09:13,060
+Then I hit control T and I move it here.
+
+80
+00:09:13,840 --> 00:09:17,230
+Then I flip it so it would match the reference.
+
+81
+00:09:23,020 --> 00:09:23,960
+It looks good.
+
+82
+00:09:24,680 --> 00:09:26,720
+Now let's work on the nose.
+
+83
+00:09:42,730 --> 00:09:45,280
+I change its color just like the reference.
+
+84
+00:09:48,350 --> 00:09:50,090
+Then I increase its size.
+
+85
+00:09:52,270 --> 00:09:54,610
+Then I said the line cab to round cab.
+
+86
+00:10:00,280 --> 00:10:03,010
+Then I added stream pass to the content.
+
+87
+00:10:26,750 --> 00:10:30,200
+The next thing is the mouth to create the mouth.
+
+88
+00:10:30,230 --> 00:10:33,170
+First I make something like this for the mouth.
+
+89
+00:10:38,960 --> 00:10:40,940
+I disable its stroke.
+
+90
+00:10:43,880 --> 00:10:47,530
+I'll rename it to Mouse in contents.
+
+91
+00:10:47,540 --> 00:10:50,360
+This will be inside area of the mouth.
+
+92
+00:10:51,900 --> 00:10:53,670
+I rename it to base.
+
+93
+00:10:57,440 --> 00:11:00,230
+I enable it to feel and recolor it as.
+
+94
+00:11:02,490 --> 00:11:05,910
+Then I have to create things and a time for the mouth.
+
+95
+00:11:09,670 --> 00:11:10,390
+For that.
+
+96
+00:11:10,390 --> 00:11:13,240
+I create a shape like this for the teeth.
+
+97
+00:11:16,950 --> 00:11:23,460
+I changed its colour to white again, isolate contents and create another shape for the time.
+
+98
+00:11:25,010 --> 00:11:25,910
+For its color.
+
+99
+00:11:25,910 --> 00:11:30,290
+I want it to be the same as her cheeks, but a little bit darker.
+
+100
+00:11:34,810 --> 00:11:37,720
+After that, just like the front hair thing.
+
+101
+00:11:37,720 --> 00:11:41,710
+I have to mask these two shapes inside of the mouth shape.
+
+102
+00:11:43,240 --> 00:11:43,840
+For that.
+
+103
+00:11:43,840 --> 00:11:48,460
+I like to think I hit Control G and put it in a group.
+
+104
+00:11:49,030 --> 00:11:51,250
+I rename it Time Group.
+
+105
+00:11:51,940 --> 00:11:54,190
+I do the same for the teeth to.
+
+106
+00:11:57,990 --> 00:12:00,210
+Then I duplicate the base layer.
+
+107
+00:12:02,520 --> 00:12:04,470
+I put it in the time group.
+
+108
+00:12:05,490 --> 00:12:07,050
+I add the merge path.
+
+109
+00:12:09,390 --> 00:12:14,640
+I delayed the stroke and the film is the same color as the time, which is good.
+
+110
+00:12:14,640 --> 00:12:17,340
+And the marriage path, I say to intersect.
+
+111
+00:12:20,730 --> 00:12:23,040
+So now to show you what happened.
+
+112
+00:12:23,580 --> 00:12:27,570
+As you can see, the sign is only visible within the mouth shape.
+
+113
+00:12:29,760 --> 00:12:32,250
+I place its anchor point here.
+
+114
+00:12:34,590 --> 00:12:37,290
+I do the same for the teeth part as well.
+
+115
+00:12:48,160 --> 00:12:51,190
+I recall it once because it's for teeth.
+
+116
+00:12:54,510 --> 00:12:57,300
+And I said the merge bus mode to intersect.
+
+117
+00:12:59,140 --> 00:13:00,890
+I make the base visible.
+
+118
+00:13:00,910 --> 00:13:07,690
+As you can see, the teeth are only visible within the area of the mouth, and outside of it it's not
+
+119
+00:13:07,690 --> 00:13:08,360
+visible.
+
+120
+00:13:08,380 --> 00:13:10,690
+I place its anchor point here.
+
+121
+00:13:12,490 --> 00:13:14,890
+I make the base visible as well.
+
+122
+00:13:14,890 --> 00:13:18,460
+So as you can see, I'm done with the mouth of the character.
+
+123
+00:13:18,460 --> 00:13:25,360
+I should do the same as I did for the front hair, and that is if I want to animate the mouth shape.
+
+124
+00:13:25,510 --> 00:13:31,480
+As you can see, this problem will occur to face that under each shape of the base.
+
+125
+00:13:34,330 --> 00:13:35,710
+It opened their paths.
+
+126
+00:13:42,650 --> 00:13:46,540
+Ripen in the path of the shames that are integral to the main shape.
+
+127
+00:13:50,580 --> 00:13:52,860
+I do the same for this path to.
+
+128
+00:13:54,540 --> 00:13:58,470
+Now, if I move the shape, you can see that the other shapes move along.
+
+129
+00:14:03,490 --> 00:14:07,260
+After that, I draw another shape for the line of the mouth.
+
+130
+00:14:07,270 --> 00:14:10,900
+Here I select contents and I make a shape here.
+
+131
+00:14:24,120 --> 00:14:25,650
+Rename its line.
+
+132
+00:14:30,800 --> 00:14:33,170
+And I said, line kept around cap.
+
+133
+00:14:38,440 --> 00:14:44,380
+Then I make the mouth layer look like this so it will be hidden under the line of the mouth.
+
+134
+00:14:47,880 --> 00:14:49,960
+So let's go for the eyes.
+
+135
+00:14:49,980 --> 00:14:52,530
+First I made the white part of the eye.
+
+136
+00:15:04,980 --> 00:15:07,170
+I add a circle shape here?
+
+137
+00:15:10,270 --> 00:15:12,910
+I renamed them so they would be clear.
+
+138
+00:15:13,660 --> 00:15:18,260
+I select contents and by holding control, shift and dragging.
+
+139
+00:15:18,280 --> 00:15:21,640
+I make a symmetrical circle shape right here.
+
+140
+00:15:21,970 --> 00:15:23,440
+I name it Light.
+
+141
+00:15:24,580 --> 00:15:28,390
+And I make the eyelash just like how I made the eyebrows.
+
+142
+00:16:18,800 --> 00:16:21,020
+Then I put this in a group.
+
+143
+00:16:24,700 --> 00:16:27,970
+Isolate the group and make these two other lines.
+
+144
+00:16:46,650 --> 00:16:50,640
+I duplicate this shape and put it here and make it smaller.
+
+145
+00:16:53,860 --> 00:16:56,830
+I put these three names in one group.
+
+146
+00:17:04,110 --> 00:17:06,120
+I change the colour of the shapes.
+
+147
+00:17:14,710 --> 00:17:20,950
+Well, the next thing that I need to do is this part of the shame would be only visible within the wide
+
+148
+00:17:20,950 --> 00:17:22,370
+area of the eyes.
+
+149
+00:17:22,390 --> 00:17:25,660
+For this I should do just like what I did for the mouth.
+
+150
+00:17:25,930 --> 00:17:29,590
+First of all, I put lights and black in one group.
+
+151
+00:17:31,160 --> 00:17:35,190
+I duplicate the white part and put these two in one cup.
+
+152
+00:17:39,290 --> 00:17:43,760
+I go to the group of these two shapes, I add a merge path.
+
+153
+00:17:46,710 --> 00:17:53,970
+I don't want the stroke and I set the merge path to subtract and I put the black on top so this part
+
+154
+00:17:54,000 --> 00:17:54,780
+would be empty.
+
+155
+00:17:56,310 --> 00:17:58,770
+And the color should be changed to this.
+
+156
+00:18:05,100 --> 00:18:10,800
+And for this group, which contains the white and the black group, I add a merge path.
+
+157
+00:18:13,210 --> 00:18:17,080
+Delete it strong and I set the marriage path mode to intersect.
+
+158
+00:18:20,120 --> 00:18:24,730
+And I changed its film color like this because it's the black part of the eye.
+
+159
+00:18:27,490 --> 00:18:29,080
+Let me swallow the layer.
+
+160
+00:18:30,280 --> 00:18:33,400
+And I can move it without worrying about anything.
+
+161
+00:18:36,030 --> 00:18:38,070
+Let me make the white ship visible.
+
+162
+00:18:38,760 --> 00:18:42,780
+And just like before, I have to paint this ship to this one.
+
+163
+00:18:42,780 --> 00:18:47,550
+So when the main one moves, the other one moves alongside it.
+
+164
+00:18:48,480 --> 00:18:54,750
+To do so, I open the path of the white ship and the group I open the path of the Y to.
+
+165
+00:18:56,810 --> 00:18:59,270
+And I parent this to the main shape.
+
+166
+00:19:00,560 --> 00:19:03,740
+Now, if I move the Y chain, both of them move.
+
+167
+00:19:03,740 --> 00:19:05,240
+And there is nothing wrong.
+
+168
+00:19:07,710 --> 00:19:14,070
+Now in the black group Transform, I create a keyframe for its position.
+
+169
+00:19:14,070 --> 00:19:19,920
+So if I want to move it, I can simply hit your key and make the position visible.
+
+170
+00:19:22,800 --> 00:19:25,970
+Look, now I have to create another shape for the eye.
+
+171
+00:19:25,980 --> 00:19:28,330
+So it would function as its eyelid.
+
+172
+00:19:28,350 --> 00:19:31,140
+So I create another shape right here.
+
+173
+00:19:36,990 --> 00:19:45,390
+I disabled stroke and I changed from color to the same color as the skin, and I move it below the eyelash
+
+174
+00:19:45,390 --> 00:19:50,460
+group so that later on I can create a blinking animation for it.
+
+175
+00:19:54,410 --> 00:19:55,970
+I name it, to Ireland.
+
+176
+00:19:57,600 --> 00:19:58,770
+To create the other.
+
+177
+00:19:58,770 --> 00:20:05,000
+I first I convert these circle shapes to busier path so I can manually change the patterns.
+
+178
+00:20:10,120 --> 00:20:12,340
+After that, I duplicate this layer.
+
+179
+00:20:13,360 --> 00:20:18,370
+I rename it, I select the layer and pick up the pencil.
+
+180
+00:20:20,620 --> 00:20:26,020
+And by holding alls and dragging isolate all of the points and hit control.
+
+181
+00:20:26,050 --> 00:20:27,850
+TW And I move it here.
+
+182
+00:20:28,950 --> 00:20:30,060
+And I flip it.
+
+183
+00:20:31,720 --> 00:20:34,270
+Then I try to match it to the reference.
+
+184
+00:20:38,370 --> 00:20:39,490
+It looks good now.
+
+185
+00:20:40,680 --> 00:20:43,980
+And to fix the light ship the group.
+
+186
+00:20:46,770 --> 00:20:47,940
+I moved here.
+
+187
+00:20:51,210 --> 00:20:54,840
+Well, let's go for the last ship, which is the chicks.
+
+188
+00:21:07,310 --> 00:21:10,250
+I place its anchor point in the center.
+
+189
+00:21:11,380 --> 00:21:12,520
+I duplicated.
+
+190
+00:21:13,430 --> 00:21:14,690
+And move it here.
+
+191
+00:21:17,390 --> 00:21:19,130
+Then I rename it as well.
+
+192
+00:21:22,470 --> 00:21:27,270
+Okay, I hide the reference layer and make the layers I made visible.
+
+193
+00:21:28,630 --> 00:21:33,380
+So the head of the character seems fine, but here are a few points to know.
+
+194
+00:21:33,400 --> 00:21:35,440
+The ear should be behind the head.
+
+195
+00:21:37,110 --> 00:21:39,750
+And the eyes below the front her.
+
+196
+00:21:40,920 --> 00:21:43,530
+So I move the front and top her layer.
+
+197
+00:21:43,530 --> 00:21:44,190
+It's up.
+
+198
+00:21:45,720 --> 00:21:49,140
+The eyebrows should also be on top of the hair.

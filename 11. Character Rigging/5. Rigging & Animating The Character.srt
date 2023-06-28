@@ -1,0 +1,315 @@
+1
+00:00:00,330 --> 00:00:06,510
+After I'm done scrutinizing the character, I move on to parenting the layers, to the skeletons.
+
+2
+00:00:06,540 --> 00:00:11,120
+To do that, the characters are always or must be parented to the right arm.
+
+3
+00:00:11,160 --> 00:00:11,960
+Skeleton.
+
+4
+00:00:13,420 --> 00:00:19,900
+Which is this layer and also the other parts must be parented to their related skeletons.
+
+5
+00:00:43,810 --> 00:00:49,630
+After parents in different parts of the character to the skeletons, the components of the face such
+
+6
+00:00:49,630 --> 00:00:56,620
+as the glasses, eyes, eyebrows, nose and the mouth must be parented to the head layer.
+
+7
+00:00:56,740 --> 00:01:00,220
+Also, this part of the hair must be parented to the head.
+
+8
+00:01:00,910 --> 00:01:07,750
+After that, isolate the skeletons by hitting the selected structures option in the Links and Constraints
+
+9
+00:01:07,750 --> 00:01:10,660
+section, I click on the order option.
+
+10
+00:01:12,540 --> 00:01:16,530
+I get back to the topic again in the structure panel.
+
+11
+00:01:16,560 --> 00:01:20,820
+Hit the show and hide option to completely hide the structures.
+
+12
+00:01:22,130 --> 00:01:25,460
+As you can see, the character is perfectly right now.
+
+13
+00:01:35,400 --> 00:01:41,960
+After doing that to animate the character, I just need to go to the automation panel and use the work
+
+14
+00:01:41,970 --> 00:01:45,810
+cycle tool before I apply the work cycle tool.
+
+15
+00:01:45,840 --> 00:01:51,600
+I go to settings to make sure that the work cycle has identified the controllers.
+
+16
+00:01:51,630 --> 00:01:56,430
+I will check the controllers once more to make sure they are properly defined here.
+
+17
+00:02:00,980 --> 00:02:05,810
+So this is the right arm controller and it's defined correctly here.
+
+18
+00:02:06,940 --> 00:02:11,080
+As you see, all the controllers are properly identified here.
+
+19
+00:02:11,440 --> 00:02:12,640
+Let's get back.
+
+20
+00:02:13,330 --> 00:02:16,520
+Isolate the controllers and click on the work cycle.
+
+21
+00:02:18,670 --> 00:02:23,170
+Once I have the walk cycle, you'll see that the character starts to walk.
+
+22
+00:02:23,170 --> 00:02:25,150
+But her gait is the opposite.
+
+23
+00:02:28,900 --> 00:02:30,460
+To fix this movement.
+
+24
+00:02:30,460 --> 00:02:35,980
+I go to the main parameters in the work cycle section and remove this negative.
+
+25
+00:02:36,640 --> 00:02:39,280
+And now the character moves forward.
+
+26
+00:02:51,380 --> 00:02:55,850
+The problem here is that the left hand rotation angle is not correct.
+
+27
+00:03:01,850 --> 00:03:04,130
+To fix it, isolate the controller.
+
+28
+00:03:04,130 --> 00:03:07,130
+And here the reverse is no longer functional.
+
+29
+00:03:07,130 --> 00:03:13,970
+Because when I apply the work cycle, as you see the arms controller exits the IK mode and sets to the
+
+30
+00:03:13,970 --> 00:03:14,870
+f k mode.
+
+31
+00:03:16,470 --> 00:03:18,180
+To solve this problem.
+
+32
+00:03:18,180 --> 00:03:21,090
+I go to the individual control.
+
+33
+00:03:21,120 --> 00:03:23,460
+I hit the key and go to the beginning.
+
+34
+00:03:23,490 --> 00:03:29,610
+Since the key frames were created here and I start rectifying the characters or mangle.
+
+35
+00:03:39,640 --> 00:03:42,220
+Let's move to the work cycle settings.
+
+36
+00:03:44,160 --> 00:03:48,270
+As you see, the character legs are bent in all positions.
+
+37
+00:03:50,410 --> 00:03:54,430
+Well, when the character is in this post, this leg must be straight.
+
+38
+00:03:55,240 --> 00:04:00,790
+To fix this problem, isolate the body controller and bring the character up a little.
+
+39
+00:04:01,870 --> 00:04:03,280
+Let's check you out.
+
+40
+00:04:04,870 --> 00:04:06,700
+It got a little better now.
+
+41
+00:04:08,130 --> 00:04:11,310
+I think the hands still need a little look to find.
+
+42
+00:04:11,340 --> 00:04:13,620
+I go to the arms controller.
+
+43
+00:04:22,850 --> 00:04:25,070
+I go to the work site setting.
+
+44
+00:04:26,340 --> 00:04:27,870
+Then go to character.
+
+45
+00:04:29,090 --> 00:04:32,990
+I increased the energy bit to make the character more flexible.
+
+46
+00:04:41,060 --> 00:04:43,880
+And second control in body.
+
+47
+00:04:43,880 --> 00:04:48,560
+I change 5 to 3 to reduce the up and down movement of the body.
+
+48
+00:04:51,470 --> 00:04:52,370
+In the legs.
+
+49
+00:04:52,370 --> 00:04:53,930
+I increased the height.
+
+50
+00:04:57,720 --> 00:05:01,000
+As you can see, it affects the lifting of the legs.
+
+51
+00:05:03,060 --> 00:05:04,740
+I say to 100.
+
+52
+00:05:10,920 --> 00:05:13,050
+The pacing interval is a bit short.
+
+53
+00:05:13,080 --> 00:05:16,410
+So I go to the walk cycle and increase this.
+
+54
+00:05:22,410 --> 00:05:24,210
+The energy is a bit high.
+
+55
+00:05:24,240 --> 00:05:27,060
+I said it's in its own default value.
+
+56
+00:05:29,450 --> 00:05:31,760
+The body must go higher.
+
+57
+00:05:33,560 --> 00:05:34,850
+Let's check it out.
+
+58
+00:05:42,390 --> 00:05:44,550
+I should reduce this a bit more.
+
+59
+00:05:46,990 --> 00:05:48,080
+More with over.
+
+60
+00:05:59,970 --> 00:06:02,970
+To make the head move more, I increase this.
+
+61
+00:06:06,230 --> 00:06:08,890
+And as for the arms, I said this to Tim.
+
+62
+00:06:15,130 --> 00:06:18,730
+Let me hide the controller so I know exactly what's going on.
+
+63
+00:06:25,270 --> 00:06:27,940
+The body must be moved a little further.
+
+64
+00:06:30,380 --> 00:06:33,440
+I move the body furthermore, to make it better.
+
+65
+00:06:39,440 --> 00:06:40,460
+Let me set the bar.
+
+66
+00:06:40,520 --> 00:06:43,580
+So in the six to see if it gets better or not.
+
+67
+00:06:51,410 --> 00:06:53,030
+I reduced this a little.
+
+68
+00:06:57,720 --> 00:06:59,070
+Increase this.
+
+69
+00:07:01,360 --> 00:07:03,310
+And said hi to 70.
+
+70
+00:07:10,290 --> 00:07:12,920
+To prevent this line from getting on her leg.
+
+71
+00:07:12,930 --> 00:07:15,810
+I bring this layer on top of the body.
+
+72
+00:07:26,420 --> 00:07:31,050
+I can go here and to reduce the walking pace, increase this a little.
+
+73
+00:07:31,070 --> 00:07:33,410
+I set it to 230.
+
+74
+00:07:38,260 --> 00:07:40,840
+I think 210 is better.
+
+75
+00:07:43,220 --> 00:07:50,090
+As you see, I was able to read and animate the character without creating any keyframes using the basil.
+
+76
+00:07:52,130 --> 00:07:59,060
+To get acquainted with all the tools and abilities that the person provides you for animating and rigging
+
+77
+00:07:59,060 --> 00:08:00,100
+the character.
+
+78
+00:08:00,110 --> 00:08:06,440
+I suggest you watch the discourse on rigging the character using the pestle, which can really be useful
+
+79
+00:08:06,440 --> 00:08:11,480
+to beginners who want to become professional in rigging and animating the characters.

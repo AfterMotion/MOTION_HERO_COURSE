@@ -1,0 +1,419 @@
+1
+00:00:05,990 --> 00:00:07,220
+Hello, everyone.
+
+2
+00:00:07,250 --> 00:00:13,940
+In this video, I want to talk about how you can create a simple run cycle animation for your character.
+
+3
+00:00:13,970 --> 00:00:20,810
+The run cycle is relatively faster than the work cycle, so I'm going to create the run cycle animation
+
+4
+00:00:20,810 --> 00:00:23,720
+in 16 frames just like before.
+
+5
+00:00:23,750 --> 00:00:29,450
+Here I'm going to apply the same three principles that I worked on for the work cycle.
+
+6
+00:00:29,600 --> 00:00:35,540
+However, in the run cycle, the up and down movement of the body is much more than before.
+
+7
+00:00:35,540 --> 00:00:37,280
+And also it's faster.
+
+8
+00:00:37,400 --> 00:00:41,510
+What's more, the movement path of the food controller is different.
+
+9
+00:00:45,590 --> 00:00:48,380
+Without any further ado, let's start.
+
+10
+00:00:48,410 --> 00:00:55,400
+Initially, I work on animating the body, isolate its controller and open its position.
+
+11
+00:00:55,430 --> 00:00:56,870
+Then I separate it.
+
+12
+00:00:58,160 --> 00:01:02,700
+And I saw animals in the Y position in the down pose.
+
+13
+00:01:02,720 --> 00:01:04,530
+The body moves lower.
+
+14
+00:01:04,550 --> 00:01:07,400
+I create a key frame for it in the outpost.
+
+15
+00:01:07,400 --> 00:01:11,150
+It moves up and I make these two key frames eases.
+
+16
+00:01:11,270 --> 00:01:15,170
+And for the next up and down poses, I duplicate them.
+
+17
+00:01:15,170 --> 00:01:22,100
+And to create a keyframe for the contact post, I go to the second contact post and create a keyframe
+
+18
+00:01:22,100 --> 00:01:25,400
+and put it for the first and last contact poses.
+
+19
+00:01:26,300 --> 00:01:29,270
+As you can see, the body should move like this.
+
+20
+00:01:30,290 --> 00:01:33,470
+Now it's time to animate in the x position.
+
+21
+00:01:33,470 --> 00:01:39,650
+In the passing pose, I create a keyframe for it and in the contact post, the body should move a little
+
+22
+00:01:39,650 --> 00:01:40,380
+forward.
+
+23
+00:01:40,400 --> 00:01:43,790
+Then I copy the keyframes and paste them right here.
+
+24
+00:01:46,040 --> 00:01:47,360
+Then I make them easy.
+
+25
+00:01:50,880 --> 00:01:51,730
+All right.
+
+26
+00:01:51,750 --> 00:01:54,210
+Now it's time to work on the rotation.
+
+27
+00:01:55,430 --> 00:02:00,020
+In the passing post, I create a key frame for it and set it to nine.
+
+28
+00:02:01,180 --> 00:02:02,530
+In the context post.
+
+29
+00:02:02,530 --> 00:02:09,940
+I set it to 14, then I make them easy, easy and duplicate them for the next passing and contact poses.
+
+30
+00:02:12,360 --> 00:02:14,850
+And to create overlapping movements.
+
+31
+00:02:14,850 --> 00:02:17,190
+I move the keyframes backwards.
+
+32
+00:02:17,220 --> 00:02:18,390
+Then I look them.
+
+33
+00:02:20,490 --> 00:02:23,100
+Now let's work on animating the head.
+
+34
+00:02:23,390 --> 00:02:26,650
+I opened its rotation in the passing pose.
+
+35
+00:02:26,670 --> 00:02:31,420
+I create the key frame for it, and in the contact post I set it to seven.
+
+36
+00:02:31,440 --> 00:02:36,300
+I duplicate the same key frames for the next passing and contact poses.
+
+37
+00:02:36,450 --> 00:02:42,210
+Then I make them easy, easy, and I move them back just to create the overlapping movement.
+
+38
+00:02:46,090 --> 00:02:47,300
+Then I look at.
+
+39
+00:02:50,660 --> 00:02:56,070
+Let me hide the arms and the left leg so I can focus on animating the right leg.
+
+40
+00:02:57,420 --> 00:03:02,070
+Isolate the right controller and open its position and rotation.
+
+41
+00:03:03,200 --> 00:03:09,380
+In the contact post, I create a keyframe for its position and move it forward so the right leg would
+
+42
+00:03:09,380 --> 00:03:11,000
+be completely stretched.
+
+43
+00:03:11,210 --> 00:03:13,820
+I create a key frame for its rotation.
+
+44
+00:03:14,900 --> 00:03:16,120
+In the passing post.
+
+45
+00:03:16,130 --> 00:03:18,320
+The link should be located in the back.
+
+46
+00:03:19,430 --> 00:03:21,680
+And the rotation should be like this.
+
+47
+00:03:22,430 --> 00:03:25,490
+In the concept post, it should look like this.
+
+48
+00:03:28,610 --> 00:03:30,200
+And the next person post.
+
+49
+00:03:30,230 --> 00:03:31,700
+It should be like this.
+
+50
+00:03:32,710 --> 00:03:33,730
+In the outpost.
+
+51
+00:03:33,760 --> 00:03:34,960
+It should be here.
+
+52
+00:03:36,090 --> 00:03:39,990
+And for the last contact, I duplicate the first keyframes.
+
+53
+00:03:41,160 --> 00:03:42,210
+In the down pose.
+
+54
+00:03:42,210 --> 00:03:44,040
+I move it lower a little bit.
+
+55
+00:03:44,040 --> 00:03:45,210
+And right here.
+
+56
+00:03:46,270 --> 00:03:47,530
+In the contact post.
+
+57
+00:03:47,530 --> 00:03:48,940
+I moved back a little.
+
+58
+00:03:50,370 --> 00:03:55,860
+Basically, we must create a path like this for the controller in the outpost.
+
+59
+00:03:55,890 --> 00:03:57,120
+It must be here.
+
+60
+00:03:58,020 --> 00:03:59,130
+In the down post.
+
+61
+00:03:59,130 --> 00:04:00,720
+It should look like this.
+
+62
+00:04:02,070 --> 00:04:04,500
+After doing so, I curve the path.
+
+63
+00:04:09,090 --> 00:04:10,980
+Let's see how it turns out.
+
+64
+00:04:11,580 --> 00:04:14,370
+I just have to change the rotation right here.
+
+65
+00:04:15,930 --> 00:04:16,680
+Right here.
+
+66
+00:04:16,680 --> 00:04:18,900
+The rotation should look like this.
+
+67
+00:04:21,120 --> 00:04:24,000
+And over here, I rotated like this.
+
+68
+00:04:24,270 --> 00:04:26,550
+And also, it should be up here a little.
+
+69
+00:04:30,720 --> 00:04:32,390
+Then I make them Yeezys.
+
+70
+00:04:38,260 --> 00:04:44,290
+I copied the keyframes and paste them for the rotation and position of the left leg controller.
+
+71
+00:04:46,940 --> 00:04:47,360
+I can.
+
+72
+00:04:47,720 --> 00:04:48,730
+The left leg.
+
+73
+00:04:50,240 --> 00:04:51,950
+Then I look the keyframes.
+
+74
+00:04:52,730 --> 00:04:54,860
+I move the left leg controller back.
+
+75
+00:04:54,860 --> 00:04:58,610
+So the last keyframes would be placed on the second contact.
+
+76
+00:05:04,970 --> 00:05:07,390
+Well, let's go for animating the arms.
+
+77
+00:05:07,400 --> 00:05:09,810
+Firstly, I make the arms visible.
+
+78
+00:05:09,830 --> 00:05:12,420
+Then isolate the right arm controller.
+
+79
+00:05:12,440 --> 00:05:21,050
+Then in the effects control section, I create keyframes for the upper lower and go in the first contact.
+
+80
+00:05:21,050 --> 00:05:23,900
+The right hand should be the opposite of the right leg.
+
+81
+00:05:23,900 --> 00:05:25,580
+So I move it backward.
+
+82
+00:05:28,500 --> 00:05:35,400
+In the next contact, I move it forward and in the last contact I duplicate the first keyframes and
+
+83
+00:05:35,400 --> 00:05:36,410
+make them easy.
+
+84
+00:05:37,380 --> 00:05:39,390
+Let's see what it looks like.
+
+85
+00:05:43,860 --> 00:05:45,120
+The first concert.
+
+86
+00:05:45,150 --> 00:05:46,830
+I moved up a little.
+
+87
+00:05:51,200 --> 00:05:55,490
+And for the overlapping movements, I move the keyframes like this.
+
+88
+00:05:56,790 --> 00:05:59,190
+And then I look at the hand animation.
+
+89
+00:06:00,060 --> 00:06:02,130
+I put the keyframes like this.
+
+90
+00:06:04,440 --> 00:06:09,480
+Then isolate these keyframes and then copy and paste them for the other hand.
+
+91
+00:06:12,050 --> 00:06:17,030
+Isolate upper, lower and goal and press control V and move them like this.
+
+92
+00:06:17,030 --> 00:06:20,810
+So the left hand would be exactly the opposite of the right hand.
+
+93
+00:06:26,980 --> 00:06:29,830
+Now let's work on animating the shadow.
+
+94
+00:06:50,540 --> 00:06:51,240
+All right.
+
+95
+00:06:51,260 --> 00:06:53,030
+Let's check what it looks like.
+
+96
+00:06:56,120 --> 00:06:57,110
+Very well.
+
+97
+00:06:57,140 --> 00:07:04,730
+I can hide the background layers and expand the work area to 2 seconds, and let's see how it came out.
+
+98
+00:07:06,660 --> 00:07:09,360
+The animation of the right leg is sloped.
+
+99
+00:07:09,450 --> 00:07:11,220
+So I have to loop it.
+
+100
+00:07:15,170 --> 00:07:17,090
+I do the same for the body.
+
+101
+00:07:17,840 --> 00:07:22,640
+As you can see, the run cycle animation is done and everything is looked.
+
+102
+00:07:22,670 --> 00:07:28,610
+Please don't forget to like this video and consider subscribing if you like more of these videos.
+
+103
+00:07:28,640 --> 00:07:35,540
+And finally, if you want completely to learn reading and animating the character by the basil and also
+
+104
+00:07:35,540 --> 00:07:42,560
+to get acquainted with other tools that are very useful in raking and animating the character, I suggest
+
+105
+00:07:42,560 --> 00:07:43,970
+you watch this video.

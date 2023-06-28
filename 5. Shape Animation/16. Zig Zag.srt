@@ -1,0 +1,291 @@
+1
+00:00:00,240 --> 00:00:03,210
+OC last modifier is zigzag.
+
+2
+00:00:05,460 --> 00:00:09,630
+As its name implies, it is used to make the shape like zigzag.
+
+3
+00:00:11,730 --> 00:00:19,500
+Well, I have created a line open the layer and from the modifiers list adds the exact modifier.
+
+4
+00:00:21,910 --> 00:00:24,880
+Immediately after I added these modifiers.
+
+5
+00:00:24,880 --> 00:00:26,200
+The exact shape.
+
+6
+00:00:27,300 --> 00:00:28,110
+All opinions.
+
+7
+00:00:28,140 --> 00:00:30,240
+The first parameter is size.
+
+8
+00:00:30,270 --> 00:00:33,060
+You can change the size of the zigzag using this.
+
+9
+00:00:34,200 --> 00:00:37,770
+The next parameter is used to increase the number of the zigzags.
+
+10
+00:00:38,850 --> 00:00:45,210
+And the last parameter point is used to make the corners of the zigzag line sharper or softer.
+
+11
+00:00:47,680 --> 00:00:49,360
+After introducing it.
+
+12
+00:00:49,360 --> 00:00:52,120
+Let's see its usages in motion graphics.
+
+13
+00:00:55,240 --> 00:00:56,920
+This is my first example.
+
+14
+00:00:57,750 --> 00:01:01,290
+As you see, you can create such a waves using zigzag modifier.
+
+15
+00:01:08,210 --> 00:01:10,280
+Let's see, how can we create such a wave?
+
+16
+00:01:12,300 --> 00:01:14,040
+Open the next composition.
+
+17
+00:01:14,160 --> 00:01:18,210
+We want to change this line into waves using zigzag modifier.
+
+18
+00:01:19,550 --> 00:01:21,980
+First, I enable action safe.
+
+19
+00:01:24,630 --> 00:01:27,600
+I just remind the area I want this wave to be on.
+
+20
+00:01:29,810 --> 00:01:32,180
+Let me zoom in to be more accurate.
+
+21
+00:01:34,990 --> 00:01:36,280
+From this point.
+
+22
+00:01:39,620 --> 00:01:40,580
+Until here.
+
+23
+00:01:44,010 --> 00:01:47,010
+Then I add zig zag modifier to this line.
+
+24
+00:01:47,610 --> 00:01:51,360
+Go to the base wave layer and add zig zag modifier to it.
+
+25
+00:01:53,520 --> 00:01:57,120
+Open zig zag modifier increase its size to seven.
+
+26
+00:01:59,170 --> 00:02:00,100
+Placed a ruler.
+
+27
+00:02:00,100 --> 00:02:00,670
+Exactly.
+
+28
+00:02:00,670 --> 00:02:02,170
+On this point of the zigzag.
+
+29
+00:02:06,550 --> 00:02:10,420
+Then we should add trim path modifier to the shape as well.
+
+30
+00:02:14,700 --> 00:02:16,980
+And we should remove this part.
+
+31
+00:02:22,730 --> 00:02:24,590
+Och, it should be 18.
+
+32
+00:02:29,460 --> 00:02:30,990
+Let me solo de la here.
+
+33
+00:02:31,890 --> 00:02:37,260
+We go to the beginning of the timeline and create a keyframe for the offset parameter of the shape.
+
+34
+00:02:38,460 --> 00:02:40,830
+Create a keyframe for his position as well.
+
+35
+00:02:42,190 --> 00:02:44,350
+Press you to show the keyframes.
+
+36
+00:02:47,880 --> 00:02:49,770
+We go ten frames forward.
+
+37
+00:02:52,410 --> 00:02:55,770
+Move upset forward until the shape reaches its end.
+
+38
+00:03:00,750 --> 00:03:02,340
+Exactly here.
+
+39
+00:03:03,560 --> 00:03:05,360
+-65.
+
+40
+00:03:09,980 --> 00:03:14,270
+After that, we move the shape back using position X parameter.
+
+41
+00:03:16,070 --> 00:03:17,120
+It's okay.
+
+42
+00:03:17,240 --> 00:03:19,370
+Then we should look the position.
+
+43
+00:03:22,310 --> 00:03:24,500
+We should look to offset parameter as well.
+
+44
+00:03:27,670 --> 00:03:32,740
+Now you see the shape seems like it's going forward, but it is not like a wave.
+
+45
+00:03:32,770 --> 00:03:35,980
+So we open, zigzag and set the point to smooth.
+
+46
+00:03:37,590 --> 00:03:39,090
+Let's see how it is.
+
+47
+00:03:39,900 --> 00:03:41,370
+That's what I wanted.
+
+48
+00:03:44,690 --> 00:03:44,930
+At.
+
+49
+00:03:44,930 --> 00:03:46,490
+It seems just like a wave.
+
+50
+00:03:50,020 --> 00:03:51,490
+On Solo de la.
+
+51
+00:03:55,220 --> 00:03:57,180
+Och, it's a bit fast.
+
+52
+00:03:57,200 --> 00:03:59,180
+Move the keyframes a bit forward.
+
+53
+00:04:07,860 --> 00:04:09,150
+The wave is ready.
+
+54
+00:04:16,040 --> 00:04:22,820
+The next thing we need to do here is when the boat goes inside the water, this part of the wave should
+
+55
+00:04:22,820 --> 00:04:23,750
+be opened.
+
+56
+00:04:25,020 --> 00:04:30,990
+So I alphington wear this layer to the above layer to open this part as the boat impacts the water.
+
+57
+00:04:35,620 --> 00:04:36,590
+It's okay.
+
+58
+00:04:36,610 --> 00:04:38,010
+There is just something wrong.
+
+59
+00:04:38,020 --> 00:04:40,580
+That's when the boat goes inside the water.
+
+60
+00:04:40,600 --> 00:04:44,680
+The bottom part of it that goes into the water shouldn't be seen.
+
+61
+00:04:45,640 --> 00:04:49,540
+So we duplicate this layer and move it above the boats layer.
+
+62
+00:04:51,640 --> 00:04:53,740
+We set it to no track matter.
+
+63
+00:04:56,180 --> 00:04:58,160
+Let me follow the boat and wave.
+
+64
+00:05:02,040 --> 00:05:05,010
+Then we delete the train path and edit the shape.
+
+65
+00:05:07,120 --> 00:05:09,640
+I disable the stroke and open shape.
+
+66
+00:05:12,310 --> 00:05:15,700
+They feel to it and change its color to the background color.
+
+67
+00:05:23,850 --> 00:05:27,630
+Then alpha convertible layer to the neo layer we've created.
+
+68
+00:05:33,090 --> 00:05:34,560
+Let's see the animation.
+
+69
+00:05:40,410 --> 00:05:41,940
+As you see, it's totally fine.
+
+70
+00:05:41,940 --> 00:05:46,020
+As the ball impacts the water, the part behind the water won't be shown anymore.
+
+71
+00:05:47,680 --> 00:05:53,260
+Well, one of the good usages of this modifier is such a way that you can easily create with the help
+
+72
+00:05:53,260 --> 00:05:54,580
+of this modifier.
+
+73
+00:05:54,970 --> 00:05:55,870
+Good luck.

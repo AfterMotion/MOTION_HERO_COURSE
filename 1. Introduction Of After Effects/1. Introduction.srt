@@ -1,0 +1,315 @@
+1
+00:00:00,540 --> 00:00:03,120
+Hi, and welcome to the motion hero course
+
+2
+00:00:03,150 --> 00:00:07,830
+In this course, you will become a better version of yourself in motion graphics.
+
+3
+00:00:07,830 --> 00:00:14,310
+So I want you to be patient and follow me to the end of this course and come along with me step by step
+
+4
+00:00:14,310 --> 00:00:18,630
+during tutorials and practices to get the intended results.
+
+5
+00:00:19,260 --> 00:00:25,740
+This course for people who are familiar with after Effects, but for those who are still beginners and don't
+
+6
+00:00:25,740 --> 00:00:32,010
+know too much about after effects, don't worry, because I've set this course the way that even beginners
+
+7
+00:00:32,010 --> 00:00:33,380
+can also follow it.
+
+8
+00:00:33,390 --> 00:00:39,510
+So in the beginning we will get to know about after Effects, but I'm not going to introduce all the
+
+9
+00:00:39,510 --> 00:00:42,060
+after effects tools and confuse all of you.
+
+10
+00:00:42,060 --> 00:00:43,020
+In the beginning.
+
+11
+00:00:43,020 --> 00:00:49,320
+You'll just learn the required tools in motion graphics and animation, but the other more advanced
+
+12
+00:00:49,320 --> 00:00:52,500
+tools in future lessons during practices.
+
+13
+00:00:52,860 --> 00:00:56,340
+So let's see what we're going to learn in this course.
+
+14
+00:00:56,340 --> 00:01:01,320
+In the beginning, you will learn about the main and important panels of after effects.
+
+15
+00:01:01,590 --> 00:01:09,060
+After that, the tools, then the features of the composition and how to create it, and also its settings.
+
+16
+00:01:10,140 --> 00:01:14,880
+And finally, you will learn how to import your files into after Effects.
+
+17
+00:01:15,180 --> 00:01:19,710
+Then we'll talk about concepts and tools we need to create animation.
+
+18
+00:01:19,740 --> 00:01:24,540
+At first you will learn what actually a keyframe is and how to create it.
+
+19
+00:01:24,960 --> 00:01:29,940
+Then you will learn all different types of keyframe and when to use each type.
+
+20
+00:01:30,740 --> 00:01:38,480
+Then you get acquainted with graphs and how to use them to lead and master your animations and control everything.
+
+21
+00:01:39,230 --> 00:01:45,980
+In the following you will learn about keyframes interpolation, all types of them, and how they work.
+
+22
+00:01:46,370 --> 00:01:49,380
+And also you will learn where to use each type.
+
+23
+00:01:49,400 --> 00:01:58,610
+After you learn all about animation tools, we're going to do a little simple practice to put what we've learned into an actual project.
+
+24
+00:01:59,960 --> 00:02:07,330
+Then to better understand the timing, spacing and easing that are some of the most important principles of animation.
+
+25
+00:02:07,340 --> 00:02:10,130
+We'll do a couple of Bouncing ball exercises.
+
+26
+00:02:10,400 --> 00:02:16,490
+Firstly, we'll start with a simple exercise and create a beautiful bouncing ball animation.
+
+27
+00:02:16,790 --> 00:02:19,860
+In the next practice that is a little more advanced.
+
+28
+00:02:19,880 --> 00:02:26,180
+You will learn how to make a bouncing animation using a reference, since working with references is
+
+29
+00:02:26,180 --> 00:02:29,090
+one of the most important things in animation.
+
+30
+00:02:29,120 --> 00:02:36,140
+It's better for you to learn how to use them early in the course and for the last practice with help
+
+31
+00:02:36,140 --> 00:02:41,810
+of creativity and what we've learned, we're going to make a complex, bouncing ball animation.
+
+32
+00:02:42,620 --> 00:02:49,680
+And then you will learn about some other important principles of animation and how to use them in your works.
+
+33
+00:02:49,700 --> 00:02:50,760
+in this step.
+
+34
+00:02:50,780 --> 00:02:57,170
+You will learn how to use anticipation in your animations and also how to make your animations more
+
+35
+00:02:57,170 --> 00:03:02,210
+alive and interactive with overlapping and follow through principles.
+
+36
+00:03:02,900 --> 00:03:10,610
+Be aware that these practices and principles are very important, but most motion designers ignore them
+
+37
+00:03:10,610 --> 00:03:14,860
+and it makes them not have a good understanding of movement and animation.
+
+38
+00:03:15,470 --> 00:03:19,460
+And finally, they cannot create attractive animation.
+
+39
+00:03:20,120 --> 00:03:28,460
+In the next chapter, you'll learn about the 12 principles of animations and how to use them in motion graphics clips.
+
+40
+00:03:29,090 --> 00:03:36,350
+After that, you will get familiar with text layers and their performance and also all types of selectors.
+
+41
+00:03:36,350 --> 00:03:42,470
+And to have a deep understanding of the content, we will create three takes animations together.
+
+42
+00:03:43,100 --> 00:03:48,410
+We talked about animations and we better also mention Lettering animation.
+
+43
+00:03:48,410 --> 00:03:54,590
+So in this chapter, firstly, you will learn how to make your write in effect for the letters, 
+
+44
+00:03:54,590 --> 00:03:58,250
+how to make them more attractive by adding bouncy animation.
+
+45
+00:03:58,250 --> 00:04:05,630
+Then you'll learn how to add details to your animation to increase its beauty and in the end to completely
+
+46
+00:04:05,630 --> 00:04:09,130
+learn all steps to create a lettering animation.
+
+47
+00:04:09,140 --> 00:04:11,840
+We will animate a text from top to bottom.
+
+48
+00:04:11,870 --> 00:04:20,060
+After that, you will learn about logo animations, how to create them and the tools we need for logo animation
+
+49
+00:04:20,300 --> 00:04:26,480
+Also, you will learn how to make your logo animations make sense and give debth to them.
+
+50
+00:04:27,020 --> 00:04:33,020
+Another technique that every motion designer should know is creating loop animations.
+
+51
+00:04:33,050 --> 00:04:39,500
+In this chapter you will learn what principles you should follow to create a standard loop animation.
+
+52
+00:04:39,500 --> 00:04:44,390
+And then we put these principles into use to make a good loop animation
+
+53
+00:04:45,670 --> 00:04:52,690
+After that, you get familiar with one of the most beautiful techniques of motion graphics called Morph animation.
+
+54
+00:04:52,870 --> 00:04:59,080
+In the beginning you will learn what things you need to create a smooth morph animation and then will
+
+55
+00:04:59,080 --> 00:05:04,480
+start to morph three different objects to make you guys ready for serious projects.
+
+56
+00:05:04,600 --> 00:05:13,720
+And finally, with anticipation, bouncy animation and adding details to our animation will make it as attractive as possible.
+
+57
+00:05:16,310 --> 00:05:20,220
+In the next chapter, we're going to talk about character rigging 
+
+58
+00:05:20,240 --> 00:05:25,970
+And since we do this with Duik Bassel script, first, you will learn how to install it.
+
+59
+00:05:26,000 --> 00:05:32,090
+Then we will have a little introduction to it and you will learn the required tools for rigging.
+
+60
+00:05:32,390 --> 00:05:39,560
+And after you are entirely introduced to the script, I will start from the most basic concepts of rigging, meaning preparing the character,
+
+61
+00:05:39,560 --> 00:05:45,510
+ and then you will learn how to skeletonize the character.
+
+62
+00:05:45,530 --> 00:05:51,500
+Then you'll learn to create an automatic work cycle animation without any keyframe.
+
+63
+00:05:53,190 --> 00:05:57,700
+In the next chapter, you will learn how to animate characters in this chapter.
+
+64
+00:05:57,720 --> 00:05:59,760
+You will learn how to use references.
+
+65
+00:05:59,760 --> 00:06:03,250
+And also you get familiar with different walking poses.
+
+66
+00:06:03,270 --> 00:06:07,980
+And finally, you can create a beautiful walking animation on your own.
+
+67
+00:06:08,520 --> 00:06:15,600
+After that, you will learn how to create a walking cycle without references and using only three principles.
+
+68
+00:06:16,380 --> 00:06:24,420
+And also you will learn how to create running cycles with the help of references and also without any references.
+
+69
+00:06:25,820 --> 00:06:32,500
+And in the last chapter, you will learn how to rig a head with the joysticks and sliders and create
+
+70
+00:06:32,510 --> 00:06:38,390
+different facial emotion for it so that you can create a cool animation for the character's head.
+
+71
+00:06:39,140 --> 00:06:46,250
+The important point to know is that this course will be useful for you if you always keep your aftereffects open 
+
+72
+00:06:46,250 --> 00:06:54,650
+and do exactly what I do step by step and don't just watch clips because motion graphics is a skill,
+
+73
+00:06:54,650 --> 00:06:55,730
+not a knowledge.
+
+74
+00:06:55,730 --> 00:06:58,100
+So you need a lot of practice.
+
+75
+00:06:59,600 --> 00:07:06,830
+And if you have any problems or any questions during this course, you can join our Facebook group and
+
+76
+00:07:06,830 --> 00:07:14,890
+share your questions and experiences with other students of this course and get your answers from me right away.
+
+77
+00:07:14,900 --> 00:07:21,080
+And the last thing, if you like to continue this way and don't want to be stopped midway, 
+
+78
+00:07:21,080 --> 00:07:25,880
+you can join my YouTube channel and watch more updated advance tutorials.
+
+79
+00:07:26,000 --> 00:07:33,230
+I will try to upload tutorials once a week there, so let's go to the next lesson and start our learning.

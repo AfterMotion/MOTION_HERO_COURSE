@@ -1,0 +1,183 @@
+1
+00:00:00,300 --> 00:00:03,510
+Well, let's have a look at the menus in after Effects.
+
+2
+00:00:04,360 --> 00:00:09,040
+The first one is the file, including options divided by these lines.
+
+3
+00:00:11,580 --> 00:00:15,390
+The first section is for creating an opening project.
+
+4
+00:00:15,420 --> 00:00:20,310
+You can open a project by clicking on the open project or pressing Ctrl + O.
+
+5
+00:00:23,720 --> 00:00:25,970
+For example, I open this project.
+
+6
+00:00:28,620 --> 00:00:34,470
+The second section is for closing projects and also saving the project you are working on.
+
+7
+00:00:36,020 --> 00:00:42,230
+And one of the interesting options existing here is increment and save, which allows you to save several
+
+8
+00:00:42,230 --> 00:00:45,980
+versions of your project without changing its name every time.
+
+9
+00:00:46,010 --> 00:00:49,220
+The next section is for importing and exporting files.
+
+10
+00:00:49,220 --> 00:00:54,200
+With these options, you can export and import different files in after effects.
+
+11
+00:00:55,810 --> 00:01:00,280
+The next important option is dependencies, by collect files.
+
+12
+00:01:00,310 --> 00:01:07,480
+You can save your project, alonge with every footage and pictures have used in it as a folder wherever you want.
+
+13
+00:01:07,510 --> 00:01:14,230
+This option is useful when you want to move your project to a different computer and continue your work there.
+
+14
+00:01:14,290 --> 00:01:21,150
+As I said, you just need to go to the file menu, dependencies, collect files and then click collect.
+
+15
+00:01:21,190 --> 00:01:24,590
+As you see here, it shows your collect folder size.
+
+16
+00:01:24,610 --> 00:01:32,050
+I click collect and I choose desktop for example, and the project will be saved in the specified location.
+
+17
+00:01:33,550 --> 00:01:36,490
+The next important option is the scripts.
+
+18
+00:01:36,570 --> 00:01:43,540
+You can find scripts that you have put in the script folder in the after effects installed location.
+
+19
+00:01:43,570 --> 00:01:50,530
+Well, the next menu is edit which includes many capabilities that we use a lot, like undoing,
+
+20
+00:01:50,540 --> 00:01:56,200
+redoing, cutting, copying, duplicating, splitting layers and selecting.
+
+21
+00:01:56,380 --> 00:02:02,170
+One of the most important option in this menu is purge, which you can use when your project has become
+
+22
+00:02:02,170 --> 00:02:05,650
+too heavy and your frames are not shown correctly.
+
+23
+00:02:05,680 --> 00:02:12,250
+Click on all memory and disk cache and delete the after effects cache so your project gets lighter and
+
+24
+00:02:12,250 --> 00:02:13,690
+easier to work with.
+
+25
+00:02:14,050 --> 00:02:17,250
+The next important option is preferences.
+
+26
+00:02:17,260 --> 00:02:20,960
+From here you can different settings on your after effects.
+
+27
+00:02:20,980 --> 00:02:23,220
+The next menu is composition.
+
+28
+00:02:23,230 --> 00:02:30,970
+From here you can create a new composition, change your composition settings, trim or crop a composition.
+
+29
+00:02:30,970 --> 00:02:37,240
+Add your composition to the render queue and also the save frame as an option, which allows you to
+
+30
+00:02:37,240 --> 00:02:40,900
+take a picture of a frame that your indicator is on it.
+
+31
+00:02:41,410 --> 00:02:43,500
+The next menu is the layer.
+
+32
+00:02:43,510 --> 00:02:50,710
+You can see different settings if you right click on a layer in the timeline you see have the same tools here.
+
+33
+00:02:51,310 --> 00:02:57,230
+The next menu is the effects, which includes existing effects and presets in after effects.
+
+34
+00:02:57,250 --> 00:03:03,580
+You can have easy access to the same effects here in the Effects and Presets panel and you can find
+
+35
+00:03:03,580 --> 00:03:05,680
+them easier by searching here.
+
+36
+00:03:07,280 --> 00:03:14,570
+The next menu is animation, including options about creating keyframes and keyframe settings.
+
+37
+00:03:15,530 --> 00:03:19,190
+here You can exactly the same options you have in the timeline.
+
+38
+00:03:20,900 --> 00:03:22,820
+The next menu is the view.
+
+39
+00:03:22,970 --> 00:03:30,380
+Here you have options about viewport settings like zooming, resolution, showing guidelines, rulers,
+
+40
+00:03:30,380 --> 00:03:33,410
+and other tools regarding the viewport panel.
+
+41
+00:03:34,600 --> 00:03:36,470
+The next menu is Windows.
+
+42
+00:03:36,490 --> 00:03:38,640
+It contains workspaces.
+
+43
+00:03:38,650 --> 00:03:42,070
+Here you can activate or activate different panels.
+
+44
+00:03:42,640 --> 00:03:44,530
+Here are important panels.
+
+45
+00:03:45,480 --> 00:03:48,570
+At the bottom, you can see installed scripts.
+
+46
+00:03:50,360 --> 00:03:52,940
+And also here you can see extensions.

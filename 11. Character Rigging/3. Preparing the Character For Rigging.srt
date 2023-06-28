@@ -1,0 +1,439 @@
+1
+00:00:00,300 --> 00:00:01,080
+Hey, everyone.
+
+2
+00:00:01,080 --> 00:00:06,720
+It must have occurred to you that you want to read and animate the character, but realize that the
+
+3
+00:00:06,720 --> 00:00:12,900
+character is not designed for the rig and animate and eventually your animation will have problems when
+
+4
+00:00:12,900 --> 00:00:14,340
+rotating the joints.
+
+5
+00:00:14,550 --> 00:00:19,500
+So in this video, I want to talk about how you can prepare characters for rigging.
+
+6
+00:00:19,680 --> 00:00:23,360
+Well, I open the file that I've downloaded from free pick.
+
+7
+00:00:23,370 --> 00:00:25,380
+Since I need this character.
+
+8
+00:00:25,380 --> 00:00:32,460
+I select the rest, cut them and paste them into a new layer using control, shave and hide it.
+
+9
+00:00:34,980 --> 00:00:37,590
+First of all, I need to set the art world.
+
+10
+00:01:15,490 --> 00:01:17,830
+Isolate the character and resize it.
+
+11
+00:01:21,120 --> 00:01:26,700
+After doing so, it's time to separate the different parts of the character and put them in individual
+
+12
+00:01:26,700 --> 00:01:27,450
+layers.
+
+13
+00:01:28,660 --> 00:01:31,180
+I don't need this back, so I delete it.
+
+14
+00:01:31,780 --> 00:01:33,640
+I cut this part of the arm.
+
+15
+00:01:34,000 --> 00:01:37,480
+Paste it into a new layer and name it writes are.
+
+16
+00:01:40,700 --> 00:01:45,770
+Then I do the same for the rest of the parts and put them in individual layers.
+
+17
+00:04:16,220 --> 00:04:17,210
+For her hand.
+
+18
+00:04:17,210 --> 00:04:18,680
+I use this layer.
+
+19
+00:04:30,190 --> 00:04:33,310
+After that's done, I need to save the file.
+
+20
+00:04:34,490 --> 00:04:38,140
+Then I go to After Effects and import the intended file.
+
+21
+00:04:38,150 --> 00:04:41,390
+I import it as a composition and layer size.
+
+22
+00:04:43,510 --> 00:04:45,670
+Afterward, I go to the camp.
+
+23
+00:04:46,210 --> 00:04:48,310
+I don't need this layer anymore.
+
+24
+00:04:48,340 --> 00:04:51,370
+I also hide the left leg and left arm for now.
+
+25
+00:04:52,760 --> 00:04:58,430
+Now I have to work on creating the different parts of the lake, isolate the right click and convert
+
+26
+00:04:58,430 --> 00:05:01,500
+it to shape to create joints properly.
+
+27
+00:05:01,520 --> 00:05:07,450
+First, I need to select the layer and choose the Ellipse tool, and here is where the thigh joints
+
+28
+00:05:07,460 --> 00:05:08,470
+should be placed.
+
+29
+00:05:08,480 --> 00:05:10,700
+So I make a circle right here.
+
+30
+00:05:11,210 --> 00:05:13,700
+It should exactly fit the leg shape.
+
+31
+00:05:14,120 --> 00:05:15,830
+I disabled the stroke.
+
+32
+00:05:16,460 --> 00:05:18,270
+I move down a little bit.
+
+33
+00:05:18,290 --> 00:05:20,990
+The ne part should be around right here.
+
+34
+00:05:20,990 --> 00:05:23,420
+So I make another circle here.
+
+35
+00:05:30,960 --> 00:05:33,920
+I change its color so it would be obvious.
+
+36
+00:05:33,930 --> 00:05:36,900
+Then I go for creating the joint of the ankle.
+
+37
+00:05:39,290 --> 00:05:41,150
+It should be made right here.
+
+38
+00:05:54,770 --> 00:05:59,190
+Then I duplicate this layer twice and specify the different parts of the lake.
+
+39
+00:06:05,630 --> 00:06:06,970
+In the land of the thigh.
+
+40
+00:06:06,980 --> 00:06:09,410
+I remove the shapes that I don't need.
+
+41
+00:06:17,810 --> 00:06:22,820
+I create a point here and another one here, and I remove these parts.
+
+42
+00:06:24,810 --> 00:06:30,150
+I also create the point here and another here and move it a little.
+
+43
+00:06:30,900 --> 00:06:32,370
+And I delete these.
+
+44
+00:06:34,310 --> 00:06:35,480
+I don't need this.
+
+45
+00:06:38,460 --> 00:06:42,030
+Then I changed the color of the joint to the color of the main layer.
+
+46
+00:06:48,390 --> 00:06:49,410
+For this part.
+
+47
+00:06:49,410 --> 00:06:52,440
+I don't need the side parts, so I delete them.
+
+48
+00:07:10,570 --> 00:07:14,590
+I changed the color of the joints to the color of their sides shapes.
+
+49
+00:07:19,370 --> 00:07:21,570
+Well, let's work on the food part.
+
+50
+00:07:21,590 --> 00:07:23,840
+I like the unnecessary shapes.
+
+51
+00:07:30,470 --> 00:07:33,380
+I and hide this shoe layer and convert it to shape.
+
+52
+00:07:36,440 --> 00:07:43,130
+Then I copy shapes and paste him into the write for the layer and I placed them right where they should
+
+53
+00:07:43,130 --> 00:07:43,520
+be.
+
+54
+00:07:44,530 --> 00:07:46,810
+Then I delete the previous layer.
+
+55
+00:07:51,420 --> 00:07:56,100
+After that, I should place the anchor points right in the center of the joints.
+
+56
+00:07:56,790 --> 00:08:01,480
+For doing so, I just have to hide all the shapes except for the joints.
+
+57
+00:08:01,500 --> 00:08:05,400
+Then I hold control and double click on the pan behind tool.
+
+58
+00:08:05,430 --> 00:08:10,050
+As you can see, the anchor point will be placed right in the center of the shape.
+
+59
+00:08:10,080 --> 00:08:12,250
+Then I can unhide the layers.
+
+60
+00:08:12,270 --> 00:08:15,180
+I do the same for these joints as well.
+
+61
+00:08:25,710 --> 00:08:30,540
+As you see, once I rotate the joints, I don't face any problems at all.
+
+62
+00:08:32,310 --> 00:08:33,420
+To prevent this.
+
+63
+00:08:33,420 --> 00:08:35,700
+I put this above the skin layer.
+
+64
+00:08:41,260 --> 00:08:46,590
+Then I layer to the thigh layer and the foot layer to additional layer.
+
+65
+00:08:46,600 --> 00:08:49,930
+Then I rotate the leg so it would be in a straight line.
+
+66
+00:08:58,240 --> 00:09:02,740
+After doing so, I duplicate the layers and use them for the left leg.
+
+67
+00:09:17,250 --> 00:09:19,230
+I moved forward right here.
+
+68
+00:09:21,710 --> 00:09:25,850
+And for it to have a different color, I add the little effect to it.
+
+69
+00:09:30,100 --> 00:09:33,490
+I face the same effect for the other layers as well.
+
+70
+00:09:34,060 --> 00:09:36,280
+I also have to remove this line.
+
+71
+00:09:41,350 --> 00:09:44,390
+After that, I also have to create the hip part.
+
+72
+00:09:44,410 --> 00:09:48,190
+To do so, I convert the body layer into a shape.
+
+73
+00:09:49,510 --> 00:09:51,490
+Ideally the previous layer.
+
+74
+00:09:52,920 --> 00:09:57,570
+Inside these isolate the body layer and create the hip.
+
+75
+00:10:16,260 --> 00:10:19,830
+I move this lately a little further so it would match with the hip.
+
+76
+00:10:23,130 --> 00:10:26,100
+The anchor point of the body should be right here.
+
+77
+00:10:27,010 --> 00:10:27,250
+Okay.
+
+78
+00:10:27,270 --> 00:10:29,550
+The next thing is working on the arms.
+
+79
+00:10:30,740 --> 00:10:36,500
+As you can see here, the joints are circular shapes, but the problem is that it's not possible to
+
+80
+00:10:36,500 --> 00:10:41,620
+place the anchor points precisely in the center of the joints for fixing this.
+
+81
+00:10:41,630 --> 00:10:45,440
+I need to convert it to shape and add a circle right here.
+
+82
+00:10:52,130 --> 00:10:57,230
+After doing so, I can easily place the anchor point in the center of the joints.
+
+83
+00:11:03,330 --> 00:11:05,850
+I do the same for the knee and the ankle.
+
+84
+00:11:29,110 --> 00:11:32,470
+And now once I wrote it, then it works well.
+
+85
+00:11:35,540 --> 00:11:39,620
+The problem here is that the size of the arm doesn't match with the forearm.
+
+86
+00:11:39,710 --> 00:11:41,660
+So I need to fix this.
+
+87
+00:11:43,020 --> 00:11:43,980
+For doing so.
+
+88
+00:11:43,980 --> 00:11:52,380
+Isolate the arm shape and delete this point and make it smaller so it would be the same size as disjoint.
+
+89
+00:11:55,290 --> 00:11:58,890
+If you give it a look, you can see that it's working properly.
+
+90
+00:12:02,470 --> 00:12:04,060
+I delete this shape to.
+
+91
+00:12:13,660 --> 00:12:18,190
+Then I parent the hand to the forearm and the forearm to the arm.
+
+92
+00:12:19,390 --> 00:12:21,430
+And place them in a straight line.
+
+93
+00:12:24,900 --> 00:12:28,290
+Then I duplicate these layers and use them for live.
+
+94
+00:12:35,640 --> 00:12:37,710
+I moved the layers right here.
+
+95
+00:12:40,100 --> 00:12:42,530
+Then I placed him under the lake layers.
+
+96
+00:12:46,360 --> 00:12:51,310
+Oh, I missed the point that I should have separated the toes as well for doing so.
+
+97
+00:12:51,310 --> 00:12:54,160
+I duplicate this layer and name it toes.
+
+98
+00:12:57,480 --> 00:12:59,350
+Then I saw these two shapes.
+
+99
+00:12:59,370 --> 00:13:01,680
+Firstly, I make the toes part.
+
+100
+00:13:14,020 --> 00:13:16,660
+Its anchor point should be placed right here.
+
+101
+00:13:18,090 --> 00:13:19,620
+I hide this layer.
+
+102
+00:13:29,940 --> 00:13:32,790
+This part of the phone has to rotate this much.
+
+103
+00:13:32,790 --> 00:13:36,180
+So I need to extend this shape up until here.
+
+104
+00:13:40,430 --> 00:13:45,410
+And now once I rotate it, you can see that there wouldn't be any sort of problem.
+
+105
+00:13:48,980 --> 00:13:49,250
+Okay.
+
+106
+00:13:49,880 --> 00:13:52,700
+I have to do the same for the other four to.
+
+107
+00:13:53,880 --> 00:13:56,550
+And the anchor point of the head should be right here.
+
+108
+00:13:57,420 --> 00:14:03,540
+And finally, if you're interested in character reading and you want to learn how to read all character
+
+109
+00:14:03,540 --> 00:14:10,230
+parts and the expressions which are needed in this context and once for all, make yourself needless
+
+110
+00:14:10,230 --> 00:14:13,890
+and read in the character, I recommend you watch this course.

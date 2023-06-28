@@ -1,0 +1,595 @@
+1
+00:00:00,180 --> 00:00:01,010
+Hello, everyone.
+
+2
+00:00:01,020 --> 00:00:01,470
+And this.
+
+3
+00:00:01,470 --> 00:00:05,280
+Listen, I want to create a run cycle animation for the character.
+
+4
+00:00:05,670 --> 00:00:11,400
+You may think running is the same as working with more speed, but in fact, it's not the case.
+
+5
+00:00:11,400 --> 00:00:17,280
+Because if you take a look at the running poses, you see that one of the main poses of running the
+
+6
+00:00:17,280 --> 00:00:21,540
+legs are in the air and there is no contact with the ground while in walking.
+
+7
+00:00:21,540 --> 00:00:27,510
+The character's leg is always touching the ground and in no pose, the character is separated from the
+
+8
+00:00:27,510 --> 00:00:30,190
+ground to create their own cycle.
+
+9
+00:00:30,210 --> 00:00:32,430
+I open the Work cycle project.
+
+10
+00:00:32,430 --> 00:00:37,710
+First I have to delete the controller's keyframe and then start animating again.
+
+11
+00:00:41,370 --> 00:00:43,830
+This expression morning is for values.
+
+12
+00:00:43,830 --> 00:00:44,980
+I have looked them.
+
+13
+00:00:45,000 --> 00:00:49,680
+To remove this warning, I just need to disable these expressions.
+
+14
+00:01:02,910 --> 00:01:04,460
+Well, I hide the layers.
+
+15
+00:01:04,470 --> 00:01:08,790
+I don't need to lighten the scene and animate the character easier.
+
+16
+00:01:25,800 --> 00:01:30,120
+I put the character in a straight form to create poses more precise.
+
+17
+00:01:43,910 --> 00:01:44,820
+It's good.
+
+18
+00:01:47,490 --> 00:01:54,030
+As you remember, to create a work cycle, I needed 25 frames, which means one second.
+
+19
+00:01:54,030 --> 00:01:59,310
+But because the wrong cycle is faster, I use 16 frames to create a.
+
+20
+00:01:59,730 --> 00:02:04,200
+I trim the worker here, delete the markers I don't need.
+
+21
+00:02:06,500 --> 00:02:08,780
+And only keep up and down poses.
+
+22
+00:02:09,960 --> 00:02:15,020
+Well, I opened the reference and as you see, running poses are similar to walking.
+
+23
+00:02:15,030 --> 00:02:19,120
+It starts from the contact post in which the right leg is in front.
+
+24
+00:02:19,140 --> 00:02:23,190
+In the second contact, the left leg is in front and in the middle.
+
+25
+00:02:23,190 --> 00:02:30,210
+The passing pose is located between the contact and pass poses is the down pose and between the pass
+
+26
+00:02:30,210 --> 00:02:32,160
+and contact is the opposite.
+
+27
+00:02:32,190 --> 00:02:36,240
+Here, I don't need to start from contact poses as I did before.
+
+28
+00:02:36,270 --> 00:02:39,060
+Then passing pose and then up and down poses.
+
+29
+00:02:39,480 --> 00:02:46,170
+So I start with up and down poses because I can edit the controllers movement path using motion path
+
+30
+00:02:46,170 --> 00:02:48,810
+and I don't need to create all the poses.
+
+31
+00:02:49,140 --> 00:02:51,540
+Let's get to work and see what they mean.
+
+32
+00:02:51,570 --> 00:02:57,530
+I put the outpost for the first pose, so the last pose is going to be the pose as well.
+
+33
+00:02:57,540 --> 00:03:02,190
+The middle of these two poses, which is frame edge should be the opposed to.
+
+34
+00:03:06,120 --> 00:03:07,740
+Between two opposes.
+
+35
+00:03:07,740 --> 00:03:09,570
+The down should be placed.
+
+36
+00:03:11,970 --> 00:03:16,440
+In this post, the character's body goes a little higher almost here.
+
+37
+00:03:18,510 --> 00:03:20,700
+And as you see, this is the outpost.
+
+38
+00:03:20,730 --> 00:03:24,480
+The right leg forms like this and the left one like this.
+
+39
+00:03:24,480 --> 00:03:27,750
+And the distance from the ground is almost the same.
+
+40
+00:03:28,470 --> 00:03:31,620
+So I select the right click, bring it back.
+
+41
+00:03:32,310 --> 00:03:36,540
+Its rotation is like this and bring the front leg forward.
+
+42
+00:03:37,720 --> 00:03:39,910
+An ankle rotation is like this.
+
+43
+00:03:49,090 --> 00:03:52,420
+I put a ruler to bring both legs to the same height.
+
+44
+00:03:55,070 --> 00:04:01,800
+The first post of the OP is created, I create keyframes for the position and rotation of the layers.
+
+45
+00:04:01,820 --> 00:04:04,700
+Here, the body must be rotated forward.
+
+46
+00:04:05,940 --> 00:04:07,300
+So I put it on ten.
+
+47
+00:04:09,190 --> 00:04:13,660
+I go to the last post and have to paste these keyframes here.
+
+48
+00:04:13,930 --> 00:04:21,220
+To do so, I go to the puzzle in the animation section, copy the keyframes, and then click on the
+
+49
+00:04:21,220 --> 00:04:22,120
+paste button.
+
+50
+00:04:22,240 --> 00:04:25,740
+I go to the middle of post and reverse the legs.
+
+51
+00:04:38,530 --> 00:04:41,530
+The next post to create is the downpours.
+
+52
+00:04:44,170 --> 00:04:48,130
+As it's shown here, the character's body is at its lowest.
+
+53
+00:04:48,190 --> 00:04:51,940
+Let's take this form the back leg in the oppo stakes.
+
+54
+00:04:51,940 --> 00:04:54,910
+A support role for the body in the down pose.
+
+55
+00:04:56,200 --> 00:05:00,790
+So in the outpost, this is the back leg and must take a support role.
+
+56
+00:05:02,970 --> 00:05:08,730
+So I bring it down and also the body comes down almost in this position.
+
+57
+00:05:10,940 --> 00:05:14,150
+I zero the rotation and bring the leg lower.
+
+58
+00:05:15,430 --> 00:05:17,650
+Bring the body a little more down.
+
+59
+00:05:18,280 --> 00:05:20,710
+The other leg takes this position.
+
+60
+00:05:29,790 --> 00:05:32,040
+And in rotation like this.
+
+61
+00:05:32,310 --> 00:05:35,460
+Also the rotation of the body should increase.
+
+62
+00:05:36,150 --> 00:05:37,620
+I put it on 20.
+
+63
+00:05:39,050 --> 00:05:44,090
+I go on the next town post and create a reverse of this position for the links.
+
+64
+00:05:47,630 --> 00:05:52,670
+I copy and paste body control keyframes for the first down post here.
+
+65
+00:05:55,280 --> 00:05:58,940
+I zero this rotation and put it on the ground.
+
+66
+00:06:01,450 --> 00:06:03,820
+This other leg should be like this.
+
+67
+00:06:08,950 --> 00:06:11,050
+Let's have a look, see how it is.
+
+68
+00:06:13,130 --> 00:06:17,300
+The running animation has been created, but it's not attractive.
+
+69
+00:06:17,330 --> 00:06:20,540
+That's because I need to adjust the controllers path.
+
+70
+00:06:21,510 --> 00:06:26,490
+To do that, isolate the pencil and create such a path for the controller.
+
+71
+00:06:39,830 --> 00:06:44,420
+After in the pads, you see that the leg movements are better.
+
+72
+00:06:45,660 --> 00:06:48,930
+After that, I go for the easing of the keyframes.
+
+73
+00:06:51,050 --> 00:06:53,660
+First isolate body keyframes.
+
+74
+00:06:55,370 --> 00:06:56,660
+Easy, easy for them.
+
+75
+00:06:57,950 --> 00:07:02,780
+Go to the graph editor and where the character comes down on the ground.
+
+76
+00:07:02,780 --> 00:07:10,100
+Like here, the speed needs to be increased and where the character is in its opposition, the speed
+
+77
+00:07:10,100 --> 00:07:11,510
+needs to be decreased.
+
+78
+00:07:11,510 --> 00:07:14,540
+So I decrease the speed in these poses.
+
+79
+00:07:16,580 --> 00:07:18,230
+Let's see how it looks.
+
+80
+00:07:21,590 --> 00:07:24,320
+To increase the speed of these keyframes.
+
+81
+00:07:24,320 --> 00:07:31,580
+I select them and I go through each vessel in animation and increase their speed by this slider a little.
+
+82
+00:07:32,330 --> 00:07:33,790
+I put it on 70.
+
+83
+00:07:33,800 --> 00:07:35,360
+Let's see how it looks.
+
+84
+00:07:38,400 --> 00:07:45,780
+After the same speed I created for the body position keyframes I need to create for the controllers
+
+85
+00:07:45,780 --> 00:07:47,700
+and body rotation to.
+
+86
+00:07:48,870 --> 00:07:51,720
+Okay to do so, I select keyframes.
+
+87
+00:07:51,750 --> 00:07:52,370
+Easy.
+
+88
+00:07:52,590 --> 00:07:55,980
+Then select keyframes related to the post.
+
+89
+00:07:57,690 --> 00:07:59,250
+And set them on 70.
+
+90
+00:08:01,070 --> 00:08:03,860
+Well, let's have a look and see how it is.
+
+91
+00:08:03,890 --> 00:08:05,810
+As you see, it's much better.
+
+92
+00:08:06,350 --> 00:08:10,670
+I can also increase animation speed in the poses to improve it.
+
+93
+00:08:19,390 --> 00:08:20,380
+Much better.
+
+94
+00:08:21,040 --> 00:08:23,490
+Now I go to animate the hands.
+
+95
+00:08:23,500 --> 00:08:25,810
+I make the hand layers visible.
+
+96
+00:08:32,150 --> 00:08:34,700
+To animate the hands in the wrong cycle.
+
+97
+00:08:34,730 --> 00:08:41,900
+I need to use FCW so I create a keyframe for the upper lower and goal for the right hand controller
+
+98
+00:08:41,900 --> 00:08:44,030
+and do the same for the left hand.
+
+99
+00:08:44,270 --> 00:08:50,930
+I select controllers press you to see the keyframes here, where the right leg is in the back.
+
+100
+00:08:50,960 --> 00:08:53,420
+The right hand should be in front of here.
+
+101
+00:08:57,590 --> 00:09:00,230
+And the left hand should be behind first.
+
+102
+00:09:00,230 --> 00:09:01,820
+I just left hand.
+
+103
+00:09:04,030 --> 00:09:05,770
+And then turn it backwards.
+
+104
+00:09:09,140 --> 00:09:12,440
+I placed these keyframes on the last post.
+
+105
+00:09:14,080 --> 00:09:17,350
+In the middle oppose and should be reversed.
+
+106
+00:09:24,780 --> 00:09:27,600
+Isolate these keyframes and ease them.
+
+107
+00:09:28,020 --> 00:09:29,580
+Let's see how it is.
+
+108
+00:09:31,410 --> 00:09:38,850
+For the hand parts to have overlap animation isolate these key frames and bring them to frames forward.
+
+109
+00:09:48,540 --> 00:09:50,610
+Let's go for animating the head.
+
+110
+00:09:51,610 --> 00:09:53,950
+I make the head controller visible.
+
+111
+00:09:57,440 --> 00:10:00,510
+Here I create a key frame in the Opposed.
+
+112
+00:10:00,530 --> 00:10:02,220
+It should turn backward.
+
+113
+00:10:02,240 --> 00:10:03,950
+I put it on minus seven.
+
+114
+00:10:05,410 --> 00:10:08,710
+And in the downpours in the forward interaction.
+
+115
+00:10:08,710 --> 00:10:12,520
+Seven I think it's better to increase it here a little.
+
+116
+00:10:17,720 --> 00:10:20,510
+Here again, I paste the post keyframe.
+
+117
+00:10:22,760 --> 00:10:23,780
+Here, though.
+
+118
+00:10:26,430 --> 00:10:30,420
+And again here up then I easy's the key frames.
+
+119
+00:10:31,190 --> 00:10:35,660
+And bring keyframes to frames forward to have overlap animation.
+
+120
+00:10:41,120 --> 00:10:47,750
+After doing this, I can enable loop expression to see the character animation with the background.
+
+121
+00:11:01,930 --> 00:11:07,150
+I increase the work area and hide the controllers to see how is the animation?
+
+122
+00:11:12,300 --> 00:11:13,580
+The animation is good.
+
+123
+00:11:13,590 --> 00:11:15,840
+I make the scene layers visible.
+
+124
+00:11:17,730 --> 00:11:18,330
+Let's see.
+
+125
+00:11:18,330 --> 00:11:19,380
+How is the work?
+
+126
+00:11:20,190 --> 00:11:22,920
+I can increase the background speed a bit.
+
+127
+00:11:25,010 --> 00:11:26,660
+Isolate the null object.
+
+128
+00:11:26,690 --> 00:11:33,080
+Press edgewise to open its expression and 700 free speed to increase.
+
+129
+00:11:38,940 --> 00:11:41,010
+To make the background continuous.
+
+130
+00:11:41,010 --> 00:11:45,660
+I can select this layer first control DX and bring it here.
+
+131
+00:11:47,040 --> 00:11:48,360
+Same for this one.
+
+132
+00:11:52,080 --> 00:11:53,040
+It's good.
+
+133
+00:11:55,150 --> 00:11:58,060
+I can also increase the speed on seven.
+
+134
+00:12:10,380 --> 00:12:13,170
+I do the same for these two lives later.
+
+135
+00:12:25,030 --> 00:12:29,560
+And at the end I can also harmonize the character animation and its shadow.
+
+136
+00:12:33,850 --> 00:12:34,660
+Well here.
+
+137
+00:12:34,660 --> 00:12:38,440
+This key frame should be placed and then down this keyframe.
+
+138
+00:12:43,860 --> 00:12:44,160
+Here.
+
+139
+00:12:44,160 --> 00:12:48,360
+The shadow needs to be small and in the downpours it should be bigger.
+
+140
+00:12:49,380 --> 00:12:51,090
+And here it should be a small.
+
+141
+00:13:02,150 --> 00:13:08,780
+And the speed of the opposed keyframes of the shadow needs to be on 70 to move with the character.
+
+142
+00:13:10,570 --> 00:13:10,720
+Okay.
+
+143
+00:13:10,830 --> 00:13:11,710
+It's good.
+
+144
+00:13:13,010 --> 00:13:19,220
+If you wanted to get familiar with the script completely and know all of the uses of options and the
+
+145
+00:13:19,220 --> 00:13:25,700
+way of working with them in reading and animating the character, I recommend you to watch Derek and
+
+146
+00:13:25,730 --> 00:13:28,400
+animate the character in due course.
+
+147
+00:13:28,490 --> 00:13:34,880
+Because there I had explained all of the tools and options and the usage of them completely, and it
+
+148
+00:13:34,880 --> 00:13:41,510
+can be so useful for those who want to follow the characters, drink and animate professionally.
+
+149
+00:13:41,540 --> 00:13:42,590
+Good luck.

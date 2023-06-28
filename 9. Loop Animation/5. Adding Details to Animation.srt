@@ -1,0 +1,423 @@
+1
+00:00:00,680 --> 00:00:06,200
+They made an animation of My character is almost done, but I want my loop animation to look better.
+
+2
+00:00:06,200 --> 00:00:14,300
+So I go for the details like scene details, animation layers, overlapping animation, creating a springy
+
+3
+00:00:14,300 --> 00:00:15,200
+animation.
+
+4
+00:00:15,200 --> 00:00:18,560
+So I have a more dynamic and better animation.
+
+5
+00:00:20,150 --> 00:00:23,090
+The head animation should begin a little sooner.
+
+6
+00:00:30,250 --> 00:00:35,440
+And when the ax touches the trunk, I want the head to have a springy animation.
+
+7
+00:00:37,410 --> 00:00:40,710
+That is why I like the rotation and click on Excite.
+
+8
+00:00:43,040 --> 00:00:44,150
+Let's have a look.
+
+9
+00:00:52,900 --> 00:00:54,760
+The head movement is too much.
+
+10
+00:00:55,240 --> 00:00:57,580
+I said the overshoot and ten.
+
+11
+00:00:59,500 --> 00:01:04,150
+And it's friction on 60, so the movement stops sooner.
+
+12
+00:01:08,380 --> 00:01:11,890
+And as you can see, the head gets a fancy movement.
+
+13
+00:01:13,900 --> 00:01:15,010
+Well, it's good.
+
+14
+00:01:21,210 --> 00:01:23,990
+After that, I go for this lecture.
+
+15
+00:01:25,800 --> 00:01:30,780
+While the character is moving behind, this part of the hair should rotate to forward.
+
+16
+00:01:32,460 --> 00:01:37,020
+So its rotation should be to the backwards, for example, on 23.
+
+17
+00:01:40,630 --> 00:01:43,960
+Then it comes till here and sets on zero.
+
+18
+00:01:48,750 --> 00:01:49,980
+And it should be easy.
+
+19
+00:01:49,980 --> 00:01:50,820
+Easy to.
+
+20
+00:02:01,850 --> 00:02:04,280
+It should get back to his place from here.
+
+21
+00:02:09,680 --> 00:02:10,710
+Here is zero.
+
+22
+00:02:12,790 --> 00:02:13,770
+And gets down to.
+
+23
+00:02:13,770 --> 00:02:14,500
+You'll hear.
+
+24
+00:02:17,230 --> 00:02:22,120
+It should be on -23, meaning it should be leaning backward.
+
+25
+00:02:26,950 --> 00:02:29,680
+Go forward till the head is going back.
+
+26
+00:02:30,900 --> 00:02:34,410
+And here, set it on zero and make it linear.
+
+27
+00:02:36,330 --> 00:02:38,040
+And apply excite to it.
+
+28
+00:02:39,570 --> 00:02:42,480
+And its overseer should be ten like head.
+
+29
+00:02:53,800 --> 00:02:56,230
+And in the beginning it should be zero.
+
+30
+00:03:03,370 --> 00:03:07,390
+Increase its overshoot so its animation becomes more obvious.
+
+31
+00:03:13,310 --> 00:03:14,630
+Well, it's good.
+
+32
+00:03:16,590 --> 00:03:19,980
+After that I go for leaves animation.
+
+33
+00:03:22,000 --> 00:03:25,390
+When my character hits its ax and the trunk.
+
+34
+00:03:25,390 --> 00:03:29,890
+This leaves should animate and have follow through animation.
+
+35
+00:03:30,370 --> 00:03:32,440
+Well, I go for the trunk layer.
+
+36
+00:03:36,860 --> 00:03:42,110
+I go into group leaves layer leave zero one meaning this layer.
+
+37
+00:03:43,800 --> 00:03:50,070
+As you can see, its anchor point is here, and it should be here so I can rotate it from this part.
+
+38
+00:03:53,440 --> 00:04:00,490
+I create a keyframe for the rotation of Leaf zero one and another one for the Leaf zero two rotation.
+
+39
+00:04:04,140 --> 00:04:05,940
+I hate you Key.
+
+40
+00:04:11,030 --> 00:04:13,010
+I go to frames ahead.
+
+41
+00:04:13,970 --> 00:04:19,910
+I move it a little bit down so it shows the power wave when the axe hits the trunk.
+
+42
+00:04:20,900 --> 00:04:27,340
+I move this one a little bit down to and because I want the animation of these two leaves to be different,
+
+43
+00:04:27,350 --> 00:04:32,570
+I move the second key frame of the upper leaf, so the animation be different together.
+
+44
+00:04:36,170 --> 00:04:40,220
+I go to a frames for it and set these on zero.
+
+45
+00:04:41,070 --> 00:04:43,290
+I said the key frames differently.
+
+46
+00:04:44,330 --> 00:04:46,870
+I make their medial keyframes Easy, easy.
+
+47
+00:04:48,230 --> 00:04:51,050
+And I apply IXI to both rotations.
+
+48
+00:04:52,060 --> 00:04:53,260
+Let's take a look.
+
+49
+00:05:01,290 --> 00:05:03,760
+I move this more to the side.
+
+50
+00:05:03,780 --> 00:05:05,940
+Let's see if it looks better.
+
+51
+00:05:21,790 --> 00:05:23,500
+Well, it's good enough.
+
+52
+00:05:23,710 --> 00:05:25,810
+Let's get to animating Delicious.
+
+53
+00:05:30,330 --> 00:05:32,520
+I should do the same for these two.
+
+54
+00:05:34,280 --> 00:05:37,940
+I appear the rotation and create a keyframe frame for them.
+
+55
+00:05:38,990 --> 00:05:40,730
+Two frames forward.
+
+56
+00:05:41,660 --> 00:05:43,310
+Bring them down a bit.
+
+57
+00:05:44,620 --> 00:05:49,390
+Again, I go to frames ahead and duplicate their first key frames.
+
+58
+00:05:51,620 --> 00:05:53,990
+I make these and easy easy to.
+
+59
+00:05:55,100 --> 00:05:58,100
+And for being different, I changed the keyframes.
+
+60
+00:05:59,450 --> 00:06:02,360
+I select the two and click on Excite.
+
+61
+00:06:07,760 --> 00:06:11,630
+I can move these two through these side also for these two.
+
+62
+00:06:11,630 --> 00:06:14,210
+So its animation looks more smooth.
+
+63
+00:06:20,780 --> 00:06:23,270
+I should do the same for the two places behind.
+
+64
+00:06:28,400 --> 00:06:31,280
+This time I go three frames ahead.
+
+65
+00:06:31,280 --> 00:06:33,740
+So it looks different from this.
+
+66
+00:06:34,400 --> 00:06:35,750
+I bring it down.
+
+67
+00:06:37,760 --> 00:06:38,450
+Again.
+
+68
+00:06:38,450 --> 00:06:39,850
+Three frames ahead.
+
+69
+00:06:39,860 --> 00:06:41,870
+I copy the first key frames.
+
+70
+00:06:42,890 --> 00:06:44,620
+Make the middle keyframes Easy.
+
+71
+00:06:44,630 --> 00:06:45,080
+Easy.
+
+72
+00:06:46,470 --> 00:06:49,140
+And make more changes in their animation.
+
+73
+00:06:51,770 --> 00:06:57,920
+I select the two rotations and click on each side so they can have a spring animation.
+
+74
+00:07:02,560 --> 00:07:04,570
+Led me increase this one to.
+
+75
+00:07:16,320 --> 00:07:18,090
+Well, it's good so far.
+
+76
+00:07:21,170 --> 00:07:22,760
+I can intimate more details.
+
+77
+00:07:22,760 --> 00:07:26,390
+For example, I can create bounds for the hand sleeve.
+
+78
+00:07:27,640 --> 00:07:29,710
+And this is my slave group.
+
+79
+00:07:34,620 --> 00:07:38,910
+I go into its transform and create a keyframe for its scale.
+
+80
+00:07:43,390 --> 00:07:45,610
+I put this scale keyframe here.
+
+81
+00:07:46,330 --> 00:07:49,540
+And I want to animate it in the y axis.
+
+82
+00:07:51,090 --> 00:07:55,560
+So I go three frames ahead and set this on 105.
+
+83
+00:07:56,490 --> 00:08:00,690
+Again, three frames ahead and I paste the first key frame.
+
+84
+00:08:02,960 --> 00:08:08,810
+I easy is the middle key frame and then select scale and apply excite to it.
+
+85
+00:08:15,830 --> 00:08:18,170
+I increase its bounds a little bit.
+
+86
+00:08:26,210 --> 00:08:27,290
+Well, it's good.
+
+87
+00:08:27,620 --> 00:08:32,240
+I want to create the same bouncing for the bottom part of the character's pants, too.
+
+88
+00:08:32,720 --> 00:08:35,510
+For this, I select the pants layer.
+
+89
+00:08:36,990 --> 00:08:39,770
+I'm going to contend this part, in part.
+
+90
+00:08:39,780 --> 00:08:44,580
+As you can see, its anchor point is up here, and it should be here to.
+
+91
+00:08:46,410 --> 00:08:51,180
+I go into its shape, transform and create a keyframe for its scale.
+
+92
+00:08:54,320 --> 00:08:56,870
+I do the same for the other, like behind.
+
+93
+00:08:58,000 --> 00:09:02,980
+I go into content pants, too, and I create a keyframe for this scale.
+
+94
+00:09:03,010 --> 00:09:06,280
+I hit you key for this one to.
+
+95
+00:09:06,990 --> 00:09:12,300
+I select this scale keyframes and move them here, which the X places on the trunk.
+
+96
+00:09:15,530 --> 00:09:16,550
+This one to.
+
+97
+00:09:19,720 --> 00:09:21,700
+I go Three frames ahead.
+
+98
+00:09:23,040 --> 00:09:25,530
+I set the scale on 110.
+
+99
+00:09:25,770 --> 00:09:27,930
+I also do the same for this one.
+
+100
+00:09:33,030 --> 00:09:34,580
+Three frames ahead.
+
+101
+00:09:34,590 --> 00:09:39,000
+I paced the first key frames and easy is the middle key frames.
+
+102
+00:09:41,000 --> 00:09:43,880
+And I said, like this scale and apply excite to them.
+
+103
+00:09:45,710 --> 00:09:46,820
+Let's take a look.
+
+104
+00:09:50,870 --> 00:09:54,320
+I make some changes, so their animation looks different.
+
+105
+00:09:58,550 --> 00:10:04,610
+So far, my character's animation has been completed and now I should start animating splitting the
+
+106
+00:10:04,610 --> 00:10:05,360
+firewood.

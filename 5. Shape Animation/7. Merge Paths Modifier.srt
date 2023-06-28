@@ -1,0 +1,791 @@
+1
+00:00:01,170 --> 00:00:04,200
+In this session, we will talk about shape modifiers.
+
+2
+00:00:05,120 --> 00:00:09,260
+By shape modifiers, we can make changes to the shapes and passes.
+
+3
+00:00:13,570 --> 00:00:16,480
+To create modifiers, you should create a shape.
+
+4
+00:00:19,700 --> 00:00:24,800
+Here I have created a square and circle in content parameter.
+
+5
+00:00:24,800 --> 00:00:30,020
+If you click on this icon next to add bottom, you can see modifiers in a bottom of this menu.
+
+6
+00:00:30,050 --> 00:00:34,430
+The first one is mash paths and the last one is zigzag.
+
+7
+00:00:36,500 --> 00:00:42,950
+In this session I will talk about marriage path, so I click on marriage path and add it to the content.
+
+8
+00:00:45,000 --> 00:00:52,710
+Now match path is is added to the content and shape colors changed since merge path adds a separate
+
+9
+00:00:52,710 --> 00:00:54,810
+field and a stroke to the shape.
+
+10
+00:00:55,140 --> 00:01:01,440
+We don't need its fill so I disable it for now and we will just keep this stroke open.
+
+11
+00:01:01,440 --> 00:01:02,370
+Merge path.
+
+12
+00:01:02,400 --> 00:01:08,160
+Merge path like its name is used for merging and combining the shapes.
+
+13
+00:01:09,400 --> 00:01:10,300
+In match path.
+
+14
+00:01:10,300 --> 00:01:12,310
+We have mode by this option.
+
+15
+00:01:12,310 --> 00:01:15,340
+You can combine your shape in different ways.
+
+16
+00:01:17,750 --> 00:01:19,670
+Marriage is the first option.
+
+17
+00:01:19,700 --> 00:01:25,850
+It helps you combine both shapes together in a way that none of them overlays the other.
+
+18
+00:01:27,880 --> 00:01:30,520
+For example, I enable feel here.
+
+19
+00:01:32,800 --> 00:01:34,930
+I disable the mesh path.
+
+20
+00:01:35,170 --> 00:01:37,060
+I place the square here.
+
+21
+00:01:41,260 --> 00:01:46,660
+You see, since I moved this square here, the circle is overlaying this square.
+
+22
+00:01:47,520 --> 00:01:53,310
+But when you enable a path, fill and a stroke of both shapes will be visible.
+
+23
+00:01:54,690 --> 00:02:00,630
+This is useful when you don't want any of your shapes to be placed on another, and you want them both
+
+24
+00:02:00,630 --> 00:02:02,160
+to have filling stroke.
+
+25
+00:02:04,110 --> 00:02:05,580
+I disabled feel.
+
+26
+00:02:06,880 --> 00:02:08,140
+I move it back.
+
+27
+00:02:10,110 --> 00:02:13,830
+You can add another shape to the existing one using this option.
+
+28
+00:02:16,450 --> 00:02:22,150
+As you see, if I move this square closer to the circle, they will match with each other.
+
+29
+00:02:26,100 --> 00:02:27,510
+I drag it forward.
+
+30
+00:02:28,710 --> 00:02:30,450
+You see, they are merged.
+
+31
+00:02:31,880 --> 00:02:36,200
+If I enable Phil Now, it seems like they are a single shape.
+
+32
+00:02:39,410 --> 00:02:41,180
+I changed the field color.
+
+33
+00:02:43,230 --> 00:02:44,640
+The next one is subtract.
+
+34
+00:02:45,390 --> 00:02:51,450
+In this mode, the shape that is above the contents will be the main shape and below shapes will be
+
+35
+00:02:51,450 --> 00:02:53,640
+subtracted from the main shape.
+
+36
+00:02:56,990 --> 00:03:00,190
+You see, the circle is subtracted from the square.
+
+37
+00:03:00,200 --> 00:03:01,520
+I sweep them.
+
+38
+00:03:01,850 --> 00:03:07,730
+Now the square is subtracted from the circle because the main shape is the circle now.
+
+39
+00:03:08,420 --> 00:03:10,040
+This was subtract mode.
+
+40
+00:03:10,160 --> 00:03:12,290
+The next one is intersect.
+
+41
+00:03:12,620 --> 00:03:17,630
+It keeps the intersected part of the shapes and removes the rest of the shapes.
+
+42
+00:03:21,480 --> 00:03:27,070
+And the next one is exclude intersections, which is the opposite of the Intersect.
+
+43
+00:03:27,090 --> 00:03:31,170
+It removes the intersected part of the shapes and keeps the rest.
+
+44
+00:03:32,840 --> 00:03:40,770
+You see here is empty and the rest of the shape is remained oc I explained Mayr's path generally.
+
+45
+00:03:40,790 --> 00:03:43,280
+Now let's start examples.
+
+46
+00:03:44,760 --> 00:03:48,750
+The first example is two circles and a triangle.
+
+47
+00:03:49,020 --> 00:03:50,610
+I open content.
+
+48
+00:03:54,000 --> 00:03:54,720
+You see?
+
+49
+00:03:54,720 --> 00:03:57,480
+Here is the circle here.
+
+50
+00:03:57,480 --> 00:04:00,600
+I have made a triangle using polygon, a star.
+
+51
+00:04:00,720 --> 00:04:04,320
+You can increase or decrease its points from here.
+
+52
+00:04:05,640 --> 00:04:08,620
+And at last, we've made another circle.
+
+53
+00:04:08,640 --> 00:04:13,950
+First of all, I hide the little circle and I want to merge these two shapes.
+
+54
+00:04:13,980 --> 00:04:16,680
+To do this, I click on content.
+
+55
+00:04:18,380 --> 00:04:21,020
+Select match path from modifiers.
+
+56
+00:04:21,620 --> 00:04:25,580
+You see, the circle and triangle are merged now.
+
+57
+00:04:27,670 --> 00:04:31,210
+If I move any of them, you can see the original shapes.
+
+58
+00:04:34,120 --> 00:04:36,430
+After merging these two shapes.
+
+59
+00:04:36,790 --> 00:04:41,230
+Now I want to subtract this circle from these two shapes.
+
+60
+00:04:41,260 --> 00:04:45,100
+First of all, I should place the circle on their merge path.
+
+61
+00:04:45,220 --> 00:04:45,920
+Why?
+
+62
+00:04:45,940 --> 00:04:50,530
+Because modifiers affect on shapes that are placed above them.
+
+63
+00:04:50,560 --> 00:04:53,070
+I mean Poly star and outer lips.
+
+64
+00:04:53,080 --> 00:04:58,390
+To subtract this little circle from these two shapes, I should add another merge path.
+
+65
+00:05:02,660 --> 00:05:08,450
+We can add Mare's path from this menu, or we can duplicate this layer by pressing control D.
+
+66
+00:05:10,510 --> 00:05:14,020
+I moved the second marriage path below the inner ellipse.
+
+67
+00:05:14,050 --> 00:05:15,020
+Open it.
+
+68
+00:05:15,040 --> 00:05:16,570
+Click on subtract.
+
+69
+00:05:16,600 --> 00:05:20,710
+You see, the circle is subtracted from the previous shapes.
+
+70
+00:05:23,560 --> 00:05:26,830
+So we created this shape using two mesh patches.
+
+71
+00:05:28,940 --> 00:05:31,190
+Och, we made this locator.
+
+72
+00:05:31,790 --> 00:05:35,480
+This is the main plan that we want to add the locator to it.
+
+73
+00:05:37,800 --> 00:05:40,230
+The main plan has such animation.
+
+74
+00:05:43,960 --> 00:05:44,520
+OC.
+
+75
+00:05:44,530 --> 00:05:46,480
+We want to animate this locator.
+
+76
+00:05:47,780 --> 00:05:53,360
+We wanted to enter the scene from top and stop at the point of the plan that we want.
+
+77
+00:05:56,600 --> 00:05:59,600
+Position, said the anchor point here.
+
+78
+00:06:01,170 --> 00:06:03,380
+Make a keyframe for its scale.
+
+79
+00:06:03,390 --> 00:06:06,900
+After ten frames, create the second keyframe.
+
+80
+00:06:07,590 --> 00:06:10,950
+Go to the first keyframe and move the locater up.
+
+81
+00:06:12,810 --> 00:06:15,390
+Easy is the first two keyframes.
+
+82
+00:06:22,030 --> 00:06:23,770
+After the map completed.
+
+83
+00:06:25,170 --> 00:06:27,180
+We want the locators to calm down.
+
+84
+00:06:30,340 --> 00:06:31,790
+Move it back a bit.
+
+85
+00:06:35,020 --> 00:06:35,830
+It's slow.
+
+86
+00:06:35,860 --> 00:06:39,700
+I change the space between key frames to seven frames.
+
+87
+00:06:44,590 --> 00:06:45,100
+Good.
+
+88
+00:06:47,610 --> 00:06:50,310
+We want to animate its scale in y axis.
+
+89
+00:06:51,540 --> 00:07:00,570
+Go five frames forward, decrease its wide scale after three frames, set it to 100 again.
+
+90
+00:07:01,630 --> 00:07:03,850
+Easy is the middle key frame.
+
+91
+00:07:05,580 --> 00:07:07,080
+Let's see the result.
+
+92
+00:07:11,690 --> 00:07:15,050
+When the locater is coming down, it should stretch a bit.
+
+93
+00:07:30,160 --> 00:07:31,990
+Now select scale.
+
+94
+00:07:34,990 --> 00:07:36,610
+Addicted, excited.
+
+95
+00:07:37,900 --> 00:07:39,070
+Let's have a look.
+
+96
+00:07:42,770 --> 00:07:45,740
+Said overshoot to ten and said bounce to 20.
+
+97
+00:07:53,050 --> 00:07:56,950
+This keyframes should go forward a bit to have better speed.
+
+98
+00:08:01,070 --> 00:08:03,230
+Now we want to make a way for it.
+
+99
+00:08:11,360 --> 00:08:13,370
+So I'll create an ellipse here.
+
+100
+00:08:16,350 --> 00:08:18,000
+Disable its stroke.
+
+101
+00:08:19,110 --> 00:08:21,750
+Change the field color to a darker one.
+
+102
+00:08:26,740 --> 00:08:29,890
+In Lake's path animate its size.
+
+103
+00:08:31,160 --> 00:08:36,560
+First of all, say the two zero, create a keyframe, go ten frames forward.
+
+104
+00:08:39,250 --> 00:08:41,380
+Easy is the second key frame.
+
+105
+00:08:43,970 --> 00:08:45,530
+Duplicate the clips.
+
+106
+00:08:47,230 --> 00:08:48,490
+Drag it down.
+
+107
+00:08:50,450 --> 00:08:52,550
+Move its key frame back.
+
+108
+00:08:56,520 --> 00:08:58,490
+Add match pass modifiers to it.
+
+109
+00:09:04,340 --> 00:09:06,830
+Said mesh path is mode to subtract.
+
+110
+00:09:08,110 --> 00:09:10,060
+The second ellipse should be higher.
+
+111
+00:09:10,660 --> 00:09:12,190
+It should be like this.
+
+112
+00:09:18,010 --> 00:09:20,500
+Open transformed property of the layer.
+
+113
+00:09:22,890 --> 00:09:26,370
+Decrease its wide scale to make it seem like 3D.
+
+114
+00:09:34,920 --> 00:09:36,420
+Now rename it.
+
+115
+00:09:39,480 --> 00:09:41,490
+Place it under the locator.
+
+116
+00:09:50,640 --> 00:09:53,880
+Exactly in a frame that the locater stands on the map.
+
+117
+00:09:53,880 --> 00:09:55,650
+This shape should be created.
+
+118
+00:10:07,680 --> 00:10:09,090
+Och, it's good.
+
+119
+00:10:10,610 --> 00:10:11,840
+Let's see the result.
+
+120
+00:10:20,670 --> 00:10:21,360
+All right.
+
+121
+00:10:21,390 --> 00:10:22,230
+It's good.
+
+122
+00:10:25,880 --> 00:10:28,580
+So let's go to the next example.
+
+123
+00:10:30,260 --> 00:10:34,130
+The next example is for learning to create complex shapes.
+
+124
+00:10:36,680 --> 00:10:39,150
+I have created a Polly Star here.
+
+125
+00:10:39,170 --> 00:10:41,090
+Let me hide these ones.
+
+126
+00:10:41,720 --> 00:10:44,030
+I have created a poly star.
+
+127
+00:10:44,060 --> 00:10:45,890
+Then a circle in it.
+
+128
+00:10:46,920 --> 00:10:51,330
+And a smaller circle and a more smaller one.
+
+129
+00:10:52,510 --> 00:10:55,390
+I want to merge these ones to create a gear.
+
+130
+00:10:57,980 --> 00:11:00,650
+For now, I hide these circles.
+
+131
+00:11:01,070 --> 00:11:05,720
+I want to match these two shapes together and just keep the intersected parts.
+
+132
+00:11:07,500 --> 00:11:10,990
+So I select the contents and add match path.
+
+133
+00:11:13,150 --> 00:11:19,660
+I move my path above these two circles to prevent it from applying to the below layers and be applied
+
+134
+00:11:19,660 --> 00:11:21,100
+to the above layers.
+
+135
+00:11:22,340 --> 00:11:23,360
+By default.
+
+136
+00:11:23,360 --> 00:11:26,510
+It merges these two shapes together.
+
+137
+00:11:28,070 --> 00:11:30,650
+But we just want their intersection.
+
+138
+00:11:30,650 --> 00:11:32,780
+So I select Intersect.
+
+139
+00:11:34,290 --> 00:11:37,140
+You see now just the intersection is shown.
+
+140
+00:11:39,420 --> 00:11:41,820
+I want to add the second circle to these.
+
+141
+00:11:43,520 --> 00:11:47,150
+So I duplicate Mare's path and move it below the circle.
+
+142
+00:11:47,720 --> 00:11:49,490
+Set its mode to add.
+
+143
+00:11:51,340 --> 00:11:52,510
+Up to this point.
+
+144
+00:11:52,510 --> 00:11:54,340
+This gear is created.
+
+145
+00:11:56,190 --> 00:12:00,720
+Duplicate Mary's path again and move it below the inner circle.
+
+146
+00:12:02,930 --> 00:12:06,740
+Said it's more to subtract to make it center empty.
+
+147
+00:12:07,280 --> 00:12:11,670
+You see, now we have a gear in polyester layer.
+
+148
+00:12:11,690 --> 00:12:14,930
+Change the values to change the gears shape.
+
+149
+00:12:18,640 --> 00:12:21,100
+Eventually you can animate it easily.
+
+150
+00:12:27,420 --> 00:12:27,840
+Now.
+
+151
+00:12:27,840 --> 00:12:28,980
+I'll make it Look.
+
+152
+00:12:33,440 --> 00:12:36,650
+Set this on offset to have continuous animation.
+
+153
+00:12:38,310 --> 00:12:41,640
+The next useful example that Maersk Path is used in it.
+
+154
+00:12:41,670 --> 00:12:42,810
+Is this what?
+
+155
+00:12:42,810 --> 00:12:47,250
+In these cases, you want to keep the black area of the eye inside the white area.
+
+156
+00:12:47,250 --> 00:12:52,080
+And also we use match path when we want to black part disappear while it exists.
+
+157
+00:12:52,080 --> 00:12:53,340
+The white area.
+
+158
+00:12:54,450 --> 00:12:56,220
+I hide the right eye.
+
+159
+00:13:00,070 --> 00:13:02,170
+Open the left eye layer.
+
+160
+00:13:02,440 --> 00:13:08,230
+We made the shape for its eyebrows, another one for this slight part of the eye.
+
+161
+00:13:08,260 --> 00:13:10,600
+Another one for the black part of the eye.
+
+162
+00:13:10,630 --> 00:13:12,160
+One for eyelashes.
+
+163
+00:13:12,160 --> 00:13:14,830
+And the last one for the white area.
+
+164
+00:13:14,860 --> 00:13:18,850
+As you see, we've made a simple animation for blinking.
+
+165
+00:13:26,730 --> 00:13:29,940
+We want to hide the black part of the eye when it blinks.
+
+166
+00:13:30,240 --> 00:13:37,080
+So we should animate it in a way that the black part be shown just in white area of the eye.
+
+167
+00:13:40,290 --> 00:13:44,790
+To do this, we should subtract the light from the black part of I.
+
+168
+00:13:47,790 --> 00:13:51,190
+We're going to create marriage path and place it under these two.
+
+169
+00:13:51,210 --> 00:13:55,290
+So in order to stop its affection and the shape of the eyebrow.
+
+170
+00:13:55,590 --> 00:13:58,350
+Press control g to group them.
+
+171
+00:14:03,480 --> 00:14:05,090
+Rename it to black group.
+
+172
+00:14:07,530 --> 00:14:09,900
+At marriage pass modifier in the group.
+
+173
+00:14:12,050 --> 00:14:16,670
+Delete its stroke, set its mode to subtract.
+
+174
+00:14:17,500 --> 00:14:20,050
+Light is above the black.
+
+175
+00:14:20,050 --> 00:14:21,400
+One should be above.
+
+176
+00:14:21,520 --> 00:14:23,470
+Change its color to black.
+
+177
+00:14:26,000 --> 00:14:26,510
+OC.
+
+178
+00:14:26,540 --> 00:14:28,220
+The black part is ready.
+
+179
+00:14:28,250 --> 00:14:31,220
+If it blinks, the problem is still shown.
+
+180
+00:14:33,130 --> 00:14:37,420
+To solve this problem, duplicate the shape of the white area of the eye.
+
+181
+00:14:37,750 --> 00:14:43,510
+You see, I have animated the path of the white area of the eye to make it seem like blinking.
+
+182
+00:14:46,640 --> 00:14:48,020
+Duplicate this shape.
+
+183
+00:14:48,110 --> 00:14:50,150
+Place it above this layer.
+
+184
+00:14:52,500 --> 00:14:57,060
+Now group the watch area of the I and black group press control G.
+
+185
+00:14:57,690 --> 00:14:59,700
+And another mesh path here.
+
+186
+00:15:03,800 --> 00:15:05,330
+Delete this stroke.
+
+187
+00:15:07,100 --> 00:15:11,420
+I want to keep the intersection of these two, which is the black area of the eye.
+
+188
+00:15:12,940 --> 00:15:15,340
+So I set the mode on Intersect.
+
+189
+00:15:18,030 --> 00:15:19,080
+It's all right.
+
+190
+00:15:19,890 --> 00:15:21,150
+Now, pay attention.
+
+191
+00:15:21,150 --> 00:15:24,000
+When I moved in to cater the black part of the.
+
+192
+00:15:24,000 --> 00:15:26,310
+I will hide completely.
+
+193
+00:15:30,610 --> 00:15:31,390
+It can also move.
+
+194
+00:15:31,390 --> 00:15:34,480
+The black part of the eye is in transform of the black.
+
+195
+00:15:36,890 --> 00:15:40,910
+If it is out of the white area of the eye, it won't be shown.
+
+196
+00:15:45,850 --> 00:15:48,160
+This is the animation of both eyes.
+
+197
+00:15:49,710 --> 00:15:52,800
+To learn how to animate the blinking of this eye.
+
+198
+00:15:52,830 --> 00:15:56,910
+We have full animation of this example at the end of the chapter.

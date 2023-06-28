@@ -1,0 +1,95 @@
+1
+00:00:00,150 --> 00:00:01,150
+Hello, everyone.
+
+2
+00:00:01,170 --> 00:00:05,400
+In this lesson, I want to create a glitchy animation for the text.
+
+3
+00:00:05,880 --> 00:00:07,230
+I write my text.
+
+4
+00:00:11,730 --> 00:00:14,520
+Here I use the character of the property.
+
+5
+00:00:15,180 --> 00:00:20,190
+As you see, when I increase this, the letters of the text change randomly.
+
+6
+00:00:21,160 --> 00:00:23,080
+I put it on 35.
+
+7
+00:00:25,840 --> 00:00:31,000
+And for this randomizing to have an animation, I use the vehicle selector.
+
+8
+00:00:35,210 --> 00:00:40,640
+I go to the regal selector and put the regal second on five to increase its speed.
+
+9
+00:00:43,440 --> 00:00:47,860
+I go to the range selector and create a keyframe for its offset.
+
+10
+00:00:47,880 --> 00:00:51,500
+I go on second two and put this on 100.
+
+11
+00:00:51,510 --> 00:00:53,970
+As you see, the takes appears thereby.
+
+12
+00:00:57,420 --> 00:01:01,800
+I add another animator with opacity property and put it on zero.
+
+13
+00:01:02,860 --> 00:01:06,460
+And with its train selector as the previous range selector.
+
+14
+00:01:08,790 --> 00:01:15,000
+I bring the keyframes of the first line selector a little forward to improve the randomizing.
+
+15
+00:01:17,300 --> 00:01:19,610
+Isolate keyframes and make them easy.
+
+16
+00:01:29,280 --> 00:01:31,230
+By the scale to the animator.
+
+17
+00:01:31,230 --> 00:01:34,990
+I duplicate this animator and this character offset.
+
+18
+00:01:36,060 --> 00:01:40,080
+Instead, I add the scale and put its value onto 100.
+
+19
+00:01:42,680 --> 00:01:45,290
+I increase, it's why bring it on 600.
+
+20
+00:01:46,310 --> 00:01:47,600
+Let's have a look.
+
+21
+00:01:52,130 --> 00:01:54,050
+To make the tax not come down.
+
+22
+00:01:54,050 --> 00:01:59,330
+I only need to go to the more options and bring its anchor point in the middle of the text.
+
+23
+00:02:02,760 --> 00:02:03,570
+It's good.
+
+24
+00:02:05,600 --> 00:02:08,060
+I can play with keyframes to improve it.

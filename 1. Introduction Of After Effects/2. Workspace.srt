@@ -1,0 +1,123 @@
+1
+00:00:00,180 --> 00:00:01,320
+Hello, everyone.
+
+2
+00:00:01,350 --> 00:00:08,400
+Before I start the course, seriously, and learn how to work with keyframes and create different animations
+
+3
+00:00:08,400 --> 00:00:15,870
+in after effects, it's better to get acquainted with the after effects, panels, workspace and also
+
+4
+00:00:15,870 --> 00:00:22,620
+tools This software gives us a bit, so those who are about to learn after effects for the first time get
+
+5
+00:00:22,620 --> 00:00:27,630
+familiar with the software entirely and be able to follow us in the next levels.
+
+6
+00:00:27,660 --> 00:00:34,620
+In this lesson, we want to talk about after Effects user interface and learn how to adjust our workspace
+
+7
+00:00:34,620 --> 00:00:36,150
+according to our needs.
+
+8
+00:00:37,530 --> 00:00:45,030
+After I open after effects, the first window to appear is home where you can see projects you have used before.
+
+9
+00:00:48,900 --> 00:00:52,770
+And by clicking on the new project, you can create a new project.
+
+10
+00:00:54,150 --> 00:00:58,950
+And with the open project button, you can open a project you have already saved.
+
+11
+00:01:00,340 --> 00:01:04,740
+I click on the new project and enter the work space of AfterEffects.
+
+12
+00:01:04,750 --> 00:01:09,250
+The first thing I have to do is to set up workspace in standard mode.
+
+13
+00:01:10,100 --> 00:01:14,780
+I go to the Windows menu workspace section and click standard.
+
+14
+00:01:16,040 --> 00:01:20,300
+As you see, panels changed and our work space went to standard mode.
+
+15
+00:01:21,610 --> 00:01:28,390
+If your work space is not like this, after clicking on a standard, you just have to go to the Windows
+
+16
+00:01:28,390 --> 00:01:36,100
+Workspace and select reset standard to saved layout so that the standard layout resets to its default settings.
+
+17
+00:01:39,090 --> 00:01:42,930
+Now your work is this panel should be exactly like mine.
+
+18
+00:01:42,930 --> 00:01:46,770
+But if it's not the case or by mistake, you close a panel.
+
+19
+00:01:46,800 --> 00:01:49,260
+You just need to go to the Windows menu.
+
+20
+00:01:49,620 --> 00:01:56,130
+Here you can open all of the panels again and see what panels are now open in standard mode.
+
+21
+00:01:56,940 --> 00:02:01,820
+Well, I closed the effects and presets panel and I open it again from here.
+
+22
+00:02:01,830 --> 00:02:03,640
+You can see it came back.
+
+23
+00:02:03,660 --> 00:02:10,020
+You can easily change panel positions and place them wherever you want in after effects, or you can
+
+24
+00:02:10,020 --> 00:02:13,320
+make your panel float by pressing this button.
+
+25
+00:02:17,050 --> 00:02:22,480
+If you wanted to change back, you can click on the panels name and drag it back here.
+
+26
+00:02:25,240 --> 00:02:27,940
+After you adjust your panels as you want.
+
+27
+00:02:27,970 --> 00:02:37,030
+You can save this work space from Windows, Workspace, and save as a new workspace and name it whatever
+
+28
+00:02:37,030 --> 00:02:37,750
+you want.
+
+29
+00:02:37,780 --> 00:02:40,060
+For example, I name this one new.
+
+30
+00:02:42,710 --> 00:02:45,740
+As you can see here, our workspace is saved.
+
+31
+00:02:45,770 --> 00:02:52,250
+If I go to default and then select new, I go back to the workspace I made before.

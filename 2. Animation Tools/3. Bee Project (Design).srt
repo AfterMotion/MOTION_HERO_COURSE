@@ -1,0 +1,627 @@
+1
+00:00:00,300 --> 00:00:07,170
+And this is I'll be working on a project from scratch to finish so you can better understand the process
+
+2
+00:00:07,170 --> 00:00:09,120
+of creating an animation.
+
+3
+00:00:09,600 --> 00:00:16,470
+In this part I'll be using the shape tool for designing, and also you'll find a brief introduction
+
+4
+00:00:16,470 --> 00:00:23,100
+to this tool and how to use it, because in the later lessons there will be a dedicated chapter about
+
+5
+00:00:23,100 --> 00:00:28,050
+shapes, their modifiers and how to create animations using them.
+
+6
+00:00:29,230 --> 00:00:35,050
+As I explained before, the first thing that I need to do is create a new composition.
+
+7
+00:00:35,050 --> 00:00:39,300
+So I create a composition for the savings of the comp.
+
+8
+00:00:39,310 --> 00:00:48,460
+I use the presets I choose HD 1920 by 1080 and I said the duration of the comp to 30 seconds and I set
+
+9
+00:00:48,460 --> 00:00:50,440
+the background color to gray.
+
+10
+00:00:50,470 --> 00:00:51,430
+I hit okay.
+
+11
+00:00:52,210 --> 00:00:59,140
+After that, I want to use this reference and create this be using the shape tool to do so.
+
+12
+00:00:59,140 --> 00:01:02,620
+I like the layer so it won't be selected and moved.
+
+13
+00:01:04,180 --> 00:01:05,890
+Isolate the shape to.
+
+14
+00:01:08,910 --> 00:01:10,830
+And I thought designing this.
+
+15
+00:01:12,440 --> 00:01:18,060
+I began the designing process by clicking here and then dragging as I drag.
+
+16
+00:01:18,080 --> 00:01:23,610
+You can see the two handles appear with which you can control the curve of the path.
+
+17
+00:01:23,630 --> 00:01:30,440
+If I hold shift and drag, you can see that the handles will be in fixed, horizontal, vertical and
+
+18
+00:01:30,440 --> 00:01:31,850
+diagonal lines.
+
+19
+00:01:32,150 --> 00:01:34,760
+So I make it straight like this.
+
+20
+00:01:35,000 --> 00:01:41,270
+The next point would be here I clicked and drag, so the shape matches the reference flawlessly.
+
+21
+00:01:43,590 --> 00:01:44,250
+For now.
+
+22
+00:01:44,250 --> 00:01:52,020
+I don't need this truck, so I disable it so that I can see the path and design the shape more precisely.
+
+23
+00:01:53,140 --> 00:01:56,230
+I create the next point here and track.
+
+24
+00:01:56,500 --> 00:02:01,780
+I continue like this for now, and then I come back and fix these parts later.
+
+25
+00:02:03,440 --> 00:02:05,570
+I create another point here?
+
+26
+00:02:09,410 --> 00:02:11,870
+Then I click on the first point again.
+
+27
+00:02:11,870 --> 00:02:17,800
+So the path would be closed for these parts where the path doesn't match their friends.
+
+28
+00:02:17,810 --> 00:02:20,560
+I have to fix the handles for them.
+
+29
+00:02:20,570 --> 00:02:26,960
+As you see, if I move one of the handles, the other one moves as well and I don't want this.
+
+30
+00:02:26,960 --> 00:02:31,910
+So to adjust one of the handles I hold alter and change one handle.
+
+31
+00:02:34,950 --> 00:02:37,400
+Okay, I have to fix this Part two.
+
+32
+00:02:37,410 --> 00:02:40,770
+I hold on and match the path with the reference.
+
+33
+00:02:45,320 --> 00:02:51,020
+I want to rename the layer so I selected and hit enter and I type body.
+
+34
+00:02:54,140 --> 00:02:59,750
+I click on the stroke and select solid color so its stroke will be enabled.
+
+35
+00:03:01,540 --> 00:03:03,610
+I make the straw color brown.
+
+36
+00:03:05,500 --> 00:03:08,290
+And I said it switch to five pixels.
+
+37
+00:03:11,300 --> 00:03:15,980
+I click on the field, select solid color and hit the okay.
+
+38
+00:03:16,700 --> 00:03:20,930
+And to change the field color, I hide the layer for now.
+
+39
+00:03:22,340 --> 00:03:26,570
+I click on the field color and choose the color of the reference.
+
+40
+00:03:27,560 --> 00:03:32,690
+Now, if I show the layer, you can see that the film color matches the reference.
+
+41
+00:03:32,690 --> 00:03:37,760
+To see the way you're better, I swallow the layer so you can only see this layer.
+
+42
+00:03:40,530 --> 00:03:42,270
+I hide the body layer.
+
+43
+00:03:42,900 --> 00:03:48,430
+Now let's work on creating this part to create this part much faster and easier.
+
+44
+00:03:48,450 --> 00:03:53,640
+I duplicate the body layer to do that, isolate the layer and heat control.
+
+45
+00:03:54,600 --> 00:03:56,250
+I name the layer line.
+
+46
+00:04:01,270 --> 00:04:06,100
+And isolate the pen tool and create one point for the shape right here.
+
+47
+00:04:08,820 --> 00:04:11,160
+I create another point here?
+
+48
+00:04:13,400 --> 00:04:17,390
+Another point here and a point over here.
+
+49
+00:04:19,260 --> 00:04:23,280
+After that, I swallow the layer so I can work on it better.
+
+50
+00:04:24,950 --> 00:04:32,330
+Then I have to isolate the other points for that, isolate one point and hold onto and select the point
+
+51
+00:04:32,330 --> 00:04:33,470
+that I don't need.
+
+52
+00:04:33,500 --> 00:04:35,390
+And I hit the delete key.
+
+53
+00:04:35,660 --> 00:04:39,140
+I don't want this point either, so I delete it as well.
+
+54
+00:04:39,980 --> 00:04:43,390
+After that I don't want it struck, so I disable it.
+
+55
+00:04:43,400 --> 00:04:45,550
+I make the reference visible.
+
+56
+00:04:45,560 --> 00:04:51,230
+I hide the line layer for now so I can match the path with the reference better.
+
+57
+00:04:51,650 --> 00:04:55,070
+I hold all two and try to match it with the reference.
+
+58
+00:04:55,880 --> 00:04:59,000
+Again, I hold alt and try to do that.
+
+59
+00:05:00,610 --> 00:05:03,310
+I do the same for these points as well.
+
+60
+00:05:08,900 --> 00:05:13,340
+I make both layers visible and I make the line color brown.
+
+61
+00:05:18,380 --> 00:05:22,160
+Let me hide your reference so I can see how much we have progressed.
+
+62
+00:05:25,140 --> 00:05:27,370
+Now let's work on this thing part.
+
+63
+00:05:27,390 --> 00:05:29,940
+I just have to create a triangle.
+
+64
+00:05:33,500 --> 00:05:37,430
+I put it below the body layer and I name it this thing.
+
+65
+00:05:43,400 --> 00:05:44,540
+For the eyes.
+
+66
+00:05:44,540 --> 00:05:46,190
+I use the lips tool.
+
+67
+00:05:50,100 --> 00:05:55,320
+I come here in the center of the circle, I hold control shift and start driving.
+
+68
+00:05:55,320 --> 00:05:59,780
+So it starts from the center and it remains symmetrical.
+
+69
+00:05:59,790 --> 00:06:07,170
+And for the anchor point to move to the center of the shape, isolate the layer, hold control and double
+
+70
+00:06:07,170 --> 00:06:09,300
+click on the pen behind to.
+
+71
+00:06:11,320 --> 00:06:12,520
+I rename it.
+
+72
+00:06:15,090 --> 00:06:17,940
+I duplicate the layer and rename it again.
+
+73
+00:06:23,440 --> 00:06:29,170
+For the you're not to move around and in unwanted directions, just hold shift and drag.
+
+74
+00:06:29,170 --> 00:06:32,710
+So it would only move alongside the x axis.
+
+75
+00:06:36,920 --> 00:06:38,900
+Let's take a look at it again.
+
+76
+00:06:41,100 --> 00:06:43,080
+Then I create the cheeks.
+
+77
+00:06:44,040 --> 00:06:48,630
+For that I just have to duplicate this layer and move it over here.
+
+78
+00:06:52,980 --> 00:06:54,570
+To scale up the layer.
+
+79
+00:06:54,570 --> 00:06:56,850
+I just have to use these points.
+
+80
+00:06:56,850 --> 00:07:00,240
+I hold shifts so as not to disturb its proportion.
+
+81
+00:07:01,360 --> 00:07:03,850
+I changed color like the reference.
+
+82
+00:07:07,070 --> 00:07:09,440
+I duplicate it and move it here.
+
+83
+00:07:14,010 --> 00:07:15,870
+Let's work on the mouth part.
+
+84
+00:07:18,580 --> 00:07:19,120
+For that.
+
+85
+00:07:19,120 --> 00:07:20,620
+I use the pen tool.
+
+86
+00:07:21,130 --> 00:07:23,500
+I create a point like this here.
+
+87
+00:07:25,570 --> 00:07:26,230
+And here.
+
+88
+00:07:26,230 --> 00:07:27,100
+Like this.
+
+89
+00:07:30,960 --> 00:07:32,730
+I disable its feel.
+
+90
+00:07:36,850 --> 00:07:38,500
+An enabling stroke.
+
+91
+00:07:41,460 --> 00:07:42,840
+I swallowed the layer.
+
+92
+00:07:43,700 --> 00:07:47,390
+As you can see, these parts aren't around to round them up.
+
+93
+00:07:47,390 --> 00:07:48,800
+Just like the reference.
+
+94
+00:07:48,800 --> 00:07:52,340
+I have to go to the shape layer in contents.
+
+95
+00:07:52,730 --> 00:07:54,350
+I open the shape.
+
+96
+00:07:57,000 --> 00:07:58,530
+In a stroke section.
+
+97
+00:07:58,530 --> 00:08:00,990
+I set the line cap to round cap.
+
+98
+00:08:02,000 --> 00:08:06,680
+And now these parts are around and about the settings.
+
+99
+00:08:06,680 --> 00:08:11,630
+Don't worry, because I've explained all these settings in the Shape chapter.
+
+100
+00:08:13,660 --> 00:08:17,870
+Well, let's take a look at the layers we've created so far.
+
+101
+00:08:17,890 --> 00:08:19,150
+It looks all right.
+
+102
+00:08:21,750 --> 00:08:23,580
+Let me rename this layer to.
+
+103
+00:08:25,340 --> 00:08:28,580
+Then I'm going to create the antennas for that.
+
+104
+00:08:28,580 --> 00:08:29,900
+I use the pen tool.
+
+105
+00:08:40,590 --> 00:08:41,880
+I renamed the layer.
+
+106
+00:08:43,370 --> 00:08:45,130
+As delayed and isolated.
+
+107
+00:08:45,140 --> 00:08:50,400
+I create this circle so that both of the shames would place in one layer.
+
+108
+00:08:50,420 --> 00:08:57,320
+I come to the center of the circle and by holding control shift and dragging, I create the circle.
+
+109
+00:08:57,350 --> 00:08:58,400
+I disable it.
+
+110
+00:08:58,400 --> 00:08:59,270
+Stroke.
+
+111
+00:09:00,850 --> 00:09:04,930
+And enable its feel and I change its color like the reference.
+
+112
+00:09:07,390 --> 00:09:08,710
+To fix its size.
+
+113
+00:09:08,710 --> 00:09:10,240
+I make it smaller.
+
+114
+00:09:10,960 --> 00:09:14,350
+I hold shifts so as not to disturb its proportion.
+
+115
+00:09:16,650 --> 00:09:23,820
+I have to place its anchor point here because I want to rotate it from here to make the other antenna.
+
+116
+00:09:23,850 --> 00:09:28,830
+I duplicate this layer and put it here and rotate it.
+
+117
+00:09:32,040 --> 00:09:34,490
+Then I'm going to create the wings.
+
+118
+00:09:35,840 --> 00:09:36,500
+For that.
+
+119
+00:09:36,500 --> 00:09:40,070
+The easiest way would be to create a circle here.
+
+120
+00:09:44,550 --> 00:09:45,750
+I rename it.
+
+121
+00:09:47,260 --> 00:09:53,800
+Note that when you use these tools to create your shape, you won't have any control over the points.
+
+122
+00:09:54,960 --> 00:09:58,920
+As you can see, if I want to change any point, I can do that.
+
+123
+00:10:01,200 --> 00:10:05,550
+And the only control you have is changing its size and position.
+
+124
+00:10:06,270 --> 00:10:12,120
+But if you want to have control of its path and points, you just have to right click on the Leap's
+
+125
+00:10:12,120 --> 00:10:14,880
+path and convert it to a busier path.
+
+126
+00:10:14,910 --> 00:10:21,570
+After doing so, if you hover over the points using the pen tool, the icon of the tool changes and
+
+127
+00:10:21,570 --> 00:10:27,780
+now you can freely change the path for that, isolate one point and hit control.
+
+128
+00:10:27,780 --> 00:10:31,990
+A So all of the points would be selected and then I hit control tw.
+
+129
+00:10:32,010 --> 00:10:39,450
+So this tool appears and now I can transform, rotate and change the shape however I want.
+
+130
+00:10:39,480 --> 00:10:45,450
+Then I rotate the shape in a way that this point would be aligned with the connection point of the wing
+
+131
+00:10:45,480 --> 00:10:46,320
+to the body.
+
+132
+00:10:48,300 --> 00:10:52,290
+Then I pick up the pen tool again, hold alt and click here.
+
+133
+00:10:52,290 --> 00:10:57,060
+So all points would be select and I select this point and move it here.
+
+134
+00:10:57,630 --> 00:11:00,000
+And now I adjusted like this.
+
+135
+00:11:08,480 --> 00:11:11,600
+Isolate the shape, change its true color.
+
+136
+00:11:17,000 --> 00:11:20,180
+And I changed the field color like the reference.
+
+137
+00:11:24,370 --> 00:11:27,070
+And I place the anchor point over here.
+
+138
+00:11:34,260 --> 00:11:37,530
+This layer should be placed below the antennas.
+
+139
+00:11:38,870 --> 00:11:42,020
+I duplicate the layer and move it below the body.
+
+140
+00:11:43,900 --> 00:11:45,640
+I rotated like that.
+
+141
+00:11:47,750 --> 00:11:50,000
+And I slightly move it to the right.
+
+142
+00:11:52,650 --> 00:11:56,790
+Let me hide your reference and I make the other layers visible.
+
+143
+00:12:00,510 --> 00:12:02,970
+Well, I create a background as well.
+
+144
+00:12:04,410 --> 00:12:05,220
+Rename it.
+
+145
+00:12:07,070 --> 00:12:09,680
+And I place it below the other layers.
+
+146
+00:12:10,220 --> 00:12:12,780
+And then I have to create a shadow for this.
+
+147
+00:12:13,220 --> 00:12:15,760
+For it to be exactly in the center.
+
+148
+00:12:15,770 --> 00:12:18,170
+I enable Title Action save.
+
+149
+00:12:21,030 --> 00:12:24,480
+And then I hold control and create a shadow for it.
+
+150
+00:12:25,840 --> 00:12:29,740
+I disable it strong and make the film color brown.
+
+151
+00:12:32,790 --> 00:12:34,110
+I name it Shadow.
+
+152
+00:12:35,310 --> 00:12:36,600
+And I put it below.
+
+153
+00:12:38,610 --> 00:12:40,800
+I disable title action save.
+
+154
+00:12:43,150 --> 00:12:49,060
+I place its anchor point in the center and decrease its opacity a little.
+
+155
+00:12:53,100 --> 00:12:55,530
+Well, our design is quite ready.
+
+156
+00:12:55,560 --> 00:12:58,560
+In the next part, I'll begin animating the speed.
+
+157
+00:12:58,590 --> 00:13:00,060
+So I'll see you there.

@@ -1,0 +1,523 @@
+1
+00:00:00,600 --> 00:00:03,350
+The next modifier is train path.
+
+2
+00:00:04,920 --> 00:00:09,060
+We have created such notification and we have animated in this way.
+
+3
+00:00:10,190 --> 00:00:14,630
+Now we want to animate this circle and these lines using tree path.
+
+4
+00:00:16,870 --> 00:00:18,160
+Open shape player.
+
+5
+00:00:19,320 --> 00:00:20,550
+Open contents.
+
+6
+00:00:21,500 --> 00:00:24,170
+First of all, we want the circle to create.
+
+7
+00:00:26,030 --> 00:00:29,750
+So click on ellipse and add train path modifier to eight.
+
+8
+00:00:33,200 --> 00:00:35,390
+Now open the modifier layer.
+
+9
+00:00:36,430 --> 00:00:38,470
+The first option is a start.
+
+10
+00:00:39,860 --> 00:00:44,210
+By this option, you can remove the shape from the beginning point of the shape.
+
+11
+00:00:48,330 --> 00:00:52,140
+And end means this will happen from the ending point.
+
+12
+00:00:55,810 --> 00:00:58,960
+I've said is used for moving the shape you have created.
+
+13
+00:01:00,940 --> 00:01:05,350
+As you see, you can easily move this area using a set parameter.
+
+14
+00:01:08,200 --> 00:01:11,440
+I create a simple animation for this circle.
+
+15
+00:01:14,090 --> 00:01:18,710
+I said the start on 100 to hide the stroke in the beginning.
+
+16
+00:01:18,740 --> 00:01:23,360
+After ten frames, I set it to zero to appear completely.
+
+17
+00:01:25,440 --> 00:01:26,610
+Let's have a look.
+
+18
+00:01:31,330 --> 00:01:36,230
+As you see, when the train path is applying, it is applied on the field as well.
+
+19
+00:01:36,250 --> 00:01:38,710
+This makes the animation an interesting.
+
+20
+00:01:41,700 --> 00:01:44,640
+To prevent this, we duplicate the ellipse.
+
+21
+00:01:47,410 --> 00:01:50,290
+The light train path and a stroke of the upper one.
+
+22
+00:01:53,070 --> 00:01:53,610
+Move it.
+
+23
+00:01:53,610 --> 00:01:55,260
+Benioff La Swan.
+
+24
+00:01:56,840 --> 00:01:58,700
+Gillette, Phil and Philip Swann.
+
+25
+00:02:00,700 --> 00:02:05,740
+Now, when the stroke is animating, the circle won't look uninteresting.
+
+26
+00:02:09,560 --> 00:02:11,750
+Its animation is a bit fast.
+
+27
+00:02:13,450 --> 00:02:16,280
+I set the second keyframe on one second.
+
+28
+00:02:16,300 --> 00:02:17,200
+Let's see.
+
+29
+00:02:22,410 --> 00:02:24,060
+It's a little slow.
+
+30
+00:02:24,690 --> 00:02:28,530
+Set it on 20 frames and easy is both key frames.
+
+31
+00:02:33,480 --> 00:02:34,410
+It's OC.
+
+32
+00:02:37,700 --> 00:02:40,610
+I want to make the stroke corners smoother.
+
+33
+00:02:40,760 --> 00:02:44,000
+So I open a stroke and select round cap.
+
+34
+00:02:57,130 --> 00:02:59,950
+Now we should animate these lines.
+
+35
+00:03:02,850 --> 00:03:05,940
+In order to animate these lines with one train path.
+
+36
+00:03:07,570 --> 00:03:09,580
+Select all three of them.
+
+37
+00:03:11,340 --> 00:03:14,580
+Press control g to move them inside the group.
+
+38
+00:03:16,480 --> 00:03:18,520
+At the train path for this group.
+
+39
+00:03:21,540 --> 00:03:23,460
+Now we should animate the start.
+
+40
+00:03:25,180 --> 00:03:28,530
+You see, the layers are animating in this direction.
+
+41
+00:03:28,540 --> 00:03:31,510
+We want them to animate in the opposite direction.
+
+42
+00:03:31,510 --> 00:03:37,240
+So we use and all three lines are now animating at the same time.
+
+43
+00:03:37,240 --> 00:03:38,860
+But we don't want this.
+
+44
+00:03:39,670 --> 00:03:45,430
+We want this line to be animated, first of all, and then this line and finally, this one.
+
+45
+00:03:48,560 --> 00:03:50,990
+Therefore in three multiple shapes.
+
+46
+00:03:52,420 --> 00:03:54,240
+You should select individually.
+
+47
+00:03:57,000 --> 00:04:03,300
+Now you see the lines are animating from the third line, but we don't want that and we want them to
+
+48
+00:04:03,300 --> 00:04:04,970
+animate from upper lines.
+
+49
+00:04:04,980 --> 00:04:08,220
+So we should change the order of the shapes.
+
+50
+00:04:10,300 --> 00:04:11,590
+That's okay now.
+
+51
+00:04:13,770 --> 00:04:21,150
+When the notification reaches this point, we create a keyframe for any parameter, and after 30 frames
+
+52
+00:04:21,150 --> 00:04:23,070
+we set it on 100.
+
+53
+00:04:23,100 --> 00:04:25,260
+Easy is its key frames.
+
+54
+00:04:26,760 --> 00:04:27,900
+Let's have a look.
+
+55
+00:04:36,780 --> 00:04:39,990
+OC You can create such an animation using three path.
+
+56
+00:04:42,630 --> 00:04:48,000
+Another thing that you should learn is that if you want to start from this point.
+
+57
+00:04:49,460 --> 00:04:53,630
+You should open shape and open lips of the stroke.
+
+58
+00:04:54,990 --> 00:05:01,350
+And right click on its ellipse path and convert it to busier path to be able to see its point.
+
+59
+00:05:03,060 --> 00:05:06,930
+Select the point that you want the train path to be animated from there.
+
+60
+00:05:06,960 --> 00:05:10,000
+Right click and from Mask and Shape Path.
+
+61
+00:05:10,020 --> 00:05:12,240
+Select Set first where Text.
+
+62
+00:05:14,370 --> 00:05:18,690
+Now you see, the start point of the animation will be from that point.
+
+63
+00:05:19,440 --> 00:05:20,400
+Look at here.
+
+64
+00:05:28,250 --> 00:05:33,830
+The next example is this one that you can create for the growth of the plans.
+
+65
+00:05:38,040 --> 00:05:39,690
+We want to remake it.
+
+66
+00:05:42,790 --> 00:05:48,440
+So to create this, we go to the end of the animation and select the stem of the planter.
+
+67
+00:05:50,320 --> 00:05:52,870
+Disable the keyframes of the three path.
+
+68
+00:05:54,370 --> 00:05:57,490
+Delete the train path modifiers which are applied.
+
+69
+00:06:08,810 --> 00:06:11,900
+They say, well, the animation of the Last Circle as well.
+
+70
+00:06:12,850 --> 00:06:18,370
+Go to the last key frame in which the circle is completed and yellow trim path.
+
+71
+00:06:21,990 --> 00:06:22,350
+Okay.
+
+72
+00:06:22,350 --> 00:06:26,100
+Now simply create a trim path in the contents of the circle.
+
+73
+00:06:26,100 --> 00:06:27,000
+The stroke.
+
+74
+00:06:28,820 --> 00:06:33,860
+Zooming then from the frame that the seed enters the circle.
+
+75
+00:06:33,860 --> 00:06:34,700
+Exactly.
+
+76
+00:06:34,700 --> 00:06:37,640
+From here it should start animating.
+
+77
+00:06:39,300 --> 00:06:40,590
+Open stream path.
+
+78
+00:06:41,400 --> 00:06:43,920
+Create a key frame for its starter.
+
+79
+00:06:43,950 --> 00:06:48,000
+Go to any frames forward and set it to 100.
+
+80
+00:06:48,750 --> 00:06:51,420
+Select two key frames and apply time.
+
+81
+00:06:51,420 --> 00:06:53,580
+Reverse keyframe to reverse it.
+
+82
+00:06:57,420 --> 00:06:59,610
+Easy is both of the key frames.
+
+83
+00:07:03,580 --> 00:07:05,740
+Move the keyframes back a bit.
+
+84
+00:07:09,740 --> 00:07:10,310
+Good.
+
+85
+00:07:11,440 --> 00:07:16,120
+When the circle completed, we start animating the stem of the plant.
+
+86
+00:07:19,360 --> 00:07:23,410
+Open this down layer contents base.
+
+87
+00:07:24,100 --> 00:07:27,040
+This is the main shape of this term of this plant.
+
+88
+00:07:28,930 --> 00:07:33,130
+Then instead of adding a train path here, I copy this one.
+
+89
+00:07:33,910 --> 00:07:36,310
+Click on the base and press control V.
+
+90
+00:07:38,100 --> 00:07:41,760
+Then we open three paths and increase keyframes distance.
+
+91
+00:07:44,820 --> 00:07:47,370
+Exactly the amount of camera movements.
+
+92
+00:07:48,570 --> 00:07:50,340
+Move the key frame here.
+
+93
+00:07:51,060 --> 00:07:53,640
+The first key frame of the camera is here.
+
+94
+00:07:53,670 --> 00:07:56,670
+Move the first key frame of the train path here.
+
+95
+00:07:58,350 --> 00:07:58,710
+Said.
+
+96
+00:07:58,710 --> 00:08:04,290
+The second key frame of the circle here in order to start the animation of this time of the plant as
+
+97
+00:08:04,290 --> 00:08:05,220
+it finishes.
+
+98
+00:08:06,780 --> 00:08:11,400
+Now why this term of the plant is animating, the camera is moving as well.
+
+99
+00:08:14,820 --> 00:08:16,540
+It moves until here.
+
+100
+00:08:16,560 --> 00:08:17,220
+Here.
+
+101
+00:08:17,220 --> 00:08:19,920
+This demo of the flower should be created.
+
+102
+00:08:23,700 --> 00:08:25,890
+So we copy this train path.
+
+103
+00:08:28,250 --> 00:08:31,250
+Select this shape and press control V.
+
+104
+00:08:34,330 --> 00:08:35,410
+Open the shape.
+
+105
+00:08:38,540 --> 00:08:40,430
+After 20 frames.
+
+106
+00:08:40,850 --> 00:08:42,830
+Move this key frame here.
+
+107
+00:08:44,810 --> 00:08:45,680
+Let's see.
+
+108
+00:08:47,330 --> 00:08:47,840
+Good.
+
+109
+00:08:49,710 --> 00:08:51,570
+The next shape is this one.
+
+110
+00:08:52,260 --> 00:08:54,630
+Now, you should animate this one.
+
+111
+00:08:54,660 --> 00:08:56,790
+These are the rest of the shapes.
+
+112
+00:08:59,200 --> 00:09:01,090
+Copy this train path again.
+
+113
+00:09:02,580 --> 00:09:05,580
+Select the next shape and press control v.
+
+114
+00:09:05,700 --> 00:09:06,870
+Go forward.
+
+115
+00:09:08,680 --> 00:09:10,240
+This is the next shape.
+
+116
+00:09:11,110 --> 00:09:12,310
+So like this.
+
+117
+00:09:13,620 --> 00:09:16,290
+Control, we go forward.
+
+118
+00:09:17,740 --> 00:09:19,290
+This is the next shape.
+
+119
+00:09:19,300 --> 00:09:21,790
+Select this control V.
+
+120
+00:09:23,000 --> 00:09:26,060
+We go up there and this shape.
+
+121
+00:09:27,040 --> 00:09:28,540
+Press control V.
+
+122
+00:09:29,140 --> 00:09:30,010
+Let's see.
+
+123
+00:09:37,000 --> 00:09:42,010
+As you see, when the main stem reaches to the stem of the flowers, their animation begins.
+
+124
+00:09:42,340 --> 00:09:45,700
+And after that, the animation of the flowers starts.
+
+125
+00:09:48,350 --> 00:09:52,700
+Sometimes it happens to start from the end point like this.
+
+126
+00:09:57,080 --> 00:10:00,560
+To solve this, click on the Reverse Path button.
+
+127
+00:10:12,170 --> 00:10:13,730
+Okay, let's have a look.
+
+128
+00:10:21,420 --> 00:10:25,200
+To learn how to animate the hands and bushes around the scene.
+
+129
+00:10:25,200 --> 00:10:27,660
+Follow us to the end of this chapter.
+
+130
+00:10:29,750 --> 00:10:34,310
+This example was one of the most useful ways using tree path.
+
+131
+00:10:37,750 --> 00:10:38,590
+Good luck.

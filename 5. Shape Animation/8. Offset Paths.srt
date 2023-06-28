@@ -1,0 +1,507 @@
+1
+00:00:01,060 --> 00:00:03,610
+The next modifier is offset path.
+
+2
+00:00:03,880 --> 00:00:11,080
+As I told before, in order to add a modifier to the scene, we should add a shape open shape layer
+
+3
+00:00:11,080 --> 00:00:13,550
+in contents parameter of this layer.
+
+4
+00:00:13,570 --> 00:00:19,390
+There is an ad and by clicking on this button you can add any modifier you want.
+
+5
+00:00:20,050 --> 00:00:23,470
+I add offset pass modifier to the shape.
+
+6
+00:00:24,660 --> 00:00:29,410
+Up an offset path modifier of an offset path modifier.
+
+7
+00:00:29,710 --> 00:00:35,350
+The first parameter is a mount with which you can expand or abbreviate the shape.
+
+8
+00:00:36,430 --> 00:00:39,130
+It somehow like scale or size.
+
+9
+00:00:39,220 --> 00:00:42,550
+But there are some difference that I will explain you.
+
+10
+00:00:45,180 --> 00:00:52,560
+The first difference is that in order to scale down or scale up the star, you should go to Poly star
+
+11
+00:00:52,560 --> 00:00:54,230
+and poly star path.
+
+12
+00:00:54,240 --> 00:01:02,280
+You want see such parameter for size and you can just do that in transform parameter, which has some
+
+13
+00:01:02,280 --> 00:01:09,690
+problems that the size of this stroke will increase simultaneously, which is not interesting at all.
+
+14
+00:01:10,710 --> 00:01:13,050
+Go back to offset path modifier.
+
+15
+00:01:13,380 --> 00:01:15,840
+You can easily do this with amount.
+
+16
+00:01:16,260 --> 00:01:21,660
+You can scale up or down your star, although your stroke size won't change.
+
+17
+00:01:22,690 --> 00:01:24,490
+The next parameter is line.
+
+18
+00:01:24,490 --> 00:01:25,510
+Join that.
+
+19
+00:01:25,510 --> 00:01:29,800
+As it name implies, it changes the corners of the shape.
+
+20
+00:01:29,950 --> 00:01:34,000
+Now they set on miter join, which makes the corners sharp.
+
+21
+00:01:34,480 --> 00:01:42,880
+If you change it to round corners will change into round and bevel, adds Bevel to the corners.
+
+22
+00:01:43,180 --> 00:01:45,370
+I said it on miter join again.
+
+23
+00:01:45,820 --> 00:01:48,310
+The next parameter is miter limits.
+
+24
+00:01:48,340 --> 00:01:51,310
+It is used to define the sharp area of the corners.
+
+25
+00:01:52,140 --> 00:01:56,520
+For example, here, the angle of this part of this star is this.
+
+26
+00:01:57,120 --> 00:02:03,690
+But if we open Polar Star and increase the angle of these corners in inner radius, you see the shape
+
+27
+00:02:03,690 --> 00:02:05,310
+is now like bevel.
+
+28
+00:02:10,300 --> 00:02:12,340
+Let me increase my term limits.
+
+29
+00:02:12,370 --> 00:02:19,960
+You see, I increased the sharp area of the corners because I want its corners to be sharp in larger
+
+30
+00:02:19,960 --> 00:02:20,800
+radius.
+
+31
+00:02:22,950 --> 00:02:24,240
+I reset it.
+
+32
+00:02:30,380 --> 00:02:32,390
+The next parameter is copy.
+
+33
+00:02:32,420 --> 00:02:36,530
+Using this parameter, you can have several copy of your shape.
+
+34
+00:02:37,710 --> 00:02:39,420
+I set it on five.
+
+35
+00:02:40,630 --> 00:02:44,710
+As you see, five copies are out of the main shape.
+
+36
+00:02:44,710 --> 00:02:51,610
+But if you want to create the copies inside the main shape, you should change the amount to a minus
+
+37
+00:02:51,610 --> 00:02:52,220
+value.
+
+38
+00:02:52,240 --> 00:02:54,260
+Five copies are too much.
+
+39
+00:02:54,280 --> 00:02:55,960
+I set it on three.
+
+40
+00:02:57,290 --> 00:02:58,790
+I set it on to.
+
+41
+00:02:58,790 --> 00:03:06,890
+When a mount is set on a minus value, the copies will be created inside the main shape and if the amount
+
+42
+00:03:06,890 --> 00:03:10,520
+is positive, copies will be created outside it.
+
+43
+00:03:12,340 --> 00:03:17,170
+Copy offset is also used to offsetting the copies like this.
+
+44
+00:03:19,240 --> 00:03:23,140
+Now we have introduced a set path modifier briefly.
+
+45
+00:03:23,200 --> 00:03:25,160
+Let's go to our example.
+
+46
+00:03:25,180 --> 00:03:32,530
+One of the perfect usages of this modifier is for these kinds of things that you can have such a stroke
+
+47
+00:03:32,530 --> 00:03:33,820
+around the shape.
+
+48
+00:03:35,510 --> 00:03:38,990
+We want to create such a stroke for this notification.
+
+49
+00:03:44,320 --> 00:03:47,410
+So I OpenShift layer contents.
+
+50
+00:03:48,070 --> 00:03:52,750
+I delete a group of these stroke since I want to create it again.
+
+51
+00:03:55,650 --> 00:03:56,580
+To do this.
+
+52
+00:03:56,590 --> 00:03:58,690
+I use this rectangle.
+
+53
+00:04:00,480 --> 00:04:03,180
+Let me disable this to understand better.
+
+54
+00:04:04,120 --> 00:04:07,930
+I use this shape to create the stroke I mentioned.
+
+55
+00:04:10,080 --> 00:04:13,560
+So I duplicate this layer and move it down.
+
+56
+00:04:15,140 --> 00:04:20,600
+You might think that you can do this by just scaling, but that is not true.
+
+57
+00:04:24,680 --> 00:04:29,800
+I hide this layer, I select this shape, I reveal this layer.
+
+58
+00:04:29,810 --> 00:04:31,640
+I press control DT.
+
+59
+00:04:31,760 --> 00:04:33,440
+I want to scale it.
+
+60
+00:04:35,080 --> 00:04:39,310
+As you see when I scale it, that is not interesting enough.
+
+61
+00:04:39,310 --> 00:04:43,210
+By moving it, we can't create it easily as well.
+
+62
+00:04:44,260 --> 00:04:48,310
+We should try a lot to make the space between the shape and a stroke.
+
+63
+00:04:48,310 --> 00:04:49,960
+The same everywhere.
+
+64
+00:04:50,740 --> 00:04:55,980
+It's so hard and it's better for you to use a set path modifier.
+
+65
+00:04:55,990 --> 00:04:58,390
+So I press control Z.
+
+66
+00:04:58,420 --> 00:05:00,730
+I return to the first mode.
+
+67
+00:05:00,760 --> 00:05:02,860
+I reveal these ones.
+
+68
+00:05:02,890 --> 00:05:08,840
+This is the main shape and this one is the shape that we want to create a stroke from.
+
+69
+00:05:08,860 --> 00:05:12,400
+I press control g to move it to a group.
+
+70
+00:05:12,430 --> 00:05:14,020
+I open the group.
+
+71
+00:05:15,750 --> 00:05:18,150
+Add offset path modifier to eight.
+
+72
+00:05:19,880 --> 00:05:21,170
+Increase the amount.
+
+73
+00:05:21,170 --> 00:05:22,550
+You have some space.
+
+74
+00:05:23,330 --> 00:05:26,960
+As you see the space all around, the shape is the same.
+
+75
+00:05:26,960 --> 00:05:32,000
+And we have done that with and we have done that without any problems.
+
+76
+00:05:36,330 --> 00:05:42,600
+Here, you can decide whether to be sharp set and miter or you want it to be smooth.
+
+77
+00:05:43,890 --> 00:05:45,660
+So set it on round.
+
+78
+00:05:49,230 --> 00:05:50,940
+I want it to be sharp.
+
+79
+00:05:54,730 --> 00:05:56,530
+Then open rectangle.
+
+80
+00:05:57,190 --> 00:06:01,270
+I don't want the feel of the second stroke, so I delete it.
+
+81
+00:06:05,120 --> 00:06:06,690
+Open a stroke eye.
+
+82
+00:06:06,770 --> 00:06:09,730
+Click on Dash to turn the stroke into dashes.
+
+83
+00:06:09,800 --> 00:06:12,050
+I click again and change its settings.
+
+84
+00:06:13,920 --> 00:06:16,590
+I press it again to make it a regular.
+
+85
+00:06:21,970 --> 00:06:28,090
+Then in line cap parameter select round cap to have rounded stroke corners.
+
+86
+00:06:38,950 --> 00:06:44,560
+To rotate this troll continuously alt and left click on a stopwatch of the offset parameter.
+
+87
+00:06:47,820 --> 00:06:48,270
+Here.
+
+88
+00:06:48,270 --> 00:06:48,780
+Time.
+
+89
+00:06:48,810 --> 00:06:50,520
+Time 100.
+
+90
+00:07:00,920 --> 00:07:04,380
+I think the diameter of this stroke is a bit much.
+
+91
+00:07:04,400 --> 00:07:08,450
+So go to stroke width and set it to eight.
+
+92
+00:07:12,710 --> 00:07:15,380
+I want to reverse its rotation.
+
+93
+00:07:15,470 --> 00:07:18,890
+I change 100 to -100.
+
+94
+00:07:22,910 --> 00:07:25,840
+So here is the animation of this stroke.
+
+95
+00:07:31,350 --> 00:07:34,140
+The next example is creating such thing.
+
+96
+00:07:40,130 --> 00:07:42,380
+So open shape content.
+
+97
+00:07:44,460 --> 00:07:47,580
+Andela, this wave, since we want to remake it.
+
+98
+00:07:51,840 --> 00:07:56,970
+Also the litter offset path, so the shape is inside the group.
+
+99
+00:07:57,450 --> 00:07:58,920
+Duplicate this group.
+
+100
+00:08:00,750 --> 00:08:03,660
+Remove the animation created for this scale.
+
+101
+00:08:09,100 --> 00:08:14,860
+After removing its animation, click on Contents and add offset path modifiers to it.
+
+102
+00:08:15,900 --> 00:08:17,290
+Move with benefit group to.
+
+103
+00:08:18,980 --> 00:08:22,220
+I had this layer to better know what is going on.
+
+104
+00:08:23,400 --> 00:08:26,060
+By increasing the amount of the offset path.
+
+105
+00:08:26,070 --> 00:08:30,450
+All shapes that are inside the group will be offset separately.
+
+106
+00:08:34,930 --> 00:08:36,080
+We don't want this.
+
+107
+00:08:36,100 --> 00:08:40,070
+We want all of them to be recognized as a single shape.
+
+108
+00:08:40,090 --> 00:08:48,550
+So open group and add merge path modifiers to it immediately after adding it of said parser recognized
+
+109
+00:08:48,550 --> 00:08:54,220
+all of that as a single shape and the sets all shapes as one shape.
+
+110
+00:08:54,490 --> 00:09:00,370
+Now, inside the group layer we don't need fill anymore, so I disable it.
+
+111
+00:09:02,670 --> 00:09:05,010
+Then I enable group one.
+
+112
+00:09:07,100 --> 00:09:11,090
+From this point, that offset path has covered around the shape.
+
+113
+00:09:11,090 --> 00:09:12,890
+I start animating it.
+
+114
+00:09:16,830 --> 00:09:18,750
+Create a key frame for it.
+
+115
+00:09:18,930 --> 00:09:20,580
+Go to second one.
+
+116
+00:09:21,920 --> 00:09:23,690
+Increase its amount.
+
+117
+00:09:25,240 --> 00:09:26,320
+This march.
+
+118
+00:09:32,100 --> 00:09:34,860
+Then create a key frame for a stroke with.
+
+119
+00:09:37,210 --> 00:09:39,250
+Finally set it on zero.
+
+120
+00:09:40,660 --> 00:09:43,150
+Press you to see the keyframes.
+
+121
+00:09:46,440 --> 00:09:51,570
+Then the sun comes here and from here on it gets larger.
+
+122
+00:09:51,570 --> 00:09:57,780
+In order to coordinate the animation of the wave with the sun and make it loop and continuous.
+
+123
+00:09:58,740 --> 00:10:04,620
+Drag these two key frames for words to have the same duration for the animation of the wave and so on.
+
+124
+00:10:06,100 --> 00:10:09,640
+And create loop hound expression for these two as well.
+
+125
+00:10:12,660 --> 00:10:15,600
+Press control C and paste it here.
+
+126
+00:10:18,740 --> 00:10:20,240
+Let's have a look.
+
+127
+00:10:26,070 --> 00:10:27,390
+It's fine.

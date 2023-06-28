@@ -1,0 +1,139 @@
+1
+00:00:00,120 --> 00:00:07,180
+And for animation, you just need to set the angry slider to 100 and in the eyes also set the angry
+
+2
+00:00:07,180 --> 00:00:10,500
+at 100 so that the angry mode is made for you.
+
+3
+00:00:12,350 --> 00:00:15,930
+So animated and create a squash and stretch for the head.
+
+4
+00:00:15,950 --> 00:00:22,820
+Isolate all the layers of the head except for the head layer and parent them all to the head layer and
+
+5
+00:00:22,820 --> 00:00:25,490
+place the head layer anchor point here.
+
+6
+00:00:26,460 --> 00:00:29,550
+Then I can easily saw animating the head.
+
+7
+00:02:56,130 --> 00:02:59,010
+To be able to also control the eyebrows.
+
+8
+00:02:59,010 --> 00:03:04,140
+When the eye blinks, you need to go to the eyebrows and in the shape transform.
+
+9
+00:03:04,140 --> 00:03:06,420
+Create a keyframe for the position.
+
+10
+00:03:06,450 --> 00:03:08,550
+Do the same for this one too.
+
+11
+00:03:09,210 --> 00:03:12,810
+I move a frame ahead and take it to any pixels down.
+
+12
+00:03:15,990 --> 00:03:20,520
+I hit the key and select these two key frames and then go to the joystick.
+
+13
+00:03:21,060 --> 00:03:25,800
+And in this slider section I create a slider for the eyebrows.
+
+14
+00:04:57,660 --> 00:05:04,290
+The point you need to know is that when you set any mode to 100, the other modes must be at zero.
+
+15
+00:05:04,320 --> 00:05:08,520
+If the two modes are at 100, the face will be disfigured.
+
+16
+00:05:08,520 --> 00:05:11,400
+So I need to set the other modes on zero.
+
+17
+00:07:28,710 --> 00:07:29,090
+And.
+
+18
+00:08:06,630 --> 00:08:10,410
+You can go on and animate different emotions for the face.
+
+19
+00:08:10,890 --> 00:08:16,390
+Just note that if you want to change the sliders you've created into your sliders.
+
+20
+00:08:16,410 --> 00:08:19,110
+You just need to select one of the null objects.
+
+21
+00:08:19,110 --> 00:08:22,400
+For example, isolate the I emotional object.
+
+22
+00:08:22,410 --> 00:08:28,740
+Then I go to the joystick and in the slider click on create from the slider section.
+
+23
+00:08:37,670 --> 00:08:38,720
+I bring them here.
+
+24
+00:08:38,720 --> 00:08:43,370
+And as you see, these are the sliders with the same names I chosen before.
+
+25
+00:08:44,150 --> 00:08:50,690
+I go to the bullying slider here, you can delete the left part of your slider that you don't need by
+
+26
+00:08:50,690 --> 00:08:52,100
+disabling this option.
+
+27
+00:08:52,100 --> 00:08:58,520
+And you can go to the original layer of each one of these sliders and change your slider however you
+
+28
+00:08:58,520 --> 00:08:59,120
+like.
+
+29
+00:09:11,930 --> 00:09:17,000
+And just like what they did here, you can change your sliders however you want.
+
+30
+00:09:17,720 --> 00:09:23,780
+And finally, you get better acquainted with the tools and joystick script for what you do and become
+
+31
+00:09:23,780 --> 00:09:29,600
+able to use them professionally and also become familiar with the different methods to rig the head
+
+32
+00:09:29,600 --> 00:09:36,470
+using this script or find the ability to rig the different objects other than the head, such as cars
+
+33
+00:09:36,470 --> 00:09:37,690
+or anything else.
+
+34
+00:09:37,700 --> 00:09:43,040
+Enrolling my course by the link in the description, you can get it for half price.
+
+35
+00:09:43,140 --> 00:09:44,000
+Good luck.

@@ -1,0 +1,815 @@
+1
+00:00:00,710 --> 00:00:04,490
+The next modifier we will talk about it is repeater.
+
+2
+00:00:05,670 --> 00:00:08,970
+Open share player in content.
+
+3
+00:00:09,920 --> 00:00:15,410
+Press add button and from modifiers at repeater to the contents.
+
+4
+00:00:18,520 --> 00:00:27,250
+As you see, immediately after I add repeater modifier, the shape is repeating and as it name implies,
+
+5
+00:00:27,250 --> 00:00:34,060
+this modifier is used to repeat your shapes and create several shapes like that up and repeat their
+
+6
+00:00:34,060 --> 00:00:35,020
+modifier.
+
+7
+00:00:35,650 --> 00:00:41,980
+The first option is copies, by which you can control the number of shape copies.
+
+8
+00:00:41,980 --> 00:00:43,550
+It is set on three.
+
+9
+00:00:43,570 --> 00:00:46,180
+You can set it on any number you want.
+
+10
+00:00:47,070 --> 00:00:48,570
+The next one is offset.
+
+11
+00:00:48,600 --> 00:00:50,820
+It's better to explain it later.
+
+12
+00:00:52,040 --> 00:00:57,730
+The next one is composite by which you can define how they overlap each other.
+
+13
+00:00:57,740 --> 00:01:03,320
+For example, the first one should be on the second one, the second one, and the third, or vice versa.
+
+14
+00:01:03,350 --> 00:01:07,250
+The first one, the second one, and the second one beneath the third one.
+
+15
+00:01:07,670 --> 00:01:12,800
+The next one is transform, which is most important parameter in this modifier.
+
+16
+00:01:15,150 --> 00:01:16,500
+Inside transform.
+
+17
+00:01:16,530 --> 00:01:18,630
+First option is anchor point.
+
+18
+00:01:18,750 --> 00:01:20,520
+We have nothing to do with.
+
+19
+00:01:20,640 --> 00:01:27,600
+The second option is positioned that as you see, x position is set at 100, meaning that the distance
+
+20
+00:01:27,600 --> 00:01:30,870
+between two copies should be 100 pixels.
+
+21
+00:01:31,110 --> 00:01:38,370
+As I increase this value, the distance between two copies increases, I set it on 100 again.
+
+22
+00:01:39,960 --> 00:01:43,200
+You can also apply this change in y axis.
+
+23
+00:01:45,540 --> 00:01:47,730
+The next option is scale.
+
+24
+00:01:47,760 --> 00:01:52,770
+Using this option, you can control the scale of the copies you have just like ramp.
+
+25
+00:01:54,430 --> 00:01:59,530
+The next option is rotation, which you can use for rotating the copies.
+
+26
+00:01:59,560 --> 00:02:02,820
+The next options are start and end opacity.
+
+27
+00:02:02,830 --> 00:02:08,650
+By then, you can control the capacity of the beginning or the end of the copies.
+
+28
+00:02:09,760 --> 00:02:12,400
+Now we have finished all options.
+
+29
+00:02:12,400 --> 00:02:14,280
+Let's talk about offset.
+
+30
+00:02:14,290 --> 00:02:19,290
+Offset performance is based on the settings you apply to transform.
+
+31
+00:02:19,300 --> 00:02:24,310
+I have only changed the position X of the transform of the repeater.
+
+32
+00:02:24,310 --> 00:02:27,820
+Therefore the copies are ordered in this position.
+
+33
+00:02:27,820 --> 00:02:33,880
+If I change offset, let me hold down control to make it slower.
+
+34
+00:02:35,420 --> 00:02:39,620
+I can move them in the same position X that I have changed.
+
+35
+00:02:43,560 --> 00:02:50,070
+Now, if I change my position and change upset as well, it will move in this direction.
+
+36
+00:02:53,000 --> 00:02:56,540
+I changed this to zero, this one as well.
+
+37
+00:02:57,180 --> 00:03:00,420
+Now if I change a scale like this.
+
+38
+00:03:01,860 --> 00:03:03,570
+By changing offsets.
+
+39
+00:03:03,570 --> 00:03:10,350
+As they go to the right, the stars get smaller and as they go to the left, they get bigger.
+
+40
+00:03:11,270 --> 00:03:14,870
+The same thing applies to the rotation and opacity.
+
+41
+00:03:30,940 --> 00:03:32,890
+After introducing this modifier.
+
+42
+00:03:32,890 --> 00:03:38,620
+Briefly, let's go to the examples to see when do we mostly use this modifier?
+
+43
+00:03:45,390 --> 00:03:49,980
+The first example is creating such a background using repeater modifier.
+
+44
+00:03:52,370 --> 00:03:53,420
+Or this one.
+
+45
+00:03:57,010 --> 00:03:59,250
+The first background is this one.
+
+46
+00:03:59,260 --> 00:04:00,700
+I open the layer.
+
+47
+00:04:01,360 --> 00:04:03,220
+This is a background layer.
+
+48
+00:04:05,230 --> 00:04:10,990
+The gradient color is here and these two are for creating this hive mode.
+
+49
+00:04:12,540 --> 00:04:15,660
+I like these and I will create it again.
+
+50
+00:04:19,530 --> 00:04:22,730
+I use Polygon Tool holding down shift.
+
+51
+00:04:22,740 --> 00:04:24,660
+I create the shape.
+
+52
+00:04:29,400 --> 00:04:31,140
+Disable its feel.
+
+53
+00:04:31,350 --> 00:04:32,410
+I said it.
+
+54
+00:04:32,430 --> 00:04:35,190
+Stroke on 3.5.
+
+55
+00:04:35,550 --> 00:04:37,770
+Change its color to white.
+
+56
+00:04:39,410 --> 00:04:40,980
+I move it to the left.
+
+57
+00:04:41,000 --> 00:04:43,220
+I should stick to the frame.
+
+58
+00:04:46,920 --> 00:04:48,840
+Now we should repeat it.
+
+59
+00:04:50,530 --> 00:04:58,780
+So to do this, I select contents and from ADD, I add the repeater and I move it above the background
+
+60
+00:04:58,780 --> 00:05:06,550
+since I don't want it to affect on the background open repeater, transform and decrease exposition
+
+61
+00:05:06,550 --> 00:05:09,190
+to place them next to each other.
+
+62
+00:05:17,300 --> 00:05:22,610
+Then you can increase the number of the copies until they completely fill the scene.
+
+63
+00:05:27,650 --> 00:05:32,510
+Select shape and repeater press control and g to move them to a group.
+
+64
+00:05:34,000 --> 00:05:36,580
+Then we add another repeater.
+
+65
+00:05:38,440 --> 00:05:40,810
+Move the repeater above background.
+
+66
+00:05:41,290 --> 00:05:43,630
+I said copies to two.
+
+67
+00:05:45,960 --> 00:05:50,790
+And it transformed said exposition to zero and increase the Y position.
+
+68
+00:05:52,040 --> 00:05:53,120
+Let's zoom in.
+
+69
+00:06:00,790 --> 00:06:01,930
+It's OC.
+
+70
+00:06:02,170 --> 00:06:06,040
+Then we move the repeater and this group to a new group.
+
+71
+00:06:09,230 --> 00:06:12,200
+Then I add another repeater to the shape.
+
+72
+00:06:13,950 --> 00:06:18,450
+Then we set position X to zero and said Y two.
+
+73
+00:06:18,480 --> 00:06:21,450
+Let's see, what number should it be set on?
+
+74
+00:06:24,940 --> 00:06:26,020
+78.
+
+75
+00:06:26,050 --> 00:06:29,140
+Now you can set the number of the copies.
+
+76
+00:06:32,800 --> 00:06:33,880
+It's nine.
+
+77
+00:06:34,920 --> 00:06:38,550
+You see now we have created this background so easily.
+
+78
+00:06:39,450 --> 00:06:42,270
+You can easily create this background as well.
+
+79
+00:06:42,810 --> 00:06:44,590
+Let me delete these.
+
+80
+00:06:44,610 --> 00:06:46,480
+I select contents.
+
+81
+00:06:46,500 --> 00:06:48,810
+I add a shape to the contents.
+
+82
+00:06:50,450 --> 00:06:53,480
+Then we had to repeat there to the shape player.
+
+83
+00:06:57,320 --> 00:06:59,690
+I said the copies number to ten.
+
+84
+00:07:01,130 --> 00:07:05,870
+Decrease its exposition to place them next to each other.
+
+85
+00:07:08,540 --> 00:07:10,040
+13 is fine.
+
+86
+00:07:13,080 --> 00:07:18,480
+I set the start capacity on 80 and set end to 15.
+
+87
+00:07:18,510 --> 00:07:20,490
+Now we have such a shape.
+
+88
+00:07:20,580 --> 00:07:24,630
+Set the start to 72 seem like fade a bit.
+
+89
+00:07:28,370 --> 00:07:29,060
+Sixties.
+
+90
+00:07:29,060 --> 00:07:29,540
+Mother.
+
+91
+00:07:29,540 --> 00:07:30,020
+Yeah.
+
+92
+00:07:32,900 --> 00:07:37,250
+Then group these two and add another repeater to the scene.
+
+93
+00:07:40,920 --> 00:07:41,610
+Here.
+
+94
+00:07:41,610 --> 00:07:43,650
+First we said position X.
+
+95
+00:07:52,270 --> 00:07:54,490
+Set it on 130.
+
+96
+00:07:58,730 --> 00:08:03,230
+Change it to 132 to be a bit far from each other.
+
+97
+00:08:05,760 --> 00:08:07,500
+Said copies to ten.
+
+98
+00:08:09,300 --> 00:08:10,860
+Change, it's offset.
+
+99
+00:08:15,570 --> 00:08:19,740
+Let me change it to feet to see the top right corner better.
+
+100
+00:08:23,820 --> 00:08:26,460
+Change it to minus six.
+
+101
+00:08:29,670 --> 00:08:30,770
+It's better now.
+
+102
+00:08:30,780 --> 00:08:33,120
+Change their copies to 13.
+
+103
+00:08:33,120 --> 00:08:34,270
+14.
+
+104
+00:08:34,290 --> 00:08:35,340
+That's better.
+
+105
+00:08:36,880 --> 00:08:39,430
+It created this background that much easy.
+
+106
+00:08:41,680 --> 00:08:46,650
+The next really useful example of repeater modifier is repeating the shapes.
+
+107
+00:08:48,200 --> 00:08:52,190
+For example, in such for animation, we have a part here.
+
+108
+00:08:53,590 --> 00:08:56,170
+Here is a file that we go for war.
+
+109
+00:08:56,260 --> 00:08:56,590
+The.
+
+110
+00:09:00,260 --> 00:09:03,470
+File is repeated, windows repeated.
+
+111
+00:09:04,940 --> 00:09:07,280
+Again, the window is repeated again.
+
+112
+00:09:07,280 --> 00:09:08,300
+The same part.
+
+113
+00:09:09,450 --> 00:09:10,140
+And so on.
+
+114
+00:09:10,140 --> 00:09:12,930
+You can create such background using repeater.
+
+115
+00:09:17,370 --> 00:09:19,290
+Open the background composition.
+
+116
+00:09:23,530 --> 00:09:28,480
+As you see, we have placed three files here and three windows.
+
+117
+00:09:33,520 --> 00:09:34,690
+Look here.
+
+118
+00:09:34,690 --> 00:09:41,170
+If I open the files layer and hide this repeater, you can see that the two other files are removed.
+
+119
+00:09:44,590 --> 00:09:49,000
+You see, even the single file is created using repeater modifier.
+
+120
+00:09:49,780 --> 00:09:51,590
+I disable the repeater.
+
+121
+00:09:51,610 --> 00:09:58,780
+First of all, you had just one dropper which I repeated that using repeater and made four of that and
+
+122
+00:09:58,780 --> 00:10:02,740
+again using repeater, I repeated the whole file.
+
+123
+00:10:05,540 --> 00:10:07,790
+I did the same with the windows.
+
+124
+00:10:10,330 --> 00:10:15,910
+Attention that if I disable the repeater, the rest of the windows will be removed.
+
+125
+00:10:24,490 --> 00:10:30,370
+As you see, one of the usages of this modifier is the situations that you want to copy the objects
+
+126
+00:10:30,370 --> 00:10:32,140
+and make a busy background.
+
+127
+00:10:36,670 --> 00:10:39,460
+The next example is creating such a thing.
+
+128
+00:10:49,110 --> 00:10:52,050
+Let's create such a shape and animation.
+
+129
+00:10:55,740 --> 00:10:59,340
+Let this enable title action safe.
+
+130
+00:11:00,960 --> 00:11:03,360
+First create a shape from this point.
+
+131
+00:11:11,080 --> 00:11:14,480
+After that go to contents shape.
+
+132
+00:11:14,500 --> 00:11:16,510
+We don't need its feel.
+
+133
+00:11:16,750 --> 00:11:18,340
+Change the stroke line.
+
+134
+00:11:18,340 --> 00:11:22,660
+Cap to round cap to make its corners round the.
+
+135
+00:11:26,870 --> 00:11:32,180
+Then open transformed parameter of the shape and create a key frame for its position.
+
+136
+00:11:33,020 --> 00:11:34,550
+Go ten frames forward.
+
+137
+00:11:36,990 --> 00:11:39,360
+And move the shape up until here.
+
+138
+00:11:46,490 --> 00:11:48,350
+I set the stroke to five.
+
+139
+00:11:52,600 --> 00:11:54,340
+Change this stroke to ten.
+
+140
+00:11:54,370 --> 00:11:55,600
+It's better now.
+
+141
+00:11:59,740 --> 00:12:02,770
+Now add a trim path modifier to the shape.
+
+142
+00:12:03,800 --> 00:12:05,090
+Zoom in a bit.
+
+143
+00:12:07,540 --> 00:12:13,750
+First of all, nothing of the shape should be visible so set and parameter to zero and create a key
+
+144
+00:12:13,750 --> 00:12:14,440
+frame.
+
+145
+00:12:16,050 --> 00:12:18,090
+Go three frames forward.
+
+146
+00:12:18,940 --> 00:12:21,610
+Now the shape should be set to 100.
+
+147
+00:12:28,340 --> 00:12:30,560
+Press you to see the keyframes.
+
+148
+00:12:34,170 --> 00:12:41,730
+Easy is the second key frame of the position of the shape to make its final movement a bit smoother.
+
+149
+00:12:50,920 --> 00:12:54,010
+Then create a key frame for a start parameter.
+
+150
+00:12:56,030 --> 00:12:57,740
+Set it to 100.
+
+151
+00:12:59,050 --> 00:13:02,470
+Go five frames backward and set it to zero.
+
+152
+00:13:03,680 --> 00:13:08,570
+Now the shape starts appearing, and as it goes to the end, it disappears.
+
+153
+00:13:10,460 --> 00:13:11,870
+Let's have a look.
+
+154
+00:13:18,110 --> 00:13:20,240
+Now we want to repeat the shape.
+
+155
+00:13:21,910 --> 00:13:22,800
+Contents.
+
+156
+00:13:22,960 --> 00:13:23,770
+Add.
+
+157
+00:13:24,120 --> 00:13:25,660
+Choose Repeater.
+
+158
+00:13:28,160 --> 00:13:30,710
+Enable title action save.
+
+159
+00:13:33,310 --> 00:13:35,930
+All three of them move together.
+
+160
+00:13:35,950 --> 00:13:38,500
+We don't want to repeat this imposition.
+
+161
+00:13:38,500 --> 00:13:40,870
+We want it happen in rotation.
+
+162
+00:13:42,790 --> 00:13:48,040
+So the number of the copies to eight and set its exposition to zero.
+
+163
+00:13:49,060 --> 00:13:55,060
+And set the rotation to 45 degrees to have the copies in equality stances.
+
+164
+00:13:55,750 --> 00:13:57,310
+Now we have this.
+
+165
+00:13:58,350 --> 00:14:00,750
+Let me disable title action safe.
+
+166
+00:14:11,110 --> 00:14:15,340
+In order to make it more interesting, I add another shape.
+
+167
+00:14:18,900 --> 00:14:25,050
+Press control shave to create the shape exactly from center and completely symmetry.
+
+168
+00:14:29,460 --> 00:14:31,570
+Now we have created the Ellipse.
+
+169
+00:14:31,590 --> 00:14:33,450
+Move it below the repeater.
+
+170
+00:14:33,990 --> 00:14:34,770
+Open it.
+
+171
+00:14:35,490 --> 00:14:37,080
+Remove its field.
+
+172
+00:14:37,380 --> 00:14:39,000
+Open ellipse path.
+
+173
+00:14:40,600 --> 00:14:43,050
+Create a keyframes for its size.
+
+174
+00:14:43,060 --> 00:14:45,200
+Drag it to frame ten.
+
+175
+00:14:45,220 --> 00:14:48,250
+Go to the first frame and set it to zero.
+
+176
+00:14:50,710 --> 00:14:53,590
+Now is he eased the second key frame.
+
+177
+00:14:55,570 --> 00:14:56,920
+Let's have a look.
+
+178
+00:15:03,740 --> 00:15:09,890
+Up in a stroke and create a keyframe for a stroke with a keyframe in the beginning.
+
+179
+00:15:11,060 --> 00:15:12,440
+Go to this frame.
+
+180
+00:15:13,550 --> 00:15:14,000
+Here.
+
+181
+00:15:14,000 --> 00:15:15,200
+Set it to 20.
+
+182
+00:15:17,340 --> 00:15:19,770
+At the end set it to zero.
+
+183
+00:15:21,300 --> 00:15:24,310
+It should be said, and zero in the beginning as well.
+
+184
+00:15:24,330 --> 00:15:25,560
+Let's see.
+
+185
+00:15:28,930 --> 00:15:30,280
+It is very wide.
+
+186
+00:15:30,310 --> 00:15:32,320
+So set it on 15.
+
+187
+00:15:33,330 --> 00:15:38,100
+It is the first and last frame and said this one on Otto busier.
+
+188
+00:15:42,150 --> 00:15:43,380
+It's better now.
+
+189
+00:15:43,740 --> 00:15:45,930
+Let's limit the work area here.
+
+190
+00:15:50,440 --> 00:15:54,490
+The circle should be a bit smaller from these lines.
+
+191
+00:15:55,520 --> 00:15:58,580
+So move the indicator to the middle of the animation.
+
+192
+00:15:59,180 --> 00:16:02,960
+Double click on the last key frame of the size of the ellipse.
+
+193
+00:16:03,530 --> 00:16:06,860
+Now decrease its value to make it better.
+
+194
+00:16:07,640 --> 00:16:09,590
+Let's see how it looks.
+
+195
+00:16:11,530 --> 00:16:13,930
+These lies appear so fast.
+
+196
+00:16:17,130 --> 00:16:22,590
+Therefore move the Anki frames here to prevent them from appearing so fast.
+
+197
+00:16:23,580 --> 00:16:24,810
+Go back a bit.
+
+198
+00:16:34,260 --> 00:16:35,370
+It's fine.
+
+199
+00:16:46,710 --> 00:16:48,150
+To make it even better.
+
+200
+00:16:48,150 --> 00:16:53,160
+I duplicate this ellipse and drag it here and change its color to yellow.
+
+201
+00:16:58,940 --> 00:17:00,710
+A bit to the right.
+
+202
+00:17:04,570 --> 00:17:06,880
+Change its capacity to 60.
+
+203
+00:17:14,550 --> 00:17:16,440
+As you see using repeater.
+
+204
+00:17:16,440 --> 00:17:23,130
+We have made such a thing and you can create better examples as you like and based on your creativity.

@@ -1,0 +1,67 @@
+1
+00:00:00,090 --> 00:00:03,120
+After that, I move on to reading the pupils.
+
+2
+00:00:04,740 --> 00:00:05,190
+To do.
+
+3
+00:00:05,190 --> 00:00:07,140
+So I go to the eyes layer.
+
+4
+00:00:10,540 --> 00:00:12,290
+This belongs to the pupils.
+
+5
+00:00:12,290 --> 00:00:15,850
+So I go to this group and the pupil group.
+
+6
+00:00:15,850 --> 00:00:18,040
+There is a group named pupils.
+
+7
+00:00:18,880 --> 00:00:25,840
+And there I open it, transform and create a keyframe for its position so that I can only move the pupil.
+
+8
+00:00:30,780 --> 00:00:35,420
+As you see, when the pupil goes out of the zone, it's no longer shown.
+
+9
+00:00:35,430 --> 00:00:40,080
+I have made this using a birch path and put in its mode on Intersect.
+
+10
+00:00:41,970 --> 00:00:44,580
+I hit the key and entered the lift I.
+
+11
+00:00:50,480 --> 00:00:52,760
+I create the five eye poses.
+
+12
+00:01:18,620 --> 00:01:22,790
+Then isolate the keyframes and click on this option and just stick it in.
+
+13
+00:01:24,330 --> 00:01:25,770
+Let's name it I.
+
+14
+00:01:51,960 --> 00:01:54,960
+I totally forgot about the no changes.
+
+15
+00:01:55,380 --> 00:01:58,320
+So I unbind the head turn joystick.
+
+16
+00:01:59,890 --> 00:02:04,660
+And I create a key frame for the start and end to create a different poses.
+
+17
+00:02:19,700 --> 00:02:23,560
+It can isolate all the key frames and click on Bind.

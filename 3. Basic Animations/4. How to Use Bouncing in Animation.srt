@@ -1,0 +1,303 @@
+1
+00:00:00,270 --> 00:00:01,270
+Hello, everyone.
+
+2
+00:00:01,290 --> 00:00:08,280
+In this lesson, I want to explain how to create bouncing or spring animation, which is a basic animation
+
+3
+00:00:08,280 --> 00:00:12,580
+that every animator and motion designer needs to know about.
+
+4
+00:00:12,600 --> 00:00:18,330
+I want to bring the cup from outside of the scene into the scene and create a bouncing animation for
+
+5
+00:00:18,330 --> 00:00:19,320
+its position.
+
+6
+00:00:19,890 --> 00:00:24,590
+So isolate the main layer of the cup and to move the other layer with it.
+
+7
+00:00:24,600 --> 00:00:26,400
+I parent them to this one.
+
+8
+00:00:27,600 --> 00:00:31,260
+So I like these layers and pairing them to the couple here.
+
+9
+00:00:31,800 --> 00:00:36,810
+Now, if I move the middle layer, you see that all layers move as one.
+
+10
+00:00:38,860 --> 00:00:47,620
+I open its position, put it out of the scene, create a keyframe, go ten frames forward and bring
+
+11
+00:00:47,620 --> 00:00:49,540
+the cup to the center of the scene.
+
+12
+00:00:50,390 --> 00:00:57,500
+Many motion designers who make this animation only make keyframes easy, and they are content with the
+
+13
+00:00:57,500 --> 00:00:58,340
+elements.
+
+14
+00:00:58,970 --> 00:01:05,120
+But to make your animation more appealing, it is better to give a bounce into your animation to do
+
+15
+00:01:05,120 --> 00:01:05,420
+so.
+
+16
+00:01:05,450 --> 00:01:11,360
+First, I need to copy and paste this key frame to the ending of the timeline so the final location
+
+17
+00:01:11,360 --> 00:01:12,830
+of the layer gets saved.
+
+18
+00:01:12,860 --> 00:01:17,630
+Then I go to the second keyframes and bring the layer a little to the right.
+
+19
+00:01:17,660 --> 00:01:21,530
+I go seven frames forward and bring it to the left.
+
+20
+00:01:22,880 --> 00:01:26,990
+Again seven frames forward and bring the final location here.
+
+21
+00:01:28,870 --> 00:01:29,170
+Okay.
+
+22
+00:01:29,200 --> 00:01:30,700
+Let's see how it looks.
+
+23
+00:01:31,680 --> 00:01:36,690
+If you see your balance in speed is low, you can make the distance five frames.
+
+24
+00:01:41,280 --> 00:01:45,240
+I bring this one a little closer and this one goes here.
+
+25
+00:01:49,040 --> 00:01:54,570
+If you want to have more bouncing, you can continue animating, move the layer this way and that,
+
+26
+00:01:54,620 --> 00:02:00,440
+and in each reciprocation, decrease distance between the keyframe and the final location of your layer.
+
+27
+00:02:00,440 --> 00:02:06,320
+So as the animation gets to the end, the layer approaches more and more to the final destination,
+
+28
+00:02:06,320 --> 00:02:09,320
+and at the last it stands on the final location.
+
+29
+00:02:10,390 --> 00:02:13,950
+This is for when you want to create balancing for the position.
+
+30
+00:02:13,960 --> 00:02:16,870
+If you want to do the same for rotation as well.
+
+31
+00:02:16,900 --> 00:02:23,020
+I already set my animation and I want to make balance in animation for this layer rotation.
+
+32
+00:02:23,020 --> 00:02:28,720
+To do this, I open rotation, create a keyframe for it, make it easy.
+
+33
+00:02:28,990 --> 00:02:37,090
+I move it two frames backward and after five frames rotate the layer this way, which means -25.
+
+34
+00:02:43,820 --> 00:02:44,270
+Again.
+
+35
+00:02:44,270 --> 00:02:46,790
+I go five frames forward here.
+
+36
+00:02:46,790 --> 00:02:49,220
+It must be on 25 frames.
+
+37
+00:02:49,220 --> 00:02:51,770
+Forward seven -15.
+
+38
+00:02:53,040 --> 00:02:55,320
+I decrease it by five each time.
+
+39
+00:03:01,300 --> 00:03:08,170
+I make the first keyframe linear, so now it has more speed at the beginning and move it a little backward.
+
+40
+00:03:13,470 --> 00:03:17,640
+It's better to increase the distance between these initial movements.
+
+41
+00:03:28,080 --> 00:03:32,520
+Until now, you have learned about creating bouncing animations manually.
+
+42
+00:03:32,730 --> 00:03:35,280
+To do this faster and more realistic.
+
+43
+00:03:35,310 --> 00:03:39,570
+It is better to use scripts that can increase your workflow speed.
+
+44
+00:03:39,600 --> 00:03:44,310
+If you don't have access to these scripts, you can use expressions.
+
+45
+00:03:45,390 --> 00:03:48,690
+For this, I deliver rotation keyframes of this layer.
+
+46
+00:03:48,960 --> 00:03:54,810
+I also click on the position of the cup layer and paste the bounce in expression here.
+
+47
+00:03:55,170 --> 00:04:02,070
+If I play now, bouncing is not really visible to work the bouncing expression properly on the animation.
+
+48
+00:04:02,100 --> 00:04:06,870
+The last keyframe needs to be linear, so I change this keyframe to linear.
+
+49
+00:04:09,340 --> 00:04:12,490
+As you see, the layer has a bounce, but it is too much.
+
+50
+00:04:14,620 --> 00:04:16,080
+It's roll bouncing.
+
+51
+00:04:16,090 --> 00:04:18,490
+You just need to change these values.
+
+52
+00:04:18,940 --> 00:04:23,560
+Amplitude is for the distance your layer takes from its main location.
+
+53
+00:04:24,320 --> 00:04:27,660
+For example, in this case, it comes to this point.
+
+54
+00:04:27,680 --> 00:04:29,250
+If I put this on three.
+
+55
+00:04:29,270 --> 00:04:32,480
+You see, it goes further away from its main location.
+
+56
+00:04:33,630 --> 00:04:36,060
+Well, I said this on its original value.
+
+57
+00:04:37,110 --> 00:04:42,750
+Frequency, as its name implies, indicates the number of round trips of the layer.
+
+58
+00:04:42,750 --> 00:04:45,390
+I settled on one to have less frequency.
+
+59
+00:04:48,130 --> 00:04:50,770
+I think it is better on 1.5.
+
+60
+00:04:55,660 --> 00:04:58,140
+The K indicates energy reduction.
+
+61
+00:04:58,160 --> 00:05:01,560
+The more I increase it, the sooner energy decreases.
+
+62
+00:05:01,580 --> 00:05:03,560
+For example, I say to five.
+
+63
+00:05:05,800 --> 00:05:07,360
+You see, it comes with their.
+
+64
+00:05:08,460 --> 00:05:10,560
+You can do the same for rotation.
+
+65
+00:05:11,960 --> 00:05:13,370
+I cut this expression.
+
+66
+00:05:13,370 --> 00:05:19,940
+So the layer loss is the bouncing effect and I go to the layer and animate this rotation.
+
+67
+00:05:21,750 --> 00:05:25,350
+I create a keyframe here, go a few frames back.
+
+68
+00:05:26,800 --> 00:05:29,230
+I always say that this way and make it easy.
+
+69
+00:05:29,590 --> 00:05:31,900
+So it's speed increases here.
+
+70
+00:05:34,930 --> 00:05:38,830
+I'll click on the rotation and paste the expression here.
+
+71
+00:05:39,370 --> 00:05:40,900
+Let's see how it looks.
+
+72
+00:05:44,020 --> 00:05:48,790
+As you see, the balancing that I've created for the cup is less noticeable here.
+
+73
+00:05:48,820 --> 00:05:51,220
+To improve it, I increase the amplitude.
+
+74
+00:05:55,260 --> 00:05:58,290
+And said they came on through to keep it more energetic.
+
+75
+00:06:02,900 --> 00:06:06,770
+You see, it is faster and more realistic than making it manually.
+
+76
+00:06:09,460 --> 00:06:10,300
+Good luck.

@@ -1,0 +1,243 @@
+1
+00:00:00,240 --> 00:00:05,160
+In this lesson, we want to learn how to create keyframes and animations.
+
+2
+00:00:05,370 --> 00:00:09,510
+For example, I want this plane to move and stop here.
+
+3
+00:00:09,540 --> 00:00:14,040
+To do so, I select the plane layer and go to the transform.
+
+4
+00:00:14,400 --> 00:00:18,180
+And to be able to give the plane this kind of movement.
+
+5
+00:00:18,210 --> 00:00:20,780
+I have to use the position of the plane.
+
+6
+00:00:20,790 --> 00:00:25,460
+Well, I want to give the plane a movement like this 
+
+7
+00:00:25,470 --> 00:00:28,660
+to animate this, the first thing to do is to create a keyframe.
+
+8
+00:00:28,680 --> 00:00:35,550
+So to create a keyframe, you just have to click on the stopwatch beside the position property.
+
+9
+00:00:35,580 --> 00:00:42,480
+As soon as I left click on the stopwatch, it turns blue and you see one keyframe is created here.
+
+10
+00:00:43,890 --> 00:00:48,780
+You may ask why my keyframe is created here and nowhere else.
+
+11
+00:00:48,870 --> 00:00:53,520
+It's because keyframes are created where the indicator is positioned.
+
+12
+00:00:53,580 --> 00:01:00,750
+For example, if I want to create a keyframe for the scale, you see that the scale keyframe is created here,
+
+13
+00:01:00,750 --> 00:01:03,600
+ not at the beginning of the timeline.
+
+14
+00:01:03,630 --> 00:01:09,360
+That's why you have to be careful where the indicator is when you are creating the keyframes.
+
+15
+00:01:09,720 --> 00:01:16,860
+Well, to delete the scale keyframe, all I need to do is to click on the stopwatch again or select
+
+16
+00:01:16,860 --> 00:01:19,500
+the keyframe and then press delete button.
+
+17
+00:01:20,310 --> 00:01:27,480
+Well, now we have created a key frame for the position of the plane layer, but we don't have any animation.
+
+18
+00:01:27,480 --> 00:01:28,170
+Why?
+
+19
+00:01:28,380 --> 00:01:36,090
+Because for creating an animation, we need at least two key frames for creating the second key frame.
+
+20
+00:01:36,120 --> 00:01:40,030
+First, we need to bring the indicator to the intended time.
+
+21
+00:01:40,050 --> 00:01:46,410
+For example, I put it on second two and I want to create another keyframe for the position.
+
+22
+00:01:47,200 --> 00:01:49,120
+To create another keyframe.
+
+23
+00:01:49,120 --> 00:01:51,580
+I only have to click on this option.
+
+24
+00:01:51,580 --> 00:01:57,430
+As you see, another keyframe is created after I created the second keyframe.
+
+25
+00:01:57,460 --> 00:02:00,700
+The left arrow of this option is activated.
+
+26
+00:02:00,910 --> 00:02:06,850
+It means you can go to the last keyframe by clicking on it or by clicking on the right arrow.
+
+27
+00:02:06,880 --> 00:02:14,020
+You can go to the next keyframe, and by clicking on this option again, you can delete this keyframe
+
+28
+00:02:14,020 --> 00:02:15,940
+or create a new keyframe.
+
+29
+00:02:16,660 --> 00:02:19,820
+Well, now I have created the second keyframe.
+
+30
+00:02:19,840 --> 00:02:26,140
+If I press the space button and play the animation again, you see, there is no motion for the plane
+
+31
+00:02:26,140 --> 00:02:28,120
+while we have two keyframes.
+
+32
+00:02:29,560 --> 00:02:36,220
+The next thing to consider is that in animation we need to keyframes with two different values.
+
+33
+00:02:36,950 --> 00:02:43,580
+So in the first keyframe, the position value is this, and in the second keyframe is also the same
+
+34
+00:02:43,580 --> 00:02:46,010
+value, and there is no change.
+
+35
+00:02:46,130 --> 00:02:50,930
+And this is the reason why no changes happen to the plane when I play.
+
+36
+00:02:51,700 --> 00:02:52,780
+To move the plane.
+
+37
+00:02:52,780 --> 00:02:56,710
+I go to the position, change its X and put it here.
+
+38
+00:02:57,010 --> 00:03:03,520
+You see, as I change its position, a line appears here that shows the movement direction of the layer.
+
+39
+00:03:04,690 --> 00:03:11,020
+And if I go to the beginning of the timeline and play the animation, you see that the plane moves.
+
+40
+00:03:11,950 --> 00:03:14,980
+I go to the second keyframe and delete it again.
+
+41
+00:03:16,770 --> 00:03:22,800
+The easier way to create your animation is not to create the second keyframe yourself.
+
+42
+00:03:23,010 --> 00:03:29,730
+As soon as you select your layer and move it, you see a keyframe is created where the indicator is placed 
+
+43
+00:03:29,730 --> 00:03:33,390
+and the new position of your layer is saved.
+
+44
+00:03:34,140 --> 00:03:40,230
+I think until now you understand the meaning of the keyframe is storing the value of the position,
+
+45
+00:03:40,230 --> 00:03:44,730
+scale, rotation or any other property at a specific time.
+
+46
+00:03:45,430 --> 00:03:53,160
+You see in this time this value is stored for the position of this layer, and in this time this value is stored.
+
+47
+00:03:54,070 --> 00:03:59,830
+If you select the layer, you see some small dots in this direction line which are shown the layers
+
+48
+00:03:59,830 --> 00:04:02,110
+position in different frames.
+
+49
+00:04:03,950 --> 00:04:05,600
+You see in the first second.
+
+50
+00:04:05,600 --> 00:04:07,400
+It is here on this dot.
+
+51
+00:04:07,610 --> 00:04:09,410
+If I go to the next frame.
+
+52
+00:04:09,410 --> 00:04:12,430
+So I press page down to go to the next frame.
+
+53
+00:04:12,440 --> 00:04:14,320
+You see it goes on the next dot.
+
+54
+00:04:14,930 --> 00:04:18,620
+If I press page down again, it goes on the next dot.
+
+55
+00:04:18,710 --> 00:04:23,030
+These dots are the position of the layer in different frames.
+
+56
+00:04:23,390 --> 00:04:25,860
+You can also change your animation path.
+
+57
+00:04:25,880 --> 00:04:29,140
+For this you only have to select the key frame.
+
+58
+00:04:29,150 --> 00:04:33,790
+Activate the pen tool, then left Click on the keyframes in the path 
+
+59
+00:04:33,850 --> 00:04:39,020
+and after appearing the handles, you can change your animation path easily.
+
+60
+00:04:39,530 --> 00:04:46,850
+For example, I set it like this and also make the handle visible in the beginning and set it like this.
+
+61
+00:04:47,060 --> 00:04:52,910
+And now if I play it, you see the plane is going to move along the path I have created.

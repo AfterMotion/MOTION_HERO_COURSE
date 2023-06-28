@@ -1,0 +1,607 @@
+1
+00:00:00,890 --> 00:00:05,540
+For creating the file with animation, I should create two new shapes.
+
+2
+00:00:06,960 --> 00:00:09,030
+I create a rectangle here.
+
+3
+00:00:11,180 --> 00:00:14,150
+And said it's colored the same as the trunks color.
+
+4
+00:00:16,390 --> 00:00:18,330
+I name it our timber.
+
+5
+00:00:20,080 --> 00:00:24,730
+I want to animate this layer for this IP position and rotation.
+
+6
+00:00:27,360 --> 00:00:28,540
+Exactly in a frame.
+
+7
+00:00:28,540 --> 00:00:31,260
+My character's ax placed on the trunk.
+
+8
+00:00:31,350 --> 00:00:33,600
+I put the first keyframe here.
+
+9
+00:00:42,860 --> 00:00:48,830
+I go nine frames ahead and I place my layer here and a little bit higher.
+
+10
+00:00:50,230 --> 00:00:52,270
+I adjust its path?
+
+11
+00:00:52,300 --> 00:00:53,660
+Well, it's good.
+
+12
+00:00:53,680 --> 00:00:57,700
+I go six frames ahead and put the layer here.
+
+13
+00:00:59,800 --> 00:01:01,600
+It should almost place here.
+
+14
+00:01:06,470 --> 00:01:13,760
+I go eight frames ahead and I put the layer here again, five frames ahead, and I put it here.
+
+15
+00:01:17,000 --> 00:01:17,510
+Here.
+
+16
+00:01:17,510 --> 00:01:20,720
+The Y position is on 924.
+
+17
+00:01:23,640 --> 00:01:26,670
+And here should be 924 to.
+
+18
+00:01:27,620 --> 00:01:29,810
+Because the ground is the same.
+
+19
+00:01:30,260 --> 00:01:33,740
+Again, I go seven frames ahead and put it here.
+
+20
+00:01:36,430 --> 00:01:38,950
+Let me change these a little bit.
+
+21
+00:01:43,390 --> 00:01:45,580
+And I continue to do the same.
+
+22
+00:01:55,070 --> 00:02:00,170
+After I'm done, I select the pencil and edit the upper points handles.
+
+23
+00:02:15,110 --> 00:02:20,450
+I select the keyframes which my object places on top and make them easy ease.
+
+24
+00:02:23,100 --> 00:02:26,010
+I limit the work area to see how it looks.
+
+25
+00:02:32,100 --> 00:02:37,440
+Well, as you can see, when my object is in these places pauses a little bit.
+
+26
+00:02:37,440 --> 00:02:38,940
+And this is not right.
+
+27
+00:02:40,110 --> 00:02:41,880
+For removing this problem.
+
+28
+00:02:41,880 --> 00:02:44,970
+I select the key frame and go into graph editor.
+
+29
+00:02:47,170 --> 00:02:50,140
+Right click on them and go into keyframe velocity.
+
+30
+00:02:50,680 --> 00:02:54,880
+I turn on the continue so I can move the keyframes together.
+
+31
+00:02:55,120 --> 00:03:00,130
+I move them a little bit higher so its speed doesn't get to zero in this point.
+
+32
+00:03:00,160 --> 00:03:01,420
+Let's take a look.
+
+33
+00:03:04,600 --> 00:03:09,260
+Well, it's good after that in places in the firewood is on the ground.
+
+34
+00:03:09,280 --> 00:03:11,710
+I want its rotation to be like this.
+
+35
+00:03:17,750 --> 00:03:21,020
+And when it places here, I want it like this.
+
+36
+00:03:22,770 --> 00:03:26,610
+And at the end it should rotate and plays like this.
+
+37
+00:03:28,400 --> 00:03:29,510
+Let's take a look.
+
+38
+00:03:37,080 --> 00:03:38,250
+Well, it's good.
+
+39
+00:03:38,550 --> 00:03:41,250
+I want my firewood to have a burning stay.
+
+40
+00:03:41,280 --> 00:03:43,770
+That is why I add band effect to it.
+
+41
+00:03:49,670 --> 00:03:51,110
+Let me follow the ledger.
+
+42
+00:03:51,290 --> 00:03:54,800
+When it is here, I set the start and end points.
+
+43
+00:04:01,030 --> 00:04:05,470
+I increase the band a little bit and set the start point in the middle.
+
+44
+00:04:05,920 --> 00:04:09,460
+I move this higher so I can have this kind of shape.
+
+45
+00:04:12,520 --> 00:04:17,260
+Now I want that when the object moves, these points move with it to.
+
+46
+00:04:19,330 --> 00:04:24,790
+For this, I hit all click on a start and type the two command and type value and it.
+
+47
+00:04:27,530 --> 00:04:30,530
+And I copy this expression four and two.
+
+48
+00:04:30,530 --> 00:04:36,050
+And at the end I put the endpoint here and they start in the center of my object.
+
+49
+00:04:44,180 --> 00:04:49,340
+After that, I create a keyframe for each band in here and set it on zero.
+
+50
+00:04:50,350 --> 00:04:51,850
+I hit you key.
+
+51
+00:04:51,850 --> 00:04:55,240
+When my object is here, I want it to bend to the side.
+
+52
+00:04:55,240 --> 00:04:56,320
+-20.
+
+53
+00:05:03,510 --> 00:05:06,210
+When it is here, it should be on 20.
+
+54
+00:05:07,200 --> 00:05:09,480
+And here again, -20.
+
+55
+00:05:11,930 --> 00:05:13,040
+Let's take a look.
+
+56
+00:05:15,190 --> 00:05:18,080
+In my opinion, -20 is too much.
+
+57
+00:05:18,100 --> 00:05:20,860
+I change it to minus ten.
+
+58
+00:05:22,820 --> 00:05:24,530
+Yes, that's better.
+
+59
+00:05:24,770 --> 00:05:26,420
+This one on ten.
+
+60
+00:05:27,290 --> 00:05:29,690
+And here on minus ten.
+
+61
+00:05:38,130 --> 00:05:39,630
+Well, it's much better.
+
+62
+00:05:45,500 --> 00:05:48,900
+In fact, this is my left Firebird Slayer.
+
+63
+00:05:48,920 --> 00:05:50,840
+I rename it to L Timber.
+
+64
+00:05:51,140 --> 00:05:52,430
+I go into it.
+
+65
+00:05:53,500 --> 00:05:55,300
+I duplicate the rectangle.
+
+66
+00:05:57,890 --> 00:06:01,820
+And its color should be the same as the inner color of the trunk.
+
+67
+00:06:05,160 --> 00:06:08,920
+And in here change the size of the rectangle path.
+
+68
+00:06:08,940 --> 00:06:12,150
+So it looks like the left piece of the Firebird.
+
+69
+00:06:20,580 --> 00:06:23,170
+After that I duplicate the layer.
+
+70
+00:06:23,190 --> 00:06:24,420
+Name it to write.
+
+71
+00:06:26,710 --> 00:06:31,810
+I come at the beginning of the animation, I should pattern this layer to another object.
+
+72
+00:06:34,020 --> 00:06:36,900
+I put the null object exactly in its center.
+
+73
+00:06:44,070 --> 00:06:47,190
+And apparent derision to the nul objects.
+
+74
+00:06:48,310 --> 00:06:53,920
+Then I select three horizontal for this layer and let this null.
+
+75
+00:06:53,950 --> 00:06:56,470
+So this layer moves to the side.
+
+76
+00:06:56,770 --> 00:06:59,740
+Well, as you can see, it moves through this side.
+
+77
+00:07:00,520 --> 00:07:05,950
+Now, I don't need the upper rectangle because I want to be the right piece of my firewood.
+
+78
+00:07:08,830 --> 00:07:13,510
+And another point is here the band direction should be reversed to.
+
+79
+00:07:23,760 --> 00:07:28,500
+And eventually this left layer should be placed under the character layers.
+
+80
+00:07:35,640 --> 00:07:37,890
+Let me play the animation from the beginning.
+
+81
+00:07:45,110 --> 00:07:49,700
+After that, I should start creating shadows for the fire with pieces.
+
+82
+00:07:51,420 --> 00:07:52,080
+For this.
+
+83
+00:07:52,080 --> 00:07:53,490
+I create an ellipse here.
+
+84
+00:07:53,490 --> 00:07:56,400
+Exactly when the firewood is on the ground.
+
+85
+00:07:57,260 --> 00:07:58,410
+Make it black.
+
+86
+00:07:58,430 --> 00:08:02,090
+Move it down and place it under the L timber layer.
+
+87
+00:08:05,390 --> 00:08:08,870
+I said it's opacity on 30 and name it Shadow.
+
+88
+00:08:12,080 --> 00:08:16,820
+And I want to point out it's exposition to the exposition of my firewood layer.
+
+89
+00:08:18,830 --> 00:08:24,560
+That is why I alt click and define exposition of lhe timber layer for its ex.
+
+90
+00:08:26,150 --> 00:08:29,150
+I write a semi column and move to the next line.
+
+91
+00:08:29,870 --> 00:08:33,860
+I define what the layer is itself so it doesn't change.
+
+92
+00:08:35,640 --> 00:08:38,050
+And here I write X and Y.
+
+93
+00:08:38,070 --> 00:08:39,600
+So my expression ends.
+
+94
+00:08:43,990 --> 00:08:47,830
+Now, as you can see, the shadow moves with my object.
+
+95
+00:08:54,930 --> 00:09:00,600
+Another thing is when my object is floating in the air, the shadow should be smaller, and when it
+
+96
+00:09:00,600 --> 00:09:03,180
+is closer to the ground should be bigger.
+
+97
+00:09:05,380 --> 00:09:06,310
+For this.
+
+98
+00:09:06,310 --> 00:09:07,810
+I open this kale.
+
+99
+00:09:14,620 --> 00:09:16,780
+I activate its expression.
+
+100
+00:09:18,190 --> 00:09:22,780
+And in expressions interpolation I select the second linear.
+
+101
+00:09:24,230 --> 00:09:26,270
+I hit an answer at first.
+
+102
+00:09:26,270 --> 00:09:33,650
+So the linear moves to the second line and I defined the y position of Firebird layer as DT variable.
+
+103
+00:09:34,010 --> 00:09:41,150
+I write semi so it ends its minimum, meaning when it is here is 924.
+
+104
+00:09:46,150 --> 00:09:50,500
+And the maximum when the place top is 592.
+
+105
+00:09:56,150 --> 00:10:02,720
+And when it is on 592, I want the X and Y scale to be on 100.
+
+106
+00:10:19,160 --> 00:10:22,790
+Well, as you can see, the shadow changes as I wanted to.
+
+107
+00:10:24,960 --> 00:10:30,570
+Just let me move its x more to this side so the shadow completely fades at the end.
+
+108
+00:10:46,580 --> 00:10:50,420
+After that, I duplicate this layer and bring it up.
+
+109
+00:10:52,570 --> 00:10:55,330
+And do the same for the other five with peace.
+
+110
+00:10:56,930 --> 00:10:58,580
+I appear its position.
+
+111
+00:10:58,580 --> 00:11:02,660
+I double tap on E so I can see the expressions.
+
+112
+00:11:03,140 --> 00:11:08,940
+I defined x position of r timber as x variable the y of itself.
+
+113
+00:11:08,960 --> 00:11:10,100
+Good so far.
+
+114
+00:11:12,010 --> 00:11:16,870
+As you can see now, the shadow of the other firework piece is going to be good to.
+
+115
+00:11:17,780 --> 00:11:20,620
+Just I want the shadow layer to appear from here.
+
+116
+00:11:20,630 --> 00:11:22,460
+That is why I said it's beginning.
+
+117
+00:11:23,960 --> 00:11:25,490
+And this layer to.
+
+118
+00:11:29,730 --> 00:11:31,890
+Let's take a look at my animation.
+
+119
+00:11:49,520 --> 00:11:52,580
+Well, as you can see, my animation is completely fixed.
+
+120
+00:11:53,650 --> 00:11:55,930
+Let's get to creating a math ledger.
+
+121
+00:12:03,360 --> 00:12:06,840
+I move this above my axe layer and name it Matt.
+
+122
+00:12:08,210 --> 00:12:10,910
+I selected alpha inverted math for the axilla.
+
+123
+00:12:10,940 --> 00:12:11,420
+Yea.
+
+124
+00:12:16,700 --> 00:12:20,960
+I bring this down a little bit so the firewood can't be seen.
+
+125
+00:12:21,110 --> 00:12:23,570
+Well, let's see how my animation is.
+
+126
+00:12:30,980 --> 00:12:32,030
+Well, it's good.
+
+127
+00:12:32,870 --> 00:12:38,810
+The last thing I should do is create a motion blur state and a trace of the Axis movement.
+
+128
+00:12:39,410 --> 00:12:45,590
+As you can see in my frame, my accent moves from here till it places under trunk.
+
+129
+00:12:45,770 --> 00:12:49,520
+I want my ax to have a trace to look more interesting.
+
+130
+00:12:51,870 --> 00:12:56,340
+For this, it is enough to select the pencil and create a point here.
+
+131
+00:12:59,620 --> 00:13:01,180
+And another one here.
+
+132
+00:13:03,650 --> 00:13:07,400
+I adjust the path the way it shows the Axis movement path.
+
+133
+00:13:09,830 --> 00:13:12,920
+I disable its feel and enable a stroke.
+
+134
+00:13:14,400 --> 00:13:15,230
+It's a stroke.
+
+135
+00:13:15,240 --> 00:13:17,760
+Should be the same color as the axis color.
+
+136
+00:13:18,690 --> 00:13:22,800
+I increase its size, it becomes the same as the bottom part of my axis.
+
+137
+00:13:31,780 --> 00:13:34,090
+And this frame which the act places on.
+
+138
+00:13:37,230 --> 00:13:40,500
+I go to frames ahead and set the layers.
+
+139
+00:13:40,500 --> 00:13:41,610
+And here.
+
+140
+00:13:46,740 --> 00:13:48,900
+Here appears in the next frame.
+
+141
+00:13:48,900 --> 00:13:50,730
+My stroke should be half.
+
+142
+00:13:52,540 --> 00:13:55,810
+That is why I added three path modifier to the contents.
+
+143
+00:14:00,470 --> 00:14:04,490
+I said it's and on 50 and create a keyframe frame for it.
+
+144
+00:14:06,350 --> 00:14:09,830
+And in previous frame I set it on 100.
+
+145
+00:14:12,180 --> 00:14:14,250
+And eventually it fades.
+
+146
+00:14:28,570 --> 00:14:31,630
+Well, my love animation is completely finished.
+
+147
+00:14:34,970 --> 00:14:39,170
+As I said, we should first hypothesize our animation so simple.
+
+148
+00:14:39,170 --> 00:14:42,200
+And as I said, our character has two poses.
+
+149
+00:14:42,200 --> 00:14:47,210
+One of them is this and the next pose is when the ax hits the firewood.
+
+150
+00:14:47,360 --> 00:14:51,950
+And in the beginning, as we did first, we created these two simple poses.
+
+151
+00:14:52,920 --> 00:14:58,830
+And then the other details and elements of the scene have been animated in relation to these two poses.
+
+152
+00:15:00,260 --> 00:15:01,100
+Good luck.

@@ -1,0 +1,307 @@
+1
+00:00:00,360 --> 00:00:03,600
+In this lesson, I want to talk about selectors.
+
+2
+00:00:03,630 --> 00:00:07,620
+As I said before, we can add different properties to the animator.
+
+3
+00:00:07,650 --> 00:00:11,700
+As you see here, we can also add different selectors to the animator.
+
+4
+00:00:11,740 --> 00:00:17,160
+Here I can add a new range selector or a vehicle selector or an expression selector.
+
+5
+00:00:17,190 --> 00:00:20,730
+For example, I add a selector to the animator.
+
+6
+00:00:22,530 --> 00:00:28,020
+As you see the lenders vehicle according to the value of the position I have entered here.
+
+7
+00:00:28,020 --> 00:00:33,420
+And when the offset moves and gets to the second keyframe, wiggling stops.
+
+8
+00:00:37,920 --> 00:00:44,880
+I go to the range selector now in advance and set its amount to zero so that the animation of the range
+
+9
+00:00:44,880 --> 00:00:46,500
+selector is disabled.
+
+10
+00:00:47,990 --> 00:00:50,090
+For we going to affect the text.
+
+11
+00:00:50,090 --> 00:00:54,020
+I go into it and said it's more than AD now.
+
+12
+00:00:54,020 --> 00:01:00,280
+The text wiggles, but now the range selector doesn't stop it and it wiggles according to the property
+
+13
+00:01:00,410 --> 00:01:01,070
+set.
+
+14
+00:01:01,220 --> 00:01:08,600
+Now, if I add a new property to the animator and like a scale and say on 50, you see its scale and
+
+15
+00:01:08,600 --> 00:01:15,680
+position both change, the next option's minimum and maximum amount is for determining the range of
+
+16
+00:01:15,680 --> 00:01:18,430
+characters changes in position and scale.
+
+17
+00:01:18,440 --> 00:01:21,140
+For example, I set these 2 to 0.
+
+18
+00:01:22,080 --> 00:01:28,470
+If I set the maximum to 100, you see, the scale and position of the characters don't go higher than
+
+19
+00:01:28,470 --> 00:01:30,630
+the value that I've entered here.
+
+20
+00:01:32,390 --> 00:01:34,580
+If I said it -100.
+
+21
+00:01:34,580 --> 00:01:36,550
+The opposite of this happens.
+
+22
+00:01:36,560 --> 00:01:42,620
+That is the scale and position don't go lower than the value that I entered, and it's always higher
+
+23
+00:01:42,620 --> 00:01:43,550
+than 50.
+
+24
+00:01:43,730 --> 00:01:45,740
+I set these on default.
+
+25
+00:01:47,270 --> 00:01:53,150
+So that the scale and position of the characters can go less and more than the intended value.
+
+26
+00:01:54,870 --> 00:01:57,490
+Based on his obvious character or.
+
+27
+00:02:01,570 --> 00:02:05,050
+The second is how much characters move per second.
+
+28
+00:02:05,080 --> 00:02:07,330
+I say ten, for example.
+
+29
+00:02:07,360 --> 00:02:09,760
+You see their movement increased.
+
+30
+00:02:10,600 --> 00:02:14,470
+Correlation is for controlling the vibration of your vehicle.
+
+31
+00:02:16,840 --> 00:02:19,150
+You see now we're going happens a lot.
+
+32
+00:02:19,180 --> 00:02:21,620
+This means their vibration is more.
+
+33
+00:02:21,640 --> 00:02:27,480
+If I increase this, you'll see vibration get closer to each other and make it very smooth.
+
+34
+00:02:31,030 --> 00:02:35,580
+Temporal and spatial phase options or to control wiggling manually.
+
+35
+00:02:35,590 --> 00:02:40,030
+For example, I said this to zero and make a keyframe frame for temporal.
+
+36
+00:02:41,680 --> 00:02:45,760
+I come here and I wanted to kill this much and then stop.
+
+37
+00:02:50,460 --> 00:02:52,050
+I said this on two occasions.
+
+38
+00:02:53,570 --> 00:02:57,350
+The next option is the like dimension, which is for a scale.
+
+39
+00:02:57,380 --> 00:03:04,820
+If I enable it, you see, the characters don't get deformed and scale on the X and y axis together.
+
+40
+00:03:05,150 --> 00:03:08,570
+The random see is to randomize wiggling.
+
+41
+00:03:14,230 --> 00:03:20,530
+I delete these for now and go for the next selector, which is the expression selector as it's obvious
+
+42
+00:03:20,530 --> 00:03:21,600
+from its name.
+
+43
+00:03:21,610 --> 00:03:25,740
+This selector is to control the animation through an expression.
+
+44
+00:03:25,750 --> 00:03:31,960
+When I go to expression selector, there is a based on which I talked about in amount.
+
+45
+00:03:31,960 --> 00:03:36,940
+There is an expression option You need to write or place your expression here.
+
+46
+00:03:37,900 --> 00:03:42,490
+I pace the bouncing expression here and said exposition on zero.
+
+47
+00:03:43,600 --> 00:03:45,580
+And bring it down a little bit.
+
+48
+00:03:46,240 --> 00:03:49,360
+As you see it takes animation has a bouncing mode.
+
+49
+00:03:52,460 --> 00:03:55,100
+And here you can change its values.
+
+50
+00:03:56,410 --> 00:04:00,770
+The L.A., as its name implies, is for the delay between letters.
+
+51
+00:04:00,780 --> 00:04:03,210
+For example, I said this on five.
+
+52
+00:04:04,750 --> 00:04:08,350
+You see, the animation of the characters is done with a delay.
+
+53
+00:04:08,770 --> 00:04:12,070
+I press control Z to set it to the previous state.
+
+54
+00:04:14,150 --> 00:04:19,880
+The next value is the frequency, which is the number of back and forth movements or bouncing.
+
+55
+00:04:19,910 --> 00:04:21,500
+For example, I said this on.
+
+56
+00:04:21,980 --> 00:04:23,550
+Let's see how it is.
+
+57
+00:04:23,570 --> 00:04:26,300
+As you see, it gives this spring animation.
+
+58
+00:04:27,660 --> 00:04:28,860
+At first Control Z.
+
+59
+00:04:30,260 --> 00:04:35,150
+Amplitude or overshoot is to determine the amount of movements of the characters.
+
+60
+00:04:35,180 --> 00:04:38,250
+Look, right now the taste has gone up this much.
+
+61
+00:04:38,270 --> 00:04:43,040
+If I set the amplitude to 200, you see it goes higher than here.
+
+62
+00:04:43,550 --> 00:04:46,160
+And the more the value, the higher it goes.
+
+63
+00:04:46,230 --> 00:04:47,390
+Look how it is.
+
+64
+00:04:48,330 --> 00:04:51,690
+Let me put this on 500 to make it more obvious.
+
+65
+00:04:51,690 --> 00:04:56,340
+As you see, the amount of movement has increased a lot and they go higher.
+
+66
+00:04:57,090 --> 00:04:58,620
+Let me delete this scale.
+
+67
+00:05:00,890 --> 00:05:03,260
+Well, I bring it again on 100.
+
+68
+00:05:03,350 --> 00:05:05,640
+Decay means energy depletion.
+
+69
+00:05:05,660 --> 00:05:12,350
+The more the value gets, the energy decreases sooner and the less it gets energy decreases later.
+
+70
+00:05:12,350 --> 00:05:12,690
+Okay.
+
+71
+00:05:12,800 --> 00:05:14,000
+I said this on one.
+
+72
+00:05:14,000 --> 00:05:17,390
+Now you see animation stopping takes longer.
+
+73
+00:05:19,900 --> 00:05:27,040
+If I said this on ten, you see, the animation takes less bouncing because it's energy depletion happens
+
+74
+00:05:27,040 --> 00:05:27,910
+faster.
+
+75
+00:05:30,610 --> 00:05:31,870
+I said none at.
+
+76
+00:05:34,990 --> 00:05:39,760
+In the next lessons, I go for creating some useful text animations.
+
+77
+00:05:40,300 --> 00:05:41,140
+Good luck.

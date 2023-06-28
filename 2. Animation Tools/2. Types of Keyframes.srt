@@ -1,0 +1,463 @@
+1
+00:00:00,300 --> 00:00:04,440
+In this lesson, we want to talk about different kinds of keyframes.
+
+2
+00:00:05,130 --> 00:00:08,790
+Keyframes are categorized according to their speed.
+
+3
+00:00:09,060 --> 00:00:15,320
+Here I have made four circles in different colors and made the same animation for them.
+
+4
+00:00:15,330 --> 00:00:21,390
+So after we apply these different keyframes on them, we notice the difference between them.
+
+5
+00:00:22,170 --> 00:00:24,190
+OK, The first kind is linear.
+
+6
+00:00:24,210 --> 00:00:26,700
+As you see, it has a diamond shape.
+
+7
+00:00:26,730 --> 00:00:31,380
+It means the speed of the animation is constant and linear all along.
+
+8
+00:00:31,770 --> 00:00:39,030
+If I select the keyframes and go to 'graph editor' you see here this line is representing the speed of
+
+9
+00:00:39,030 --> 00:00:42,420
+animation, which is linear and straight.
+
+10
+00:00:42,510 --> 00:00:48,870
+And if I keep my pointer on the first keyframe, you see the speed of the animation in the beginning
+
+11
+00:00:48,870 --> 00:00:57,180
+is on 1128 pixels per second, and this speed is kept all along to the end without increasing or decreasing.
+
+12
+00:00:57,510 --> 00:01:04,080
+As I explained before, by these dots and equal space between them, you can understand that the animation
+
+13
+00:01:04,080 --> 00:01:09,390
+of this circle is linear and its speed is the same during the animation.
+
+14
+00:01:09,510 --> 00:01:11,910
+Well, I go back to the key frames.
+
+15
+00:01:11,940 --> 00:01:15,210
+The second type of keyframe is 'easy ease in'.
+
+16
+00:01:15,450 --> 00:01:21,510
+This means the speed of the animation is high at the beginning and it slows down along the path.
+
+17
+00:01:21,540 --> 00:01:24,330
+Well, I select key frames for this layer.
+
+18
+00:01:24,810 --> 00:01:31,990
+I can press shift F9 or right click on the keyframes and from Keyframe Assistant, click on easy ease in.
+
+19
+00:01:32,040 --> 00:01:39,090
+And as you see keyframe shapes changes to the right arrow, and also from the dots, you can understand
+
+20
+00:01:39,090 --> 00:01:45,770
+the animation speed is high at the beginning and at the end, because of the high density of the dots,
+
+21
+00:01:45,780 --> 00:01:47,460
+the speed has decreased.
+
+22
+00:01:47,970 --> 00:01:49,290
+I play it now
+
+23
+00:01:50,970 --> 00:01:56,880
+As you see at the beginning, this circle goes beyond the last circle, which is linear, but at the
+
+24
+00:01:56,880 --> 00:01:59,250
+end they stop at the same time.
+
+25
+00:01:59,550 --> 00:02:03,780
+And this means at the end, the animation speed has decreased.
+
+26
+00:02:05,390 --> 00:02:08,630
+I select Keyframes and Inter graph editor.
+
+27
+00:02:08,750 --> 00:02:12,400
+As you see, speed line of the animation is not linear.
+
+28
+00:02:12,410 --> 00:02:19,280
+In the beginning, the speed of the animation increases to 1500, but then as it progresses, the animation
+
+29
+00:02:19,340 --> 00:02:23,150
+speed is decreased and falls down to zero at the end.
+
+30
+00:02:23,510 --> 00:02:27,500
+Well, I go to the third type of keyframe easy ease out.
+
+31
+00:02:27,540 --> 00:02:30,710
+Its hotkey is Ctrl + shift + F9.
+
+32
+00:02:30,740 --> 00:02:33,920
+This one is the opposite of the previous type.
+
+33
+00:02:33,950 --> 00:02:42,110
+It means at the beginning animation speed is low and the more we progress it increases, I select keyframes
+
+34
+00:02:42,110 --> 00:02:43,880
+and click on easy ease out.
+
+35
+00:02:43,910 --> 00:02:49,340
+As you see it shape is opposite of the last one and it is an arrow to the left.
+
+36
+00:02:49,370 --> 00:02:56,000
+If you pay attention, you see the density of the dots is higher at the beginning, meaning animation
+
+37
+00:02:56,060 --> 00:03:00,890
+speed is lower at the beginning and at the end speed is going to be higher.
+
+38
+00:03:01,070 --> 00:03:03,260
+I go to the graph editor.
+
+39
+00:03:03,260 --> 00:03:06,560
+You see it is the opposite of the previous case.
+
+40
+00:03:06,590 --> 00:03:10,430
+Low speed at the beginning and increasing over time.
+
+41
+00:03:10,550 --> 00:03:16,190
+Okay, let's go to the last one easy ease, with hotkey F9 in this type.
+
+42
+00:03:16,190 --> 00:03:22,140
+The beginning and end of the animation is speed are low, but it's increased in the middle.
+
+43
+00:03:22,160 --> 00:03:26,300
+I select keyframes, right click and easy ease them.
+
+44
+00:03:27,100 --> 00:03:31,150
+Now, if you pay attention here, the density is high.
+
+45
+00:03:31,180 --> 00:03:32,830
+It is high here, too.
+
+46
+00:03:33,010 --> 00:03:38,370
+But compared to the beginning and the end, the density of the dots is lower here.
+
+47
+00:03:38,380 --> 00:03:42,770
+And as you see, the shape of the keyframes is like an hourglass.
+
+48
+00:03:42,790 --> 00:03:47,890
+I select keyframes and go to the graph editor, as you see at the beginning.
+
+49
+00:03:47,930 --> 00:03:49,120
+The speed is zero.
+
+50
+00:03:49,150 --> 00:03:54,380
+It goes higher to this point and then it goes down to zero here.
+
+51
+00:03:54,400 --> 00:04:00,880
+If I play now, you can see, even though the duration of all these circles is the same because they
+
+52
+00:04:00,880 --> 00:04:04,900
+have different speeds, they also show different animations.
+
+53
+00:04:05,750 --> 00:04:12,320
+Now that we know four main types of keyframes, let's go to the next column to get familiar with other
+
+54
+00:04:12,320 --> 00:04:14,330
+types of keyframes as well.
+
+55
+00:04:14,540 --> 00:04:17,390
+The first one, as I explained, is easy ease.
+
+56
+00:04:17,750 --> 00:04:20,150
+At the beginning, speed is low.
+
+57
+00:04:20,180 --> 00:04:25,520
+It goes higher and then it decreases again and falls down to zero.
+
+58
+00:04:25,550 --> 00:04:33,200
+The next one is easy ease in, at the beginning speed is higher and at the end the speed decreases 
+
+59
+00:04:33,200 --> 00:04:36,650
+and the next one is easy ease out, which I explained before.
+
+60
+00:04:36,740 --> 00:04:38,670
+The next one is linear.
+
+61
+00:04:38,690 --> 00:04:42,890
+Another keyframe you need to know about is toggle hold.
+
+62
+00:04:42,920 --> 00:04:46,870
+This means our layer is in a frame in a specific place.
+
+63
+00:04:46,880 --> 00:04:50,000
+Then in the next frame is in another place.
+
+64
+00:04:50,000 --> 00:04:53,000
+And this happens without any movement.
+
+65
+00:04:53,030 --> 00:04:58,340
+To summarize, the hold animation happens in a jump, not by movement.
+
+66
+00:04:58,340 --> 00:05:00,070
+We just see in a moment.
+
+67
+00:05:00,080 --> 00:05:02,040
+It goes from here to there.
+
+68
+00:05:02,060 --> 00:05:09,380
+The next kind of keyframe is Rove across time, and it's for when you want to change the animation path and
+
+69
+00:05:09,380 --> 00:05:12,800
+apply single easy is to the whole keyframes.
+
+70
+00:05:13,160 --> 00:05:20,810
+Well, I select Rove across time keyframes, disable Rove across time, and I want to create single easy ease
+
+71
+00:05:20,810 --> 00:05:23,330
+for whole animation of this ball.
+
+72
+00:05:23,780 --> 00:05:30,890
+That means at the beginning of the animation speed is low here in the middle speed increases and at
+
+73
+00:05:30,890 --> 00:05:33,290
+the end speed decreases again.
+
+74
+00:05:33,290 --> 00:05:37,280
+So I select keyframes right click and easy ease them.
+
+75
+00:05:38,220 --> 00:05:41,820
+If you pay attention, you see what we intended to do Didn't happen correctly
+
+76
+00:05:41,820 --> 00:05:48,210
+ because the circle has a short pause where the keyframes are, and this makes
+
+77
+00:05:48,210 --> 00:05:50,820
+our animation doesn't run smoothly.
+
+78
+00:05:55,570 --> 00:06:01,430
+If I go to the graph editor, you see the speed of the animation is zero at the beginning.
+
+79
+00:06:01,450 --> 00:06:05,590
+Then increases, decreases again, increases again.
+
+80
+00:06:05,590 --> 00:06:06,340
+And so on
+
+81
+00:06:09,000 --> 00:06:12,720
+As you see, this makes the circle stop in the animation path.
+
+82
+00:06:17,220 --> 00:06:20,790
+To solve this problem I have to use Rove across time.
+
+83
+00:06:22,950 --> 00:06:27,810
+To do that, I select middle keyframes and enable Rove across time.
+
+84
+00:06:27,840 --> 00:06:34,410
+Now, if I go back to the graph editor, you see the keyframes as dots are spread in the speed graph
+
+85
+00:06:34,410 --> 00:06:39,570
+of the animation, and it is completely harmonic with the animation speed graph.
+
+86
+00:06:40,110 --> 00:06:44,400
+Now, if I play, you see that I have created the intended animation.
+
+87
+00:06:46,110 --> 00:06:46,900
+At the beginning.
+
+88
+00:06:46,920 --> 00:06:48,120
+Speed is low.
+
+89
+00:06:48,150 --> 00:06:51,510
+It increases and at the end it decreases.
+
+90
+00:06:51,540 --> 00:06:57,930
+Although I have three key frames here, I was able to create single easy ease for the whole animation
+
+91
+00:06:57,930 --> 00:06:59,930
+without any pause 
+
+92
+00:06:59,940 --> 00:07:01,710
+I increse Its ease slightly.
+
+93
+00:07:05,920 --> 00:07:11,380
+From these dots, you can completely understand what animation speed is going to be.
+
+94
+00:07:13,270 --> 00:07:16,370
+The next type of keyframe is linear continuous.
+
+95
+00:07:16,390 --> 00:07:20,740
+Its hotkey is Ctrl + Click and it has a shape like a circle.
+
+96
+00:07:21,490 --> 00:07:25,720
+This kind of keyframe is for when you have middle keyframes.
+
+97
+00:07:25,720 --> 00:07:27,130
+Like this animation.
+
+98
+00:07:27,790 --> 00:07:31,360
+I select three key frames and easy ease them and play.
+
+99
+00:07:33,340 --> 00:07:36,640
+As you see, the layer has a little pause on the top.
+
+100
+00:07:36,640 --> 00:07:38,740
+And I want to remove this pause 
+
+101
+00:07:39,460 --> 00:07:40,120
+For this.
+
+102
+00:07:40,120 --> 00:07:47,140
+I go to graph editor and here to remove the pause I bring this keyframe higher to increase layer speed.
+
+103
+00:07:48,260 --> 00:07:54,320
+If I do this, you see, the keyframe becomes two points and I have to adjust them separately.
+
+104
+00:07:54,320 --> 00:07:56,090
+And this job takes time.
+
+105
+00:07:56,450 --> 00:07:59,890
+To prevent this, I just need to select this keyframe.
+
+106
+00:07:59,900 --> 00:08:01,490
+Hold down Ctrl and left Click on it 
+
+107
+00:08:01,490 --> 00:08:08,390
+as you see the keyframes change into a circle shape and now you can increase or decrease
+
+108
+00:08:08,390 --> 00:08:12,080
+the speed of your keyframe without it becoming two points.
+
+109
+00:08:12,800 --> 00:08:19,610
+You can also do this in graph editor by right clicking on the keyframe, selecting keyframe velocity
+
+110
+00:08:19,610 --> 00:08:21,920
+and enabling the continuous option.
+
+111
+00:08:22,990 --> 00:08:24,470
+For now, I disable it.
+
+112
+00:08:24,490 --> 00:08:29,030
+You see, it becomes two points, and then I go to Velocity and enable it.
+
+113
+00:08:29,050 --> 00:08:32,410
+And you see two points of the keyframe move together.
+
+114
+00:08:33,380 --> 00:08:37,760
+Well, in this lesson, we got to know about different types of keyframes.
+
+115
+00:08:37,760 --> 00:08:42,440
+In the next lesson, we'll learn about different kinds of graphs and how to edit them.
+
+116
+00:08:42,470 --> 00:08:43,370
+Good luck.

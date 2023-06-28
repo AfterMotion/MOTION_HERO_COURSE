@@ -1,0 +1,111 @@
+1
+00:00:00,800 --> 00:00:07,700
+After I'm done with the animation to render it, I have to go to the composition menu and choose the
+
+2
+00:00:07,700 --> 00:00:09,380
+add to render queue option.
+
+3
+00:00:11,460 --> 00:00:17,970
+After the render cue panel showed up here from the output module, I click here.
+
+4
+00:00:18,000 --> 00:00:21,020
+Here you can choose the format of your clip.
+
+5
+00:00:21,030 --> 00:00:26,530
+I choose Edge 264 in previous versions of After Effects.
+
+6
+00:00:26,550 --> 00:00:33,000
+This option doesn't exist and you had to choose QuickTime and export your clip as a move file.
+
+7
+00:00:33,030 --> 00:00:42,180
+However, in newer versions, the H 264 is available and you can easily export your animation as an
+
+8
+00:00:42,180 --> 00:00:43,350
+MP for file.
+
+9
+00:00:43,380 --> 00:00:48,270
+Here you can choose your clip channel to be either RGV or Alpha.
+
+10
+00:00:48,300 --> 00:00:50,370
+Alpha makes it black and white.
+
+11
+00:00:50,490 --> 00:00:55,770
+When you choose H 264, you don't have to change any settings.
+
+12
+00:00:56,190 --> 00:01:00,730
+If you wanted to change the dimensions of your output, you can do that here.
+
+13
+00:01:00,750 --> 00:01:06,450
+You can change the height and width here and here you can crop your output file.
+
+14
+00:01:06,450 --> 00:01:08,440
+But now I don't need this.
+
+15
+00:01:08,460 --> 00:01:13,890
+If you ever want to do that, it's better to do these things in your composition.
+
+16
+00:01:14,160 --> 00:01:20,250
+These options are mostly for light weighted previews of your work, but in general you'd better use
+
+17
+00:01:20,250 --> 00:01:22,470
+the settings of the composition I hit.
+
+18
+00:01:22,470 --> 00:01:22,850
+Okay.
+
+19
+00:01:23,010 --> 00:01:28,230
+I click on this option so I can choose where I want my render to be saved.
+
+20
+00:01:29,600 --> 00:01:32,630
+After I named my final file, I hit save.
+
+21
+00:01:34,430 --> 00:01:36,860
+And then here I click on render.
+
+22
+00:01:41,630 --> 00:01:48,380
+Well, after rendering is done, you can click on this arrow and this address so it would show you where
+
+23
+00:01:48,380 --> 00:01:49,880
+your file is saved.
+
+24
+00:01:51,820 --> 00:01:53,410
+I right click on it.
+
+25
+00:01:53,440 --> 00:01:55,350
+I go to its properties.
+
+26
+00:01:55,360 --> 00:02:01,990
+As you can see, the size of the final render is 350 kilo points, which is pretty good.
+
+27
+00:02:11,600 --> 00:02:16,140
+In the next lesson, you will get to know how to work with graphs and graph.
+
+28
+00:02:16,820 --> 00:02:17,810
+I'll see you there.

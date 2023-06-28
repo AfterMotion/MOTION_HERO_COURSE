@@ -1,0 +1,403 @@
+1
+00:00:00,090 --> 00:00:01,150
+Hello, everyone.
+
+2
+00:00:01,170 --> 00:00:04,650
+In this lesson, I want to talk about interpolation.
+
+3
+00:00:05,010 --> 00:00:12,240
+Interpolation is the process of creating intermediate frames between two key frames so that you don't
+
+4
+00:00:12,240 --> 00:00:14,820
+need to adjust the layer frame by frame.
+
+5
+00:00:14,820 --> 00:00:22,080
+And as you create an animation with two key frames, interpolation comes in and creates movement between
+
+6
+00:00:22,080 --> 00:00:23,700
+these two key frames.
+
+7
+00:00:23,820 --> 00:00:31,470
+These in between key frames once were created by traditional methods and manually, but now interpolation
+
+8
+00:00:31,470 --> 00:00:33,390
+does this automatically.
+
+9
+00:00:33,390 --> 00:00:41,280
+For example, I created a keyframe for this layer here and another one here, and interpolation calculates
+
+10
+00:00:41,310 --> 00:00:47,040
+key frames for the frames between these two key frames and moves the layer like this.
+
+11
+00:00:47,250 --> 00:00:53,250
+Well, what is the benefit of interpolation when you create two key frames for your animation, like
+
+12
+00:00:53,250 --> 00:01:00,000
+these two key frames, sometimes you need to adjust the values more accurately or edit your animation
+
+13
+00:01:00,000 --> 00:01:00,480
+path.
+
+14
+00:01:00,480 --> 00:01:01,530
+Precisely.
+
+15
+00:01:01,530 --> 00:01:03,630
+Interpolation helps you a lot.
+
+16
+00:01:04,110 --> 00:01:11,610
+Overall, we have two interpolations in after effects, one temporal interpolation and two a spatial
+
+17
+00:01:11,610 --> 00:01:16,410
+interpolation to enter the interpolation section of the key frames.
+
+18
+00:01:16,410 --> 00:01:18,570
+I just have to select the keyframe.
+
+19
+00:01:18,570 --> 00:01:25,560
+I want to change this interpolation right, click on it and click on Keyframe interpolation and enter
+
+20
+00:01:25,560 --> 00:01:26,010
+it.
+
+21
+00:01:26,610 --> 00:01:34,620
+As you see here, we have two kinds of interpolations temporal interpolation and a spatial interpolation.
+
+22
+00:01:34,710 --> 00:01:41,400
+Temporal interpolation, as it's written here effects the property have keyframe over time.
+
+23
+00:01:41,400 --> 00:01:49,020
+Most usage of this interpolation is for unique axial properties like rotation, opacity or separated
+
+24
+00:01:49,020 --> 00:01:49,890
+position.
+
+25
+00:01:50,250 --> 00:01:57,180
+But the spatial interpolation as it's written here, affects the path of the layers, and obviously
+
+26
+00:01:57,180 --> 00:02:00,390
+a path exists when the position exists.
+
+27
+00:02:00,930 --> 00:02:06,870
+So a spatial interpolation is more about layers, position and effects layers path.
+
+28
+00:02:07,890 --> 00:02:15,390
+First we start with a spatial interpolation, so we understand these options easier, and after that
+
+29
+00:02:15,390 --> 00:02:17,760
+we go to the temporal interpolation.
+
+30
+00:02:20,500 --> 00:02:26,230
+Well, the example I created here is four balls with the same animation speed.
+
+31
+00:02:26,260 --> 00:02:29,710
+They move together, they go up and down together.
+
+32
+00:02:29,710 --> 00:02:34,300
+But the only difference is these layers path or their interpolation.
+
+33
+00:02:35,140 --> 00:02:41,730
+Isolate the first layer, select the middle keyframe, and I go to the keyframe interpolation.
+
+34
+00:02:41,740 --> 00:02:48,070
+As you see, a spatial interpolation of this layer is linear and the movement path of this layer is
+
+35
+00:02:48,070 --> 00:02:48,850
+linear.
+
+36
+00:02:48,880 --> 00:02:53,850
+If you look at the second layer, the moving path of this layer is like this.
+
+37
+00:02:53,860 --> 00:03:01,180
+And if I select the second keyframe and enter keyframe interpolation, you see that the spatial interpolation
+
+38
+00:03:01,180 --> 00:03:02,290
+is on busier.
+
+39
+00:03:03,090 --> 00:03:07,320
+Until now, you have noticed the difference between linear and busier.
+
+40
+00:03:08,310 --> 00:03:15,210
+The linear sets the animation path in a linear manner and creates no handle for that key frame in the
+
+41
+00:03:15,210 --> 00:03:15,840
+path.
+
+42
+00:03:16,050 --> 00:03:22,740
+But busier curves the animation path in the intended key frame and creates two handles.
+
+43
+00:03:22,740 --> 00:03:26,640
+So we get to edit the animation path in any way we want.
+
+44
+00:03:29,650 --> 00:03:32,110
+The next step of a spatial interpolation.
+
+45
+00:03:32,110 --> 00:03:35,290
+As I have written, it is continuous busier.
+
+46
+00:03:35,650 --> 00:03:42,040
+This like the busier option as you see here, that the key frame is continuous busier, the animation
+
+47
+00:03:42,040 --> 00:03:48,190
+path is curved and two handles have been created for this key frame just like the last one.
+
+48
+00:03:48,190 --> 00:03:54,280
+But the difference between these two interpolation is that you cannot change one of them separately
+
+49
+00:03:54,280 --> 00:03:59,950
+in the continuous busier, and by changing the right handle, the left one changes with it.
+
+50
+00:03:59,950 --> 00:04:05,750
+And you don't have the same controls here as you have in busier, which is a feature in itself, or
+
+51
+00:04:05,770 --> 00:04:08,770
+when you don't want your animation paths to be broken.
+
+52
+00:04:09,370 --> 00:04:13,030
+The last type of a spatial interpolation is also busier.
+
+53
+00:04:13,030 --> 00:04:16,780
+This type of interpolation is almost the same as busier.
+
+54
+00:04:16,780 --> 00:04:22,900
+But here, if you change your animation path direction, you see the handles change according to the
+
+55
+00:04:22,900 --> 00:04:26,050
+angle of your animation path to keep their curve.
+
+56
+00:04:29,990 --> 00:04:31,440
+Let me change this one.
+
+57
+00:04:31,460 --> 00:04:35,870
+You see that what happened there is not like what is happening here.
+
+58
+00:04:35,900 --> 00:04:38,090
+The same is here as a change.
+
+59
+00:04:38,120 --> 00:04:41,810
+This there is no effect on the past is before the keyframe.
+
+60
+00:04:42,350 --> 00:04:49,010
+But in order busier when the path changes according to the curve, the key frame handles also change.
+
+61
+00:04:49,640 --> 00:04:54,200
+As I try to change the handles, it changes to continuous busier.
+
+62
+00:04:54,200 --> 00:04:58,550
+And now if you change this, you see it is not as it was before.
+
+63
+00:04:59,500 --> 00:05:05,420
+Now that we got familiar with this spatial interpolation, let's go for temporal interpolation.
+
+64
+00:05:05,440 --> 00:05:08,530
+To do so, isolate this keyframe of this layer.
+
+65
+00:05:08,560 --> 00:05:12,250
+Go to the graph editor in the value graph.
+
+66
+00:05:12,250 --> 00:05:16,150
+Right click on the keyframe and go to the keyframe interpolation.
+
+67
+00:05:17,160 --> 00:05:18,800
+Temporal interpolation.
+
+68
+00:05:18,810 --> 00:05:24,120
+As I said before, this interpolation is usually applied for uni axial values.
+
+69
+00:05:24,150 --> 00:05:31,740
+To do so, I separate the position of this layer so its handles up here, isolate the middle keyframe,
+
+70
+00:05:31,740 --> 00:05:39,420
+enter keyframe interpolation and from temporal interpolation I click on linear you see as a selected
+
+71
+00:05:39,420 --> 00:05:40,110
+linear.
+
+72
+00:05:40,110 --> 00:05:45,270
+The value graph of the animation is set on linear and it is obvious here.
+
+73
+00:05:46,730 --> 00:05:51,260
+If I change this key frame, you will see that it is completely linear.
+
+74
+00:05:52,250 --> 00:05:53,780
+I go to the second option.
+
+75
+00:05:53,780 --> 00:05:54,560
+Busier.
+
+76
+00:05:54,560 --> 00:05:57,560
+Busier acts exactly like this option.
+
+77
+00:05:57,830 --> 00:06:04,490
+But the difference is that the spatial interpolation effects the animation path, but here it affects
+
+78
+00:06:04,490 --> 00:06:05,690
+the value graph.
+
+79
+00:06:05,780 --> 00:06:07,230
+I change the handle.
+
+80
+00:06:07,250 --> 00:06:10,220
+You see, I can edit each of them separately.
+
+81
+00:06:13,020 --> 00:06:19,260
+Again isolate the key frame and turkey frame interpolation and choose continuous busier.
+
+82
+00:06:20,260 --> 00:06:27,250
+Continuous busier, as I said, here is for changing the handles together and making sure no breaks
+
+83
+00:06:27,250 --> 00:06:28,640
+happen in the graph.
+
+84
+00:06:31,780 --> 00:06:34,650
+I go to the next option a little bit easier.
+
+85
+00:06:34,660 --> 00:06:38,020
+As I said before, it is for when I change the graph.
+
+86
+00:06:38,050 --> 00:06:41,540
+The handles change according to the curve of the graph.
+
+87
+00:06:41,560 --> 00:06:48,220
+You see, when I drag it up in here, it sits lower and also we see its effect after the keyframe.
+
+88
+00:06:50,420 --> 00:06:53,780
+You see, when I drag it down, this side goes higher.
+
+89
+00:06:57,080 --> 00:07:00,080
+And when I bring it higher, this goes down.
+
+90
+00:07:00,970 --> 00:07:04,090
+The last option is hold, which is toggle hold.
+
+91
+00:07:04,210 --> 00:07:08,710
+That allows me to make my keyframe goes into all manner.
+
+92
+00:07:09,950 --> 00:07:12,850
+I also made this keyframe toggle hold.
+
+93
+00:07:12,860 --> 00:07:19,670
+As you can see, when I use toggle hold, the value of the key frame I put on toggle hold is applied
+
+94
+00:07:19,670 --> 00:07:21,530
+until the next keyframe.
+
+95
+00:07:21,560 --> 00:07:29,270
+It stays in place until here, and in the next keyframe it transfers to the next keyframe location.
+
+96
+00:07:29,970 --> 00:07:34,960
+If I want the same thing to happen here, I have to put these two keyframes on hold.
+
+97
+00:07:34,980 --> 00:07:35,580
+Option.
+
+98
+00:07:40,110 --> 00:07:46,980
+Well, in this lesson we learned about the concept of interpolation and its different kinds in aftereffects
+
+99
+00:07:46,980 --> 00:07:50,490
+and their effects on the path and value of the animation.
+
+100
+00:07:50,580 --> 00:07:57,210
+In the next chapter, I start creating basic animations that are essential for any animator to know
+
+101
+00:07:57,210 --> 00:08:00,120
+so you can create a tractive motion graphics.

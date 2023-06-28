@@ -1,0 +1,407 @@
+1
+00:00:00,240 --> 00:00:03,690
+The next modifier we will talk about is wiggle path.
+
+2
+00:00:04,410 --> 00:00:06,780
+I have created a stroke here.
+
+3
+00:00:08,140 --> 00:00:10,120
+At the wiggle path to the shape.
+
+4
+00:00:12,360 --> 00:00:14,580
+Their shape gets a bit rougher.
+
+5
+00:00:18,770 --> 00:00:20,120
+Open legal path.
+
+6
+00:00:20,780 --> 00:00:22,850
+We have some parameters here.
+
+7
+00:00:24,110 --> 00:00:28,880
+The first one is size that lets you control the size of these vibrations.
+
+8
+00:00:29,450 --> 00:00:35,660
+The next parameter is detail, which lets you increase or decrease the amount of these vibrations.
+
+9
+00:00:37,990 --> 00:00:40,600
+You see, I increase and decrease them.
+
+10
+00:00:40,720 --> 00:00:47,080
+The next parameter is point that makes the points of these vibrations sharp or smooth.
+
+11
+00:00:51,430 --> 00:00:53,320
+I set it on corner for now.
+
+12
+00:00:53,920 --> 00:00:59,740
+The next parameter is wiggle second, which shows you the amount of the wiggle per second.
+
+13
+00:01:00,070 --> 00:01:02,680
+For example, now it is set on two.
+
+14
+00:01:02,680 --> 00:01:04,210
+I change it to ten.
+
+15
+00:01:04,390 --> 00:01:06,550
+You see, it is now so quick.
+
+16
+00:01:06,820 --> 00:01:08,890
+I change it back to two.
+
+17
+00:01:09,690 --> 00:01:11,220
+The next one is correlation.
+
+18
+00:01:11,220 --> 00:01:13,980
+It is the relation between two things.
+
+19
+00:01:15,230 --> 00:01:20,540
+It controls the resemblance of the movements of the points which are next to each other.
+
+20
+00:01:23,030 --> 00:01:30,080
+If we decrease it to something like ten, the similarity of motion of points which are next to each
+
+21
+00:01:30,080 --> 00:01:35,360
+other will decrease so much, and accordingly we will have more vibration.
+
+22
+00:01:35,360 --> 00:01:41,840
+And if we increase it to something like 97, the similarity of motion of the points which are next to
+
+23
+00:01:41,840 --> 00:01:43,610
+each other will be the same.
+
+24
+00:01:43,610 --> 00:01:48,260
+Therefore, we will have less vibrations and we will have smooth movements.
+
+25
+00:01:49,660 --> 00:01:52,060
+I reset it to 50 again.
+
+26
+00:01:52,840 --> 00:01:55,060
+The next parameter is temporal phase.
+
+27
+00:01:55,360 --> 00:01:58,090
+It is used to animate the wiggle manually.
+
+28
+00:01:58,840 --> 00:02:01,720
+Now if I play, it wiggles randomly.
+
+29
+00:02:03,340 --> 00:02:04,690
+For example, in second one.
+
+30
+00:02:04,690 --> 00:02:06,760
+I don't want it to be like this.
+
+31
+00:02:07,770 --> 00:02:09,520
+I want it to be like this.
+
+32
+00:02:09,540 --> 00:02:12,500
+To do this, I use this parameter.
+
+33
+00:02:12,510 --> 00:02:16,050
+For example, in the beginning I said we go second to zero.
+
+34
+00:02:17,960 --> 00:02:21,080
+You see, when I play it, we won't have animation anymore.
+
+35
+00:02:21,590 --> 00:02:30,140
+I create a keyframe for temporal phase, and at the second one, I want such a situation to be created.
+
+36
+00:02:31,020 --> 00:02:32,880
+I created this manually.
+
+37
+00:02:33,720 --> 00:02:37,200
+And if I want to stop it, I can do it using this parameter.
+
+38
+00:02:37,470 --> 00:02:42,690
+The next parameter is spatial phase, which is exactly like temporal phase.
+
+39
+00:02:43,020 --> 00:02:46,440
+The difference between these two is a bit technical.
+
+40
+00:02:46,770 --> 00:02:50,010
+Temporal phase moves the ways in horizontal direction.
+
+41
+00:02:50,010 --> 00:02:51,870
+I mean a long x axis.
+
+42
+00:02:52,500 --> 00:02:56,070
+The spatial phase moves the waves along the y axis.
+
+43
+00:02:56,340 --> 00:02:59,190
+They are usually used to apply changes manually.
+
+44
+00:02:59,310 --> 00:03:03,660
+Random speed is also used to make the waves of the shape random.
+
+45
+00:03:09,390 --> 00:03:11,370
+Now let's go to the examples.
+
+46
+00:03:13,960 --> 00:03:16,060
+We want to create this animation.
+
+47
+00:03:19,100 --> 00:03:24,980
+You see, as the charger connects to the phone, these waves are created by wiggle path.
+
+48
+00:03:32,240 --> 00:03:34,610
+We want to create this animation now.
+
+49
+00:03:37,830 --> 00:03:43,170
+I deleted the wiggle passes of the shapes to create them again and have the same waves.
+
+50
+00:03:48,640 --> 00:03:54,850
+We want to make this line around the phone to wiggle, just as the charger cable connects to the phone.
+
+51
+00:03:56,510 --> 00:04:00,060
+So we enter the mobile layer shake.
+
+52
+00:04:00,080 --> 00:04:02,630
+It is the layer of the line around the phone.
+
+53
+00:04:03,490 --> 00:04:05,230
+I had a visual path to it.
+
+54
+00:04:08,970 --> 00:04:12,780
+Now I create a keyframe for the size of the wiggle path.
+
+55
+00:04:13,410 --> 00:04:20,160
+Press You return back to the frame that the charger cable is disconnected from the mobile and set the
+
+56
+00:04:20,160 --> 00:04:21,510
+size to zero.
+
+57
+00:04:24,410 --> 00:04:26,690
+I play to see the result.
+
+58
+00:04:26,960 --> 00:04:31,730
+The animation of this line is not synchronized with the animation of the wiggle of the mobile.
+
+59
+00:04:36,230 --> 00:04:39,770
+So open the shape and set its regal second to ten.
+
+60
+00:04:42,620 --> 00:04:43,310
+Let's see.
+
+61
+00:04:50,180 --> 00:04:50,600
+Good.
+
+62
+00:04:54,550 --> 00:04:56,750
+I disable vehicle path for now.
+
+63
+00:04:56,770 --> 00:05:03,400
+Note that here I have created a path with some points which have the same distance from each other to
+
+64
+00:05:03,400 --> 00:05:04,960
+have synchronized vehicle.
+
+65
+00:05:05,670 --> 00:05:11,520
+But if the points didn't have same distance from each other, the Wiggles would be like this.
+
+66
+00:05:12,430 --> 00:05:13,690
+And they're not good.
+
+67
+00:05:14,420 --> 00:05:17,000
+So pay attention while creating a shape.
+
+68
+00:05:17,030 --> 00:05:22,120
+You should have points with same distance in order to have same visual pathways.
+
+69
+00:05:27,990 --> 00:05:29,520
+I copy wiggle path.
+
+70
+00:05:32,600 --> 00:05:34,070
+Open a screen layer.
+
+71
+00:05:35,460 --> 00:05:38,370
+I want to add, we go to the green circle.
+
+72
+00:05:40,890 --> 00:05:42,150
+Open green layer.
+
+73
+00:05:42,540 --> 00:05:44,100
+Press Control V.
+
+74
+00:05:47,700 --> 00:05:48,300
+Let me see.
+
+75
+00:05:48,300 --> 00:05:49,650
+Where are the keyframes?
+
+76
+00:05:51,040 --> 00:05:53,110
+I should move to keyframes here.
+
+77
+00:05:55,010 --> 00:05:55,880
+All right.
+
+78
+00:05:57,550 --> 00:05:58,990
+It's Miguel is okay.
+
+79
+00:05:59,440 --> 00:06:02,800
+Just I think it's details are not sufficient.
+
+80
+00:06:04,630 --> 00:06:06,630
+So I increase its details.
+
+81
+00:06:13,590 --> 00:06:14,430
+It's good.
+
+82
+00:06:15,150 --> 00:06:17,790
+We should create Miguel for this line, too.
+
+83
+00:06:18,000 --> 00:06:19,110
+So I copy.
+
+84
+00:06:19,110 --> 00:06:20,040
+Miguel path.
+
+85
+00:06:21,120 --> 00:06:22,020
+Open line.
+
+86
+00:06:23,680 --> 00:06:26,400
+In this frame that the first key frame is set.
+
+87
+00:06:26,410 --> 00:06:28,930
+Select the line and press control V.
+
+88
+00:06:31,370 --> 00:06:32,030
+Let's see.
+
+89
+00:06:33,790 --> 00:06:34,120
+Good.
+
+90
+00:06:44,720 --> 00:06:46,820
+Price you to see the keyframes.
+
+91
+00:06:48,270 --> 00:06:50,910
+Wriggle is applied from here until here.
+
+92
+00:06:53,800 --> 00:06:56,860
+Just framed the mobile doesn't have wiggle anymore.
+
+93
+00:06:59,340 --> 00:07:02,400
+And the charger is disconnected from the mobile.
+
+94
+00:07:02,880 --> 00:07:06,090
+So we should copy the keyframes of the visual path here.
+
+95
+00:07:09,100 --> 00:07:11,470
+Copy of these two Control V.
+
+96
+00:07:12,510 --> 00:07:13,560
+And reverse.
+
+97
+00:07:21,140 --> 00:07:25,010
+We should do the same with the vehicle path of the line around the mobile.
+
+98
+00:07:26,870 --> 00:07:28,280
+Copy paste.
+
+99
+00:07:29,710 --> 00:07:30,520
+Reverse.
+
+100
+00:07:32,300 --> 00:07:33,320
+Let's have a look.
+
+101
+00:07:41,810 --> 00:07:42,560
+OC.
+
+102
+00:07:43,570 --> 00:07:48,040
+This was another usage of visual path by which you can create such waves.

@@ -1,0 +1,979 @@
+1
+00:00:00,390 --> 00:00:01,610
+Hello, everyone.
+
+2
+00:00:01,620 --> 00:00:06,050
+In this lesson, I want to create another bouncing ball animation.
+
+3
+00:00:06,060 --> 00:00:13,110
+In this exercise, I have made things more difficult to gain better control over the spacing, timing,
+
+4
+00:00:13,110 --> 00:00:16,040
+squishing and stretching of the animation.
+
+5
+00:00:16,050 --> 00:00:18,600
+This is the reference I want to use it.
+
+6
+00:00:18,600 --> 00:00:24,620
+And as you see, I have created these lines that the ball is supposed to make contact and move on them.
+
+7
+00:00:24,780 --> 00:00:29,520
+The ball is going to get squashed and throw itself toward this direction.
+
+8
+00:00:29,910 --> 00:00:37,500
+And after within this lever it jumps and goes this way, moves and hits under this line, then lands
+
+9
+00:00:37,500 --> 00:00:38,550
+on this lever.
+
+10
+00:00:38,550 --> 00:00:45,620
+This lever goes down a little and then throws the ball up and it comes here and jumps a few times and
+
+11
+00:00:45,630 --> 00:00:48,910
+at the end goes up a little and comes back.
+
+12
+00:00:48,930 --> 00:00:55,560
+The difference between this and previous practice is that here we don't use references because you want
+
+13
+00:00:55,560 --> 00:00:59,520
+to do the spacing and timing of the animation ourselves.
+
+14
+00:00:59,520 --> 00:01:06,560
+So if in the future we want to create an animation, we get to do this with our own ideas and timings.
+
+15
+00:01:06,570 --> 00:01:11,610
+But note that this practice doesn't mean that not using references is better.
+
+16
+00:01:11,610 --> 00:01:18,900
+So to reach our goal better and easier, it is good to use references, but my intention for this practice
+
+17
+00:01:18,900 --> 00:01:26,610
+is to improve your ability and creativity to make it fantasy animation because you can always find references
+
+18
+00:01:26,610 --> 00:01:28,980
+for the idea you have in your mind.
+
+19
+00:01:28,980 --> 00:01:32,970
+And in these times only your creativity will help you.
+
+20
+00:01:33,360 --> 00:01:35,120
+Well, let's get started.
+
+21
+00:01:35,130 --> 00:01:38,610
+First, I rotate this almost at this angle.
+
+22
+00:01:38,610 --> 00:01:40,890
+The ball is going to hit this lower.
+
+23
+00:01:41,040 --> 00:01:45,660
+I hide extra layers to have only the ball layer in the timeline.
+
+24
+00:01:46,850 --> 00:01:49,070
+I open the position of the ball.
+
+25
+00:01:50,620 --> 00:01:57,130
+The next point I have to say is that this time I didn't create this fall with the sphere effect because
+
+26
+00:01:57,130 --> 00:01:59,320
+sometimes our layers are shapes.
+
+27
+00:01:59,620 --> 00:02:05,620
+This time I find it better to work with shapes so we learn how to create a squash and stretch and rotation
+
+28
+00:02:05,620 --> 00:02:07,330
+for the ball using shapes.
+
+29
+00:02:07,540 --> 00:02:13,540
+Well, first we need to create the main key frames to know where the ball is going to be in different
+
+30
+00:02:13,540 --> 00:02:14,770
+situations.
+
+31
+00:02:14,800 --> 00:02:20,930
+After that, we need to adjust the path and then work with graphs and the speed of the animation.
+
+32
+00:02:20,950 --> 00:02:26,650
+Then we're going to create a squash and a stretch, and at last we will work with ball rotation.
+
+33
+00:02:26,950 --> 00:02:31,660
+So first I need to create the main keyframes or key poses.
+
+34
+00:02:32,620 --> 00:02:39,730
+To begin, I go to frames forward because I want to create a squash for the ball, so it requires energy
+
+35
+00:02:39,730 --> 00:02:40,630
+for the jump.
+
+36
+00:02:41,740 --> 00:02:44,650
+I create a keyframe here for the position.
+
+37
+00:02:45,760 --> 00:02:47,680
+Go three frames forward.
+
+38
+00:02:47,710 --> 00:02:50,530
+The ball needs to hear approximately.
+
+39
+00:02:52,700 --> 00:02:53,150
+Again.
+
+40
+00:02:53,150 --> 00:02:55,130
+I go through frames forward.
+
+41
+00:02:55,520 --> 00:02:57,140
+The ball comes here.
+
+42
+00:02:59,290 --> 00:03:01,060
+Throughout this Q frame here.
+
+43
+00:03:03,130 --> 00:03:08,550
+The next movement is that when the ball hits, the sliver goes here and moves the line.
+
+44
+00:03:08,560 --> 00:03:09,520
+This slide.
+
+45
+00:03:12,240 --> 00:03:16,230
+So I go seven frames forward and place the ball here.
+
+46
+00:03:19,390 --> 00:03:22,630
+Go six frames forward and bring the ball here.
+
+47
+00:03:25,780 --> 00:03:31,450
+After four frames, the ball should locate here three frames forward.
+
+48
+00:03:31,480 --> 00:03:36,760
+It comes here with wants to jump again, three frames forward.
+
+49
+00:03:37,930 --> 00:03:39,340
+It comes here.
+
+50
+00:03:39,670 --> 00:03:43,510
+For now, I'm creating the keyframes and their timing by guess.
+
+51
+00:03:43,510 --> 00:03:49,630
+But when the animation path and timing get decided, the key frames and both locations may change.
+
+52
+00:03:50,590 --> 00:03:53,560
+I go for frames for and it moves here.
+
+53
+00:03:55,960 --> 00:03:58,240
+In two frames, it goes lower.
+
+54
+00:04:00,970 --> 00:04:02,110
+In six frames.
+
+55
+00:04:02,110 --> 00:04:04,210
+It jumps and locates here.
+
+56
+00:04:06,890 --> 00:04:09,590
+After five frames, I place it here.
+
+57
+00:04:10,600 --> 00:04:13,030
+It should be here after four frames.
+
+58
+00:04:13,390 --> 00:04:16,030
+After three frames, it must be here.
+
+59
+00:04:16,930 --> 00:04:19,990
+And after five frames it should be here.
+
+60
+00:04:26,000 --> 00:04:29,240
+Then after five frames, the ball is on the ground.
+
+61
+00:04:36,190 --> 00:04:36,610
+Again.
+
+62
+00:04:36,610 --> 00:04:38,170
+The ball comes up.
+
+63
+00:04:42,290 --> 00:04:43,910
+And go down again.
+
+64
+00:04:45,530 --> 00:04:46,730
+It comes up.
+
+65
+00:04:48,330 --> 00:04:49,800
+Comes down.
+
+66
+00:04:51,930 --> 00:04:54,660
+After five frames, it goes here.
+
+67
+00:04:55,960 --> 00:04:58,960
+And after ten frames, it goes back here.
+
+68
+00:05:00,840 --> 00:05:04,560
+For now, I have created the main keyframes for the animation.
+
+69
+00:05:04,590 --> 00:05:07,700
+Now it's time to create the path for the ball.
+
+70
+00:05:10,140 --> 00:05:16,470
+I right click on this keyframe, go to the spatial interpolation and set it on continuous base year
+
+71
+00:05:16,470 --> 00:05:19,290
+so that both handles change together.
+
+72
+00:05:23,380 --> 00:05:24,010
+It hits.
+
+73
+00:05:24,010 --> 00:05:26,840
+And then I said this one on continuous busier.
+
+74
+00:05:36,870 --> 00:05:40,950
+Isolate these key frames and set them on continuous busier.
+
+75
+00:05:45,300 --> 00:05:46,530
+Let's have a look.
+
+76
+00:05:52,290 --> 00:05:54,540
+The path needs to be edited here.
+
+77
+00:06:20,090 --> 00:06:22,880
+This key frame needs to be on busier.
+
+78
+00:06:27,770 --> 00:06:29,660
+It should be only a little over.
+
+79
+00:06:36,150 --> 00:06:38,670
+This needs to move like this.
+
+80
+00:06:38,670 --> 00:06:41,890
+And I continue like this to edit the whole path.
+
+81
+00:08:39,300 --> 00:08:41,910
+Well, let's see how the ball passes.
+
+82
+00:08:51,200 --> 00:08:53,300
+Look, path is good for now.
+
+83
+00:08:53,330 --> 00:08:58,340
+Let's go for editing the speed of the animation and easing in the keyframes.
+
+84
+00:08:59,530 --> 00:09:02,990
+Isolate these keyframes when the ball is floating.
+
+85
+00:09:03,010 --> 00:09:06,760
+Gravity effects it and decreases its speed.
+
+86
+00:09:06,760 --> 00:09:08,260
+And I make them easy.
+
+87
+00:09:09,130 --> 00:09:10,720
+Let's see how it is.
+
+88
+00:09:13,880 --> 00:09:18,500
+It's better now, but this key frame is needed to be on easy as well.
+
+89
+00:09:22,090 --> 00:09:23,770
+And also this keyframe.
+
+90
+00:09:33,960 --> 00:09:40,440
+Isolate this keyframe and go to the graph editor and increase its influence or easing.
+
+91
+00:09:41,100 --> 00:09:46,360
+I double click on it and make it continuous and set its speed to 50.
+
+92
+00:09:46,380 --> 00:09:48,420
+So I don't get a pause here.
+
+93
+00:09:51,900 --> 00:09:55,200
+It needs more speed to have no puns here.
+
+94
+00:10:05,090 --> 00:10:05,480
+Here.
+
+95
+00:10:05,480 --> 00:10:12,920
+I need to increase easing or influence and make it continuous busier and set its speed to 100.
+
+96
+00:10:19,980 --> 00:10:20,870
+There is a pass.
+
+97
+00:10:20,920 --> 00:10:23,490
+I need to bring this one a little higher.
+
+98
+00:10:27,220 --> 00:10:28,150
+It's too much.
+
+99
+00:10:28,180 --> 00:10:29,980
+It should be a little over.
+
+100
+00:10:33,350 --> 00:10:34,940
+I think it should be here.
+
+101
+00:10:46,990 --> 00:10:48,310
+I go forward.
+
+102
+00:10:49,680 --> 00:10:50,220
+Here.
+
+103
+00:10:50,220 --> 00:10:53,160
+There is no need to pause until it comes here.
+
+104
+00:10:54,330 --> 00:10:58,560
+So isolate these three key frames and make them roll across.
+
+105
+00:11:06,290 --> 00:11:08,570
+It comes down, rotates.
+
+106
+00:11:08,570 --> 00:11:11,090
+It's this and comes here.
+
+107
+00:11:18,310 --> 00:11:19,560
+Delays along here.
+
+108
+00:11:19,570 --> 00:11:22,420
+So I decrease the distance between keyframes.
+
+109
+00:11:22,420 --> 00:11:24,850
+It comes down and jumps fast.
+
+110
+00:11:30,770 --> 00:11:35,390
+I go to the graph editor and also here the speed needs to be reduced.
+
+111
+00:11:44,650 --> 00:11:50,800
+And the keyframes between this jump and the next jump need to be rolled across so that the speed doesn't
+
+112
+00:11:50,800 --> 00:11:52,600
+have any pause here.
+
+113
+00:11:57,450 --> 00:12:00,120
+The speed must be reduced here again.
+
+114
+00:12:04,340 --> 00:12:06,350
+The same for this one as well.
+
+115
+00:12:14,490 --> 00:12:16,140
+And to eliminate the pass.
+
+116
+00:12:16,140 --> 00:12:17,670
+I bring this higher.
+
+117
+00:12:21,600 --> 00:12:24,030
+I bring it a little bit higher to.
+
+118
+00:12:25,430 --> 00:12:26,810
+And this one to.
+
+119
+00:12:30,460 --> 00:12:32,680
+Let's see how this part looks.
+
+120
+00:12:34,300 --> 00:12:35,290
+Okay, it's good.
+
+121
+00:12:35,290 --> 00:12:41,590
+But here, when the ball finishes the final jump, it's not well adjusted, so I delete them and create
+
+122
+00:12:41,590 --> 00:12:42,640
+the path again.
+
+123
+00:12:44,890 --> 00:12:45,970
+In ten frames.
+
+124
+00:12:45,970 --> 00:12:47,320
+It goes here.
+
+125
+00:12:48,320 --> 00:12:51,500
+And in the next ten frames, it comes back.
+
+126
+00:12:52,280 --> 00:12:54,770
+I said this keyframe on Busier.
+
+127
+00:13:00,670 --> 00:13:02,140
+Let's see how this.
+
+128
+00:13:03,880 --> 00:13:07,630
+I go to the graph editor and increase its speed here.
+
+129
+00:13:09,760 --> 00:13:11,500
+Let's have another look.
+
+130
+00:13:15,410 --> 00:13:17,360
+I bring these only little here.
+
+131
+00:13:32,280 --> 00:13:34,470
+Make this across time.
+
+132
+00:13:38,250 --> 00:13:40,100
+And this one is the is.
+
+133
+00:13:48,740 --> 00:13:51,560
+Let's take a look at the whole animation.
+
+134
+00:14:04,570 --> 00:14:05,890
+Okay, it's good.
+
+135
+00:14:06,820 --> 00:14:09,790
+Now I go to add in squash and stretch.
+
+136
+00:14:09,820 --> 00:14:17,620
+To do this, I open the scale and rotation of the layer, create a keyframe here for them to be able
+
+137
+00:14:17,620 --> 00:14:18,280
+to know this.
+
+138
+00:14:18,280 --> 00:14:19,750
+The rotation of the layer.
+
+139
+00:14:19,750 --> 00:14:22,090
+Will I add a red line to the ball?
+
+140
+00:14:22,090 --> 00:14:29,110
+So I get to follow its rotation, better isolate these keyframes and move them five frames forward to
+
+141
+00:14:29,110 --> 00:14:34,500
+create a squash in effect for the ball so that it can acquire energy for the jump.
+
+142
+00:14:34,510 --> 00:14:43,050
+I go three frames forward, set the X on 18 and decrease the same amount I increased there and say on
+
+143
+00:14:43,060 --> 00:14:45,460
+12 and put it lower.
+
+144
+00:14:46,950 --> 00:14:49,530
+I think 19 and 11 is better.
+
+145
+00:14:51,980 --> 00:14:57,770
+First, the ball needs to be in its original form, so I copy this keyframes to the beginning.
+
+146
+00:15:00,290 --> 00:15:03,290
+Let me first adjust the rotation of the layer.
+
+147
+00:15:03,830 --> 00:15:06,470
+Then I go to a squashing and stretching.
+
+148
+00:15:06,890 --> 00:15:11,510
+All I need to do is to adjust the rotation according to its path.
+
+149
+00:16:48,230 --> 00:16:50,290
+I have fixed the rotation.
+
+150
+00:16:50,300 --> 00:16:52,580
+Let's have a look to see how it is.
+
+151
+00:16:59,690 --> 00:17:00,790
+Okay, It's good.
+
+152
+00:17:00,800 --> 00:17:03,620
+Now I got to create a squash and stretch.
+
+153
+00:17:04,960 --> 00:17:08,080
+Isolate these key frames, make them easy.
+
+154
+00:17:11,750 --> 00:17:16,340
+I just make these keyframes linear to increase the jumping speed.
+
+155
+00:17:17,330 --> 00:17:17,950
+Here it is.
+
+156
+00:17:17,970 --> 00:17:18,890
+Squashes.
+
+157
+00:17:19,400 --> 00:17:21,110
+Here it should stretch.
+
+158
+00:17:21,680 --> 00:17:23,540
+I said this on 14.
+
+159
+00:17:23,540 --> 00:17:24,290
+And that one?
+
+160
+00:17:24,320 --> 00:17:25,090
+16.
+
+161
+00:17:26,700 --> 00:17:29,550
+Here, it returns to its original form.
+
+162
+00:17:30,900 --> 00:17:33,300
+Here again, I paste this keyframe.
+
+163
+00:17:35,270 --> 00:17:38,840
+Here in the why should be on 12 and this on 18.
+
+164
+00:17:41,470 --> 00:17:42,880
+Anything is too much.
+
+165
+00:17:42,910 --> 00:17:44,170
+Make it 17.
+
+166
+00:17:44,170 --> 00:17:45,670
+And this on 30.
+
+167
+00:17:48,130 --> 00:17:54,340
+In the next frame because the lever hits the ball straight should be more than the previous jump.
+
+168
+00:18:00,880 --> 00:18:03,100
+It returns to its original form.
+
+169
+00:18:09,700 --> 00:18:12,280
+Here, I paste this key frame again.
+
+170
+00:18:20,070 --> 00:18:20,370
+Here.
+
+171
+00:18:20,370 --> 00:18:21,900
+It should stretch again.
+
+172
+00:18:24,420 --> 00:18:25,620
+It is gorgeous here.
+
+173
+00:18:25,620 --> 00:18:29,040
+So I paste the scale keyframe of this position here.
+
+174
+00:18:30,070 --> 00:18:31,630
+And put it up a little.
+
+175
+00:18:36,510 --> 00:18:38,370
+Here it should assuage to.
+
+176
+00:18:40,070 --> 00:18:42,500
+Its rotation must be toward this.
+
+177
+00:18:46,460 --> 00:18:47,870
+Here in the squashes.
+
+178
+00:18:52,270 --> 00:18:54,850
+One frame later it stretches.
+
+179
+00:19:04,840 --> 00:19:09,340
+Generally when the ball is in the air, it keeps its original form.
+
+180
+00:19:09,340 --> 00:19:12,580
+And when it's falling or rising it stretches.
+
+181
+00:19:12,580 --> 00:19:15,550
+And when it hit something it is cautious.
+
+182
+00:19:15,550 --> 00:19:21,130
+So I continue to work and according to the ball speed, I just squash and stretch.
+
+183
+00:20:36,900 --> 00:20:39,870
+And here it rotates and goes ahead.
+
+184
+00:20:39,900 --> 00:20:42,330
+Let's have a look and see how it is.
+
+185
+00:20:53,780 --> 00:20:56,900
+Okay, I'll go here and animate this lever to.
+
+186
+00:20:58,440 --> 00:21:06,390
+I put in the layers, isolate this layer, and inside them I create a keyframe here for its rotation.
+
+187
+00:21:06,390 --> 00:21:12,240
+In the next frame, I bring it down and after two frames, I bring it here.
+
+188
+00:21:17,270 --> 00:21:18,440
+And little higher.
+
+189
+00:21:18,810 --> 00:21:19,610
+It's good.
+
+190
+00:21:23,610 --> 00:21:27,480
+Easy is this and create a spring animation for it.
+
+191
+00:21:34,440 --> 00:21:36,090
+Let's see how it looks.
+
+192
+00:21:45,570 --> 00:21:47,460
+The speed from here to here is.
+
+193
+00:21:49,970 --> 00:21:51,740
+So I increase it here.
+
+194
+00:22:12,160 --> 00:22:12,580
+Here.
+
+195
+00:22:12,580 --> 00:22:16,480
+When the ball hits the bottom of this layer, it must be squashed.
+
+196
+00:22:16,480 --> 00:22:21,190
+So I move the next keyframes forward to give it a chance to be squashed.
+
+197
+00:23:34,700 --> 00:23:37,280
+I have to slow down this keyframe speed.
+
+198
+00:23:37,370 --> 00:23:39,590
+So I go to the graph editor.
+
+199
+00:23:50,680 --> 00:23:53,950
+Double click on it and put 100 for a speed.
+
+200
+00:24:00,440 --> 00:24:02,260
+There should then be a person here for this.
+
+201
+00:24:02,540 --> 00:24:05,360
+So I make this key frame across time.
+
+202
+00:24:16,690 --> 00:24:18,550
+And correct it's rotation.
+
+203
+00:25:05,160 --> 00:25:08,120
+I bring this keyframe forward a little.
+
+204
+00:25:08,130 --> 00:25:10,530
+So it is Stretch happens later.
+
+205
+00:25:22,210 --> 00:25:25,090
+Well, it's good to animate this sliver, too.
+
+206
+00:25:25,780 --> 00:25:26,980
+I enjoy it.
+
+207
+00:25:28,940 --> 00:25:32,750
+And here, when it hits the ball, I create a key frame.
+
+208
+00:25:43,700 --> 00:25:47,800
+And create a bonus in animation as I did for the last LOTR.
+
+209
+00:27:04,190 --> 00:27:08,820
+Well, after that I go for rotating the ball to rotate the ball.
+
+210
+00:27:08,840 --> 00:27:10,820
+I don't use laser rotation.
+
+211
+00:27:10,820 --> 00:27:16,700
+That's because when the ball is in this state and it's stretched, if I rotate the ball, it takes a
+
+212
+00:27:16,700 --> 00:27:19,760
+bad form to prevent this problem.
+
+213
+00:27:19,760 --> 00:27:21,770
+I go to the shape contents.
+
+214
+00:27:23,500 --> 00:27:24,820
+By pricing control.
+
+215
+00:27:24,820 --> 00:27:32,290
+G I put all layers to a group and go to its transform and by using the rotation of the group, rotate
+
+216
+00:27:32,290 --> 00:27:34,330
+the ball correctly as you see.
+
+217
+00:27:34,330 --> 00:27:38,350
+Now when I wrote it, the ball that's problem doesn't happen anymore.
+
+218
+00:27:38,380 --> 00:27:44,170
+Let me increase the scale for a moment for you to completely notice as you see the direction of the
+
+219
+00:27:44,170 --> 00:27:44,440
+ball.
+
+220
+00:27:44,770 --> 00:27:47,950
+It doesn't change and only the shape layers rotate.
+
+221
+00:27:49,590 --> 00:27:53,370
+So I create a keyframe for the rotation of the group here.
+
+222
+00:27:55,840 --> 00:27:58,000
+Press you when it jumps.
+
+223
+00:27:58,000 --> 00:28:00,100
+Rotation is not needed here.
+
+224
+00:28:02,770 --> 00:28:06,550
+I want the ball to rotate from here until it gets here.
+
+225
+00:28:12,680 --> 00:28:14,120
+And rotates this way.
+
+226
+00:28:15,200 --> 00:28:16,790
+Let's see how it looks.
+
+227
+00:28:22,130 --> 00:28:25,430
+And from here it starts rotating this way.
+
+228
+00:28:28,830 --> 00:28:30,240
+It goes forward.
+
+229
+00:28:35,790 --> 00:28:40,090
+Rotates until here and continues rotating to lift.
+
+230
+00:28:40,110 --> 00:28:43,530
+I rotate this three times and see how it looks.
+
+231
+00:28:47,810 --> 00:28:49,910
+And here it goes back again.
+
+232
+00:28:52,180 --> 00:28:53,980
+Make this easy is.
+
+233
+00:29:03,520 --> 00:29:07,540
+And also easy is this one and increase its influence a little.
+
+234
+00:29:14,000 --> 00:29:18,050
+I hide this tape and see what the final animation looks like.
+
+235
+00:29:28,370 --> 00:29:29,500
+I think it's good.
+
+236
+00:29:29,510 --> 00:29:30,440
+Not bad.
+
+237
+00:29:32,280 --> 00:29:36,000
+This lesson took longer because we didn't use references.
+
+238
+00:29:36,000 --> 00:29:42,180
+And as you know, when we don't use references, we need to constantly check our timing, spacing and
+
+239
+00:29:42,180 --> 00:29:43,890
+the whole idea and edit them.
+
+240
+00:29:43,920 --> 00:29:51,420
+This is a time consuming effort, and the most important reason that made me do this exercise without
+
+241
+00:29:51,420 --> 00:29:58,140
+references is for you to don't always depend on references because you won't have references all the
+
+242
+00:29:58,140 --> 00:30:01,480
+time and you need to count on your creativity.
+
+243
+00:30:01,500 --> 00:30:08,220
+That's because as much as you use creativity in your animations and fantasize about them, you'll see
+
+244
+00:30:08,220 --> 00:30:11,430
+that you have created more attractive animation.
+
+245
+00:30:11,700 --> 00:30:12,600
+Good luck.

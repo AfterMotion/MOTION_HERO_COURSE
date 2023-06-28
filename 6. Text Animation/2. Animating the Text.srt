@@ -1,0 +1,615 @@
+1
+00:00:00,300 --> 00:00:05,490
+Well, we get to the most interesting part of text animation animating texts.
+
+2
+00:00:05,610 --> 00:00:11,760
+Basically, the method of animating the text layer is different from what I learned in animating layers
+
+3
+00:00:11,760 --> 00:00:17,790
+properties like position, rotation and scale to create an animation for the text.
+
+4
+00:00:17,820 --> 00:00:19,720
+I need to use this option.
+
+5
+00:00:19,740 --> 00:00:22,210
+I click on this option here.
+
+6
+00:00:22,230 --> 00:00:27,480
+The first option is for making your characters takes 3D in 3D space.
+
+7
+00:00:27,600 --> 00:00:31,830
+If I go to the custom view, you see the layer is 3D.
+
+8
+00:00:33,560 --> 00:00:33,860
+Okay.
+
+9
+00:00:33,920 --> 00:00:36,050
+I go to the animate option.
+
+10
+00:00:36,170 --> 00:00:41,240
+Disable this option and also disable this option to turn the layer into 2D.
+
+11
+00:00:41,600 --> 00:00:48,800
+The next section is for animating properties that you had in layer transform like anchor point, position,
+
+12
+00:00:48,800 --> 00:00:50,480
+scale and rotation.
+
+13
+00:00:50,960 --> 00:00:58,490
+Exactly the same options I have in transform of the layers I have here so that I can create all the
+
+14
+00:00:58,490 --> 00:01:02,730
+animations I did for the layers I do for the takes two.
+
+15
+00:01:02,750 --> 00:01:09,020
+In the next section you can animate fill color, a stroke, color and stroke with.
+
+16
+00:01:10,160 --> 00:01:16,310
+In the next section, which is for a spacing, you can animate the distance between letters or words
+
+17
+00:01:16,310 --> 00:01:18,110
+and other features.
+
+18
+00:01:18,230 --> 00:01:22,640
+For example, I want to create an animation for takes position.
+
+19
+00:01:22,640 --> 00:01:24,350
+So I select position.
+
+20
+00:01:25,920 --> 00:01:31,230
+As you see, when I click on the position and the animator is added to the text layer.
+
+21
+00:01:32,100 --> 00:01:35,580
+The subset of this animate there is a range selector.
+
+22
+00:01:35,610 --> 00:01:38,310
+Using this, you can animate your text.
+
+23
+00:01:39,230 --> 00:01:44,720
+First, I must apply the changes that I want to see in the position of the takes.
+
+24
+00:01:44,870 --> 00:01:48,500
+For example, I want to text go from down top.
+
+25
+00:01:48,530 --> 00:01:55,780
+To do this, I change the y position of the text layer and bring it down after that to animate the text
+
+26
+00:01:55,790 --> 00:01:56,270
+I use.
+
+27
+00:01:56,270 --> 00:02:01,010
+Range selector options start and and offset parameters.
+
+28
+00:02:01,010 --> 00:02:03,320
+Let me increase this a little.
+
+29
+00:02:03,350 --> 00:02:09,830
+As you see, when I increase this sort, the text starts to come up from the beginning to describe it
+
+30
+00:02:09,830 --> 00:02:11,300
+in layer animation.
+
+31
+00:02:11,330 --> 00:02:18,140
+A start makes the text move from the first keyframe that is down position to the second keyframe, which
+
+32
+00:02:18,140 --> 00:02:19,670
+is the initial position.
+
+33
+00:02:19,790 --> 00:02:23,810
+If I decrease the end, you see this happening from the end.
+
+34
+00:02:24,290 --> 00:02:27,860
+Offset is for moving the saw and the end together.
+
+35
+00:02:34,200 --> 00:02:37,420
+Let's go for creating an animation for the text.
+
+36
+00:02:37,440 --> 00:02:42,330
+To do that, I can use a start and end, but it's better to use offsets.
+
+37
+00:02:42,900 --> 00:02:45,230
+I create a keyframe for offsets.
+
+38
+00:02:45,240 --> 00:02:48,420
+Go on second one and set it on 100.
+
+39
+00:02:49,640 --> 00:02:55,310
+If you take a look, you see the animation is created and it takes moves from down to up.
+
+40
+00:02:55,340 --> 00:02:59,480
+The animation has been created, but its movement is linear.
+
+41
+00:02:59,960 --> 00:03:04,160
+To ease the keyframes, isolate them and press f nine.
+
+42
+00:03:06,440 --> 00:03:10,340
+I go to the craft editor and decrease the speed at the end.
+
+43
+00:03:11,880 --> 00:03:16,290
+I also increased the animation length so the easy is looks better.
+
+44
+00:03:23,090 --> 00:03:26,260
+Let's go for the advanced settings of the text.
+
+45
+00:03:26,270 --> 00:03:28,010
+I go to the advanced.
+
+46
+00:03:28,130 --> 00:03:30,020
+First option is units.
+
+47
+00:03:30,050 --> 00:03:33,250
+Here you can choose a unit for your text in animation.
+
+48
+00:03:33,260 --> 00:03:35,940
+By default, it's on percentage.
+
+49
+00:03:35,960 --> 00:03:43,220
+You can specify your animation with a number between 0 to 100, but if you want to do it more accurately
+
+50
+00:03:43,220 --> 00:03:48,200
+or animate the specific leaders, you just need to set this on index.
+
+51
+00:03:48,200 --> 00:03:53,360
+And as you see the value for the sort and and offset also changes.
+
+52
+00:03:53,360 --> 00:03:59,360
+And when I get to the second keyframe, the offset is 14, which is in fact the number of the letters
+
+53
+00:03:59,360 --> 00:04:00,740
+used in the text.
+
+54
+00:04:00,980 --> 00:04:03,200
+I set it on percentage again.
+
+55
+00:04:04,180 --> 00:04:06,040
+The next option is based on.
+
+56
+00:04:06,190 --> 00:04:12,280
+You can decide that you want your animation to be delivered by leather, leather by leather, ignoring
+
+57
+00:04:12,280 --> 00:04:16,120
+spaces, or by word or line by line.
+
+58
+00:04:16,870 --> 00:04:21,820
+I said it on word for now to see the text animation in word by word, too.
+
+59
+00:04:21,850 --> 00:04:27,780
+The next thing to know is that for each animator I can animate multiple properties.
+
+60
+00:04:27,790 --> 00:04:32,740
+I added position here to add another property I click on ADD.
+
+61
+00:04:32,890 --> 00:04:36,790
+I go to the property and add the scale and set it on zero.
+
+62
+00:04:37,150 --> 00:04:39,390
+Let's see how the animation is.
+
+63
+00:04:39,400 --> 00:04:43,390
+As you see, the animation has both position and scale.
+
+64
+00:04:44,970 --> 00:04:49,050
+As I said before, I want the animation to happen word by word.
+
+65
+00:04:50,100 --> 00:04:51,810
+In the position is right.
+
+66
+00:04:51,810 --> 00:04:55,470
+But you see that this scale animation is letter by letter.
+
+67
+00:04:56,310 --> 00:04:59,820
+To solve this problem, I go to more option.
+
+68
+00:05:00,420 --> 00:05:07,140
+In anchor point grouping, you must choose the word so that each of your words has one anchor point
+
+69
+00:05:07,140 --> 00:05:13,890
+you see now its anchor point is one if was on character, each letter has its own anchor point.
+
+70
+00:05:14,920 --> 00:05:21,490
+So I said one word to get a single anchor point, and the scale properly applies to the whole world.
+
+71
+00:05:23,920 --> 00:05:30,670
+And you can also specify if you want your scale animation to happen from the bottom or from the center.
+
+72
+00:05:30,760 --> 00:05:33,780
+For example, here it happens from the bottom.
+
+73
+00:05:33,790 --> 00:05:37,750
+It's because the anchor point of the takes is located on the bottom.
+
+74
+00:05:37,780 --> 00:05:42,220
+Well, I go to group alignment and bring the anchor point in the center.
+
+75
+00:05:42,640 --> 00:05:45,160
+Now the text scales from the center.
+
+76
+00:05:47,390 --> 00:05:49,370
+I go to the advanced section.
+
+77
+00:05:49,730 --> 00:05:53,810
+The next option is mode, which has the same modes as a mask.
+
+78
+00:05:54,020 --> 00:05:55,970
+It's on ADD by default.
+
+79
+00:05:56,000 --> 00:06:03,830
+If I set it to subtract, you see the animation reverses before the text would appear and then animation.
+
+80
+00:06:03,830 --> 00:06:07,730
+But now first text disappears and then animation.
+
+81
+00:06:08,720 --> 00:06:12,740
+I said mode on ad again and based on on character.
+
+82
+00:06:17,700 --> 00:06:20,220
+I delete the animator scale for now.
+
+83
+00:06:21,110 --> 00:06:23,450
+Then I go for the amounts option.
+
+84
+00:06:23,480 --> 00:06:27,860
+This allows you to control the animation of your animator generally.
+
+85
+00:06:28,340 --> 00:06:32,510
+It is on 100 by default, which is the animation I have created.
+
+86
+00:06:32,540 --> 00:06:37,880
+If I say to -100, you see, it shows the opposite animation I have created.
+
+87
+00:06:40,140 --> 00:06:45,240
+If I said it on 50, for example, it moves half of what it used to.
+
+88
+00:06:46,420 --> 00:06:49,330
+And if it's down zero, it shows nothing.
+
+89
+00:06:50,940 --> 00:06:53,400
+I said this as it was on 100.
+
+90
+00:06:53,430 --> 00:06:55,430
+Now I go for the next option.
+
+91
+00:06:55,440 --> 00:07:00,840
+Shape as its name represents and specifies the shape of your range selector.
+
+92
+00:07:01,200 --> 00:07:04,270
+It's on the square by default, as you see on the screen.
+
+93
+00:07:04,290 --> 00:07:08,370
+Your insulator is a square and shows the letters accordingly.
+
+94
+00:07:08,580 --> 00:07:10,360
+The next option is softness.
+
+95
+00:07:10,380 --> 00:07:13,650
+You can specify the softness of your animation here.
+
+96
+00:07:16,860 --> 00:07:21,690
+For example, let me give it some space here to make it more obvious.
+
+97
+00:07:22,260 --> 00:07:24,300
+As you see, there is move up.
+
+98
+00:07:24,750 --> 00:07:30,780
+If I set the softness to zero, you see letters don't move and jump to their next position.
+
+99
+00:07:32,110 --> 00:07:34,060
+I said it on 100 again.
+
+100
+00:07:34,420 --> 00:07:36,550
+The next option is is high.
+
+101
+00:07:36,580 --> 00:07:43,540
+This option sets a slow movement at the beginning and a fast movement at the end of the letter's animation.
+
+102
+00:07:44,080 --> 00:07:46,540
+For example, I set it to 100.
+
+103
+00:07:48,500 --> 00:07:52,430
+I make the keyframes linear to make their animation more obvious.
+
+104
+00:07:55,330 --> 00:08:02,020
+As you see, when the leader wants to move upward, it has a low speed at the beginning and a high speed
+
+105
+00:08:02,020 --> 00:08:02,790
+at the end.
+
+106
+00:08:02,800 --> 00:08:05,020
+And same for other words.
+
+107
+00:08:07,310 --> 00:08:07,570
+Okay.
+
+108
+00:08:07,610 --> 00:08:08,870
+I said this is your.
+
+109
+00:08:09,740 --> 00:08:11,140
+Is law is the opposite.
+
+110
+00:08:11,150 --> 00:08:11,960
+In the beginning.
+
+111
+00:08:11,960 --> 00:08:15,440
+It has a higher speed and in the end the speed decreases.
+
+112
+00:08:15,440 --> 00:08:16,490
+In one frame.
+
+113
+00:08:16,490 --> 00:08:22,130
+The cylinder moves from the initial position to here and in the end it speed decreases.
+
+114
+00:08:27,080 --> 00:08:32,750
+If you want a smooth beginning and ending, I can say on 50 and this one on 52.
+
+115
+00:08:38,770 --> 00:08:45,460
+I think you understand now that the is high ex the same as the easy is out which is the speed is low
+
+116
+00:08:45,460 --> 00:08:52,540
+at the beginning and at the end the speed is high and is low is the same as eases in which is the speed
+
+117
+00:08:52,540 --> 00:08:55,960
+is high at the beginning and at the end the speed decreases.
+
+118
+00:08:55,960 --> 00:09:02,470
+But the difference is that is high and is low or for adjusting the animation speed for characters.
+
+119
+00:09:02,470 --> 00:09:09,280
+But if you make the keyframes eases, you have changed the overall speed of your text animation while
+
+120
+00:09:09,290 --> 00:09:12,940
+is high and is low just to fake the leaders animation.
+
+121
+00:09:13,360 --> 00:09:17,080
+This is a specific tip you need to pay more attention to it.
+
+122
+00:09:17,500 --> 00:09:20,230
+I make these key easy is again.
+
+123
+00:09:21,240 --> 00:09:22,840
+The next ship is ramp up.
+
+124
+00:09:22,890 --> 00:09:27,450
+As you see, it's for creating a ramp mode for your text animation.
+
+125
+00:09:27,450 --> 00:09:33,900
+And as it's obvious on the screen, the width of this range selector shape is two times more than the
+
+126
+00:09:33,900 --> 00:09:34,800
+square shape.
+
+127
+00:09:35,130 --> 00:09:43,080
+So at the beginning I must set the offset on -100 so that all of the letters placed on the initial location.
+
+128
+00:09:43,320 --> 00:09:45,180
+Let me change this to zero.
+
+129
+00:09:45,570 --> 00:09:50,790
+As you see, the overall animation is easy, is what each of the letters doesn't have.
+
+130
+00:09:50,790 --> 00:09:54,030
+Easy is and is not appealing as they are before.
+
+131
+00:09:57,180 --> 00:09:58,470
+To modify this.
+
+132
+00:09:58,470 --> 00:10:01,950
+I go to the middle of the animation and increase this.
+
+133
+00:10:02,850 --> 00:10:09,570
+As I said before, it is high, the speed is low at the beginning and at the end the speed increases.
+
+134
+00:10:12,000 --> 00:10:15,060
+Here, it's slow and in the end it increases.
+
+135
+00:10:16,080 --> 00:10:19,860
+Well, I said this one on 50 and this one on 52.
+
+136
+00:10:22,850 --> 00:10:24,710
+Increase its speed a little.
+
+137
+00:10:24,740 --> 00:10:25,430
+Bring it on.
+
+138
+00:10:25,430 --> 00:10:26,540
+2 seconds.
+
+139
+00:10:29,400 --> 00:10:32,670
+To get familiar with other options in shape properly.
+
+140
+00:10:32,700 --> 00:10:34,470
+Pay attention to this clip.
+
+141
+00:10:35,760 --> 00:10:42,360
+As you see, I have brought all the options here for you to completely understand how other shapes work
+
+142
+00:10:42,510 --> 00:10:44,940
+and how the takes animations would be.
+
+143
+00:10:49,610 --> 00:10:55,910
+To make the text animation more attractive, isolate the text layer and add a mask to the layer.
+
+144
+00:10:58,000 --> 00:11:01,960
+Set the mask mode on, subtract to hide the text at the beginning.
+
+145
+00:11:03,560 --> 00:11:08,060
+As you see, the text is not visible in the beginning and appears slowly.
+
+146
+00:11:09,320 --> 00:11:11,570
+I increase the animation speed a little.
+
+147
+00:11:16,330 --> 00:11:21,670
+The next thing you need to know is that I can create multiple animators for a single text.
+
+148
+00:11:22,990 --> 00:11:26,020
+To create the returning animation for the text.
+
+149
+00:11:26,050 --> 00:11:32,050
+All I need to do is add another animator from this menu or duplicate this animator.
+
+150
+00:11:36,300 --> 00:11:38,370
+And bring its key frame here.
+
+151
+00:11:38,880 --> 00:11:43,200
+After doing this, I go to advanced and set it smooth to subtract.
+
+152
+00:11:45,000 --> 00:11:49,140
+If I play now, you'll see the tapes appearing and returning again.
+
+153
+00:11:51,280 --> 00:11:56,980
+And you can apply any changes to your first animator without the second animator affected.
+
+154
+00:11:57,370 --> 00:12:01,420
+For example, I go to advance and set based on on word.

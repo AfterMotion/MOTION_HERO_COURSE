@@ -1,0 +1,211 @@
+1
+00:00:00,770 --> 00:00:06,200
+Well, in this lesson, we want to learn how to create a new project in After Effects.
+
+2
+00:00:06,350 --> 00:00:11,570
+As you know, when we open aftereffects, the home window will appear for us.
+
+3
+00:00:11,600 --> 00:00:14,030
+Here you can create a new project.
+
+4
+00:00:14,120 --> 00:00:18,020
+And here you can open the project you have saved before.
+
+5
+00:00:18,590 --> 00:00:22,350
+And here are the projects you have used recently.
+
+6
+00:00:22,370 --> 00:00:26,750
+I click on the new project, and new project is created for me.
+
+7
+00:00:27,640 --> 00:00:32,800
+You can also do this using the file menu, new and new project.
+
+8
+00:00:33,650 --> 00:00:40,130
+After we've created a new project and after things here you can see your project name.
+
+9
+00:00:40,670 --> 00:00:46,700
+But before you save your project and choose a name for it, it is named Untitled Project.
+
+10
+00:00:46,700 --> 00:00:54,500
+And after you save your project and choose a name, here you can see your project address and its new name.
+
+11
+00:00:54,560 --> 00:01:00,560
+After creating your project, the first thing we need to do is to create a new composition.
+
+12
+00:01:00,590 --> 00:01:08,030
+Composition is like an artboard in Photoshop, which allows you to choose your clip size, duration,
+
+13
+00:01:08,030 --> 00:01:10,730
+frame rate and other settings.
+
+14
+00:01:10,730 --> 00:01:17,360
+In order to create a new composition, I click on the new composition, and then the composition setting
+
+15
+00:01:17,360 --> 00:01:19,160
+window is shown to me.
+
+16
+00:01:19,580 --> 00:01:25,880
+You can do the same from the project panel and by clicking on Create new composition button.
+
+17
+00:01:26,090 --> 00:01:33,920
+The other way to do this is by clicking the new composition from the composition menu or using Ctrl + N
+
+18
+00:01:33,920 --> 00:01:35,740
+to create a new comp.
+
+19
+00:01:36,920 --> 00:01:40,610
+After that, the composition settings window will appear.
+
+20
+00:01:40,710 --> 00:01:44,080
+here You can choose a name for your composition here.
+
+21
+00:01:44,090 --> 00:01:48,470
+here there are some presets to make adjustments easier to create a comp.
+
+22
+00:01:48,680 --> 00:01:55,150
+For example, it is now on HDTV ,1080, and 25 frames.
+
+23
+00:01:55,160 --> 00:01:56,450
+You see I select
+
+24
+00:01:56,450 --> 00:02:00,650
+This preset our resolution is set to 1920 By 1080,
+
+25
+00:02:00,650 --> 00:02:07,880
+ the pixel aspect ratio is set to squre pixel and the frame rate is 25.
+
+26
+00:02:08,920 --> 00:02:16,210
+But if I select this preset you see our resolution changes, frame rate changes and all the other
+
+27
+00:02:16,210 --> 00:02:17,650
+settings changed to.
+
+28
+00:02:19,120 --> 00:02:21,760
+I put it on the last one here.
+
+29
+00:02:21,760 --> 00:02:24,400
+here You can set the width and height of the camp.
+
+30
+00:02:24,760 --> 00:02:26,710
+Here is your comp frame rate,
+
+31
+00:02:26,800 --> 00:02:29,320
+Here, you can specify your comp duration.
+
+32
+00:02:29,530 --> 00:02:33,670
+For example, it starts from 0 to 20 seconds.
+
+33
+00:02:34,000 --> 00:02:38,470
+And here you can make a decision about your composition background.
+
+34
+00:02:38,500 --> 00:02:41,380
+I choose gray for it and click okay.
+
+35
+00:02:41,680 --> 00:02:48,490
+After I click okay, you can see that new composition is created with the name I specified.
+
+36
+00:02:49,000 --> 00:02:55,030
+And here the comp duration is on 20 seconds as I decided in composition settings.
+
+37
+00:02:55,480 --> 00:03:03,830
+After I create a composition, I can add different layers to the timeline, to add new layers to the composition.
+
+38
+00:03:03,850 --> 00:03:06,040
+I just have to open the comp.
+
+39
+00:03:06,220 --> 00:03:12,280
+Right click on the timeline and in the new section I can add different kinds of layers.
+
+40
+00:03:12,700 --> 00:03:15,580
+For example, I add a text to the comp.
+
+41
+00:03:16,360 --> 00:03:20,290
+You see, a text layer is made and you can type whatever here.
+
+42
+00:03:21,450 --> 00:03:27,880
+Well, note that adding a layer is only possible when you already have a composition.
+
+43
+00:03:27,900 --> 00:03:35,430
+If I delete this composition and try to create a new layer, you can see that by right clicking no option
+
+44
+00:03:35,430 --> 00:03:36,860
+is going to appear.
+
+45
+00:03:36,930 --> 00:03:39,900
+it is because there is no comp in the timeline.
+
+46
+00:03:40,230 --> 00:03:45,450
+So first we need to create a comp and then start to add new layers to it.
+
+47
+00:03:46,340 --> 00:03:50,540
+Okay, Now I add a solid to the time line when I choose solid.
+
+48
+00:03:50,570 --> 00:03:53,870
+Here you can choose your settings for your solid.
+
+49
+00:03:53,940 --> 00:03:55,370
+Change its name.
+
+50
+00:03:56,190 --> 00:03:57,570
+Change its color.
+
+51
+00:03:58,920 --> 00:04:02,050
+And here make a decision about its size.
+
+52
+00:04:02,070 --> 00:04:06,300
+I choose a size a smaller than my comp size and click okay.
+
+53
+00:04:06,330 --> 00:04:09,210
+You see, a solid is created for us.

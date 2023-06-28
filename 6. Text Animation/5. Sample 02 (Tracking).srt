@@ -1,0 +1,75 @@
+1
+00:00:00,240 --> 00:00:04,600
+Okay, let's go and create the second sample of our text animations.
+
+2
+00:00:04,620 --> 00:00:08,260
+I create a text and bring it to the center of the scene.
+
+3
+00:00:08,280 --> 00:00:12,630
+And this time I want to create an animation for it by tracking.
+
+4
+00:00:14,040 --> 00:00:16,920
+I create a keyframe for tracking amount.
+
+5
+00:00:16,950 --> 00:00:20,160
+Go to the second to create another keyframe.
+
+6
+00:00:21,740 --> 00:00:25,280
+Go back on the first keyframe and increase it until here.
+
+7
+00:00:30,980 --> 00:00:33,200
+I added Blur to the animator.
+
+8
+00:00:33,860 --> 00:00:35,330
+Put it on 100.
+
+9
+00:00:36,220 --> 00:00:38,290
+And create a key frame for it.
+
+10
+00:00:38,890 --> 00:00:41,440
+In second to I put it on zero.
+
+11
+00:00:43,050 --> 00:00:47,510
+Also, I create a scale for the ticks in the soil.
+
+12
+00:00:47,520 --> 00:00:51,150
+I increase its scale and in the end to 100.
+
+13
+00:00:52,780 --> 00:00:57,990
+I decrease tracking a little and to place the anchor point at the center of the ticks.
+
+14
+00:00:58,000 --> 00:01:02,480
+I go to the more options and place the anchor point in the middle.
+
+15
+00:01:02,500 --> 00:01:04,800
+Isolate keyframes and make them easy.
+
+16
+00:01:04,810 --> 00:01:05,400
+Ease.
+
+17
+00:01:06,310 --> 00:01:10,600
+I go to the graph editor and make the second keyframe smoother.
+
+18
+00:01:14,580 --> 00:01:16,320
+Let's see how it looks.
+
+19
+00:01:17,370 --> 00:01:18,510
+It's very good.

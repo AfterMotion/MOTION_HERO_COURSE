@@ -1,0 +1,275 @@
+1
+00:00:00,090 --> 00:00:05,890
+One of the main panels in the after effects is the Tools panel or toolbar.
+
+2
+00:00:05,910 --> 00:00:07,570
+The first tool is home.
+
+3
+00:00:07,590 --> 00:00:14,400
+By clicking on it, you can open the same window as the one that opens at the beginning when after effects run.
+
+4
+00:00:15,600 --> 00:00:17,490
+The next tool is selection.
+
+5
+00:00:17,490 --> 00:00:22,050
+But this one, you can select objects in your scene and move around.
+
+6
+00:00:23,370 --> 00:00:26,520
+It's hot key as it's written Here is V.
+
+7
+00:00:27,730 --> 00:00:29,210
+The next one is hand.
+
+8
+00:00:29,230 --> 00:00:33,460
+This will allows you to move the viewport and the scene itself.
+
+9
+00:00:33,940 --> 00:00:36,890
+The next tool is Zoom, 
+
+10
+00:00:36,910 --> 00:00:40,610
+using this tool you can zoom in and out by holding Alt and clicking.
+
+11
+00:00:40,630 --> 00:00:41,860
+You can zoom out.
+
+12
+00:00:41,860 --> 00:00:44,110
+And without Alt, Zoom in.
+
+13
+00:00:45,320 --> 00:00:45,940
+I press V
+
+14
+00:00:46,250 --> 00:00:51,560
+So we get back to the selection tool and for using the hand tool temporarily.
+
+15
+00:00:51,590 --> 00:00:57,080
+All I have to do is to hold down space and adjust your viewport by hand tool.
+
+16
+00:00:57,260 --> 00:01:01,940
+And as soon as you release it, the selection tool will be activated again.
+
+17
+00:01:02,780 --> 00:01:05,280
+I go to the next group of tools.
+
+18
+00:01:05,300 --> 00:01:07,490
+The first tool is rotation.
+
+19
+00:01:07,520 --> 00:01:10,580
+Using this tool, you can rotate your layers.
+
+20
+00:01:11,900 --> 00:01:13,910
+The next tool is the camera.
+
+21
+00:01:13,940 --> 00:01:19,990
+This one activates when you have a camera in the scene for adding a camera layer to composition.
+
+22
+00:01:20,270 --> 00:01:23,900
+I Right click here and from new I add a camera to the comp
+
+23
+00:01:27,360 --> 00:01:34,500
+After that, you see that the camera tool is activated for us and you can see the capabilities of this
+
+24
+00:01:34,500 --> 00:01:36,500
+tool and it's hotkey is C.
+
+25
+00:01:38,060 --> 00:01:39,590
+The next tool is pen Behind.
+
+26
+00:01:39,590 --> 00:01:45,260
+this tool allows you to move and put the anchor point of your layer anywhere.
+
+27
+00:01:45,590 --> 00:01:49,910
+So all the changes to the layer happen according to the anchor point.
+
+28
+00:01:50,600 --> 00:01:57,500
+If I select the rotation tool and start rotating, you see now it rotates around the new position of
+
+29
+00:01:57,500 --> 00:01:58,520
+the anchor point.
+
+30
+00:01:59,330 --> 00:02:05,810
+Also, if I use the selection tool and change layer size, it happens from the anchor point.
+
+31
+00:02:09,150 --> 00:02:11,470
+Now we go to the next group.
+
+32
+00:02:11,490 --> 00:02:13,860
+The first is the rectangle tool.
+
+33
+00:02:13,920 --> 00:02:16,030
+By holding down the left click.
+
+34
+00:02:16,050 --> 00:02:18,150
+We can see other tools too.
+
+35
+00:02:18,180 --> 00:02:20,430
+Let me create a rectangle here.
+
+36
+00:02:21,540 --> 00:02:28,290
+As you see, when I create a rectangle here, a new layer is added to the timeline, and here you can
+
+37
+00:02:28,290 --> 00:02:30,610
+see settings related to this layer.
+
+38
+00:02:30,630 --> 00:02:34,770
+When I choose the last layer, you see these options appear.
+
+39
+00:02:34,860 --> 00:02:40,630
+And when I choose this one, you see other options appear for adjusting this layer.
+
+40
+00:02:40,650 --> 00:02:42,450
+Well, I delete this layer.
+
+41
+00:02:42,480 --> 00:02:44,370
+The next one is the pen.
+
+42
+00:02:44,400 --> 00:02:48,390
+Using the pen tool, you can create every shape you want.
+
+43
+00:02:49,050 --> 00:02:53,370
+The next tool is T, which is used to create text layers.
+
+44
+00:02:54,190 --> 00:03:01,150
+The next group of tools, including Brush, Stump and Eraser, has a unique property, which is you cannot
+
+45
+00:03:01,150 --> 00:03:07,330
+make changes to the layer in the composition panel and you have to open them in the layers panel to
+
+46
+00:03:07,330 --> 00:03:08,830
+be able to edit them.
+
+47
+00:03:09,310 --> 00:03:16,420
+For this, I double click on the layer, so the layer opens up in the layer panel and now you can use
+
+48
+00:03:16,420 --> 00:03:19,270
+the brush tool and make the changes you want.
+
+49
+00:03:20,280 --> 00:03:23,910
+And from here, you can adjust the Bruch setting like color.
+
+50
+00:03:24,830 --> 00:03:26,720
+Let me select the eraser tool
+
+51
+00:03:26,720 --> 00:03:30,680
+And to make it bigger, I press Ctrl + Left click and drag.
+
+52
+00:03:31,220 --> 00:03:34,220
+For example, I want to erase this part.
+
+53
+00:03:34,250 --> 00:03:38,660
+Let me put it in transparency mode so it is completely clear.
+
+54
+00:03:46,340 --> 00:03:50,180
+As you see, we only can use this tool in the layer panel.
+
+55
+00:03:51,080 --> 00:03:53,930
+After we make the changes we want to the layer.
+
+56
+00:03:53,960 --> 00:04:00,020
+We go back to the composition panel and here we see that changes also will be shown here.
+
+57
+00:04:00,960 --> 00:04:03,480
+The next tool is the Roto brush.
+
+58
+00:04:03,510 --> 00:04:08,190
+This one is mostly used for rotoscoping and background removal.
+
+59
+00:04:08,280 --> 00:04:15,060
+The next one is the puppet pin, which has several usages and is mostly used to rig characters.
+
+60
+00:04:15,090 --> 00:04:18,660
+It's also good to introduce the effects control panel.
+
+61
+00:04:18,690 --> 00:04:23,130
+Here, this panel shows the effects that are applied to the layers.
+
+62
+00:04:26,640 --> 00:04:33,330
+For example, if I add a gradient effects to this layer, you see here in effect control of the layer 'mars1'
+
+63
+00:04:33,330 --> 00:04:37,770
+the settings of the effects and you can control them.
+
+64
+00:04:41,110 --> 00:04:41,360
+Okay.
+
+65
+00:04:41,440 --> 00:04:42,790
+I delete this now.
+
+66
+00:04:43,840 --> 00:04:46,120
+I go back to the sun layer now.
+
+67
+00:04:46,270 --> 00:04:50,040
+And as you see, we have changed the layer using paint tool.
+
+68
+00:04:50,050 --> 00:04:54,370
+So now there is a paint effect in the effects control panel.
+
+69
+00:04:54,370 --> 00:04:58,930
+And by deleting this effect, our layer goes back to its original state.

@@ -1,0 +1,387 @@
+1
+00:00:00,780 --> 00:00:01,890
+Hello, everyone.
+
+2
+00:00:02,100 --> 00:00:08,010
+In this video, I want to create a simple loop so I get to know the points that I mentioned in a previous
+
+3
+00:00:08,010 --> 00:00:09,300
+video practically.
+
+4
+00:00:10,560 --> 00:00:14,420
+Well, this is the plan that I want to make it a loop animation.
+
+5
+00:00:14,430 --> 00:00:18,060
+And finally, I want to have this kind of result.
+
+6
+00:00:22,060 --> 00:00:29,050
+Let me first explain how I can create these shapes so you don't get confused about how these shapes
+
+7
+00:00:29,050 --> 00:00:30,100
+have been made.
+
+8
+00:00:32,550 --> 00:00:35,850
+It is so simple, but I will explain it to you.
+
+9
+00:00:36,210 --> 00:00:42,300
+As you see, this is the head layer of my character, which its main shape is a rounded rectangle.
+
+10
+00:00:42,840 --> 00:00:44,310
+I open the layer.
+
+11
+00:00:48,000 --> 00:00:49,800
+This is my main shape.
+
+12
+00:00:49,950 --> 00:00:52,350
+Then I made the main beard layer.
+
+13
+00:00:53,290 --> 00:00:56,650
+Let me hide other layers so I can see it.
+
+14
+00:00:58,090 --> 00:01:03,940
+I created the main beard layer by duplicate this layer and then cut it in half.
+
+15
+00:01:05,310 --> 00:01:07,920
+The next layer is the front part of the beer.
+
+16
+00:01:07,920 --> 00:01:10,620
+And this is a rounded rectangle too.
+
+17
+00:01:10,650 --> 00:01:15,870
+The next layer is hair, which I made this part again by duplicate this layer.
+
+18
+00:01:18,450 --> 00:01:19,440
+The next layer.
+
+19
+00:01:19,440 --> 00:01:21,060
+Is this part of the hair?
+
+20
+00:01:21,570 --> 00:01:29,310
+As you can see, I created an ellipse here for my character's ear, another smaller ellipse for the
+
+21
+00:01:29,310 --> 00:01:31,140
+inner circle in the ear.
+
+22
+00:01:31,170 --> 00:01:34,560
+The next shape I made is the nose layer.
+
+23
+00:01:35,160 --> 00:01:37,320
+I created it by pen tool.
+
+24
+00:01:38,830 --> 00:01:44,770
+Next, I created the eye layer with a small ellipse and this one by a stroke.
+
+25
+00:01:44,890 --> 00:01:50,740
+And finally, the last layer, which is the characters scrunchy, has been made by stroke.
+
+26
+00:01:52,290 --> 00:01:55,650
+All of these shapes are my character's head layer.
+
+27
+00:01:57,580 --> 00:02:04,360
+I have put this part of the hair in an individual layer and said its anchor point here, so I can make
+
+28
+00:02:04,360 --> 00:02:06,250
+a springy animation for it.
+
+29
+00:02:06,850 --> 00:02:08,530
+The next layer is the neck.
+
+30
+00:02:08,710 --> 00:02:13,060
+As you can see, it is rounded rectangle and its anchor point is here.
+
+31
+00:02:13,930 --> 00:02:16,570
+And the anchor point of the head layer is here.
+
+32
+00:02:17,650 --> 00:02:20,620
+Next is the buddy layer, which I named it hip.
+
+33
+00:02:22,840 --> 00:02:24,430
+It's better to be the body.
+
+34
+00:02:25,300 --> 00:02:27,170
+Well, this is my buddy layer.
+
+35
+00:02:27,190 --> 00:02:30,820
+Let me make it slow so I can completely see how it is.
+
+36
+00:02:31,000 --> 00:02:32,530
+I open the layer.
+
+37
+00:02:32,560 --> 00:02:35,260
+There is a main layer which is an ellipse.
+
+38
+00:02:37,350 --> 00:02:38,970
+The next layer is the hip.
+
+39
+00:02:39,000 --> 00:02:43,710
+I created a pelvis for it and next is for the color shadow.
+
+40
+00:02:44,220 --> 00:02:45,330
+And this is the color.
+
+41
+00:02:45,330 --> 00:02:47,940
+And finally, a layer for its belt.
+
+42
+00:02:50,550 --> 00:02:53,600
+Designing this part of character is not much hard.
+
+43
+00:02:53,630 --> 00:02:59,480
+The point is that you should set the anchor point of the body here because the character's body is going
+
+44
+00:02:59,480 --> 00:03:01,040
+to rotate from here.
+
+45
+00:03:01,280 --> 00:03:04,550
+Well, the next layer is the character's leg.
+
+46
+00:03:06,950 --> 00:03:10,790
+The main shape is a rectangle, which is the path of my character.
+
+47
+00:03:12,390 --> 00:03:17,580
+The next layer is the bottom part of the pants, which I made with a different color.
+
+48
+00:03:18,670 --> 00:03:20,680
+The next shape is the leg part.
+
+49
+00:03:21,730 --> 00:03:25,570
+And finally, another layer for my character's socks.
+
+50
+00:03:29,450 --> 00:03:33,530
+The next layer is shoe, which as you can see, it is a single shape.
+
+51
+00:03:34,260 --> 00:03:36,480
+And has been designed like this.
+
+52
+00:03:41,190 --> 00:03:45,120
+And for the shoelace, I just made a path and kept its stroke.
+
+53
+00:03:46,790 --> 00:03:50,270
+And said the anchor points of layers in this part.
+
+54
+00:03:53,450 --> 00:03:55,060
+Maybe you wonder my legs.
+
+55
+00:03:55,070 --> 00:04:00,140
+Anchor point is here in the bottom part, which should be here around its pelvis.
+
+56
+00:04:02,130 --> 00:04:05,700
+This is because my character animation, as you can see here.
+
+57
+00:04:07,420 --> 00:04:13,360
+In such a way that the bottom part of the legs are still and this part of the leg should rotate from
+
+58
+00:04:13,360 --> 00:04:13,870
+here.
+
+59
+00:04:13,900 --> 00:04:19,900
+That is why the legs anchor point shouldn't be here in the pelvis, but it should be here in a button
+
+60
+00:04:19,900 --> 00:04:23,200
+so I can have this kind of rotation in the leg.
+
+61
+00:04:23,950 --> 00:04:29,800
+I should say this point that you break the character relatively to your animation and it is not like
+
+62
+00:04:29,800 --> 00:04:30,160
+that.
+
+63
+00:04:30,160 --> 00:04:33,520
+Characters, Rick should be the same all the time.
+
+64
+00:04:34,320 --> 00:04:39,700
+It is different depending on a need and the movement you should make with your character.
+
+65
+00:04:39,720 --> 00:04:41,820
+Your method is going to change.
+
+66
+00:04:44,820 --> 00:04:48,960
+Well, I duplicated the leg layers and put it behind.
+
+67
+00:04:49,320 --> 00:04:52,950
+Let me hide them so you can completely understand.
+
+68
+00:05:01,730 --> 00:05:06,530
+I created the hand layer with a rounded rectangle, which is obvious.
+
+69
+00:05:09,120 --> 00:05:11,040
+This is my main layer.
+
+70
+00:05:13,190 --> 00:05:15,050
+For making the hand sleeve.
+
+71
+00:05:15,050 --> 00:05:17,690
+I duplicated this rounded rectangle.
+
+72
+00:05:20,410 --> 00:05:22,180
+Let me swallow this layer.
+
+73
+00:05:25,180 --> 00:05:28,090
+This is the stroke of the character's sleeve.
+
+74
+00:05:30,430 --> 00:05:32,650
+And this is the sleeve itself.
+
+75
+00:05:35,010 --> 00:05:36,720
+And this is the hand.
+
+76
+00:05:39,800 --> 00:05:41,450
+The next layer is the ax.
+
+77
+00:05:41,480 --> 00:05:43,520
+Its root is completely obvious.
+
+78
+00:05:43,520 --> 00:05:46,520
+That has been made with a rounded rectangle.
+
+79
+00:05:51,400 --> 00:05:52,540
+This is the worst part.
+
+80
+00:05:52,570 --> 00:05:57,400
+I created one rounded rectangle and here I selected these points.
+
+81
+00:05:57,400 --> 00:06:02,200
+And with heating control t, I made this part a little bit bigger.
+
+82
+00:06:08,220 --> 00:06:11,970
+For the iron part of the ax, I created a main shape.
+
+83
+00:06:14,540 --> 00:06:21,200
+I created this shape and then I created its edge by duplicating the shape.
+
+84
+00:06:21,530 --> 00:06:23,660
+I only kept this part of it.
+
+85
+00:06:27,130 --> 00:06:30,730
+And finally, I created a reflect like this.
+
+86
+00:06:33,790 --> 00:06:38,020
+Let me disable the marriage path and hide this part of X.
+
+87
+00:06:39,750 --> 00:06:43,770
+Let me hide these two layers so you completely understand.
+
+88
+00:06:43,890 --> 00:06:47,370
+As you can see, this is the reflect part of the ax.
+
+89
+00:06:47,400 --> 00:06:51,990
+This is the ax shape which I have created it by duplicating this shape.
+
+90
+00:06:53,430 --> 00:06:59,640
+And then I added marriage path as modifier to its group and said its mode on intersect.
+
+91
+00:07:00,390 --> 00:07:05,430
+So it keeps the common area of these two layers and hide the rest.
+
+92
+00:07:13,370 --> 00:07:15,950
+These layers are completely obvious.
+
+93
+00:07:18,480 --> 00:07:20,460
+I created the shape here.
+
+94
+00:07:24,120 --> 00:07:26,190
+Then I created this shape.
+
+95
+00:07:30,560 --> 00:07:34,130
+And at the end, the two leaves and one branch here.
+
+96
+00:07:37,030 --> 00:07:40,150
+And I created this wood with two shapes.
+
+97
+00:07:42,480 --> 00:07:48,900
+After we are done with getting acquainted with these objects designing, we should go to this animation.

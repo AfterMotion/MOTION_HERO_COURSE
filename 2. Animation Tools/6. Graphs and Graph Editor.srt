@@ -1,0 +1,575 @@
+1
+00:00:00,210 --> 00:00:04,890
+In this lesson, we want to talk about graphs and graph editor window.
+
+2
+00:00:05,040 --> 00:00:10,710
+Generally, we have two kinds of graphs, value graph and speed graph.
+
+3
+00:00:10,920 --> 00:00:18,630
+Well, as you see, I've created a simple animation for the position of this layer to enter graph editor
+
+4
+00:00:18,630 --> 00:00:25,830
+I just have to select these keyframes and activated this option, as soon as I activate this option,
+
+5
+00:00:25,830 --> 00:00:28,260
+you see some graphs shown here.
+
+6
+00:00:28,290 --> 00:00:31,230
+Each of these is related to one dimension.
+
+7
+00:00:31,320 --> 00:00:37,260
+The red graph is for the x position and the green one is for the y position of the layer.
+
+8
+00:00:38,560 --> 00:00:45,550
+As you see here, the changes in value will be shown in the vertical axis and changes in time on the
+
+9
+00:00:45,550 --> 00:00:46,960
+horizontal axis.
+
+10
+00:00:47,290 --> 00:00:54,220
+For example, if I keep my pointer on the second key frame of the Y position, you see its value is
+
+11
+00:00:54,220 --> 00:00:58,810
+861 pixels and its time is one second ten.
+
+12
+00:00:58,990 --> 00:01:06,340
+But if I bring it here, you see its value is 308 pixels and its time is on zero.
+
+13
+00:01:06,490 --> 00:01:13,510
+The next thing to know is how to find out if these graphs are value graphs or speed graphs.
+
+14
+00:01:13,540 --> 00:01:17,710
+For this, all I need to do is left click on this option.
+
+15
+00:01:17,710 --> 00:01:21,820
+And here, as you see, the 'edit value graph' is enabled.
+
+16
+00:01:22,000 --> 00:01:25,930
+So I get that these graphs are for the value of the layer.
+
+17
+00:01:26,560 --> 00:01:34,270
+Now I enable the 'edit value graph' option and as you can see, the graph is changed; 2 graphs became
+
+18
+00:01:34,270 --> 00:01:41,530
+one graph, and that's because the speed of the animation is not in two kinds and we have only one speed.
+
+19
+00:01:41,560 --> 00:01:47,690
+As you see in the vertical axis, the speed value is shown and on the horizontal axis the time.
+
+20
+00:01:47,710 --> 00:01:56,500
+And if I bring my pointer here, you see the speed of this keyframe in frame ten is 3318 pixels per second.
+
+21
+00:01:57,550 --> 00:02:04,570
+Well, I go back to the value graph so I can give more description of it, and then I will go for the speed graph.
+
+22
+00:02:04,630 --> 00:02:06,550
+You have to pay attention.
+
+23
+00:02:06,580 --> 00:02:14,650
+edit in the value graph is only possible if you have created animation for the uniaxial property such
+
+24
+00:02:14,650 --> 00:02:16,930
+as opacity and rotation.
+
+25
+00:02:17,020 --> 00:02:24,550
+But if you animate position and scale that are biaxial properties; by default you cannot edit your graphs.
+
+26
+00:02:24,550 --> 00:02:28,900
+And to edit this graphs you have to separate your property.
+
+27
+00:02:28,990 --> 00:02:33,970
+To do this, I right click on the property and select separate dimensions.
+
+28
+00:02:34,300 --> 00:02:38,530
+After that you see that the X and Y position are separated.
+
+29
+00:02:38,740 --> 00:02:44,930
+And by using the pen tool, you can edit your graph; to edit the keyframe.
+
+30
+00:02:44,990 --> 00:02:47,800
+I hold on Ctrl and select the keyframe.
+
+31
+00:02:47,920 --> 00:02:55,150
+As you see, a handle is appeared for the keyframe, and by using this handle you can change the y position
+
+32
+00:02:55,150 --> 00:02:56,250
+of your layer.
+
+33
+00:02:56,260 --> 00:03:00,280
+And as you see these dots change as I make changes here.
+
+34
+00:03:00,730 --> 00:03:04,780
+I hold Alt and click on it so that the handle appears.
+
+35
+00:03:05,230 --> 00:03:12,070
+And to create a new keyframe, it just needs to left click with the pen tool on the graph line that you want.
+
+36
+00:03:13,110 --> 00:03:16,020
+And for four appear in the keyframe handles.
+
+37
+00:03:16,020 --> 00:03:18,210
+I hold down alt and click.
+
+38
+00:04:03,040 --> 00:04:07,600
+Well, as you see, the bouncing ball animation is a little bit fast.
+
+39
+00:04:07,990 --> 00:04:15,210
+To slow it down, I need to select keyframes, enable this option so a box like this appears.
+
+40
+00:04:15,220 --> 00:04:19,570
+And by using this box I can decrease the speed of the animation.
+
+41
+00:04:21,460 --> 00:04:23,410
+Let's see how it became.
+
+42
+00:04:24,930 --> 00:04:26,160
+A lot better.
+
+43
+00:04:30,810 --> 00:04:37,620
+Well, if I want to animate the X position of the Layer too, I need to put the X position here 
+
+44
+00:04:37,620 --> 00:04:39,040
+as I change the X position.
+
+45
+00:04:39,060 --> 00:04:42,450
+You see, the vertical value chart changes.
+
+46
+00:04:43,690 --> 00:04:51,190
+I select two values, bring X key frame to the end so that the X and Y positions stop together.
+
+47
+00:04:53,640 --> 00:04:59,130
+Here. I hold on shift and bring it higher so the ball moves more to the right.
+
+48
+00:04:59,850 --> 00:05:01,500
+Let's see how it is.
+
+49
+00:05:07,480 --> 00:05:14,230
+Okay, it's good animation, but if I want more control over my animation, like if I want it to have
+
+50
+00:05:14,230 --> 00:05:20,500
+a low speed at the beginning and high speed as it hits the ground and when it's in these peaks,
+
+51
+00:05:20,500 --> 00:05:23,350
+have a low speed and have a floating effect
+
+52
+00:05:23,380 --> 00:05:30,460
+I have to go to the speed graph and use this graph to have more control over the speed of the animation.
+
+53
+00:05:32,160 --> 00:05:35,730
+Well, I have created a new animation for this layer.
+
+54
+00:05:35,760 --> 00:05:38,260
+I have created three keyframes.
+
+55
+00:05:38,280 --> 00:05:40,470
+The first keyframe is here.
+
+56
+00:05:40,470 --> 00:05:45,870
+The second keyframe is at the highest point, and the third one is down here.
+
+57
+00:05:45,900 --> 00:05:48,030
+Let's go to the graph editor.
+
+58
+00:05:48,880 --> 00:05:55,600
+And if I want to make the ball a little bit floating when it's here and have a lower speed 
+
+59
+00:05:55,600 --> 00:06:00,100
+for this, we cannot use the value graph and I have to go to the speed graph.
+
+60
+00:06:01,610 --> 00:06:03,590
+Let me separate the property.
+
+61
+00:06:04,370 --> 00:06:09,990
+For this I use this option this time and disable this for now.
+
+62
+00:06:10,010 --> 00:06:17,140
+As you see, if I create a graph like this for the Y position, the animation completely falls apart.
+
+63
+00:06:17,150 --> 00:06:24,030
+And that's because the value graph, unlike the speed graph, affects the animation path directly.
+
+64
+00:06:24,050 --> 00:06:28,580
+I go back to the first state and enter the speed graph.
+
+65
+00:06:29,670 --> 00:06:35,790
+I want the speed of the ball to decrease around here, let me play it and see the animation.
+
+66
+00:06:35,940 --> 00:06:40,000
+As you see, it's completely linear and it's not natural.
+
+67
+00:06:40,140 --> 00:06:48,000
+Okay, I select the middle keyframe and make it easy so that the animation speed falls down to zero here.
+
+68
+00:06:48,060 --> 00:06:49,820
+As you see, the speed is zero Here 
+
+69
+00:06:49,830 --> 00:06:57,090
+it is 2662 here and here is 2800.
+
+70
+00:06:57,330 --> 00:06:59,970
+I play it again to see how it goes.
+
+71
+00:07:01,450 --> 00:07:03,550
+Let me trim the work area here.
+
+72
+00:07:05,540 --> 00:07:08,300
+As you see, a little pause is created here.
+
+73
+00:07:08,690 --> 00:07:14,330
+It happens because as you see, the speed graph is zero here, but it shouldn't be like this.
+
+74
+00:07:14,540 --> 00:07:19,970
+I want the speed to decrease around here, not to fall completely to zero and stop.
+
+75
+00:07:20,000 --> 00:07:25,810
+For this I bring the key frame up to prevent it from splitting into two points.
+
+76
+00:07:25,820 --> 00:07:31,640
+I right click on the key frame, then select keyframe velocity and enable continuous.
+
+77
+00:07:32,450 --> 00:07:39,800
+Then I hold down shift and bring it up so the animation speed doesn't go to zero here and the ball doesn't pause.
+
+78
+00:07:44,020 --> 00:07:46,510
+It got better to lower speed here.
+
+79
+00:07:46,510 --> 00:07:49,090
+I increase the length of these handles.
+
+80
+00:07:55,060 --> 00:08:02,470
+As you see, it's better now, to notice this better i select keyframes and increase distance between
+
+81
+00:08:02,470 --> 00:08:04,990
+them to decrease the animation speed.
+
+82
+00:08:11,950 --> 00:08:13,720
+To increase speed here.
+
+83
+00:08:13,720 --> 00:08:17,710
+I set this handle like this and here the same.
+
+84
+00:08:20,780 --> 00:08:22,730
+I increase the speed a little.
+
+85
+00:08:29,610 --> 00:08:31,260
+It got better a lot.
+
+86
+00:08:31,290 --> 00:08:34,350
+It's good to create the bounce return animation.
+
+87
+00:08:48,050 --> 00:08:55,970
+I hold down Alt key so that both handles change together, i select keyframes and go to the speed graph.
+
+88
+00:09:03,680 --> 00:09:05,660
+I trim the work area here.
+
+89
+00:09:08,850 --> 00:09:10,650
+To fit the window to the graphs.
+
+90
+00:09:10,650 --> 00:09:15,270
+I just need to click here so that the graphs fill the window completely.
+
+91
+00:09:15,780 --> 00:09:22,470
+Next important point is that sometimes when you increase these handles manually, it is possible that
+
+92
+00:09:22,470 --> 00:09:29,550
+the speed increases on this side more than another side, to make sure your animation speed is the same.
+
+93
+00:09:29,550 --> 00:09:33,690
+Or in other words, the size of the handles is the same.
+
+94
+00:09:33,720 --> 00:09:41,300
+You just have to double click on the key frame or right click and enter keyframe velocity and in incoming velocity.
+
+95
+00:09:41,310 --> 00:09:48,090
+You see the influence is on 91 and an outgoing velocity influence is on 96.
+
+96
+00:09:49,210 --> 00:09:52,960
+So the animation speed in these two parts is different.
+
+97
+00:09:53,500 --> 00:09:57,580
+Well, to make them the same, you can enter two equal values.
+
+98
+00:09:59,390 --> 00:10:02,540
+You see now your handles have the same length.
+
+99
+00:10:10,440 --> 00:10:12,040
+You can do the same here.
+
+100
+00:10:12,060 --> 00:10:13,950
+Double click on the key frame.
+
+101
+00:10:15,320 --> 00:10:17,240
+And enter the value you want.
+
+102
+00:10:18,330 --> 00:10:20,940
+So the handles have the same size.
+
+103
+00:10:21,420 --> 00:10:28,440
+Also, if I right click on this key frame and go to the key frame velocity, you see influence is on zero.
+
+104
+00:10:28,620 --> 00:10:32,550
+While if I right click here and go to the key frame velocity.
+
+105
+00:10:34,860 --> 00:10:40,590
+You see, the influence is not on zero and the speed is different on the two sides.
+
+106
+00:10:41,370 --> 00:10:43,680
+So I change it to zero and press OK
+
+107
+00:10:44,460 --> 00:10:51,240
+Now, if we look at the animation, we see the ball speed when going and coming back is the completely same.
+
+108
+00:10:52,940 --> 00:10:58,490
+To completely master the grapg editor window and work better with keyframes.
+
+109
+00:10:58,490 --> 00:11:05,930
+You need to know about these options too, the first option, as it's obvious from its icon, is for appearing
+
+110
+00:11:05,930 --> 00:11:08,570
+graphs of properties I have selected.
+
+111
+00:11:08,990 --> 00:11:11,630
+For example, I go to the value graph.
+
+112
+00:11:16,280 --> 00:11:20,870
+The first option is for appearing graphs of properties I have selected.
+
+113
+00:11:21,020 --> 00:11:27,830
+If I select this, you see the graphs disappear, and when I select the property they appear again.
+
+114
+00:11:28,130 --> 00:11:32,750
+And if I separate them, you see each of the graphs is shown separately.
+
+115
+00:11:33,440 --> 00:11:39,140
+The second option shows the animated properties of a layer and the next part.
+
+116
+00:11:39,170 --> 00:11:43,450
+The first option shows kinds of graphs automatically.
+
+117
+00:11:43,460 --> 00:11:48,620
+This means for the position, it shows the speed graph and for other properties
+
+118
+00:11:48,620 --> 00:11:49,480
+Value graph.
+
+119
+00:11:50,060 --> 00:11:54,140
+This option shows the value graph and this one speed graph.
+
+120
+00:11:57,230 --> 00:11:59,830
+And this option shows both graphs.
+
+121
+00:12:01,410 --> 00:12:03,930
+These options are obvious from their name.
+
+122
+00:12:03,960 --> 00:12:07,260
+It is for showing waveforms of the sound layers.
+
+123
+00:12:09,140 --> 00:12:12,310
+This is for showing the beginning and end of the layers.
+
+124
+00:12:12,320 --> 00:12:17,720
+For example, if the layer ends here; in here you can see the end of the layer.
+
+125
+00:12:17,750 --> 00:12:19,070
+It shows this.
+
+126
+00:12:26,440 --> 00:12:31,870
+This option shows the description of any keyframe you bring your pointer on it.
+
+127
+00:12:33,860 --> 00:12:40,130
+This option is to show your keyframes in a box when you select them so you can change the animation
+
+128
+00:12:40,130 --> 00:12:41,300
+speed easily.
+
+129
+00:12:43,260 --> 00:12:49,110
+With this one, you can synchronize the selected keyframe with the value or time of another key frame
+
+130
+00:12:49,110 --> 00:12:49,890
+and snap it.
+
+131
+00:12:50,670 --> 00:12:52,950
+This option is for auto zoom.
+
+132
+00:12:52,980 --> 00:12:56,850
+This option is for showing your graph completely in this panel.
+
+133
+00:12:57,600 --> 00:13:03,510
+This option is for showing the selected keyframe individually so you can work on it easily.
+
+134
+00:13:04,170 --> 00:13:08,850
+The next option is for separating dimensions, which I have already explained.
+
+135
+00:13:08,880 --> 00:13:13,230
+The next option shows the same option when you right click on a key frame.
+
+136
+00:13:15,720 --> 00:13:19,610
+The next option is for turning a key frame to toggle hold.
+
+137
+00:13:20,590 --> 00:13:22,600
+The next one is for linear.
+
+138
+00:13:22,630 --> 00:13:25,510
+The next one is for linear continuous.
+
+139
+00:13:26,740 --> 00:13:32,990
+For example, i select this key frame and enter key frame velocity, disable continuous.
+
+140
+00:13:33,010 --> 00:13:40,480
+Now, by selecting these two points of the key frame and selecting this option, make the key frame a linear Continuous.
+
+141
+00:13:42,730 --> 00:13:49,900
+These options are obviously to turn keyframes to "easy ease" "easy ease in" and "easy ease out".
+
+142
+00:13:50,200 --> 00:13:51,710
+Well, it's enough for now.
+
+143
+00:13:51,730 --> 00:13:59,080
+In the next lesson, we will start creating a simple animation to put into practice what we have learned so far.
+
+144
+00:13:59,230 --> 00:14:00,160
+Good luck.

@@ -1,0 +1,307 @@
+1
+00:00:00,270 --> 00:00:01,480
+Hello, everyone.
+
+2
+00:00:01,500 --> 00:00:04,930
+In this lesson, we want to talk about text animations.
+
+3
+00:00:04,950 --> 00:00:11,880
+Every motion designer or animator needs to learn about text animation sooner or later, so it's better
+
+4
+00:00:11,880 --> 00:00:14,790
+for us to learn about it now in the beginning.
+
+5
+00:00:15,670 --> 00:00:17,710
+Takes Animation has many usages.
+
+6
+00:00:17,710 --> 00:00:24,250
+For example, subtitles, title animation, and also every project with text content.
+
+7
+00:00:24,250 --> 00:00:28,240
+The customer wants it to be editable so he can change it later.
+
+8
+00:00:28,240 --> 00:00:29,710
+So it takes animation.
+
+9
+00:00:29,710 --> 00:00:36,840
+Importance is obvious when we could change text without this animation getting into any problem after
+
+10
+00:00:36,840 --> 00:00:40,570
+Effects is a powerful software for creating text animations.
+
+11
+00:00:40,570 --> 00:00:47,290
+It has very useful tools to make the text animation process easier and more flexible for us.
+
+12
+00:00:47,290 --> 00:00:52,840
+What you need to learn about text animation principles and how to work with these tools.
+
+13
+00:00:53,170 --> 00:00:54,880
+So let's get started.
+
+14
+00:00:55,330 --> 00:01:00,180
+Click on the text tool and click on the preview panel to create your text.
+
+15
+00:01:00,190 --> 00:01:06,670
+As soon as you click on the preview panel, you'll see a red layer in the timeline in the Layers section,
+
+16
+00:01:06,670 --> 00:01:09,730
+and now you can write whatever it takes you want.
+
+17
+00:01:11,900 --> 00:01:12,090
+Okay.
+
+18
+00:01:12,260 --> 00:01:15,040
+After creating your text, you'll see your text.
+
+19
+00:01:15,230 --> 00:01:18,020
+Your name is the same as the text you have written.
+
+20
+00:01:18,990 --> 00:01:22,740
+Panels related to text or character and paragraph.
+
+21
+00:01:22,740 --> 00:01:25,890
+The character panel includes several options.
+
+22
+00:01:26,700 --> 00:01:30,270
+The first option is for changing the font of your text.
+
+23
+00:01:30,540 --> 00:01:33,510
+The second one can change font style.
+
+24
+00:01:33,900 --> 00:01:37,410
+With these tools, you can change the color of your text.
+
+25
+00:01:37,410 --> 00:01:40,310
+For example, isolate black as the color.
+
+26
+00:01:40,320 --> 00:01:46,680
+Here you can change the field color and to enable the stroke, you can click here and select a color
+
+27
+00:01:46,680 --> 00:01:47,820
+for its stroke.
+
+28
+00:01:48,510 --> 00:01:49,880
+By clicking on it.
+
+29
+00:01:49,890 --> 00:01:52,140
+You can change the color easily.
+
+30
+00:01:52,830 --> 00:01:55,510
+Here you can change your text size.
+
+31
+00:01:55,530 --> 00:01:57,330
+Let me create another line.
+
+32
+00:01:58,250 --> 00:01:59,630
+Sign the whole text.
+
+33
+00:01:59,630 --> 00:02:03,200
+And here you can decide the distance between two lines.
+
+34
+00:02:04,470 --> 00:02:08,070
+With this option, you can change the spacing between letters.
+
+35
+00:02:08,850 --> 00:02:09,300
+Here.
+
+36
+00:02:09,300 --> 00:02:13,980
+If your text has a stroke, you can increase or decrease the stroke size.
+
+37
+00:02:16,650 --> 00:02:22,800
+And here you can specify whether the stroke is on the fill or the fill on the stroke.
+
+38
+00:02:23,100 --> 00:02:26,070
+Here, you can apply different edits to your text.
+
+39
+00:02:31,260 --> 00:02:36,970
+The next panel is the paragraph panel where you can change the alignment of your paragraph.
+
+40
+00:02:36,990 --> 00:02:38,780
+Here it's on a line left.
+
+41
+00:02:38,790 --> 00:02:41,400
+You see its anchor point is on left.
+
+42
+00:02:41,430 --> 00:02:47,390
+If I put it on a line center, you see the anchor point goes to the middle of the layer.
+
+43
+00:02:47,400 --> 00:02:50,710
+And if I click on right, it goes to the right.
+
+44
+00:02:50,730 --> 00:02:53,030
+I put it in the center for now.
+
+45
+00:02:53,040 --> 00:02:59,580
+So its anchor point locates in the center of the layer and press control home to bring the text to the
+
+46
+00:02:59,580 --> 00:03:00,960
+middle of the preview.
+
+47
+00:03:01,530 --> 00:03:05,700
+Here are the options to adjust margin and takes titles.
+
+48
+00:03:08,190 --> 00:03:08,520
+Okay.
+
+49
+00:03:08,520 --> 00:03:15,150
+Now that you got familiar with text panels and text adjustments, let's overview the properties of the
+
+50
+00:03:15,150 --> 00:03:16,170
+text layer.
+
+51
+00:03:16,710 --> 00:03:22,560
+I open the text layer in the text section we see the first option is source text.
+
+52
+00:03:23,010 --> 00:03:26,720
+With this option, you can change the contents of your text layer.
+
+53
+00:03:26,730 --> 00:03:35,040
+For example, I create a keyframe here and go ten frames forward and I change my text because isolated
+
+54
+00:03:35,040 --> 00:03:41,910
+a line center takes in the paragraph panel when I type, the text is formed from the center and it doesn't
+
+55
+00:03:41,910 --> 00:03:44,580
+go to level rise and it's very good.
+
+56
+00:03:44,610 --> 00:03:51,960
+As you see, the keyframes are created and they are toggle hold first, the initial text is shown and
+
+57
+00:03:51,960 --> 00:03:58,560
+when I get to the second keyframe, the next text is shown and it's not necessary to create multiple
+
+58
+00:03:58,560 --> 00:04:00,390
+layers to change the text.
+
+59
+00:04:00,480 --> 00:04:06,450
+Since the key frames are toggle hold, you cannot change the animation speed or edit the graph.
+
+60
+00:04:06,480 --> 00:04:08,910
+The animation changes in one frame.
+
+61
+00:04:08,910 --> 00:04:14,670
+The next property is the path option, which allows you to align the text along the path.
+
+62
+00:04:14,670 --> 00:04:21,990
+For example, I want to create a mask, select the text layer, select one of these shapes and create
+
+63
+00:04:21,990 --> 00:04:22,650
+the shape.
+
+64
+00:04:23,540 --> 00:04:25,610
+As you see, this layer is mask.
+
+65
+00:04:26,000 --> 00:04:30,240
+To change this mask to a path so that it doesn't mask the layer.
+
+66
+00:04:30,260 --> 00:04:35,840
+I just need to put this on none so it gets ineffective on the layer after that.
+
+67
+00:04:35,840 --> 00:04:37,130
+In the path option.
+
+68
+00:04:37,130 --> 00:04:37,980
+In the path.
+
+69
+00:04:38,000 --> 00:04:39,530
+I can select the path.
+
+70
+00:04:39,680 --> 00:04:44,180
+As you can see, the text layer is arranged according to the created path.
+
+71
+00:04:44,390 --> 00:04:47,120
+And here you can see various options.
+
+72
+00:04:47,360 --> 00:04:54,500
+The first option is reverse path, which allows you to put your text inside or outside of your path.
+
+73
+00:04:55,860 --> 00:04:59,190
+The next option makes your leather stand vertically.
+
+74
+00:04:59,920 --> 00:05:05,380
+The next option may still solve your Texas spread with equal distance along the path.
+
+75
+00:05:07,840 --> 00:05:11,140
+With margin options, you can offset your text.
+
+76
+00:05:12,520 --> 00:05:15,070
+To learn about more option properties.
+
+77
+00:05:15,070 --> 00:05:17,680
+We should go for animating the text.

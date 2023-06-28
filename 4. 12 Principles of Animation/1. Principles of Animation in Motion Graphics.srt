@@ -1,0 +1,899 @@
+1
+00:00:01,290 --> 00:00:06,960
+In this video, we want to talk about the 12 principles of animation and understand how to make our
+
+2
+00:00:06,960 --> 00:00:10,020
+animation or motion graphics more beautiful.
+
+3
+00:00:12,140 --> 00:00:18,620
+These principles are introduced by the two best Disney animators, meaning Oli Johnson and Frank Thomas,
+
+4
+00:00:19,400 --> 00:00:22,520
+for creating a beautiful and smooth motion graphic.
+
+5
+00:00:22,550 --> 00:00:28,280
+You should first know these principles, and then with practicing a lot, you can use them in your motion
+
+6
+00:00:28,280 --> 00:00:29,150
+graphics.
+
+7
+00:00:30,470 --> 00:00:36,740
+The first principle is a scratch and stretch, meaning you should stretch and scratch your objects relatively
+
+8
+00:00:36,740 --> 00:00:40,070
+the speed movement and weight of your object.
+
+9
+00:00:41,420 --> 00:00:45,320
+In this example, as you can see, the ball has a scratch and a stretch.
+
+10
+00:00:45,500 --> 00:00:52,580
+When it's falling, it stretches and when it smashes the ground it is crashes and eventually it gets
+
+11
+00:00:52,580 --> 00:00:54,410
+back to its first shape.
+
+12
+00:00:54,890 --> 00:00:58,970
+But in this one, the ball doesn't scratch and stretch anymore.
+
+13
+00:00:59,090 --> 00:01:05,150
+As you can see, squashing and stretching are very effective in making our animation beautiful.
+
+14
+00:01:05,180 --> 00:01:13,070
+This technique can be used in simple objects like these balls and complicated objects like the characters
+
+15
+00:01:13,070 --> 00:01:15,680
+movements and the characters face.
+
+16
+00:01:16,310 --> 00:01:22,580
+As you can see, character stretches when it's falling and when it is ready to jump splashes.
+
+17
+00:01:27,070 --> 00:01:34,300
+In this sample for looking better When the character's eye closes, the head squashes, and when the
+
+18
+00:01:34,300 --> 00:01:37,430
+eye starts to open up, the head stretches.
+
+19
+00:01:37,450 --> 00:01:43,990
+The important point this principle is the volume of the object should be always constant, meaning when
+
+20
+00:01:43,990 --> 00:01:50,950
+the object squashes, it should get broad and wide, and when it stretches it should get thin and slim.
+
+21
+00:01:51,040 --> 00:01:58,000
+Sometimes for looking at animation more appealing, we can do this stretching and squashing with exaggeration
+
+22
+00:01:58,000 --> 00:02:00,820
+and don't observe the proportion of the volume.
+
+23
+00:02:00,820 --> 00:02:02,860
+As you can see in these samples.
+
+24
+00:02:03,460 --> 00:02:09,100
+The second principle is anticipation, meaning before our character does.
+
+25
+00:02:09,100 --> 00:02:14,260
+The main move shows some movements to prepares the audience for the main move.
+
+26
+00:02:15,730 --> 00:02:22,540
+For example, here the character is doing a half leap, which is an anticipation, and it wants to show
+
+27
+00:02:22,540 --> 00:02:25,020
+the audience that it is going to jump.
+
+28
+00:02:26,180 --> 00:02:33,650
+When an animation has an anticipation, it looks more real because in reality, when someone wants to
+
+29
+00:02:33,650 --> 00:02:40,190
+jump, if he doesn't get ready for a jump and doesn't squeeze and can stretch this body, he can't jump.
+
+30
+00:02:40,430 --> 00:02:44,570
+So it's better than if you want your animations to look more realistic.
+
+31
+00:02:44,600 --> 00:02:46,430
+You use this principle.
+
+32
+00:02:49,430 --> 00:02:51,950
+This is an animation with anticipation.
+
+33
+00:02:54,080 --> 00:02:56,810
+And this one is without anticipation.
+
+34
+00:02:56,810 --> 00:03:00,980
+And as you can see, the left one is much more beautiful and realistic.
+
+35
+00:03:01,010 --> 00:03:07,730
+Let's see some more samples about anticipation in motion graphics In this sample, the character before
+
+36
+00:03:07,730 --> 00:03:15,350
+exiting the scene and going down shows anticipation and moves itself up a little bit and moves his hands
+
+37
+00:03:15,350 --> 00:03:15,650
+up.
+
+38
+00:03:15,650 --> 00:03:19,070
+So gets the audience ready for its exit of the scene.
+
+39
+00:03:20,480 --> 00:03:26,570
+And in the next example, as you can see, the rabbit for showing an anticipation before any reaction,
+
+40
+00:03:26,570 --> 00:03:30,230
+its head and body moves down and its knees bend.
+
+41
+00:03:30,380 --> 00:03:34,490
+So it gets ready our audience for the reaction it is going to do.
+
+42
+00:03:34,490 --> 00:03:36,830
+And as you can see, it is really effective.
+
+43
+00:03:36,830 --> 00:03:38,510
+And the animations beauty.
+
+44
+00:03:40,330 --> 00:03:46,570
+The third principle is staging, meaning that you should show the activities in your scene in a way
+
+45
+00:03:46,570 --> 00:03:50,920
+that your main idea can be fully understood by the audience.
+
+46
+00:03:51,620 --> 00:03:58,710
+In other words, staging meaning is the ability to control the viewer's attention with this principle.
+
+47
+00:03:58,730 --> 00:04:04,880
+We show to our viewers what elements are the main ones, what happened and what is going to happen.
+
+48
+00:04:05,090 --> 00:04:09,680
+We shouldn't confuse the viewer with continuous and irregular happenings.
+
+49
+00:04:10,130 --> 00:04:16,790
+We have to show only one happening in one movement so the viewer understands where to look and finds
+
+50
+00:04:16,790 --> 00:04:18,260
+out the main idea.
+
+51
+00:04:19,230 --> 00:04:20,130
+For these.
+
+52
+00:04:20,130 --> 00:04:26,700
+The main activities should happen by the turn and with a little pause so that a special moment can be
+
+53
+00:04:26,700 --> 00:04:28,010
+shown important.
+
+54
+00:04:28,020 --> 00:04:35,280
+And for showing the main objects, we can discriminate them by light size or the details we create for
+
+55
+00:04:35,280 --> 00:04:35,870
+them.
+
+56
+00:04:35,880 --> 00:04:38,880
+Let's see the main activities in this example.
+
+57
+00:04:38,880 --> 00:04:41,400
+The character first says Hello.
+
+58
+00:04:41,430 --> 00:04:44,400
+The laptop appears, which is connected to wi fi.
+
+59
+00:04:44,430 --> 00:04:51,300
+Then the TV which is connected to wi fi to comes into the scene, then character notices its phone and
+
+60
+00:04:51,300 --> 00:04:55,440
+its last activity is connecting to the internet by the mobile.
+
+61
+00:04:55,470 --> 00:04:57,390
+As it is completely obvious.
+
+62
+00:04:57,390 --> 00:05:03,240
+The main idea of the clip is that we can connect wi fi with different devices.
+
+63
+00:05:04,500 --> 00:05:11,670
+Try to keep your scene not too crowded and messy unless this is your main idea and you want to confuse
+
+64
+00:05:11,670 --> 00:05:12,540
+the viewer.
+
+65
+00:05:12,780 --> 00:05:18,150
+You should pay attention to this fact that in crowded scenes you shouldn't show all of the objects in
+
+66
+00:05:18,150 --> 00:05:23,010
+one moment because it is so hard for the viewer to focus on your animation.
+
+67
+00:05:23,430 --> 00:05:29,430
+Always calm your elements to the scene with delay or random so the viewer doesn't get confused.
+
+68
+00:05:31,150 --> 00:05:35,560
+The fourth principle is straight ahead and post to post animation.
+
+69
+00:05:36,070 --> 00:05:41,170
+In fact, this principle expresses two ways for designing an animation.
+
+70
+00:05:41,650 --> 00:05:47,930
+The first way straight ahead means that we can design the animation frame by frame from the start till
+
+71
+00:05:47,950 --> 00:05:48,670
+the end.
+
+72
+00:05:51,190 --> 00:05:55,150
+Which usually is really useful for estimating fire and water.
+
+73
+00:05:56,260 --> 00:05:57,820
+But using it in character.
+
+74
+00:05:57,820 --> 00:06:04,150
+Animation is really hard and complicated, especially when you are not aware of things that are going
+
+75
+00:06:04,150 --> 00:06:05,050
+to happen.
+
+76
+00:06:06,090 --> 00:06:13,260
+But the second way is posed to pose, which in this method, first the key poses are designed and then
+
+77
+00:06:13,260 --> 00:06:14,610
+the in between them.
+
+78
+00:06:14,610 --> 00:06:17,340
+And then you can design the easing process.
+
+79
+00:06:18,000 --> 00:06:24,120
+This method is better for complicated animation because you can have a general overview of the things
+
+80
+00:06:24,120 --> 00:06:25,620
+that are going to happen.
+
+81
+00:06:25,890 --> 00:06:31,950
+We will have a lot to do with this method post to pose, especially when we get to character animation
+
+82
+00:06:31,950 --> 00:06:35,730
+and creating a walk cycle or run cycle animation.
+
+83
+00:06:36,150 --> 00:06:40,020
+Let's see some samples of its usage in motion graphics.
+
+84
+00:06:40,050 --> 00:06:42,240
+As you can see in these examples.
+
+85
+00:06:42,240 --> 00:06:47,670
+Motion Designer for reaching the main idea of his animation and what he has in mind.
+
+86
+00:06:47,670 --> 00:06:54,720
+First, he creates key poses by sketching and creates an elementary animation of what is going to happen
+
+87
+00:06:54,720 --> 00:06:59,220
+at the end and then starts to finalizing the animation.
+
+88
+00:07:02,040 --> 00:07:05,620
+The next principle is follow through or overlapping.
+
+89
+00:07:05,640 --> 00:07:07,220
+This technique helps a lot.
+
+90
+00:07:07,230 --> 00:07:14,220
+Showing the object's movements more real follow through means that the secondary or appendix objects,
+
+91
+00:07:14,220 --> 00:07:18,720
+even after the main object is stopped from moving, should keep moving.
+
+92
+00:07:19,680 --> 00:07:26,400
+Overlapping means parts of the main object react with a delay and different speed from the main object
+
+93
+00:07:26,400 --> 00:07:27,960
+and stay behind.
+
+94
+00:07:29,810 --> 00:07:31,390
+Like these samples.
+
+95
+00:07:31,400 --> 00:07:38,030
+Appendix objects should keep moving after the main object stops and move at different times.
+
+96
+00:07:39,500 --> 00:07:46,250
+This principle is also used for showing a live objects and objects that are not moving like clothes
+
+97
+00:07:46,250 --> 00:07:47,180
+and hairs.
+
+98
+00:07:47,780 --> 00:07:52,730
+As you can see, this principle causes our animation to look more real and natural.
+
+99
+00:07:52,730 --> 00:07:56,240
+So certainly use it in creating your animations.
+
+100
+00:07:57,700 --> 00:08:04,230
+The next principle is easy in and easy out, which is the most important principle in animation.
+
+101
+00:08:04,240 --> 00:08:08,350
+Most activities that happen in our lives follow this principle.
+
+102
+00:08:09,580 --> 00:08:16,420
+Every object needs time to accelerate for reaching to its top speed and also when it wants to reach
+
+103
+00:08:16,420 --> 00:08:18,550
+the lowest speed from the high speed.
+
+104
+00:08:18,580 --> 00:08:20,920
+This should happen little by little.
+
+105
+00:08:22,930 --> 00:08:30,070
+In frame by frame animation, you should design more frames in the first and last parts of your animation,
+
+106
+00:08:30,070 --> 00:08:34,120
+so its start and finish moves are smooth and real.
+
+107
+00:08:34,720 --> 00:08:41,830
+More beginners mistake is that they use linear keyframes, which causes their animation to be very artificial
+
+108
+00:08:41,830 --> 00:08:42,820
+and rough.
+
+109
+00:08:43,450 --> 00:08:46,300
+Smooth animations are much better.
+
+110
+00:08:46,390 --> 00:08:53,770
+Elements appear at different times and they have a smooth first and end, which you can do this by smoothing
+
+111
+00:08:53,770 --> 00:08:56,740
+the graphs and the first and last parts.
+
+112
+00:08:56,890 --> 00:08:57,730
+Absolutely.
+
+113
+00:08:57,730 --> 00:09:03,370
+This doesn't mean that we shouldn't use linear keyframes at all, but we should know that most of the
+
+114
+00:09:03,370 --> 00:09:06,650
+time smoothing the key frames causes beauty.
+
+115
+00:09:06,670 --> 00:09:13,030
+You should know that every key frame kind is related to a particular position which you can get to know
+
+116
+00:09:13,030 --> 00:09:14,490
+them by experience.
+
+117
+00:09:14,500 --> 00:09:20,440
+The next point that you should know is sometimes you don't have only one object, but you have a few
+
+118
+00:09:20,440 --> 00:09:25,990
+objects that should be animated continuously, like animate awards letters.
+
+119
+00:09:26,000 --> 00:09:32,980
+Besides using the letters animation, the general animation of the world has got to be easing too.
+
+120
+00:09:32,980 --> 00:09:39,640
+So appearing the letters don't happen in turn and doesn't create a linear and boring state.
+
+121
+00:09:39,640 --> 00:09:45,730
+But the general animation of the words should start smooth and then it starts to accelerate and at the
+
+122
+00:09:45,730 --> 00:09:49,870
+end it finishes slow and the words animation should be overlap.
+
+123
+00:09:50,020 --> 00:09:54,370
+This act always makes your animation cool and interesting.
+
+124
+00:09:54,520 --> 00:09:56,770
+The next principle is arc.
+
+125
+00:09:57,220 --> 00:10:00,880
+Most movements in the real world follow a curve.
+
+126
+00:10:01,240 --> 00:10:06,370
+If we want our animation to be natural and beautiful, we should follow this rule.
+
+127
+00:10:06,400 --> 00:10:12,250
+This rule can be used for characters, parts and also for simple objects.
+
+128
+00:10:12,250 --> 00:10:18,520
+As you can see in this example, the movements of the characters body parts follow the arcs, which
+
+129
+00:10:18,520 --> 00:10:25,360
+absolutely in the walk and run cycles lesson we get to know with this concept practically should obey
+
+130
+00:10:25,360 --> 00:10:26,410
+this rule in head.
+
+131
+00:10:26,410 --> 00:10:33,250
+Turning to as you can see, if you don't follow this rule, how much our animation looks artificial
+
+132
+00:10:33,250 --> 00:10:39,370
+and boring, but when the head animation is done with arcs looks much better and beautiful.
+
+133
+00:10:41,210 --> 00:10:44,680
+This is an example of objects that are following the arcs.
+
+134
+00:10:46,440 --> 00:10:53,400
+Our truly is that in fast movements and machine movements, we should use straighter pathways and in
+
+135
+00:10:53,400 --> 00:10:58,440
+slower movements or normal movements, we should use more bent curves.
+
+136
+00:11:02,640 --> 00:11:07,770
+As you can see in the left example, because this clip's animation is speed is normal.
+
+137
+00:11:07,800 --> 00:11:09,960
+Bends, curves have been used.
+
+138
+00:11:10,930 --> 00:11:14,320
+And in the right one because it has fast speed.
+
+139
+00:11:14,350 --> 00:11:17,020
+The straight curves have been used.
+
+140
+00:11:18,090 --> 00:11:20,790
+The next principle is secondary action.
+
+141
+00:11:21,910 --> 00:11:29,050
+This principle expresses movements and details which causes us to know more things about our character.
+
+142
+00:11:29,080 --> 00:11:36,460
+For example, the secondary action of the left hand shows the character's state if his hand is fist
+
+143
+00:11:36,460 --> 00:11:37,150
+mode.
+
+144
+00:11:37,180 --> 00:11:39,830
+It shows that our character is angry.
+
+145
+00:11:39,850 --> 00:11:41,500
+If it is like this.
+
+146
+00:11:41,530 --> 00:11:43,330
+It shows his happiness.
+
+147
+00:11:43,330 --> 00:11:51,010
+If his hand is in the front and close to its body and he looks around, it shows that he is hiding something
+
+148
+00:11:51,010 --> 00:11:53,230
+and he knocks on the door secretly.
+
+149
+00:11:53,260 --> 00:11:59,260
+The movements we can add in this principle are so personalized, meaning my secondary action may be
+
+150
+00:11:59,260 --> 00:12:05,140
+different from yours, and for adding secondary action, the only thing you should do is asking yourself,
+
+151
+00:12:05,140 --> 00:12:08,110
+Well, what other thing can I add to it?
+
+152
+00:12:08,470 --> 00:12:13,460
+Sometimes adding some details to our animation can make our animation more alive.
+
+153
+00:12:13,480 --> 00:12:14,380
+Absolutely.
+
+154
+00:12:14,380 --> 00:12:20,050
+You should consider that these movements shouldn't distract our viewers mind from the main move.
+
+155
+00:12:20,350 --> 00:12:23,780
+Well, let's go and see their usage in motion graphics.
+
+156
+00:12:23,800 --> 00:12:25,090
+Look at this sample.
+
+157
+00:12:25,090 --> 00:12:31,090
+The main movie is that the female character wants to throw her opponents chess piece, but when she
+
+158
+00:12:31,090 --> 00:12:37,270
+wants to do it, her facial expression changes, which can express pride and arrogance feeling to the
+
+159
+00:12:37,270 --> 00:12:42,830
+viewers and her hand state when she wants to pick up the chess piece and move it.
+
+160
+00:12:42,850 --> 00:12:46,120
+She can express her arrogance feelings so beautifully.
+
+161
+00:12:46,120 --> 00:12:52,510
+In the next example, when the boy character wants to eat something looks around in a special way which
+
+162
+00:12:52,510 --> 00:12:56,460
+can show the viewer that he's doing something secretly.
+
+163
+00:12:56,470 --> 00:13:02,850
+In the next example, a character is doing her routine activities that we're taking a deep breath.
+
+164
+00:13:02,860 --> 00:13:07,180
+She expresses that her routine activities are so boring too.
+
+165
+00:13:07,210 --> 00:13:09,520
+The next principle is timing.
+
+166
+00:13:09,550 --> 00:13:17,100
+It means that animation's identity depends on the number of frames that have been designed for an activity.
+
+167
+00:13:17,110 --> 00:13:23,770
+That means the more the number of frame is, the speed of that activity slows down and the less number
+
+168
+00:13:23,770 --> 00:13:27,980
+of frames means the speed will be more from the physical aspect.
+
+169
+00:13:28,000 --> 00:13:34,810
+Every object has a different volume, weight and condition, which here means every object needs different
+
+170
+00:13:34,810 --> 00:13:37,800
+times for doing a particular activity.
+
+171
+00:13:37,810 --> 00:13:45,040
+So in the places that are necessary to show the characters speed and agility, we should use fewer frames.
+
+172
+00:13:46,230 --> 00:13:49,320
+And in places we want to show the details better.
+
+173
+00:13:49,370 --> 00:13:52,020
+Animation has a higher speed automatically.
+
+174
+00:13:52,050 --> 00:13:55,500
+Like this example, we should use more frames.
+
+175
+00:13:56,940 --> 00:14:00,000
+The 10th principle is exaggeration.
+
+176
+00:14:00,880 --> 00:14:08,140
+This principle means that every activity can go a level higher, so its impact on the viewer increases.
+
+177
+00:14:08,140 --> 00:14:14,350
+Because when we want to animate our animation like the real world, it's going to be an ordinary process
+
+178
+00:14:14,350 --> 00:14:15,910
+that can be so boring.
+
+179
+00:14:15,940 --> 00:14:22,660
+So the purpose of this principle is looking at animations more appealing by doing exaggeration in them.
+
+180
+00:14:22,720 --> 00:14:29,780
+For example, if the character is sad, we make it sadder, and if it's happy, we make it look happier.
+
+181
+00:14:29,800 --> 00:14:33,090
+If it's for it, we make him look more worried.
+
+182
+00:14:33,100 --> 00:14:36,310
+If it's confused, we make it look more confused.
+
+183
+00:14:36,310 --> 00:14:39,400
+So it shows its condition more obvious.
+
+184
+00:14:39,670 --> 00:14:46,090
+The important point that you should know, the exaggerated range in line exaggeration doesn't mean to
+
+185
+00:14:46,090 --> 00:14:52,480
+make our character bend and deform, but it means to make our animation more believable and effective.
+
+186
+00:14:53,540 --> 00:14:57,320
+Let's see two samples of this principle in motion graphics.
+
+187
+00:14:57,530 --> 00:15:03,650
+As you can see, the left sample shows a character who is going to pull the dark color.
+
+188
+00:15:03,650 --> 00:15:10,250
+But the animator has done this work a level higher and he has exaggerated so beautifully.
+
+189
+00:15:10,250 --> 00:15:16,790
+Like And the other side of the color a champion is pulling the rope, which has caused this elongation
+
+190
+00:15:16,790 --> 00:15:22,790
+and at the end a rupture of the rope and then the character gets thrown to the back.
+
+191
+00:15:22,910 --> 00:15:28,820
+If the animator wanted to show this happening natural or real, and what happens in the real world,
+
+192
+00:15:28,820 --> 00:15:30,440
+how boring it was.
+
+193
+00:15:30,440 --> 00:15:35,780
+But now that there is an exaggeration, you can see how appealing it is.
+
+194
+00:15:36,260 --> 00:15:42,950
+The right sample is a fantasy sample that shows a playful square that comes into the scene and bothers
+
+195
+00:15:42,950 --> 00:15:44,780
+the circle on the water.
+
+196
+00:15:44,780 --> 00:15:51,530
+And the circle doesn't do an ordinary thing for the retaliation, like throwing this square away.
+
+197
+00:15:51,530 --> 00:15:58,220
+But it takes that job to the next level and swallows the square, which is an appealing exaggeration.
+
+198
+00:15:58,610 --> 00:16:01,450
+The next principle is solid drawing.
+
+199
+00:16:01,460 --> 00:16:06,250
+This principle is more related to animation designers and is very close.
+
+200
+00:16:06,260 --> 00:16:09,010
+The frame by frame or 3D design.
+
+201
+00:16:09,050 --> 00:16:11,080
+And this means the form you create.
+
+202
+00:16:11,090 --> 00:16:16,850
+It should look like that is placed in a 3D environment, meaning the character should have the right
+
+203
+00:16:16,850 --> 00:16:20,100
+amount of volume and weight in different angles.
+
+204
+00:16:20,120 --> 00:16:27,290
+Animators should be very experienced and expand because they should know 3D Designing Perspective principles,
+
+205
+00:16:27,330 --> 00:16:30,710
+anatomy and different poses of a character.
+
+206
+00:16:32,600 --> 00:16:35,020
+And the last principle is appeal.
+
+207
+00:16:35,030 --> 00:16:40,850
+This principle is more related to the characters designer, and its meaning is that character should
+
+208
+00:16:40,850 --> 00:16:44,630
+be attractive and can get communicated with the viewer.
+
+209
+00:16:44,660 --> 00:16:50,540
+It is not necessarily needed that this principle should be considered for the champion character, but
+
+210
+00:16:50,540 --> 00:16:56,840
+it can be a monster, a villain or a diagram for making characters more attractive.
+
+211
+00:16:56,870 --> 00:17:02,870
+You can use dynamic designs and there are three methods for making designs dynamic.
+
+212
+00:17:02,900 --> 00:17:06,870
+The first way is to use different shapes for designing the characters.
+
+213
+00:17:06,890 --> 00:17:10,410
+Instead of using one shape for all of the characters.
+
+214
+00:17:10,430 --> 00:17:12,200
+Use different shapes.
+
+215
+00:17:12,650 --> 00:17:15,570
+The second way is to play with proportions.
+
+216
+00:17:15,590 --> 00:17:22,580
+In this way you can find every character's index and exaggerate it to reach a more attractive design.
+
+217
+00:17:22,880 --> 00:17:29,600
+Thirdly, you should keep your designing simple because this character should animate in too much detail.
+
+218
+00:17:29,630 --> 00:17:31,780
+Besides that, it is confusing.
+
+219
+00:17:31,790 --> 00:17:34,040
+It will ruin the animation to.
+
+220
+00:17:35,180 --> 00:17:37,820
+Well, 12 principles of animation are done.
+
+221
+00:17:37,820 --> 00:17:43,640
+And if you want to use these 12 principles in your animations and motion graphics, try to review these
+
+222
+00:17:43,640 --> 00:17:49,150
+principles before every animation you're going to make, use them in your animations.
+
+223
+00:17:49,160 --> 00:17:55,550
+So after high repetition, you can involuntary use them in your animations without paying attention
+
+224
+00:17:55,550 --> 00:17:56,960
+to these principles.
+
+225
+00:17:57,410 --> 00:17:58,400
+Good luck.

@@ -1,0 +1,503 @@
+1
+00:00:00,660 --> 00:00:01,820
+Hello, everyone.
+
+2
+00:00:01,830 --> 00:00:06,560
+In this chapter, as I said, I want to talk about basic animations.
+
+3
+00:00:06,570 --> 00:00:13,850
+One of the most basic and important animations that the animator must know is bouncing ball animation.
+
+4
+00:00:13,860 --> 00:00:20,190
+You may think, what is the point of bouncing ball animation or why do we have to start from bouncing
+
+5
+00:00:20,190 --> 00:00:21,390
+ball animation?
+
+6
+00:00:21,390 --> 00:00:28,620
+I have to say practice in bouncing ball animation may look simple and very easy at first, but in fact
+
+7
+00:00:28,620 --> 00:00:33,740
+you can learn about important principles of animation in this exercise.
+
+8
+00:00:33,750 --> 00:00:41,640
+In the simplest case, I can say you will learn about timing, spacing, objects, weights or squash
+
+9
+00:00:41,640 --> 00:00:42,540
+and stretch.
+
+10
+00:00:43,110 --> 00:00:49,500
+And it's not like the bouncing ball animation is just for knowing about these principles, but it's
+
+11
+00:00:49,500 --> 00:00:56,610
+also used in professional animations to have an overview of timing and character states before drawing.
+
+12
+00:00:59,440 --> 00:01:04,960
+In the beginning, the bouncing ball of the scene is created and then according to that timing, the
+
+13
+00:01:04,960 --> 00:01:06,850
+character is animated.
+
+14
+00:01:06,880 --> 00:01:13,540
+That's why bouncing ball animation is important and any animator has to practice it from the start so
+
+15
+00:01:13,540 --> 00:01:19,660
+that when he wants to start animating professionally, like character animation, be able to use these
+
+16
+00:01:19,660 --> 00:01:23,920
+principles which have learned from here and get the intended result.
+
+17
+00:01:24,730 --> 00:01:28,810
+Before starting, I recommend that you open after Effects right now.
+
+18
+00:01:28,840 --> 00:01:33,340
+Open the Simple Jumping Ball project and follow me step by step.
+
+19
+00:01:33,490 --> 00:01:36,940
+Let's start creating a simple bouncing ball.
+
+20
+00:01:36,970 --> 00:01:41,860
+To do that, I make a foolish comp and name it bouncing ball.
+
+21
+00:01:42,280 --> 00:01:52,000
+I set its frame rate on 24 gray for background and duration and 2 seconds after that to make it attractive,
+
+22
+00:01:52,000 --> 00:01:54,280
+I import the image of a soccer ball.
+
+23
+00:01:57,390 --> 00:02:05,370
+I bring it into the comp and place it here and to turn this texture into an orb, I use the sphere effect.
+
+24
+00:02:08,660 --> 00:02:10,430
+I had the effect, the layer.
+
+25
+00:02:10,430 --> 00:02:15,820
+And as you see, the texture turns into a ball in the rotation section.
+
+26
+00:02:15,830 --> 00:02:20,780
+If I change these values, you see the layer completely acts as a ball.
+
+27
+00:02:22,990 --> 00:02:26,860
+I go to the lighting, I set the light high to 100.
+
+28
+00:02:27,400 --> 00:02:28,870
+Bring this 1 to 0.
+
+29
+00:02:30,790 --> 00:02:36,280
+In shaving ice the amount to 100 so that the ball doesn't have a shadow.
+
+30
+00:02:37,570 --> 00:02:39,820
+Of refuse to zero.
+
+31
+00:02:39,910 --> 00:02:42,520
+I bring them the radius to 100.
+
+32
+00:02:43,750 --> 00:02:48,190
+I put a ruler down here as a floor and saw the animating.
+
+33
+00:02:51,700 --> 00:02:53,980
+I also want to create this conscience.
+
+34
+00:02:53,990 --> 00:02:58,740
+And so it is better to put the layer anchor point here under the ball.
+
+35
+00:03:02,260 --> 00:03:06,490
+I create a keyframe for its position at the beginning of the timeline.
+
+36
+00:03:06,490 --> 00:03:10,120
+And then in frame 12, I bring the ball up.
+
+37
+00:03:13,020 --> 00:03:14,700
+And again, you stick in one.
+
+38
+00:03:14,700 --> 00:03:16,750
+I past the first keyframe frame.
+
+39
+00:03:16,770 --> 00:03:20,460
+I turn the work area here and take a look at the animation.
+
+40
+00:03:21,480 --> 00:03:25,890
+The animation is completely linear and it's not much appealing.
+
+41
+00:03:25,920 --> 00:03:28,920
+That's why easy is the middle key frame.
+
+42
+00:03:31,290 --> 00:03:33,650
+It's better little to improve it.
+
+43
+00:03:33,660 --> 00:03:40,890
+I go to the graph editor in a speed graph and increase handles of this keyframe until their influence
+
+44
+00:03:40,890 --> 00:03:42,360
+reaches 100.
+
+45
+00:03:45,320 --> 00:03:46,430
+Let's have a look.
+
+46
+00:03:51,420 --> 00:03:55,810
+Much better to have a more intense jump when the ball hits the ground.
+
+47
+00:03:55,830 --> 00:03:57,810
+I reduce these handles.
+
+48
+00:04:07,520 --> 00:04:10,350
+After that, I go for the rotation of the ball.
+
+49
+00:04:10,370 --> 00:04:16,700
+For this I go to the sphere if I want the ball to rotate this way and forward.
+
+50
+00:04:16,730 --> 00:04:20,690
+For this I create a keyframe at the beginning of the timeline.
+
+51
+00:04:20,840 --> 00:04:27,830
+I press Yuki to make its keyframe visible and at the end, because I want it to rotate forward.
+
+52
+00:04:27,860 --> 00:04:29,720
+I set this to minus one.
+
+53
+00:04:29,750 --> 00:04:31,400
+Let's see how it looks.
+
+54
+00:04:33,710 --> 00:04:36,860
+It's very good to make a shadow for it.
+
+55
+00:04:36,890 --> 00:04:38,480
+I use the Ellipse to.
+
+56
+00:04:41,650 --> 00:04:42,010
+Here.
+
+57
+00:04:42,010 --> 00:04:48,400
+I hold down control so that the shape is created from the center and I create a shape the same size
+
+58
+00:04:48,400 --> 00:04:49,240
+as the ball.
+
+59
+00:04:57,930 --> 00:04:59,940
+I move it below the ball layer.
+
+60
+00:05:00,950 --> 00:05:05,000
+Decrease its capacity, and I want to animate its scale.
+
+61
+00:05:05,920 --> 00:05:08,260
+I create a key frame for it here.
+
+62
+00:05:09,820 --> 00:05:13,360
+And when the ball is up, I settled on 40.
+
+63
+00:05:13,450 --> 00:05:17,900
+And when it comes down, I paste the first keyframe here again.
+
+64
+00:05:17,920 --> 00:05:24,460
+I want the influence of this keyframe to be exactly like this one so that the shadow and ball have the
+
+65
+00:05:24,460 --> 00:05:25,420
+same speed.
+
+66
+00:05:26,320 --> 00:05:31,210
+That's why we right click on this keyframe and go to the keyframe velocity.
+
+67
+00:05:31,270 --> 00:05:37,180
+As you see, the speed is zero and both influences are 100 on incoming and outgoing.
+
+68
+00:05:37,270 --> 00:05:40,540
+So I select this keyframe and make it easy.
+
+69
+00:05:41,920 --> 00:05:48,280
+Go to the key frame velocity and set influence on 100 for incoming and outgoing.
+
+70
+00:05:50,440 --> 00:05:52,080
+Let's see how it looks.
+
+71
+00:05:52,090 --> 00:05:53,470
+As you see the shadows.
+
+72
+00:05:53,470 --> 00:05:56,260
+Speed is synchronized with the ball speed.
+
+73
+00:05:57,270 --> 00:06:01,050
+After that, I go for creating squash and stretch for the ball.
+
+74
+00:06:02,470 --> 00:06:03,220
+For this.
+
+75
+00:06:03,220 --> 00:06:08,760
+Isolate the ball player, hold down, shift and press is to open the scale to.
+
+76
+00:06:09,430 --> 00:06:15,280
+I create the first keyframe here because the scale of the ball should be 100 here.
+
+77
+00:06:15,280 --> 00:06:19,570
+And when it hits the ground, the ball should be a little bit squashed.
+
+78
+00:06:20,470 --> 00:06:24,100
+So I increase the axis scale to 120.
+
+79
+00:06:26,860 --> 00:06:31,990
+And decrease the Y scale to the same amount that I increased the scale.
+
+80
+00:06:31,990 --> 00:06:34,360
+So I changed 100 to 80.
+
+81
+00:06:35,620 --> 00:06:38,620
+And in the next frame it reverses.
+
+82
+00:06:38,620 --> 00:06:42,970
+This becomes 90 and this becomes 110.
+
+83
+00:06:46,290 --> 00:06:49,920
+And in the last keyframe, it needs to be like this.
+
+84
+00:06:51,240 --> 00:06:56,610
+And in the previous frame like this, I also make this key frame easy ease.
+
+85
+00:06:56,610 --> 00:06:58,050
+And let's have a look.
+
+86
+00:07:00,050 --> 00:07:04,170
+Well, I have made this question stretch to improve it a little bit.
+
+87
+00:07:04,190 --> 00:07:11,350
+I can set this on 125 and this 1 to 75, so it squashes a little more.
+
+88
+00:07:11,360 --> 00:07:15,350
+And also here, 85 and 115.
+
+89
+00:07:27,410 --> 00:07:33,860
+As you see, when the ball is on the ground, it is squashed and when it comes up it stretches.
+
+90
+00:07:33,860 --> 00:07:38,330
+And as it goes higher, changes back to its original form.
+
+91
+00:07:39,080 --> 00:07:43,460
+And when it is coming down, it stretches and gets squashed here again.
+
+92
+00:07:44,900 --> 00:07:46,070
+Let's have a look.
+
+93
+00:07:50,500 --> 00:07:54,070
+It is really good to make our work more attractive.
+
+94
+00:07:54,100 --> 00:07:55,930
+I create a shape here.
+
+95
+00:07:57,490 --> 00:07:59,650
+I change its color to green?
+
+96
+00:08:01,730 --> 00:08:05,930
+Duplicated, bring it higher and make it a little darker.
+
+97
+00:08:07,770 --> 00:08:12,750
+And after that, isolate both layers and put them into come and call it flow.
+
+98
+00:08:14,770 --> 00:08:16,210
+Then I go to the comp.
+
+99
+00:08:17,220 --> 00:08:19,680
+Change the size, the layer size.
+
+100
+00:08:23,250 --> 00:08:25,830
+Crop it and go back to the main crop.
+
+101
+00:08:26,520 --> 00:08:28,920
+Bring it down and place it here.
+
+102
+00:08:30,770 --> 00:08:32,060
+And to animate it.
+
+103
+00:08:32,060 --> 00:08:34,310
+I use the motion tile effect.
+
+104
+00:08:39,300 --> 00:08:41,430
+I create a key frame here?
+
+105
+00:08:42,860 --> 00:08:44,510
+And another one here.
+
+106
+00:08:48,560 --> 00:08:50,030
+Let me bring it down.
+
+107
+00:08:54,590 --> 00:08:57,410
+It is a little fast, so I decrease this.
+
+108
+00:09:01,900 --> 00:09:03,720
+To make the ground is physical.
+
+109
+00:09:03,730 --> 00:09:07,750
+I use the optic compensation effect and add it to the ground.
+
+110
+00:09:11,010 --> 00:09:13,980
+I increase it a little and bring this one down.
+
+111
+00:09:16,000 --> 00:09:20,620
+And to fix these cropped parts, I use the reptile effect.
+
+112
+00:09:22,930 --> 00:09:27,730
+I bring it above the optic effect and increase its right and left.
+
+113
+00:09:30,640 --> 00:09:32,560
+To make this scene more beautiful.
+
+114
+00:09:32,560 --> 00:09:35,050
+I have created a football gate.
+
+115
+00:09:35,590 --> 00:09:42,040
+I increase its size and bring it below the floor layer and bring it down.
+
+116
+00:09:51,760 --> 00:09:58,540
+And I said, the color of these grasses, the same as the floor, but a little bit darker and increase
+
+117
+00:09:58,540 --> 00:09:59,500
+their scale.
+
+118
+00:10:02,290 --> 00:10:04,780
+And put them below the floor layer.
+
+119
+00:10:22,150 --> 00:10:28,900
+The benefit of using a sphere to make this ball and its rotation is that later you can go to the project
+
+120
+00:10:28,900 --> 00:10:35,150
+panel, find the texture and by the replace for this option, give another texture to your ball.
+
+121
+00:10:35,170 --> 00:10:38,170
+As you see now, a basketball is animating.
+
+122
+00:10:39,390 --> 00:10:42,690
+Let me change rotation so it gets more obvious.
+
+123
+00:10:46,740 --> 00:10:49,800
+Also, you can do it again and replace another texture.
+
+124
+00:10:52,390 --> 00:10:58,150
+In the next lesson, I'll talk about another kind of bouncing ball animation, which is a little more
+
+125
+00:10:58,150 --> 00:11:00,690
+professional and harder to create.
+
+126
+00:11:00,700 --> 00:11:04,120
+So you get familiar with different kinds of animations.

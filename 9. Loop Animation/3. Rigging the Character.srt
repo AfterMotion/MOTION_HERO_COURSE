@@ -1,0 +1,339 @@
+1
+00:00:01,000 --> 00:00:06,760
+The important point in the loop animations is that the first and the last frame of your animation should
+
+2
+00:00:06,760 --> 00:00:07,690
+be the same.
+
+3
+00:00:07,690 --> 00:00:11,980
+So there is no jump when your animation starts replaying.
+
+4
+00:00:12,460 --> 00:00:19,180
+And the main point which I mentioned in a previous video, is that you should make your loop animations
+
+5
+00:00:19,180 --> 00:00:20,800
+as simple as possible.
+
+6
+00:00:22,700 --> 00:00:25,010
+Let me take a look at this animation.
+
+7
+00:00:25,490 --> 00:00:30,080
+Well, as you can see, I have this kind of pose for my character.
+
+8
+00:00:32,140 --> 00:00:38,620
+This is one pose for my character, and the second pose that I should create for my character is this
+
+9
+00:00:38,620 --> 00:00:39,400
+pose.
+
+10
+00:00:41,410 --> 00:00:50,110
+In fact, I create two poses for my character or my animation, and my loop will be going in a cycle
+
+11
+00:00:50,110 --> 00:00:51,850
+between these two poses.
+
+12
+00:00:51,880 --> 00:00:54,010
+Well, let's go to the job.
+
+13
+00:00:54,520 --> 00:01:01,270
+The first pose I want to create is the pose which my character has hit with the axe and is bending.
+
+14
+00:01:01,900 --> 00:01:08,140
+For this I should parent the layers together so I don't have any problem when I animate.
+
+15
+00:01:10,440 --> 00:01:14,040
+As I said, this layer should be parented to the shoe layer.
+
+16
+00:01:14,340 --> 00:01:17,610
+So I parent the right leg to the right shoe.
+
+17
+00:01:22,770 --> 00:01:28,110
+That is why when I animate the right leg, there is no need to animate the left leg to.
+
+18
+00:01:29,280 --> 00:01:32,640
+I patterned the left leg's rotation to the right.
+
+19
+00:01:32,640 --> 00:01:33,930
+Leg's rotation.
+
+20
+00:01:34,110 --> 00:01:38,850
+So when the right leg got rotated, the left leg rotates to.
+
+21
+00:01:40,440 --> 00:01:43,410
+So I appeared the rotation of the left leg.
+
+22
+00:01:44,560 --> 00:01:46,210
+The right leg too.
+
+23
+00:01:46,570 --> 00:01:49,990
+Then I patterned the left leg's rotation to the right.
+
+24
+00:01:49,990 --> 00:01:51,190
+Leg's rotation.
+
+25
+00:01:51,220 --> 00:01:52,330
+If you pay attention.
+
+26
+00:01:52,330 --> 00:01:59,290
+You see, when I rotate the right leg, the left leg rotates, too, and changes its value.
+
+27
+00:02:02,990 --> 00:02:07,520
+The next thing I should do is parenting the character's body to the leg.
+
+28
+00:02:07,520 --> 00:02:07,670
+It.
+
+29
+00:02:08,550 --> 00:02:13,170
+So when my character's like, rotates, the body moves to.
+
+30
+00:02:14,580 --> 00:02:17,250
+So I parent the body to the right leg.
+
+31
+00:02:19,080 --> 00:02:23,340
+Well, now, if I move the right leg, the body moves to.
+
+32
+00:02:25,330 --> 00:02:26,710
+It's good so far.
+
+33
+00:02:30,760 --> 00:02:33,220
+I should pattern the hand layer to the body.
+
+34
+00:02:38,540 --> 00:02:41,030
+The next should parent to the Buddy ledger.
+
+35
+00:02:42,830 --> 00:02:45,620
+The head lawyer should parent the next lawyer.
+
+36
+00:02:46,990 --> 00:02:51,190
+And this part of the hair layer should be parented to the head layer.
+
+37
+00:02:51,490 --> 00:02:54,250
+Let's rotate and see how it is.
+
+38
+00:02:54,370 --> 00:02:55,510
+It's good.
+
+39
+00:02:55,540 --> 00:02:59,890
+All the parts of the character move by rotating the character's leg.
+
+40
+00:03:00,520 --> 00:03:08,920
+Well, I should attach the ax to the character's hand so when his hands moves, he swings the ax too.
+
+41
+00:03:08,950 --> 00:03:11,960
+I parent a layer to my character's hand.
+
+42
+00:03:11,980 --> 00:03:13,140
+Let me rotate.
+
+43
+00:03:13,150 --> 00:03:18,190
+You see, when the character's hand rotates, the ax moves with it to.
+
+44
+00:03:18,610 --> 00:03:24,400
+What we need to do here is that when my character's hand moves to the back of this body, it should
+
+45
+00:03:24,400 --> 00:03:25,420
+be bent.
+
+46
+00:03:28,410 --> 00:03:31,050
+I want to create this kind of shame for him.
+
+47
+00:03:31,260 --> 00:03:34,380
+I create this bending state in two ways.
+
+48
+00:03:34,410 --> 00:03:37,590
+The first one is by using banned effect.
+
+49
+00:03:40,280 --> 00:03:45,290
+Let me add the band effect to my character's hand so you get the impression.
+
+50
+00:03:53,320 --> 00:03:59,560
+Well, as you can see, when I increase the band and the character's hand bands are no longer the X
+
+51
+00:03:59,560 --> 00:04:02,050
+moves with the hand, and this is not good.
+
+52
+00:04:03,450 --> 00:04:09,120
+Because I want the axe moving with a hand when the hand rotates and I don't want the axe left behind
+
+53
+00:04:09,120 --> 00:04:11,520
+from the hand so they bend.
+
+54
+00:04:11,520 --> 00:04:13,440
+The fact is not useful for us.
+
+55
+00:04:14,190 --> 00:04:20,940
+The second and the best way that I can parent the axe to the character's hand is that I use puppets.
+
+56
+00:04:22,140 --> 00:04:24,690
+Let me set the hand's rotation on zero.
+
+57
+00:04:27,520 --> 00:04:29,500
+I activated the perpetual.
+
+58
+00:04:30,670 --> 00:04:39,130
+I create three pins for it, one in the shoulder, one in the elbow, and finally one to the part which
+
+59
+00:04:39,130 --> 00:04:41,290
+I want my axe to pair into.
+
+60
+00:04:42,600 --> 00:04:50,430
+I press cancel A to select the three pin puppets and for having more control over the puppets, I should
+
+61
+00:04:50,430 --> 00:04:53,730
+create a null object for these puppets.
+
+62
+00:04:55,060 --> 00:04:56,950
+For creating null objects.
+
+63
+00:04:56,950 --> 00:04:59,590
+I can use the motion to script.
+
+64
+00:05:03,510 --> 00:05:06,510
+In this drop menu, select the PIN Plus.
+
+65
+00:05:06,510 --> 00:05:10,410
+And as you can see, three null objects have been created for us.
+
+66
+00:05:11,270 --> 00:05:18,440
+Another way you can use is you select the PIN puppets and use the free script, which is a completely
+
+67
+00:05:18,440 --> 00:05:20,690
+pro script for the characters.
+
+68
+00:05:21,470 --> 00:05:26,030
+I go into the rigging panel and links and constrains.
+
+69
+00:05:26,930 --> 00:05:32,660
+I click on Add Bones and it creates a three layers for your pin puppets.
+
+70
+00:05:32,780 --> 00:05:39,020
+After I created layers for the pin puppets of the character's hand, there is no need for the hand layer
+
+71
+00:05:39,020 --> 00:05:44,990
+to be parented to the body layer because I want to control the hand by these bones.
+
+72
+00:05:47,550 --> 00:05:49,770
+That's why I am apparently here.
+
+73
+00:05:50,890 --> 00:05:54,610
+They said bones should be parented to the second and second.
+
+74
+00:05:54,610 --> 00:05:59,590
+Bowen should be parented to the first one, and the first one should be parented to the body.
+
+75
+00:06:06,200 --> 00:06:11,030
+Now, if I rotate the body, you can see the hand rotates to.
+
+76
+00:06:13,860 --> 00:06:18,780
+And now if I parent to axe Layer to the third bone, which is this layer.
+
+77
+00:06:20,970 --> 00:06:22,470
+When the hand rotates.
+
+78
+00:06:22,470 --> 00:06:26,460
+Let me rotate The first one you see the X moves to.
+
+79
+00:06:28,870 --> 00:06:32,290
+And if I want to create a bending state for the hand.
+
+80
+00:06:33,340 --> 00:06:39,850
+I rotate the second bone a little bit, and as you can see, the hand has a bending state.
+
+81
+00:06:40,790 --> 00:06:42,110
+Very simple.
+
+82
+00:06:42,500 --> 00:06:47,510
+The axes completely parented to the hand, and it doesn't matter how much it bends.
+
+83
+00:06:47,690 --> 00:06:54,980
+The act is parented to the hand, and it is not like band effects and the acts doesn't leave behind.
+
+84
+00:06:55,010 --> 00:07:00,580
+Well, I said these values on zero now, which my characters can play the lyric.
+
+85
+00:07:00,590 --> 00:07:03,020
+I go to creating the first post.

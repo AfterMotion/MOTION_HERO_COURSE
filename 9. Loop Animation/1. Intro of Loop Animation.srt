@@ -1,0 +1,207 @@
+1
+00:00:00,090 --> 00:00:00,930
+Hello, everyone.
+
+2
+00:00:01,320 --> 00:00:04,440
+In this video, I want to talk about loop animations.
+
+3
+00:00:05,250 --> 00:00:10,980
+The first thing I should know is what is loop and what kind of clips I call loop.
+
+4
+00:00:11,070 --> 00:00:18,390
+In general, I call a few seconds clip loop videos because they repeat and less times and I can't easily
+
+5
+00:00:18,390 --> 00:00:20,680
+decide which part is the first and last part.
+
+6
+00:00:20,700 --> 00:00:24,030
+I think that they are long clips, but that is not true.
+
+7
+00:00:24,510 --> 00:00:25,400
+At first.
+
+8
+00:00:25,410 --> 00:00:28,470
+Let me say a few points about loop animations.
+
+9
+00:00:28,470 --> 00:00:31,740
+So further I use them in a project.
+
+10
+00:00:33,270 --> 00:00:39,360
+The first point I want to say is that try to make your loop animation as simple as possible as it shows
+
+11
+00:00:39,360 --> 00:00:43,500
+only acts of one thing like eating, walking or etc..
+
+12
+00:00:46,470 --> 00:00:52,680
+Not that we use several acts in one loop animation because in this condition it's better that we call
+
+13
+00:00:52,680 --> 00:00:55,590
+it the short film rather than loop animation.
+
+14
+00:00:55,950 --> 00:01:02,670
+Maybe now you are thinking that the loop animation that only shows one act is not that interesting,
+
+15
+00:01:02,670 --> 00:01:05,490
+but as you can see, it is not like that.
+
+16
+00:01:05,520 --> 00:01:10,230
+Only with adding details and more elements to the animation we can create.
+
+17
+00:01:10,230 --> 00:01:12,780
+Simple yet really interesting clips.
+
+18
+00:01:14,000 --> 00:01:20,400
+The second point, I should say, is that we should try to make our scenes as dynamic as possible.
+
+19
+00:01:20,420 --> 00:01:22,370
+It should always have movements.
+
+20
+00:01:22,400 --> 00:01:25,320
+There should be no objects to be in your scene.
+
+21
+00:01:25,340 --> 00:01:29,180
+On the contrary, everything should be moving in your loop animation.
+
+22
+00:01:29,180 --> 00:01:29,870
+Why?
+
+23
+00:01:29,870 --> 00:01:34,750
+Because the scene is going to be repeated a lot of times for your audience.
+
+24
+00:01:34,760 --> 00:01:38,420
+That is why it should be as dynamic and interesting as possible.
+
+25
+00:01:39,600 --> 00:01:45,270
+The next point that should be considered in loop animations and has a lot of influence in making our
+
+26
+00:01:45,270 --> 00:01:48,300
+animation interesting is overlapping.
+
+27
+00:01:49,460 --> 00:01:55,310
+Overlapping makes your animation more smooth and natural and makes it more realistic.
+
+28
+00:01:56,570 --> 00:02:03,680
+The next and most important point about loop animations and generally in all of the animations is smoothing
+
+29
+00:02:03,680 --> 00:02:05,990
+keyframes and path animations.
+
+30
+00:02:06,970 --> 00:02:14,080
+So use as much as possible from easiest keyframes and don't use linear keyframes as much as possible.
+
+31
+00:02:15,190 --> 00:02:21,280
+Because naturally when you use these keyframes, you will have smooth and more interesting animations.
+
+32
+00:02:22,930 --> 00:02:27,550
+The last point, I should say, is timing, which you should pay attention to it from the beginning
+
+33
+00:02:27,550 --> 00:02:33,730
+of making your loop animation so that the time of your whole animation should be matched with the time
+
+34
+00:02:33,730 --> 00:02:35,380
+of the objects loop.
+
+35
+00:02:35,860 --> 00:02:42,910
+For example, if our whole animation loop time is 30 frames, the object's time multiple in the scene
+
+36
+00:02:42,910 --> 00:02:44,590
+should be a 32.
+
+37
+00:02:45,890 --> 00:02:51,710
+It means that if, for example, an object is looping in a scene, its loop time should be either five
+
+38
+00:02:51,710 --> 00:02:55,100
+frames or six, ten, 15 or 30.
+
+39
+00:02:55,700 --> 00:03:00,260
+So it matches with a whole loop animation time, which is 30 frames.
+
+40
+00:03:00,740 --> 00:03:04,370
+So this way we don't have any kind of leap in our loop animation.
+
+41
+00:03:05,510 --> 00:03:10,760
+The next point about timing, which sometimes happen, is all of the loops in a scene and in the same
+
+42
+00:03:10,760 --> 00:03:11,420
+frame.
+
+43
+00:03:11,420 --> 00:03:17,420
+For example, we have a few characters walking and a first and last part of their walking, and in the
+
+44
+00:03:17,420 --> 00:03:24,710
+same frame you are walking exactly at the same time and it creates a robotic and artificial state.
+
+45
+00:03:25,220 --> 00:03:30,920
+In these situations, with a little bit of moving and overlapping the key frames of the loop, we get
+
+46
+00:03:30,920 --> 00:03:34,520
+better results and make the scene look more natural.
+
+47
+00:03:36,910 --> 00:03:41,080
+When we can consider and use these points in our loop animations.
+
+48
+00:03:41,080 --> 00:03:47,320
+You can see we have made more interesting loop animations which have unclear first and last part, meaning
+
+49
+00:03:47,320 --> 00:03:54,520
+we have no leaps in our loops and eventually attracts the audience so audiences can watch over and over
+
+50
+00:03:54,520 --> 00:03:56,350
+and doesn't get tired of it.
+
+51
+00:03:56,590 --> 00:04:02,980
+So in the next lesson, I start to make a simple loop animation considering points we just talked about.
+
+52
+00:04:05,650 --> 00:04:06,390
+Good luck.

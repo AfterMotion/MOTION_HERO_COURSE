@@ -1,0 +1,343 @@
+1
+00:00:00,360 --> 00:00:02,960
+The next thing we need to know is the panel.
+
+2
+00:00:02,970 --> 00:00:07,500
+And in this lesson, I want to talk about the most important panels.
+
+3
+00:00:08,100 --> 00:00:13,660
+Well, the first and important panel we have in After Effects is the project panel.
+
+4
+00:00:13,680 --> 00:00:21,840
+Layers, films, pictures, compositions, folders, and everything we have used in our project are place in this panel.
+
+5
+00:00:21,960 --> 00:00:28,620
+By selecting any of these items, you can see a little preview of the item here and you can acquire
+
+6
+00:00:28,620 --> 00:00:33,990
+some details about this item, which is a composition as you see its Size is shown.
+
+7
+00:00:35,090 --> 00:00:36,980
+And here comp duration.
+
+8
+00:00:37,400 --> 00:00:42,460
+And here frame rate is visible, at the bottom or some options.
+
+9
+00:00:42,470 --> 00:00:47,240
+With this, you can create a folder and organize items in the project panel.
+
+10
+00:00:47,810 --> 00:00:50,810
+The next option is create a new composition.
+
+11
+00:00:50,810 --> 00:00:53,570
+By this, you can create a new composition.
+
+12
+00:00:53,810 --> 00:00:59,300
+And the next option brings up the project setting window where you can change your project settings.
+
+13
+00:00:59,840 --> 00:01:03,530
+And the next option is for deleting selected items.
+
+14
+00:01:03,920 --> 00:01:06,950
+The next panel is composition or viewport.
+
+15
+00:01:08,130 --> 00:01:12,030
+As you can see in front of the name of this panel is written 'space'.
+
+16
+00:01:12,730 --> 00:01:19,330
+And this means I have opened the com namespace from the project panel and also in the timeline, the
+
+17
+00:01:19,330 --> 00:01:21,370
+composition or space is shown.
+
+18
+00:01:22,060 --> 00:01:27,570
+And as you see, the composition panel shows all the items that are in the comp space.
+
+19
+00:01:27,580 --> 00:01:33,760
+And using this panel, you can see whatever happens in your comp, in the bottom part of the viewport
+
+20
+00:01:33,760 --> 00:01:35,320
+or composition panel.
+
+21
+00:01:35,350 --> 00:01:38,320
+There are tools that I will mention, important ones.
+
+22
+00:01:38,410 --> 00:01:42,280
+This tool is for zooming in and zooming out of the viewport.
+
+23
+00:01:45,080 --> 00:01:50,330
+The next tool is for activating or activating rules and guidelines.
+
+24
+00:01:52,510 --> 00:01:57,490
+The next tool activates or activates paths for shapes and masks.
+
+25
+00:01:57,610 --> 00:02:02,170
+Here you can specify a time so the indicator shows in the timeline.
+
+26
+00:02:02,740 --> 00:02:06,350
+This one is for taking pictures, by clicking on it
+
+27
+00:02:06,370 --> 00:02:12,520
+You can take a shot and if you make changes by holding down this button, you can see the changes you
+
+28
+00:02:12,520 --> 00:02:13,300
+have made.
+
+29
+00:02:13,630 --> 00:02:19,690
+The next option resolution, which is very important, is for when you have a heavy project, you can
+
+30
+00:02:19,690 --> 00:02:23,650
+reduce viewport resolutions, so your project works slightly.
+
+31
+00:02:23,860 --> 00:02:28,600
+This option is for when you want to render a specific part of the composition.
+
+32
+00:02:28,990 --> 00:02:35,540
+The next option is transparent, which shows the areas that are transparent or with no pixels.
+
+33
+00:02:35,560 --> 00:02:38,550
+In this project, I don't have transparency.
+
+34
+00:02:38,560 --> 00:02:43,900
+If I hide the background, you see, it shows the areas that are transparent.
+
+35
+00:02:44,380 --> 00:02:46,870
+The next option is for perspective.
+
+36
+00:02:46,900 --> 00:02:53,020
+By this you can have different perspectives of your layers and it is more practical when you put your
+
+37
+00:02:53,020 --> 00:02:54,400
+layers in 3D mode.
+
+38
+00:02:55,840 --> 00:02:59,390
+This option is for when you want different views of your project.
+
+39
+00:02:59,410 --> 00:03:05,980
+As you see, you can control your view in double, triple, quadrupole and other different kinds of view.
+
+40
+00:03:06,820 --> 00:03:11,130
+Another important panel to be discussed is the timeline panel.
+
+41
+00:03:11,140 --> 00:03:14,290
+As you see, this panel has two main sections.
+
+42
+00:03:14,290 --> 00:03:20,890
+One of them is for timeline and time progress, and the left section is for layers and their settings.
+
+43
+00:03:21,460 --> 00:03:26,830
+By clicking on this arrowhead, you can see settings for the layers here.
+
+44
+00:03:26,830 --> 00:03:29,470
+here You can control visibility of the layer.
+
+45
+00:03:30,240 --> 00:03:34,230
+If it's a sound layer, here you can mute and unmute it.
+
+46
+00:03:34,980 --> 00:03:37,110
+With this, you can solo a layer.
+
+47
+00:03:37,590 --> 00:03:40,890
+With this one, you can lock it so it cannot be selected.
+
+48
+00:03:42,770 --> 00:03:44,960
+In this section you have time line.
+
+49
+00:03:44,960 --> 00:03:48,380
+By dragging this, you can specify your work area.
+
+50
+00:03:48,920 --> 00:03:54,560
+Or you can use the B key for the setting of the beginning and N for the ending of the work area.
+
+51
+00:03:57,320 --> 00:04:02,420
+By holding alls and scrolling, you can make the timeline bigger or smaller.
+
+52
+00:04:03,850 --> 00:04:08,080
+Also you can use this option for the same, making it big or small.
+
+53
+00:04:11,800 --> 00:04:13,750
+Or click on these icons.
+
+54
+00:04:14,800 --> 00:04:21,790
+Now that we got familiar with the main panels in After Effects, let's have a look at the layer settings
+
+55
+00:04:21,790 --> 00:04:26,140
+and options existing in the transform of the layer 
+
+56
+00:04:26,140 --> 00:04:28,450
+in transform, The first option is the anchor point.
+
+57
+00:04:28,480 --> 00:04:32,920
+By this, you can move the layer anchor point to any place you want.
+
+58
+00:04:36,800 --> 00:04:38,960
+The second value is position.
+
+59
+00:04:38,960 --> 00:04:42,440
+By this one, you can adjust the position of your layer.
+
+60
+00:04:46,510 --> 00:04:49,350
+Or you can just change it by dragging the object.
+
+61
+00:04:49,360 --> 00:04:52,990
+As you can see, changes in position or applied here.
+
+62
+00:04:53,020 --> 00:04:54,970
+The next option is the scale.
+
+63
+00:04:55,000 --> 00:04:57,880
+You can make your layer bigger or smaller.
+
+64
+00:04:58,480 --> 00:05:03,220
+And also, if you take down this chain, you can change size in one direction.
+
+65
+00:05:04,800 --> 00:05:06,900
+The next option is rotation.
+
+66
+00:05:06,930 --> 00:05:10,080
+Using this option, you can rotate your layer.
+
+67
+00:05:10,290 --> 00:05:15,510
+Also, there is an opacity option by which you can change the transparency of the layer.
+
+68
+00:05:15,660 --> 00:05:21,600
+If you want to just work on the position of a layer and you don't need the other values, 
+
+69
+00:05:21,600 --> 00:05:24,990
+you just have to select the layer and press p on your keyboard.
+
+70
+00:05:24,990 --> 00:05:27,840
+So only the position value appears.
+
+71
+00:05:28,230 --> 00:05:36,090
+Or if you only want the anchor point, you can press A; for scale press S; for rotation R.
+
+72
+00:05:37,010 --> 00:05:39,020
+And T for opacity.
+
+73
+00:05:39,860 --> 00:05:47,270
+And if you want to values, you just have to hold down shift after appearing opacity and press p for the position.
+
+74
+00:05:47,300 --> 00:05:52,740
+Now, if you want to add a scale too you can keep holding down, shift and press S.
+
+75
+00:05:53,700 --> 00:06:00,060
+And if you want to make one of these values disappear, you can do this by holding down shift and pressing
+
+76
+00:06:00,060 --> 00:06:01,380
+the related hotkey.
+
+77
+00:06:01,980 --> 00:06:05,470
+For example, I hold down, shift and press T.
+
+78
+00:06:05,490 --> 00:06:08,220
+You can see opacity is disappeared.
+
+79
+00:06:08,250 --> 00:06:13,210
+So A is for opening the anchor point; P for the position.
+
+80
+00:06:13,230 --> 00:06:21,630
+S for scale, R for rotation and T for the opacity of layers and also for adjusting the ending and
+
+81
+00:06:21,630 --> 00:06:28,530
+beginning of your layers in the timeline, you can use close bracket and open brackets, open bracket
+
+82
+00:06:28,530 --> 00:06:34,450
+for specifying the beginning of a layer and close bracket for specifying the ending of a layer.
+
+83
+00:06:34,470 --> 00:06:42,180
+And also you can use Alt + [ for trimming the beginning of the layer and Alt + ] for the ending.
+
+84
+00:06:42,480 --> 00:06:48,810
+And as I said before, B and N are use for specifying the beginning and end of the work area.
+
+85
+00:06:50,590 --> 00:06:54,010
+And for changing the layer's name first select the layer.
+
+86
+00:06:54,040 --> 00:06:56,980
+Then press enter and write the name you want.

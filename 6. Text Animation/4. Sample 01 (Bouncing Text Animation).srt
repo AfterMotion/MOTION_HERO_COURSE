@@ -1,0 +1,155 @@
+1
+00:00:00,180 --> 00:00:01,270
+Hello, everyone.
+
+2
+00:00:01,290 --> 00:00:05,010
+In this video, we're going to learn the bouncing text animation.
+
+3
+00:00:05,520 --> 00:00:06,480
+Let's do it.
+
+4
+00:00:07,410 --> 00:00:13,450
+First, create a text ahead, control home to set the text layer in the center of the comp.
+
+5
+00:00:13,470 --> 00:00:16,530
+Then as a position animator to the text.
+
+6
+00:00:18,090 --> 00:00:20,820
+And here, add an expression selector.
+
+7
+00:00:22,200 --> 00:00:25,710
+And delete the range selector because we don't need it.
+
+8
+00:00:25,740 --> 00:00:28,980
+An expression selector in a base.
+
+9
+00:00:28,980 --> 00:00:30,900
+The bounce expression here.
+
+10
+00:00:33,320 --> 00:00:37,040
+Set the Y position on -150.
+
+11
+00:00:42,170 --> 00:00:45,560
+If you do it opposite, the thanks goes up.
+
+12
+00:00:45,710 --> 00:00:50,330
+And also you can use this expression for any property you want.
+
+13
+00:00:51,590 --> 00:00:58,250
+Well, if you want to personalize the animation, you can go to the expression and change these values.
+
+14
+00:01:01,440 --> 00:01:04,560
+Frequency determines the speed of the bounce.
+
+15
+00:01:06,180 --> 00:01:08,730
+For example, if I set it on 20.
+
+16
+00:01:09,410 --> 00:01:11,870
+You can see the speed increases.
+
+17
+00:01:13,040 --> 00:01:16,810
+Amplitude or overshoot determines the power of the bounce.
+
+18
+00:01:16,820 --> 00:01:20,300
+For example, the ladder moves down up to here.
+
+19
+00:01:20,300 --> 00:01:25,010
+But if I set it on 600, you'll see it goes further down.
+
+20
+00:01:28,710 --> 00:01:31,470
+Decay defined the amount of energy loss.
+
+21
+00:01:31,860 --> 00:01:38,670
+The more you increase the decay, the sooner the animation stops and the less you decrease, the later
+
+22
+00:01:38,670 --> 00:01:39,660
+it stops.
+
+23
+00:01:44,880 --> 00:01:48,330
+If I said this to Tim, it will stop sooner.
+
+24
+00:01:49,170 --> 00:01:53,090
+DeLay determines the delay of the letters animation.
+
+25
+00:01:53,100 --> 00:01:54,180
+For example.
+
+26
+00:01:54,180 --> 00:01:55,560
+I set it on five.
+
+27
+00:01:59,500 --> 00:02:01,890
+To make the animation looks better.
+
+28
+00:02:01,900 --> 00:02:07,960
+I want to add a rotation to it so I duplicate the animator, delete the position.
+
+29
+00:02:09,350 --> 00:02:10,910
+And the rotation.
+
+30
+00:02:13,520 --> 00:02:19,970
+And also enabled the pre character 3D to be able to rotate the leather separately.
+
+31
+00:02:21,960 --> 00:02:23,970
+Set it on -90.
+
+32
+00:02:27,010 --> 00:02:33,310
+Go to the expression, decrease the decay a little so that the rotation bonus stops later.
+
+33
+00:02:39,410 --> 00:02:44,780
+After that mask the text layer and set its mode on subtract.
+
+34
+00:02:45,110 --> 00:02:52,010
+Well, if you want to use this animation you've created as a preset in another project, select the
+
+35
+00:02:52,010 --> 00:02:59,960
+animators and in animation menu, click on Save Animation Presets and save it as a preset.
+
+36
+00:03:01,930 --> 00:03:08,710
+And then if you want to create the same animation for your text in another project, select the text
+
+37
+00:03:08,710 --> 00:03:16,030
+layer and in animation menu, select the upload animation presets and open your preset.
+
+38
+00:03:22,590 --> 00:03:25,530
+And finally, you just have to mask your layer.
+
+39
+00:03:26,580 --> 00:03:27,840
+Och, that's it.

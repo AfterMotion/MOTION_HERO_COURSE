@@ -1,0 +1,347 @@
+1
+00:00:00,590 --> 00:00:01,700
+Hello, everyone.
+
+2
+00:00:02,580 --> 00:00:09,030
+And before starting the training course, let me briefly explain about the tools I need in the process
+
+3
+00:00:09,030 --> 00:00:11,940
+of creating the motion graphics in this course.
+
+4
+00:00:12,180 --> 00:00:19,320
+The tool I used in this tutorial to change the graph of keyframes and create spring animations is the
+
+5
+00:00:19,320 --> 00:00:22,710
+motion to script, which of course it's not free.
+
+6
+00:00:23,370 --> 00:00:30,780
+So those who have this script and don't know how to work with it can easily watch the working with the
+
+7
+00:00:30,780 --> 00:00:38,940
+motion to a script course and get acquainted with all the tools available here and those who doesn't
+
+8
+00:00:38,940 --> 00:00:45,450
+have this script or cannot afford it should not worry, because we can also do manually the things we
+
+9
+00:00:45,450 --> 00:00:48,000
+did with this script in this course.
+
+10
+00:00:48,630 --> 00:00:52,080
+For example, I make an animation for this square.
+
+11
+00:00:56,200 --> 00:01:03,880
+And in order to easy ease the keyframes, it just need to go to the Keyframe assistant and select the
+
+12
+00:01:03,880 --> 00:01:04,930
+easy ease.
+
+13
+00:01:06,100 --> 00:01:10,210
+As you see when I go to the speed graph in graph ed.
+
+14
+00:01:11,400 --> 00:01:13,920
+A graph like this will be shown.
+
+15
+00:01:15,600 --> 00:01:21,060
+And when the shape gets the frame, nine and ten has its highest speed.
+
+16
+00:01:21,690 --> 00:01:23,430
+At first the speed is low.
+
+17
+00:01:23,460 --> 00:01:27,540
+Then it increases and finally it decreases again.
+
+18
+00:01:27,960 --> 00:01:35,160
+Well, this is the easy ease mood in which in the beginning and at the end of the movement, the animation
+
+19
+00:01:35,230 --> 00:01:36,490
+speed reduces.
+
+20
+00:01:36,520 --> 00:01:40,710
+If I want to use the motion to escape, I will use this option.
+
+21
+00:01:41,490 --> 00:01:44,790
+For example, I set it to 70%.
+
+22
+00:01:44,970 --> 00:01:50,310
+The speed will decrease in the beginning and the end of the animation look.
+
+23
+00:01:55,370 --> 00:02:02,990
+And here this points indicate the frames and the speed is slower at first because more frames are shown
+
+24
+00:02:02,990 --> 00:02:04,600
+here in the middle.
+
+25
+00:02:04,610 --> 00:02:09,230
+The speed is higher because less frames are shown here.
+
+26
+00:02:09,960 --> 00:02:13,080
+And at the end the animation speed reduces.
+
+27
+00:02:14,540 --> 00:02:19,490
+You can make changes to your graph using this slider in full control.
+
+28
+00:02:20,060 --> 00:02:27,170
+As you see both the graph and the spots that exist in the animating path will change.
+
+29
+00:02:28,080 --> 00:02:35,130
+The more I increase it, the more the speed of the beginning and ending of the animation decreases and
+
+30
+00:02:35,130 --> 00:02:37,680
+in the middle of the speed increases.
+
+31
+00:02:38,570 --> 00:02:42,410
+So this option is for easy ease the keyframe.
+
+32
+00:02:42,650 --> 00:02:49,580
+When this option is at the left, it makes the keyframes linear and the animate will be completely linear.
+
+33
+00:02:49,580 --> 00:02:54,770
+And in no part of it does this speed increase or decrease.
+
+34
+00:02:54,770 --> 00:03:00,980
+And when it is at 100, as you see, the animation would be easy out at the beginning.
+
+35
+00:03:00,980 --> 00:03:04,910
+The speed is low and it increases in the end.
+
+36
+00:03:06,120 --> 00:03:08,840
+This last option when I set it to zero.
+
+37
+00:03:08,850 --> 00:03:15,870
+As you see here, the key frame will be toggle hold and the animation is done in a frame as a jump.
+
+38
+00:03:15,870 --> 00:03:18,310
+And then I set it to 100.
+
+39
+00:03:18,330 --> 00:03:25,830
+The animation will be easy and it means that the speed is high at the beginning and lowers at the end.
+
+40
+00:03:28,970 --> 00:03:34,100
+As you see, I can do all of that here using this handles as well.
+
+41
+00:03:35,890 --> 00:03:36,400
+I see.
+
+42
+00:03:36,400 --> 00:03:42,520
+I can easily do the same using these handles and I don't need to use these options.
+
+43
+00:03:42,520 --> 00:03:46,870
+But the only difference is that a reward gets faster.
+
+44
+00:03:47,230 --> 00:03:51,370
+The next tip I'm going to give you is the excite option.
+
+45
+00:03:51,370 --> 00:03:58,450
+Let me set the animation an easy out mode so that the speed is low at the beginning and it increases
+
+46
+00:03:58,450 --> 00:03:59,230
+at the end.
+
+47
+00:04:00,290 --> 00:04:03,260
+And I want to create a spring animation for it.
+
+48
+00:04:04,440 --> 00:04:08,010
+I select the keyframes and apply the side option to it.
+
+49
+00:04:09,180 --> 00:04:15,180
+Now, if you take a look, you'll see that the spring animation is created for the shape.
+
+50
+00:04:17,110 --> 00:04:18,820
+I go to the effect controls.
+
+51
+00:04:18,820 --> 00:04:25,810
+And here the first option overshoot, which is the same as amplitude, and shows the distance that the
+
+52
+00:04:25,810 --> 00:04:28,900
+shape takes from its original position.
+
+53
+00:04:29,110 --> 00:04:35,530
+If I set this to ten, the shape distance from the last key frame position will reduce.
+
+54
+00:04:39,050 --> 00:04:45,970
+The next option is bounce, which is the same as frequency and shows the reciprocity of this layer.
+
+55
+00:04:45,980 --> 00:04:51,680
+For example, when it's on 40, it goes this much when it's on to any.
+
+56
+00:04:52,990 --> 00:04:55,210
+It will go almost half of this.
+
+57
+00:04:57,330 --> 00:05:01,230
+And the last option is frixion, which is the same as decay.
+
+58
+00:05:01,260 --> 00:05:08,370
+That the more I increase it, the spring animation is stopped sooner and the more I decrease it, it
+
+59
+00:05:08,370 --> 00:05:09,670
+will stop later.
+
+60
+00:05:09,690 --> 00:05:14,370
+For example, I want to increase it and set it to 80.
+
+61
+00:05:14,580 --> 00:05:16,200
+Look what happens.
+
+62
+00:05:16,320 --> 00:05:17,730
+It is stopped soon.
+
+63
+00:05:17,880 --> 00:05:20,070
+But if I set it to 20.
+
+64
+00:05:24,110 --> 00:05:26,390
+As you see, it took longer to stop.
+
+65
+00:05:28,620 --> 00:05:33,540
+Everything I just did depends on whether I have the motion to script.
+
+66
+00:05:33,540 --> 00:05:36,480
+But what should I do if I don't have this script?
+
+67
+00:05:37,110 --> 00:05:44,310
+In order for those who doesn't have this script to be able to go along with us through creating the
+
+68
+00:05:44,310 --> 00:05:46,200
+animation during the course.
+
+69
+00:05:46,200 --> 00:05:53,490
+First, I delete these expressions and effects created by the motion to a script and paste expression
+
+70
+00:05:53,490 --> 00:05:57,240
+related to creating this spring animation here.
+
+71
+00:05:57,950 --> 00:06:04,550
+Now, if I play, you'll see that I was able to create the same animation I made using the motion to
+
+72
+00:06:04,640 --> 00:06:05,150
+script.
+
+73
+00:06:05,150 --> 00:06:07,300
+Using this expression too.
+
+74
+00:06:07,310 --> 00:06:12,590
+As you see, its amplitude is high, so I'll set these to 0.5.
+
+75
+00:06:15,020 --> 00:06:17,180
+It is still can be less than this.
+
+76
+00:06:21,020 --> 00:06:23,900
+And exactly the same values I had there.
+
+77
+00:06:23,900 --> 00:06:25,040
+I have here.
+
+78
+00:06:25,040 --> 00:06:28,700
+This is the amplitude, which is actually the overshoot.
+
+79
+00:06:28,700 --> 00:06:35,510
+Frequency is actually the bouncing and DK is actually the friction in motion to escape.
+
+80
+00:06:35,510 --> 00:06:37,810
+Only their names have changed.
+
+81
+00:06:37,820 --> 00:06:45,560
+I will put this expression in the course resources folder so that you can use it to create your own
+
+82
+00:06:45,560 --> 00:06:47,840
+spring and bouncing animations.
+
+83
+00:06:48,380 --> 00:06:49,960
+That's it for now.
+
+84
+00:06:49,970 --> 00:06:55,220
+I did not make much use of the other options available in motion to a script.
+
+85
+00:06:55,900 --> 00:07:02,920
+If you want to get acquainted with all the options of this script, which can help you a lot in creating
+
+86
+00:07:02,920 --> 00:07:08,170
+beautiful motion graphics, you can get and watch the motion to a script training course.
+
+87
+00:07:08,200 --> 00:07:09,220
+Good luck.

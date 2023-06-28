@@ -1,0 +1,319 @@
+1
+00:00:00,240 --> 00:00:01,140
+In this lesson.
+
+2
+00:00:01,140 --> 00:00:04,530
+We're going to talk about the rest of the shape parameters.
+
+3
+00:00:05,010 --> 00:00:07,650
+First of all, I create a rectangle.
+
+4
+00:00:09,720 --> 00:00:11,940
+The first parameter is content.
+
+5
+00:00:11,940 --> 00:00:13,400
+In front of this parameter.
+
+6
+00:00:13,410 --> 00:00:16,710
+There is an option called ADD, which was also here.
+
+7
+00:00:17,070 --> 00:00:20,870
+By adoption, you can add some functions to this content.
+
+8
+00:00:20,880 --> 00:00:24,810
+I click on this triangle and menu will open.
+
+9
+00:00:24,930 --> 00:00:26,660
+The first one is group.
+
+10
+00:00:26,670 --> 00:00:30,420
+By this it can create group and put layers in it.
+
+11
+00:00:30,420 --> 00:00:34,110
+I have rectangle, ellipse, Alley Star and path.
+
+12
+00:00:34,110 --> 00:00:38,040
+I click on ellipse you see an ellipse created.
+
+13
+00:00:40,930 --> 00:00:42,970
+Ollie's Star makes a star.
+
+14
+00:00:43,720 --> 00:00:50,410
+And in this section you can create field, stroke, gradient feel and gradient stroke for the shape.
+
+15
+00:00:51,890 --> 00:00:55,230
+And from here you can create modifiers for shape.
+
+16
+00:00:55,250 --> 00:00:57,620
+We will explain them in the next session.
+
+17
+00:01:00,280 --> 00:01:04,570
+When you open content, there is a rectangle and it's very small.
+
+18
+00:01:04,690 --> 00:01:11,740
+In the rectangle I have fill and a stroke I have explained about before I open the rectangle path.
+
+19
+00:01:12,910 --> 00:01:14,500
+It can change its size.
+
+20
+00:01:16,000 --> 00:01:22,870
+The difference between size and scale is that if you increase the scale, the strokes thickness will
+
+21
+00:01:22,870 --> 00:01:24,190
+increase as well.
+
+22
+00:01:25,970 --> 00:01:30,860
+But when you increase the size, the stroke thickness won't change.
+
+23
+00:01:30,950 --> 00:01:37,460
+By this parameter, it can change the position of the shape, and by the next parameter you can change
+
+24
+00:01:37,460 --> 00:01:40,130
+the roundness of the corners of the shape.
+
+25
+00:01:42,630 --> 00:01:45,390
+This parameter reverses the path.
+
+26
+00:01:48,100 --> 00:01:49,600
+To explain it more.
+
+27
+00:01:49,600 --> 00:01:53,950
+I added train pass modifier and place it on their feline stroke.
+
+28
+00:01:56,510 --> 00:01:58,250
+I don't feel for now.
+
+29
+00:01:58,290 --> 00:01:59,750
+A stroke is enough.
+
+30
+00:02:02,470 --> 00:02:03,850
+I animate a start.
+
+31
+00:02:03,880 --> 00:02:07,360
+You see, it starts animating from this point.
+
+32
+00:02:08,410 --> 00:02:16,210
+If I want the animation to start in this direction, I should click on this icon and you see its direction
+
+33
+00:02:16,210 --> 00:02:19,150
+changes so it reverses the path.
+
+34
+00:02:20,510 --> 00:02:23,600
+So this option reverses the path direction.
+
+35
+00:02:24,350 --> 00:02:25,590
+I delete this.
+
+36
+00:02:25,610 --> 00:02:27,050
+I enable field.
+
+37
+00:02:30,730 --> 00:02:32,320
+I place it here.
+
+38
+00:02:34,690 --> 00:02:37,330
+I create a rounded rectangle.
+
+39
+00:02:38,370 --> 00:02:39,420
+Open it up.
+
+40
+00:02:39,570 --> 00:02:40,980
+Rectangle path.
+
+41
+00:02:41,010 --> 00:02:45,510
+Rounded rectangle has the same parameters that the rectangle had.
+
+42
+00:02:45,540 --> 00:02:52,410
+The only difference is that the roundness is set on 65 while it was zero for rectangle.
+
+43
+00:02:54,330 --> 00:02:55,650
+I don't this.
+
+44
+00:02:57,840 --> 00:02:59,100
+The next one is El.
+
+45
+00:03:00,810 --> 00:03:03,360
+I create an ellipse and open it.
+
+46
+00:03:03,360 --> 00:03:04,140
+Slager.
+
+47
+00:03:05,070 --> 00:03:05,490
+Here.
+
+48
+00:03:05,490 --> 00:03:07,770
+I just have size and position.
+
+49
+00:03:10,870 --> 00:03:14,470
+The next one is Polygon Open Poly Star Path.
+
+50
+00:03:14,500 --> 00:03:18,790
+As you see here, I have different parameters from type.
+
+51
+00:03:18,790 --> 00:03:21,070
+You can select Polygon or a star.
+
+52
+00:03:22,820 --> 00:03:24,950
+Point defines the size of the shape.
+
+53
+00:03:26,120 --> 00:03:27,950
+We know our position and rotation.
+
+54
+00:03:30,110 --> 00:03:32,480
+Outer radius is for its size.
+
+55
+00:03:33,570 --> 00:03:36,450
+Outer roundness softens the corners.
+
+56
+00:03:38,770 --> 00:03:40,270
+The next one is a star.
+
+57
+00:03:40,720 --> 00:03:42,700
+I don't need to create a star.
+
+58
+00:03:42,730 --> 00:03:46,600
+Just I go to the poly star path and change the type.
+
+59
+00:03:46,870 --> 00:03:53,560
+You see, the parameters changed in a radius, which changes the inner radius of the star.
+
+60
+00:03:57,920 --> 00:04:00,350
+How the radius is four wings length.
+
+61
+00:04:01,940 --> 00:04:02,330
+In there.
+
+62
+00:04:02,330 --> 00:04:06,440
+Roundness is for softness of the inner corners of the star.
+
+63
+00:04:07,370 --> 00:04:14,270
+Outer roundness is for the softness of the outer corners, and I have explained the other parameters
+
+64
+00:04:14,270 --> 00:04:14,990
+before.
+
+65
+00:04:19,770 --> 00:04:24,990
+The important point to say here is that every shape has its own transformed parameter.
+
+66
+00:04:26,460 --> 00:04:30,120
+By which you can apply individual changes to any shape.
+
+67
+00:04:37,570 --> 00:04:43,270
+And in spite of the fact that every shape has its own transformed parameter, every layer has a separate
+
+68
+00:04:43,270 --> 00:04:44,680
+transform parameter.
+
+69
+00:04:45,160 --> 00:04:49,810
+You see, when I change the position, both shapes move together.
+
+70
+00:04:49,810 --> 00:04:53,560
+When I rotate it, both shapes rotate together.
+
+71
+00:04:53,590 --> 00:04:56,770
+This helps you have more control on the shapes.
+
+72
+00:04:58,970 --> 00:05:05,030
+For example, I drag it here, make a keyframe, and at the second one, it comes here.
+
+73
+00:05:08,130 --> 00:05:09,450
+This shape moves.
+
+74
+00:05:09,450 --> 00:05:12,540
+I want to rotate the poly star while moving.
+
+75
+00:05:19,990 --> 00:05:24,160
+They shape, layer moves, and meanwhile the police are rotate.
+
+76
+00:05:24,370 --> 00:05:26,920
+You can do the same thing for this square.
+
+77
+00:05:28,870 --> 00:05:32,320
+I create a keyframe for position of the rectangle in time line.
+
+78
+00:05:35,340 --> 00:05:38,970
+After half of a second, I drag it up.
+
+79
+00:05:42,080 --> 00:05:47,930
+At second one, I paste the first keyframe here to move the rectangle down again.
+
+80
+00:05:48,590 --> 00:05:50,780
+Finally, I got this animation.

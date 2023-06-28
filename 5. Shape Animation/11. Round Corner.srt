@@ -1,0 +1,427 @@
+1
+00:00:00,240 --> 00:00:04,230
+The next modifier we will talk about is round corner.
+
+2
+00:00:04,410 --> 00:00:08,880
+We have a square here and we want to add round corner modifier to it.
+
+3
+00:00:11,420 --> 00:00:16,610
+Immediately after we add the modifier to this shape, its corners become smoother.
+
+4
+00:00:19,550 --> 00:00:22,220
+Inside the modifier we have reduced parameter.
+
+5
+00:00:22,220 --> 00:00:25,550
+By that you can adjust the smoothness of the corners.
+
+6
+00:00:27,030 --> 00:00:32,730
+You may wonder what's the difference between this modifier and the roundness parameter in the shape
+
+7
+00:00:32,730 --> 00:00:33,360
+layer?
+
+8
+00:00:35,040 --> 00:00:35,550
+Now.
+
+9
+00:00:35,550 --> 00:00:37,110
+I will explain it for you.
+
+10
+00:00:37,560 --> 00:00:39,080
+Let me delete this.
+
+11
+00:00:39,090 --> 00:00:39,900
+I sell it.
+
+12
+00:00:39,900 --> 00:00:42,060
+Its roundness to zero.
+
+13
+00:00:43,460 --> 00:00:49,850
+Sometimes after you create a rectangle, you may want to adjust it manually, so you convert it to busier
+
+14
+00:00:49,850 --> 00:00:50,570
+paths.
+
+15
+00:00:52,940 --> 00:00:56,150
+Then you apply some changes to it like this.
+
+16
+00:00:58,270 --> 00:01:01,690
+After that, you may need to make the corners smoother.
+
+17
+00:01:03,650 --> 00:01:07,160
+In this case, you won't have round this parameter in a shape layer.
+
+18
+00:01:07,160 --> 00:01:12,920
+So you need to use round corner modifier to make the corners of the shape smoother.
+
+19
+00:01:19,940 --> 00:01:20,450
+Okay.
+
+20
+00:01:20,480 --> 00:01:22,880
+The first example is a notification.
+
+21
+00:01:24,770 --> 00:01:26,060
+Open contents.
+
+22
+00:01:26,090 --> 00:01:28,640
+This is the rectangle we have created.
+
+23
+00:01:30,050 --> 00:01:32,270
+We want to create this notification.
+
+24
+00:01:34,940 --> 00:01:35,390
+First.
+
+25
+00:01:35,390 --> 00:01:36,800
+Let me let this.
+
+26
+00:01:38,470 --> 00:01:42,540
+I click on the contents, I select rounded Rectangle Tool.
+
+27
+00:01:42,550 --> 00:01:45,160
+Then I create a rectangle here.
+
+28
+00:01:48,470 --> 00:01:50,900
+I move it beneath the shaped layers.
+
+29
+00:01:53,020 --> 00:01:56,650
+I open a rectangle path and increase its roundness.
+
+30
+00:02:05,020 --> 00:02:07,810
+I move it up it to maintain its symmetry.
+
+31
+00:02:10,940 --> 00:02:13,280
+Now we need to add a triangle here.
+
+32
+00:02:15,980 --> 00:02:19,370
+So you have to convert the shape to busier path.
+
+33
+00:02:21,180 --> 00:02:25,200
+Then using pencil, I create a triangle here.
+
+34
+00:02:35,070 --> 00:02:38,010
+Now we need to make these corners smoother.
+
+35
+00:02:38,040 --> 00:02:40,590
+Here we don't have roundness anymore.
+
+36
+00:02:41,340 --> 00:02:45,690
+So we select rectangle and add round corner modifier.
+
+37
+00:02:47,220 --> 00:02:49,770
+Immediately the corners gets rounded.
+
+38
+00:02:52,160 --> 00:02:55,610
+You can also control the roundness of the corners easily.
+
+39
+00:02:56,330 --> 00:03:02,060
+Now we want this corner to get smoother and we don't want these corners to get rounded.
+
+40
+00:03:04,180 --> 00:03:08,080
+So alter and left, click on the point to see the handles.
+
+41
+00:03:09,920 --> 00:03:14,180
+Hold down alt and make these corners sharp using handles.
+
+42
+00:03:14,330 --> 00:03:16,820
+Do the same thing for the other points.
+
+43
+00:03:18,410 --> 00:03:20,120
+Strides in the hand also.
+
+44
+00:03:22,620 --> 00:03:27,420
+Now only the corners we want will become rounded with round corner.
+
+45
+00:03:29,430 --> 00:03:36,870
+So when you reveal a point handles round corner won't affect that points and round corner will only
+
+46
+00:03:36,870 --> 00:03:40,890
+affect the corners that their handles are not revealed.
+
+47
+00:03:45,310 --> 00:03:47,380
+Let's go to the next example.
+
+48
+00:03:47,530 --> 00:03:51,730
+In this example, we want to create such esteem for this shape.
+
+49
+00:03:54,640 --> 00:03:56,560
+We have such an animation.
+
+50
+00:03:57,370 --> 00:04:00,370
+We want to create such a steam using round corner.
+
+51
+00:04:03,590 --> 00:04:05,870
+So I delight this shape player.
+
+52
+00:04:08,200 --> 00:04:09,400
+Let me zoom in.
+
+53
+00:04:12,080 --> 00:04:15,680
+We create a shape close to this part of the coffee cup?
+
+54
+00:04:16,220 --> 00:04:17,150
+Exactly.
+
+55
+00:04:17,150 --> 00:04:20,420
+In the size of the opening door of the coffee cup.
+
+56
+00:04:20,450 --> 00:04:22,130
+Disable its stroke.
+
+57
+00:04:23,490 --> 00:04:27,630
+Change its field color to color of the stroke of the coffee cup.
+
+58
+00:04:27,690 --> 00:04:31,050
+Open rectangle to let this stroke.
+
+59
+00:04:33,000 --> 00:04:35,790
+Increase its size in y axis.
+
+60
+00:04:37,320 --> 00:04:39,000
+Set it to ten.
+
+61
+00:04:44,200 --> 00:04:46,390
+Said this 1 to 30.
+
+62
+00:04:49,240 --> 00:04:51,460
+Now duplicate this rectangle.
+
+63
+00:04:54,410 --> 00:04:59,840
+Open IT settings, move it up a bit and make it tangent of the rectangle.
+
+64
+00:05:02,710 --> 00:05:05,470
+Decrease its size in x axis.
+
+65
+00:05:09,740 --> 00:05:11,900
+Then add a repeater modifier.
+
+66
+00:05:13,640 --> 00:05:17,510
+Set copies to 20 open transform.
+
+67
+00:05:19,460 --> 00:05:26,600
+Said position ex of the repeater to zero and increase y position until the shapes become completely
+
+68
+00:05:26,600 --> 00:05:28,280
+tangent to each other.
+
+69
+00:05:38,510 --> 00:05:39,650
+It's fine.
+
+70
+00:05:44,440 --> 00:05:47,470
+Increase its scale in X direction.
+
+71
+00:05:49,960 --> 00:05:53,020
+Now as it goes up, its scale will increase.
+
+72
+00:05:53,230 --> 00:05:57,580
+We can edit its crookedness by moving the anchor points.
+
+73
+00:06:02,650 --> 00:06:07,840
+We add wiggle transfer modifier to the shape and place it below the repeater.
+
+74
+00:06:09,100 --> 00:06:16,450
+Open transform of the wiggle transfer set position X to 15 to change its shape like this.
+
+75
+00:06:22,050 --> 00:06:24,510
+Now we add merge path modifier.
+
+76
+00:06:25,990 --> 00:06:27,610
+To let its stroke.
+
+77
+00:06:29,120 --> 00:06:33,230
+At path to turn all shapes into a single shape.
+
+78
+00:06:34,130 --> 00:06:41,060
+Finally we add round corner modifier to it to make it seem like a steam or smoke.
+
+79
+00:06:43,860 --> 00:06:44,880
+Let's see.
+
+80
+00:06:45,630 --> 00:06:49,110
+Let me swallow the layer to only see the layer.
+
+81
+00:06:50,250 --> 00:06:51,780
+It's a bit fast.
+
+82
+00:06:52,800 --> 00:06:55,140
+Open wriggle transfer, said Weagle.
+
+83
+00:06:55,140 --> 00:06:57,570
+Second to 0.5.
+
+84
+00:07:02,560 --> 00:07:07,240
+Sometimes this shapes get apart from each other to prevent it.
+
+85
+00:07:07,270 --> 00:07:09,460
+We should decrease x a bit.
+
+86
+00:07:12,000 --> 00:07:13,800
+We set it to ten.
+
+87
+00:07:21,810 --> 00:07:25,230
+It's better to decrease the size of the second rectangle.
+
+88
+00:07:28,110 --> 00:07:34,170
+Then open the repeater and decrease the offset of the shape until where the original shape is.
+
+89
+00:07:40,780 --> 00:07:43,110
+Create a keyframe for its offset.
+
+90
+00:07:43,120 --> 00:07:46,780
+Then at the second six, move the offset to zero.
+
+91
+00:07:48,310 --> 00:07:49,240
+Let's see.
+
+92
+00:07:53,590 --> 00:07:54,790
+It's OC.
+
+93
+00:07:55,390 --> 00:07:58,960
+Exit the solo mode to see the whole animation.
+
+94
+00:07:59,740 --> 00:08:03,420
+Exactly in a frame that the door of the cop stands on the cop.
+
+95
+00:08:03,430 --> 00:08:07,150
+We should set the beginning of the shape layer, move it down a bit.
+
+96
+00:08:07,150 --> 00:08:08,770
+Exactly beneath the cop.
+
+97
+00:08:09,930 --> 00:08:15,780
+Now we should mask the shape in order to see the shape in this area and make it hidden here.
+
+98
+00:08:17,150 --> 00:08:20,480
+So select the layer, select the pen tool.
+
+99
+00:08:21,140 --> 00:08:24,050
+Now enable the tool creates mask.
+
+100
+00:08:28,650 --> 00:08:30,570
+Now start creating mask.
+
+101
+00:08:34,950 --> 00:08:37,140
+Said the father on 50.
+
+102
+00:08:39,990 --> 00:08:40,950
+Let's see.
+
+103
+00:08:43,040 --> 00:08:44,750
+Move the shape a beat up.
+
+104
+00:08:53,620 --> 00:08:55,780
+Now it looks better.
+
+105
+00:09:00,750 --> 00:09:04,560
+We can set the capacity of the layer on Thursday to look better.
+
+106
+00:09:17,180 --> 00:09:20,660
+This was another use of round corner modifier.
+
+107
+00:09:24,240 --> 00:09:25,290
+Good luck.

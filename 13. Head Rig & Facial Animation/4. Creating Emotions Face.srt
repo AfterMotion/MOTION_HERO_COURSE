@@ -1,0 +1,171 @@
+1
+00:00:00,120 --> 00:00:03,570
+Let's go and create different emotions for the face.
+
+2
+00:00:05,080 --> 00:00:11,320
+To do that, I need to make keyframes for the path of the mouth shape as well as the path of the eyes,
+
+3
+00:00:11,320 --> 00:00:13,420
+eyebrows and ears.
+
+4
+00:00:14,230 --> 00:00:18,280
+So I make some key frames for the values I want to change.
+
+5
+00:01:31,480 --> 00:01:34,420
+This would be the first emotion of the phase.
+
+6
+00:01:34,720 --> 00:02:15,250
+In the next frame, I just want to close the eyelids.
+
+7
+00:02:36,550 --> 00:02:39,460
+To make sure the blinking is done correctly.
+
+8
+00:02:39,460 --> 00:02:43,780
+I move the keyframes a little forward for about ten frames.
+
+9
+00:02:45,100 --> 00:02:47,620
+Let's have a look and see how it came out.
+
+10
+00:02:51,220 --> 00:02:52,270
+Looks good.
+
+11
+00:03:05,360 --> 00:03:09,350
+I got frame one and I need to make that I look like this is.
+
+12
+00:03:09,350 --> 00:03:09,830
+Well,
+
+13
+00:03:24,320 --> 00:03:25,370
+looks good.
+
+14
+00:03:31,950 --> 00:03:36,210
+These two islands are a bit different and I need to make them look alike.
+
+15
+00:03:48,180 --> 00:03:54,750
+After creating the blinking, I create some keyframes for the rest of the properties in frame one.
+
+16
+00:03:56,820 --> 00:04:00,780
+I move to the next frame and paste the initial keyframes here.
+
+17
+00:04:05,700 --> 00:04:10,380
+I want to show the character excitement here, so I added the mouth first.
+
+18
+00:04:12,290 --> 00:04:16,400
+And to create different math modes, you can use the references.
+
+19
+00:04:17,560 --> 00:04:19,980
+I have found this reference on the internet.
+
+20
+00:04:19,990 --> 00:04:25,480
+You can very easily find different references for different facial emotions.
+
+21
+00:05:21,580 --> 00:05:23,290
+Let's move to the next frame.
+
+22
+00:05:23,290 --> 00:05:25,540
+And now I want to show the sadness.
+
+23
+00:07:27,610 --> 00:07:31,210
+I move to the next frame and I want to show the angry.
+
+24
+00:10:14,370 --> 00:10:19,470
+I move on to the next frame and we're going to create the imagining mode for the face.
+
+25
+00:11:28,140 --> 00:11:32,100
+Let's move to the next frame and create the fear mode for the face.
+
+26
+00:11:53,100 --> 00:11:59,490
+Since I want the eyes to become a little bigger in this post and the pupils become a bit smaller, I
+
+27
+00:11:59,490 --> 00:12:05,040
+go to the shape layer and create some keyframes for the wide of the eye as well as the shapes related
+
+28
+00:12:05,040 --> 00:12:06,090
+to the pupil.
+
+29
+00:12:07,010 --> 00:12:14,150
+I copy these keyframes and paste them into the previous poses as well, so as not to face any problems.
+
+30
+00:12:14,940 --> 00:12:16,530
+I must do the same for this.
+
+31
+00:12:16,530 --> 00:12:17,250
+I too.
+
+32
+00:14:57,560 --> 00:15:03,500
+After creating the different face and motions, isolating all the keyframes related to the eyes.
+
+33
+00:15:03,500 --> 00:15:08,770
+Because I want to have separate sliders for controlling the different emotes.
+
+34
+00:15:09,380 --> 00:15:16,430
+After selecting the keyframes, I go to the slider section and click on this option to create a slider
+
+35
+00:15:16,430 --> 00:15:18,690
+for the different modes for the eyes.
+
+36
+00:15:18,710 --> 00:15:20,060
+I name it I.
+
+37
+00:15:24,020 --> 00:15:30,800
+After creating the sliders, you'll see that the null object is created here and in the effects control
+
+38
+00:15:30,800 --> 00:15:35,930
+panel of this null, you can control the same modes you've created for the eyes.
+
+39
+00:15:42,010 --> 00:15:43,570
+I added their names.
+
+40
+00:15:52,600 --> 00:15:56,290
+Then isolate the rest of the key frames and enter the joystick.
+
+41
+00:15:57,790 --> 00:15:59,500
+And a slider section.
+
+42
+00:15:59,500 --> 00:16:01,690
+I create other sliders.
+
+43
+00:16:10,110 --> 00:16:13,560
+This null object is related to the face sliders.

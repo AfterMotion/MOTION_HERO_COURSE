@@ -1,0 +1,527 @@
+1
+00:00:00,570 --> 00:00:01,470
+Hello, everyone.
+
+2
+00:00:01,500 --> 00:00:09,000
+In this lesson, I want to create a simple animation so you get familiar with previous content practically.
+
+3
+00:00:09,150 --> 00:00:13,490
+I have opened after Fix and I want to create a new project.
+
+4
+00:00:13,500 --> 00:00:18,720
+So I click on new project after the new project is created.
+
+5
+00:00:18,750 --> 00:00:22,560
+For getting started, I have to create a new composition.
+
+6
+00:00:22,560 --> 00:00:29,250
+I set my composition size at 1920 by 1080 and its frame rate at 25.
+
+7
+00:00:29,730 --> 00:00:37,230
+Let the resolution be on full and I set the duration to 10 seconds and choose gray for the background color.
+
+8
+00:00:39,830 --> 00:00:41,180
+I name it Click.
+
+9
+00:00:42,640 --> 00:00:46,850
+Well, now I want to import the designs into after effects.
+
+10
+00:00:46,870 --> 00:00:52,300
+To do so, I double click on the project panel and import the intended file.
+
+11
+00:00:52,450 --> 00:00:58,120
+After this, as I said before, I want the layers to be imported as a composition.
+
+12
+00:00:58,120 --> 00:01:06,910
+So I choose composition and I set the footage dimensions on layer size so I can easily select the layers in the preview.
+
+13
+00:01:07,060 --> 00:01:14,480
+I open click comp and I want to create a simple clicking animation; for transferring the layers to the
+
+14
+00:01:14,480 --> 00:01:16,270
+comp that I have created.
+
+15
+00:01:16,270 --> 00:01:21,990
+I choose layers and press Ctrl+X and here I press Ctrl+V.
+
+16
+00:01:23,550 --> 00:01:27,450
+Before I start animating, let me delete "Yes" and "No" layers.
+
+17
+00:01:28,110 --> 00:01:31,530
+I don't want this layer, so I put it here for now.
+
+18
+00:01:31,560 --> 00:01:35,130
+I want to create two buttons for Yes and No.
+
+19
+00:01:35,250 --> 00:01:40,710
+For this I use the rounded rectangle tool and here I make a button like this.
+
+20
+00:01:42,100 --> 00:01:46,930
+I enable its fill, change its stroke color same as this text color.
+
+21
+00:01:48,310 --> 00:01:50,770
+And set it's fill on the gradient.
+
+22
+00:01:51,870 --> 00:01:54,630
+And change its color to the same as this one.
+
+23
+00:01:59,870 --> 00:02:02,270
+And set it's handles like this.
+
+24
+00:02:04,100 --> 00:02:07,790
+I increase its size a little bit and bring it here.
+
+25
+00:02:07,970 --> 00:02:12,650
+I set the stroke on 5, so it gets the size as other lines.
+
+26
+00:02:15,750 --> 00:02:18,330
+to center the anchor point of this layer.
+
+27
+00:02:18,330 --> 00:02:19,950
+we just select the layer.
+
+28
+00:02:19,980 --> 00:02:23,720
+Hold down Ctrl and double click on the 'pan behind' tool.
+
+29
+00:02:24,710 --> 00:02:27,890
+To make a duplicate of this layer and put it here.
+
+30
+00:02:27,890 --> 00:02:31,000
+I need to select the layer and press Ctrl+D.
+
+31
+00:02:32,940 --> 00:02:38,850
+I hold down, shift and drag the layer to this side so it only moves on the x axis.
+
+32
+00:02:41,610 --> 00:02:42,990
+I delete this layer.
+
+33
+00:02:43,590 --> 00:02:48,580
+After that, I want to create a Yes text here and a No here.
+
+34
+00:02:48,600 --> 00:02:52,800
+I go for the text tool and write a yes here.
+
+35
+00:02:55,180 --> 00:03:02,830
+I go to the character panel, change its color to this text color, and as the text layer is selected,
+
+36
+00:03:02,830 --> 00:03:10,570
+I go to the paragraph panel and select the center text so that the anchor point transferred to the center of the layer.
+
+37
+00:03:10,900 --> 00:03:15,160
+Again, I go back to the character panel and decrease the size.
+
+38
+00:03:15,190 --> 00:03:22,840
+I put it on 80, i select the layer, press Ctrl+D to make a duplicate of this layer and bring it here
+
+39
+00:03:23,410 --> 00:03:24,700
+and write No.
+
+40
+00:03:25,630 --> 00:03:28,510
+I think it's better to reduce these text mass
+
+41
+00:03:30,340 --> 00:03:32,230
+Let's go for animating.
+
+42
+00:03:32,530 --> 00:03:34,720
+First, i select the pointer.
+
+43
+00:03:34,720 --> 00:03:40,420
+And to put its anchor point here, I use the pan behind tool and bring it here.
+
+44
+00:03:40,720 --> 00:03:43,540
+In the beginning, I put it out of the scene.
+
+45
+00:03:44,540 --> 00:03:49,610
+I select the mouse layer, open its position and create a keyframe for it.
+
+46
+00:03:50,710 --> 00:03:54,030
+I go to second 1; to make the second keyframe
+
+47
+00:03:54,040 --> 00:03:56,290
+I bring the pointer on the Yes button.
+
+48
+00:03:58,360 --> 00:04:02,680
+And to put the pointer on the button, I put it on top of the layers.
+
+49
+00:04:05,770 --> 00:04:09,490
+I want it to stay here for 20 frames 
+
+50
+00:04:09,490 --> 00:04:15,440
+for this I hold down shift and press "page down" twice, so I go 20 frames forward.
+
+51
+00:04:15,460 --> 00:04:18,790
+Then I want to copy and paste this keyframe here.
+
+52
+00:04:18,790 --> 00:04:26,100
+So I select this key frame and press Ctrl+C then Ctrl+V to copy and paste the key frame here.
+
+53
+00:04:26,110 --> 00:04:31,990
+And if you watch the animation, we see the pointer move and stop on the yes button.
+
+54
+00:04:31,990 --> 00:04:36,250
+And in this time span, the pointer doesn't have any movement.
+
+55
+00:04:36,280 --> 00:04:39,700
+I go to second 3 and drag it out of the scene.
+
+56
+00:04:46,990 --> 00:04:51,520
+OK, After the pointer got here, I want it to click on this button.
+
+57
+00:04:53,780 --> 00:04:54,500
+For this.
+
+58
+00:04:54,500 --> 00:05:02,720
+I put the indicator here, select the mouse layer and press Shift+S so the scale property of the mouse appears too.
+
+59
+00:05:04,680 --> 00:05:12,130
+I create a key frame here for scale; 3 frames forward and set the scale on 80.
+
+60
+00:05:13,270 --> 00:05:17,020
+Again, 5 frames forward and set it on 100.
+
+61
+00:05:19,190 --> 00:05:20,900
+Let's see how it looks.
+
+62
+00:05:24,780 --> 00:05:26,540
+Okay, it is good For now.
+
+63
+00:05:26,550 --> 00:05:34,590
+Let's animate the yes button, i select the yes button, open its scale and create a keyframe for it.
+
+64
+00:05:36,050 --> 00:05:40,870
+Then I go to the frame where my printer shrinks and reduce button size too.
+
+65
+00:05:40,880 --> 00:05:42,470
+I put it on 90.
+
+66
+00:05:43,230 --> 00:05:45,510
+And again here on 100.
+
+67
+00:05:46,860 --> 00:05:53,310
+I just bring this keyframe 2 frames forward so it gets a different animation than the pointer animation.
+
+68
+00:05:54,620 --> 00:05:56,120
+Let's see how it is.
+
+69
+00:05:59,760 --> 00:06:01,110
+It's good for now.
+
+70
+00:06:01,140 --> 00:06:05,610
+Well, let's move on to shrinking the Yes layer
+
+71
+00:06:05,610 --> 00:06:06,610
+to minify the Yes layer.
+
+72
+00:06:06,630 --> 00:06:11,020
+I don't need to create keyframes for this scale of this layer.
+
+73
+00:06:11,040 --> 00:06:21,650
+I just have to parent the layer with the pick whip tool to the button layer so that the yes layer obeys the button layer in all transform properties.
+
+74
+00:06:22,080 --> 00:06:24,720
+Let's have a look and see how it is now.
+
+75
+00:06:24,750 --> 00:06:28,080
+As you see, the Yes layer is also magnifying.
+
+76
+00:06:29,330 --> 00:06:37,550
+I select the bottom layer; press U key so only keyframes are visible and values without keyframes get hidden.
+
+77
+00:06:37,580 --> 00:06:40,910
+After that, I have to adjust the speed of the animation.
+
+78
+00:06:42,680 --> 00:06:48,680
+I want the pointer to have a high speed at the beginning and slow down as it approaches the Yes button.
+
+79
+00:06:48,860 --> 00:06:52,820
+For this, i select this key frame and make it easy ease.
+
+80
+00:06:53,810 --> 00:06:57,810
+I go to the graph editor to slow it down even more.
+
+81
+00:06:57,870 --> 00:07:03,590
+I drag this handle and reduce its speed when it approaches the Yes button.
+
+82
+00:07:03,680 --> 00:07:04,670
+Let's see.
+
+83
+00:07:12,640 --> 00:07:14,860
+And I do the opposite here.
+
+84
+00:07:16,150 --> 00:07:20,980
+I want it to be slow at the beginning and at the end have a higher speed.
+
+85
+00:07:22,330 --> 00:07:25,480
+So i select this key frame and make it easy.
+
+86
+00:07:25,930 --> 00:07:30,220
+I go to the graph editor and decrease its speed here.
+
+87
+00:07:30,250 --> 00:07:31,810
+Let's see how it is.
+
+88
+00:07:36,760 --> 00:07:40,730
+It's good; also to improve the scale keyframes.
+
+89
+00:07:40,750 --> 00:07:42,950
+I select them and make them easy.
+
+90
+00:07:45,190 --> 00:07:48,070
+Let's have another look and see how it is.
+
+91
+00:07:51,900 --> 00:07:55,010
+The speed of the pointer exiting is low a bit.
+
+92
+00:07:55,020 --> 00:07:59,280
+That's why I bring this keyframe here so it goes faster.
+
+93
+00:08:00,780 --> 00:08:01,170
+Again.
+
+94
+00:08:01,170 --> 00:08:02,820
+Let's see how it looks.
+
+95
+00:08:04,880 --> 00:08:05,870
+Much better.
+
+96
+00:08:05,900 --> 00:08:13,370
+The animation is good, but this linear movement doesn't look that interesting; to improve this linear movement.
+
+97
+00:08:13,400 --> 00:08:16,280
+All I need to do is select the mouse layer.
+
+98
+00:08:16,550 --> 00:08:18,080
+Select the pen tool.
+
+99
+00:08:18,110 --> 00:08:20,570
+Then click and drag from this point.
+
+100
+00:08:20,690 --> 00:08:27,920
+As I do this, a handle is created here and by that you can control the path of the pointer movement.
+
+101
+00:08:28,040 --> 00:08:29,510
+I set it like this.
+
+102
+00:08:29,810 --> 00:08:31,730
+And at the end Like this.
+
+103
+00:08:33,530 --> 00:08:39,710
+As you see now, the path of the pointer has a curve and lost its linear bad movement.
+
+104
+00:08:42,560 --> 00:08:48,980
+The next thing to do is to change the color of the yes and no buttons when the pointer goes over them.
+
+105
+00:08:49,700 --> 00:08:55,820
+To do that, I go to the frame where the mouse has not yet been placed on the button, which is this frame.
+
+106
+00:08:56,150 --> 00:08:59,510
+I select the No button and go to the effects Control
+
+107
+00:08:59,510 --> 00:09:02,840
+from the Effects and Presets panel.
+
+108
+00:09:02,870 --> 00:09:05,030
+I add the Tint effect to it.
+
+109
+00:09:07,010 --> 00:09:09,500
+And said its amount to 50.
+
+110
+00:09:10,160 --> 00:09:17,390
+I create a keyframe for amount, select layer 2 and press U so the keyframe can be visible in the timeline
+
+111
+00:09:17,480 --> 00:09:20,810
+in the next frame that the pointer goes on the No button.
+
+112
+00:09:20,810 --> 00:09:25,100
+I set this on zero so that the Tint effect gets ineffective.
+
+113
+00:09:25,280 --> 00:09:30,070
+I go forward, here that the pointer exits the no button area.
+
+114
+00:09:30,080 --> 00:09:33,950
+Again, the No button must return to the previous state.
+
+115
+00:09:33,950 --> 00:09:36,590
+So I go back to the previous frame.
+
+116
+00:09:36,590 --> 00:09:38,240
+Copy this keyframe.
+
+117
+00:09:38,240 --> 00:09:44,930
+Then in the next frame I copy the initial Tint keyframe here; so that it goes back to this state.
+
+118
+00:09:49,570 --> 00:09:51,790
+I must do the same for the Yes button.
+
+119
+00:09:52,180 --> 00:09:56,230
+To do this easier, I just need to copy these keyframes.
+
+120
+00:09:56,410 --> 00:10:00,970
+And in the frame where the pointer has not yet gotten to the yes area.
+
+121
+00:10:01,000 --> 00:10:02,230
+Meaning, Exactly here
+
+122
+00:10:02,230 --> 00:10:04,930
+i select the layer and press Ctrl+V
+
+123
+00:10:07,210 --> 00:10:09,760
+As you see, the keyframes are placed here.
+
+124
+00:10:09,760 --> 00:10:12,400
+I press U key to see the keyframes.
+
+125
+00:10:15,880 --> 00:10:20,680
+To prevent the Yes button color change early to its original color.
+
+126
+00:10:20,680 --> 00:10:23,950
+I select these key frames and take them far away.
+
+127
+00:10:25,440 --> 00:10:28,490
+After the pointer clicks and leaves the bottom area.
+
+128
+00:10:28,500 --> 00:10:30,450
+I put the keyframes here.
+
+129
+00:10:32,240 --> 00:10:35,330
+Let's have a look at the animation and see how it is.
+
+130
+00:10:38,380 --> 00:10:45,620
+As you can see, when the pointer goes on the buttons, it changes color and clicks and it goes out of the scene.
+
+131
+00:10:46,490 --> 00:10:47,870
+Well, it's good.
+
+132
+00:10:47,900 --> 00:10:48,920
+Good luck.

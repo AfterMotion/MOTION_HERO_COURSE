@@ -1,0 +1,167 @@
+1
+00:00:00,210 --> 00:00:03,570
+The next modifier we will talk about is taste.
+
+2
+00:00:04,560 --> 00:00:08,340
+I have created a line here and I will apply to it straight.
+
+3
+00:00:10,420 --> 00:00:15,040
+As I add the modifier, as you see, the line starts twisting.
+
+4
+00:00:16,830 --> 00:00:21,480
+This modifier is used to twist a shapes open the modifier.
+
+5
+00:00:21,510 --> 00:00:26,010
+The first parameter is angle by which it can define the amount of this twist.
+
+6
+00:00:30,280 --> 00:00:34,510
+The next parameter is center that determines the axis of twisting.
+
+7
+00:00:35,080 --> 00:00:38,560
+I change its exposition and place it here.
+
+8
+00:00:40,630 --> 00:00:46,780
+So I increase its value in x axis until here and decrease its angle.
+
+9
+00:00:46,810 --> 00:00:51,580
+Now, if I scale down the shape and place its anchor point here.
+
+10
+00:00:54,270 --> 00:00:56,220
+You can create this shape.
+
+11
+00:00:56,580 --> 00:00:58,560
+Let's go to the examples.
+
+12
+00:00:59,220 --> 00:01:02,880
+We can create such a shapes using this modifier.
+
+13
+00:01:03,450 --> 00:01:05,220
+I start with this one.
+
+14
+00:01:06,230 --> 00:01:07,970
+Open the candy group.
+
+15
+00:01:10,220 --> 00:01:12,170
+And open the twist group.
+
+16
+00:01:14,330 --> 00:01:16,670
+I have created this using twist.
+
+17
+00:01:16,670 --> 00:01:17,750
+I delighted.
+
+18
+00:01:18,980 --> 00:01:21,170
+I have created this stroke here.
+
+19
+00:01:22,980 --> 00:01:24,120
+At the Tour street.
+
+20
+00:01:26,970 --> 00:01:32,730
+If I increase the angle a bit, this spiral will happen in the center of this shape.
+
+21
+00:01:33,060 --> 00:01:34,650
+But we don't want this.
+
+22
+00:01:34,980 --> 00:01:38,010
+We want the center of this spiral to be here.
+
+23
+00:01:39,880 --> 00:01:47,410
+So I increase the y axis of the terrorist until it's n placed exactly here I increased the amount of
+
+24
+00:01:47,410 --> 00:01:48,400
+the terrorist.
+
+25
+00:01:50,130 --> 00:01:51,600
+Move with a bit upper.
+
+26
+00:01:56,210 --> 00:01:59,630
+As you see, we can create shapes like this so easily.
+
+27
+00:02:00,470 --> 00:02:04,520
+The next example we created with Twist is this one.
+
+28
+00:02:05,820 --> 00:02:07,260
+Open the share player.
+
+29
+00:02:09,920 --> 00:02:11,000
+Contents.
+
+30
+00:02:11,660 --> 00:02:14,300
+Open the candy group and then peace.
+
+31
+00:02:16,030 --> 00:02:21,280
+Here we have created this using two modifiers to east and repeater.
+
+32
+00:02:21,400 --> 00:02:27,550
+Repeater is used to repeat these and twist is for twisting this shape to remake it.
+
+33
+00:02:27,550 --> 00:02:29,560
+Ideally, twist and repeater.
+
+34
+00:02:29,950 --> 00:02:35,140
+I have created a circle in the beginning and I have cropped this shape from it.
+
+35
+00:02:36,800 --> 00:02:39,710
+Then I have added this modifier to it.
+
+36
+00:02:41,390 --> 00:02:47,030
+After I add to its modifier, I select a piece group and add repeater modifiers to it.
+
+37
+00:02:49,540 --> 00:02:52,780
+Often repeat their change its value to four.
+
+38
+00:02:53,680 --> 00:02:56,170
+Change its exposition to zero.
+
+39
+00:02:58,280 --> 00:03:04,190
+Then set the rotation parameter to 90 to have the same distance from each other.
+
+40
+00:03:09,390 --> 00:03:14,640
+Then open to us and adjust its center to turn into the shape that we want.
+
+41
+00:03:23,760 --> 00:03:24,930
+Seems good.
+
+42
+00:03:28,230 --> 00:03:33,720
+OC As you see, we created such a shape using two and repeater modifiers.

@@ -1,0 +1,483 @@
+1
+00:00:08,220 --> 00:00:09,280
+Hello, everyone.
+
+2
+00:00:09,300 --> 00:00:16,110
+In this video, I want to talk about the three main and important principles of creating cycle animation
+
+3
+00:00:16,110 --> 00:00:21,310
+that usually are inside of the bubble so that you won't be needing to use them, for instance, while
+
+4
+00:00:21,360 --> 00:00:23,790
+creating such animations all the time.
+
+5
+00:00:24,120 --> 00:00:28,090
+Firstly, you have to animate the body and move it up and down.
+
+6
+00:00:28,110 --> 00:00:32,910
+If I want to show you more precisely, it has such a movement path.
+
+7
+00:00:33,570 --> 00:00:37,980
+Secondly, the movement path of the foot controller should be like this.
+
+8
+00:00:38,370 --> 00:00:45,450
+And finally, to have a real and overlapping movement for the hands, you have to use f k instead of
+
+9
+00:00:45,690 --> 00:00:46,020
+k.
+
+10
+00:00:46,320 --> 00:00:49,290
+So let's see how to do this practically.
+
+11
+00:00:50,160 --> 00:00:55,620
+The first thing you should know is that they've already reached the character using the expression two.
+
+12
+00:00:55,830 --> 00:01:02,700
+It's also good to mention that I've set the frame rate of the count to 24 frames so that the whole lifecycle
+
+13
+00:01:02,700 --> 00:01:07,170
+animation will happen within 24 frames or just one second.
+
+14
+00:01:07,500 --> 00:01:12,080
+As you can see, I've specified the work cycle process by markers.
+
+15
+00:01:12,090 --> 00:01:15,810
+Every pose is three frames apart from the next pulse.
+
+16
+00:01:16,140 --> 00:01:22,770
+The first principle about work cycle animation that you need to know is the body of the character has
+
+17
+00:01:22,770 --> 00:01:24,460
+an up and down movement.
+
+18
+00:01:24,480 --> 00:01:29,940
+So for creating such movement, I hide the controllers that I don't need.
+
+19
+00:01:30,390 --> 00:01:35,580
+Then I open the position of the body and then I separate it in the pose.
+
+20
+00:01:35,580 --> 00:01:37,650
+I move the body up a little.
+
+21
+00:01:38,460 --> 00:01:42,150
+Then I create a keyframe for the y position of the body.
+
+22
+00:01:42,660 --> 00:01:43,830
+In the down pose.
+
+23
+00:01:43,830 --> 00:01:45,210
+I lower it down.
+
+24
+00:01:46,830 --> 00:01:54,420
+I make these key frames eases and for the next down and opposes, I duplicate these key frames.
+
+25
+00:01:54,420 --> 00:02:01,380
+And in order to create keyframes for the contact poses, I go to the second content and create a keyframe
+
+26
+00:02:01,380 --> 00:02:06,150
+for the oil position and put it for the first and last contact poses.
+
+27
+00:02:06,780 --> 00:02:12,690
+And I make them linear so there wouldn't be any pause for the beginning and end of the animation.
+
+28
+00:02:13,680 --> 00:02:15,510
+The body should be like this.
+
+29
+00:02:16,840 --> 00:02:19,150
+Let me hide the arms and like layers.
+
+30
+00:02:25,530 --> 00:02:28,530
+As you can see, the body should move like this.
+
+31
+00:02:31,400 --> 00:02:37,340
+The next thing that you need to pay attention to is that when the body is in the contact pose, it would
+
+32
+00:02:37,430 --> 00:02:43,310
+slightly move forward in the past, impose it back to its initial position.
+
+33
+00:02:43,790 --> 00:02:48,860
+And I duplicate these two key frames for the next passing and contact poses.
+
+34
+00:02:51,600 --> 00:02:53,010
+Then I made them easy.
+
+35
+00:02:53,010 --> 00:02:53,580
+Ease.
+
+36
+00:02:59,800 --> 00:03:02,710
+The movement path of the body should be like this.
+
+37
+00:03:03,920 --> 00:03:06,680
+Now let's move on to body rotation.
+
+38
+00:03:09,090 --> 00:03:12,860
+The body rotates forward when it reaches the contact post.
+
+39
+00:03:12,870 --> 00:03:16,350
+So I set it to two and create a keyframe for it.
+
+40
+00:03:17,160 --> 00:03:18,420
+In the passing post.
+
+41
+00:03:18,420 --> 00:03:19,620
+It should be zero.
+
+42
+00:03:25,390 --> 00:03:27,360
+Then I make the keyframes easy.
+
+43
+00:03:27,370 --> 00:03:27,910
+Ease.
+
+44
+00:03:32,540 --> 00:03:38,300
+And in order to create an overlap in action, I moved the rotation key frames backward.
+
+45
+00:03:40,900 --> 00:03:41,740
+Then I look at.
+
+46
+00:03:52,470 --> 00:03:54,480
+I looked at other ones as well.
+
+47
+00:03:56,590 --> 00:04:02,560
+After animating the body, it's time for the second principle or making the movement path of the legs.
+
+48
+00:04:02,800 --> 00:04:06,730
+For doing so, I unhide the right leg of the character.
+
+49
+00:04:06,760 --> 00:04:11,410
+As you can see, the movement path of the leg controllers should be like this.
+
+50
+00:04:11,530 --> 00:04:15,430
+For doing so, I open the position of this controller.
+
+51
+00:04:16,370 --> 00:04:19,670
+And the first contact post should look like this.
+
+52
+00:04:21,140 --> 00:04:24,830
+In the second contact pause, the leg moves backward.
+
+53
+00:04:26,660 --> 00:04:31,550
+And in the last contact post, I duplicate the first key frames here.
+
+54
+00:04:34,270 --> 00:04:37,120
+In this second passing post, the leg moves up.
+
+55
+00:04:39,330 --> 00:04:46,020
+Basically, I just made a triangular path like this for the controller of the leg, and I made the path
+
+56
+00:04:46,020 --> 00:04:46,740
+curved.
+
+57
+00:04:50,180 --> 00:04:51,170
+In the downpours.
+
+58
+00:04:51,170 --> 00:04:53,540
+The rotation of the lake should be zero.
+
+59
+00:04:58,930 --> 00:05:00,670
+It should be like this here.
+
+60
+00:05:10,950 --> 00:05:15,210
+After that, I made the keyframes of the contact process eases.
+
+61
+00:05:20,020 --> 00:05:25,930
+I copy these keyframes and paste them for the position and rotation of the left leg controller.
+
+62
+00:05:38,460 --> 00:05:40,470
+Then I move the keyframes back.
+
+63
+00:05:40,470 --> 00:05:44,280
+So the last keyframes would be for the second contact post.
+
+64
+00:05:52,760 --> 00:05:53,780
+In the outpost.
+
+65
+00:05:53,780 --> 00:05:56,600
+The body is slightly upward than it should be.
+
+66
+00:05:56,600 --> 00:06:01,610
+So I just select the outpost keyframes and move the body down a little bit.
+
+67
+00:06:05,220 --> 00:06:05,580
+Okay.
+
+68
+00:06:05,640 --> 00:06:12,630
+After animating the legs, it's time for the third principle, or using f k for animating the arms,
+
+69
+00:06:12,630 --> 00:06:15,120
+not k for doing so.
+
+70
+00:06:15,120 --> 00:06:22,830
+Isolate the controller of the right arm and disable the IP option so now I can animate it using f k
+
+71
+00:06:22,950 --> 00:06:24,390
+in the f k section.
+
+72
+00:06:24,390 --> 00:06:25,980
+Individual control.
+
+73
+00:06:26,010 --> 00:06:33,900
+I create keyframes for the upper lower and go in the first contact where the right leg is a hit.
+
+74
+00:06:33,930 --> 00:06:41,910
+The right arm should place behind and in the next contact where the right leg is behind the right arm
+
+75
+00:06:41,910 --> 00:06:42,920
+should be forward.
+
+76
+00:06:50,960 --> 00:06:52,840
+I make the keyframes easy.
+
+77
+00:06:52,850 --> 00:06:53,450
+Ease.
+
+78
+00:06:55,580 --> 00:06:56,720
+Then I looked them.
+
+79
+00:06:58,230 --> 00:07:05,010
+And in order to create an overlap in action, I move them like this and place the last contact keyframes
+
+80
+00:07:05,010 --> 00:07:06,300
+for the first one.
+
+81
+00:07:12,120 --> 00:07:17,190
+I copy these same keyframes and paste them for the right hand as well.
+
+82
+00:07:24,420 --> 00:07:25,830
+They should be like this.
+
+83
+00:07:25,950 --> 00:07:29,220
+This should be exactly the opposite of the right hand.
+
+84
+00:07:33,330 --> 00:07:33,640
+Okay.
+
+85
+00:07:33,660 --> 00:07:36,000
+After that, we can also animate the head.
+
+86
+00:07:38,360 --> 00:07:45,260
+For doing so in the contact poses where the character lands on his front leg, the head rotates a little
+
+87
+00:07:45,260 --> 00:07:46,070
+bit down.
+
+88
+00:07:46,190 --> 00:07:50,600
+I set it to five and in the passing post it should be zero.
+
+89
+00:07:55,370 --> 00:08:02,630
+Then I make the keyframes eases, and for overlapping action, I move them back and loop them all.
+
+90
+00:08:09,450 --> 00:08:14,670
+Now that I'm finished animating the character, it's time for animating the background.
+
+91
+00:08:21,900 --> 00:08:22,320
+To do.
+
+92
+00:08:22,320 --> 00:08:25,740
+So I create keyframes for the position of this shape.
+
+93
+00:08:27,170 --> 00:08:29,990
+It should be here at the beginning of the timeline.
+
+94
+00:08:30,710 --> 00:08:34,250
+And after a couple of frames, I wanted to be here.
+
+95
+00:08:37,510 --> 00:08:39,340
+I animate this line to.
+
+96
+00:08:46,830 --> 00:08:51,390
+I make this line look like this so it would look like it's in perspective.
+
+97
+00:08:57,580 --> 00:08:59,350
+Let's see how it turned out.
+
+98
+00:09:01,920 --> 00:09:03,240
+In the 6 seconds.
+
+99
+00:09:03,240 --> 00:09:08,960
+I moved the last keyframes right here to increase the number of fences.
+
+100
+00:09:08,970 --> 00:09:10,740
+I use the effects.
+
+101
+00:09:28,690 --> 00:09:30,370
+Let's see how it looks.
+
+102
+00:09:41,710 --> 00:09:48,250
+I move the second keyframes at the beginning of the timeline, and in the second six I increase the
+
+103
+00:09:48,430 --> 00:09:49,180
+number.
+
+104
+00:09:58,630 --> 00:10:01,930
+After that, let's work on animating the three.
+
+105
+00:10:01,960 --> 00:10:07,920
+First, I create a keyframe for its position since the tree is located in the back.
+
+106
+00:10:08,040 --> 00:10:10,690
+Speed should be relatively slower.
+
+107
+00:10:10,720 --> 00:10:12,660
+I go to the second eight.
+
+108
+00:10:12,670 --> 00:10:14,500
+I create a keyframe for it.
+
+109
+00:10:14,500 --> 00:10:16,280
+For the first keyframe.
+
+110
+00:10:16,300 --> 00:10:21,910
+I move the tree out of the scene and for the second keyframe, I move it right here.
+
+111
+00:10:21,940 --> 00:10:23,800
+Let's see how it looks.
+
+112
+00:10:26,030 --> 00:10:29,300
+In the second six, I duplicated the three layer.
+
+113
+00:10:31,970 --> 00:10:33,290
+I put the ruler here.
+
+114
+00:10:33,290 --> 00:10:37,250
+So the location of the tree is obvious at the end of the animation.
+
+115
+00:10:37,580 --> 00:10:44,450
+I go to the beginning of the timeline and move the second tree right here so the loop would work correctly.
+
+116
+00:10:44,780 --> 00:10:48,800
+And once this tree goes out of the scene, I trim the layer.
+
+117
+00:10:56,200 --> 00:10:58,120
+Now let's animate this song.
+
+118
+00:11:55,780 --> 00:11:57,550
+Let's see how it turned out.
+
+119
+00:12:00,870 --> 00:12:03,720
+Let me make a shadow for the character as well.
+
+120
+00:12:57,350 --> 00:13:02,150
+As you can see, the lob works perfectly and there is no problem while repeating.
+
+121
+00:13:03,170 --> 00:13:03,860
+Good luck.

@@ -1,0 +1,383 @@
+1
+00:00:00,210 --> 00:00:01,380
+Hello, everyone.
+
+2
+00:00:01,410 --> 00:00:06,090
+As you know, this course topic is about the shape tool in motion graphics.
+
+3
+00:00:06,330 --> 00:00:12,390
+You may be wondering why shape when we can do all the designs in Illustrator or Photoshop.
+
+4
+00:00:12,390 --> 00:00:15,510
+Why do it in after effect using the shape tool?
+
+5
+00:00:16,410 --> 00:00:22,800
+You should know that after effects shape tool in addition to the capabilities and features that the
+
+6
+00:00:22,800 --> 00:00:30,150
+Shape tool has in Illustrator and Photoshop has many other features that you can only find in after
+
+7
+00:00:30,150 --> 00:00:37,230
+Effects, which can help you in both designing and creating beautiful animations and motion graphics.
+
+8
+00:00:37,560 --> 00:00:43,740
+Let's see some examples of the power of this tool in After Effects to fully understand why we need to
+
+9
+00:00:43,740 --> 00:00:46,710
+do the motion graphic designs in after Effects.
+
+10
+00:00:48,000 --> 00:00:50,430
+Suppose we want to make such a shape.
+
+11
+00:00:51,660 --> 00:00:58,620
+If we make it manually after the shape is made to be able to sharpen these rounded corners, we must
+
+12
+00:00:58,620 --> 00:01:00,990
+fix all of them one by one.
+
+13
+00:01:01,230 --> 00:01:09,690
+But when we use the round corner modifier to round this corners, we just need to go to the shape and
+
+14
+00:01:09,690 --> 00:01:11,850
+set the round corner to zero.
+
+15
+00:01:11,880 --> 00:01:16,900
+You can see how easily we were able to sharpen the corners of the gear.
+
+16
+00:01:16,920 --> 00:01:19,790
+Or for example, we don't want such a state.
+
+17
+00:01:19,800 --> 00:01:22,920
+We want the gear to change to this state.
+
+18
+00:01:23,200 --> 00:01:28,560
+See, as soon as I change it, the shape automatically changes completely.
+
+19
+00:01:31,870 --> 00:01:38,470
+Or, for example, if you want to increase or decrease in number of these gear teeth, you'll just need
+
+20
+00:01:38,470 --> 00:01:40,990
+to use the repeater modifier.
+
+21
+00:01:42,840 --> 00:01:50,010
+You can see how easily we are able to increase or decrease number of the gear, teeth or do anything
+
+22
+00:01:50,010 --> 00:01:51,060
+else we want.
+
+23
+00:01:53,850 --> 00:01:59,670
+And we won't need to make changes to each one of these gear teeth separately.
+
+24
+00:02:01,640 --> 00:02:09,770
+Another feature the shape provides us is that we can create such strokes around the shapes in perfectly
+
+25
+00:02:09,770 --> 00:02:13,920
+symmetrical shapes such as circles or squares.
+
+26
+00:02:13,940 --> 00:02:15,920
+It won't be that difficult.
+
+27
+00:02:15,920 --> 00:02:23,420
+We can also create it manually, but in such shapes which are not fully symmetrical, you can hardly
+
+28
+00:02:23,420 --> 00:02:24,050
+do it.
+
+29
+00:02:24,230 --> 00:02:25,400
+I'll show you.
+
+30
+00:02:28,150 --> 00:02:29,890
+Let me disable this truck.
+
+31
+00:02:30,040 --> 00:02:36,910
+First, we need to make a duplicate of this truck, selects its path, and then resize it.
+
+32
+00:02:37,760 --> 00:02:39,260
+When I changed the scale.
+
+33
+00:02:39,260 --> 00:02:46,160
+Even though these parts are correct, this part are not very accurate, and you must spend hours to
+
+34
+00:02:46,160 --> 00:02:49,460
+be able to manually create this trick I showed you.
+
+35
+00:02:52,390 --> 00:02:58,750
+Therefore, we can easily use the offset path modifier and create such a stroke very simply.
+
+36
+00:03:00,720 --> 00:03:04,770
+You can also adjust the distance between this truck and your shape.
+
+37
+00:03:06,600 --> 00:03:13,410
+Another good feature and ability of the shape tool is that you can easily create such backgrounds very
+
+38
+00:03:13,410 --> 00:03:14,880
+simply and easily.
+
+39
+00:03:18,300 --> 00:03:19,260
+I'll show you.
+
+40
+00:03:19,260 --> 00:03:22,470
+As you see, this is the background I have created.
+
+41
+00:03:22,590 --> 00:03:29,190
+For example, this is the monitor layer, which I have repeated it using the repeater and as well as
+
+42
+00:03:29,190 --> 00:03:32,550
+the flower pots and the drovers layer.
+
+43
+00:03:32,880 --> 00:03:37,230
+As you can see, I have created three brewers using the repeater.
+
+44
+00:03:37,350 --> 00:03:42,990
+And as for this Drew, where itself, I had only created the upper part of it.
+
+45
+00:03:43,870 --> 00:03:46,600
+I created such a rumor and then repeated it.
+
+46
+00:03:48,630 --> 00:03:54,900
+Now, if you want to make changes to these files, you just need to go to this shape that you primarily
+
+47
+00:03:54,900 --> 00:03:56,880
+made and easily change.
+
+48
+00:03:56,880 --> 00:04:01,590
+The color and the color of all the other parts will change.
+
+49
+00:04:01,590 --> 00:04:07,080
+So you won't need to select these drawers one by one and change their color.
+
+50
+00:04:07,890 --> 00:04:14,220
+You can also change the form of your shape and apply it completely onto other drivers as well.
+
+51
+00:04:15,590 --> 00:04:17,930
+And finally creates such a scene.
+
+52
+00:04:23,560 --> 00:04:30,310
+Another good feature is that we can combine several modifiers and create such beautiful shapes.
+
+53
+00:04:34,250 --> 00:04:36,740
+For example, to create this shape.
+
+54
+00:04:36,740 --> 00:04:44,840
+I have used the repeater modifier, wiggle, transform, merge path and round corner, which by disabling
+
+55
+00:04:44,840 --> 00:04:52,040
+them you can see what effect did each one of these modifiers have on this shapes and you will learn
+
+56
+00:04:52,040 --> 00:04:55,940
+in detail how to create them during the course.
+
+57
+00:05:01,050 --> 00:05:04,260
+Another ability is to create such animations.
+
+58
+00:05:05,870 --> 00:05:10,860
+As you can see, I have animated the lines using the Treme path modifier.
+
+59
+00:05:10,880 --> 00:05:16,580
+You can do such a thing only by the Treme path modifier and after effects.
+
+60
+00:05:17,030 --> 00:05:23,420
+Or for example, you can create such a mood for grouping plans using this modifier in your work.
+
+61
+00:05:26,910 --> 00:05:27,960
+In this example.
+
+62
+00:05:27,960 --> 00:05:31,740
+As you can see, we have created two lollipops.
+
+63
+00:05:32,040 --> 00:05:37,800
+I have made this a spiral shape inside the lollipops using the twist modifier.
+
+64
+00:05:38,800 --> 00:05:43,060
+It was just a straight line and I did the work using the twist.
+
+65
+00:05:44,470 --> 00:05:51,340
+If you want to do such a thing manually, it takes a long time to create such a shape with the pen tool,
+
+66
+00:05:51,340 --> 00:05:55,840
+which in the end it may not be as accurate and beautiful.
+
+67
+00:05:56,970 --> 00:06:02,460
+As well as this lollipops, which has been created by twist and repeater.
+
+68
+00:06:04,560 --> 00:06:11,940
+First I created this piece and then repeated it using the repeater and twisted it using the twist.
+
+69
+00:06:15,330 --> 00:06:22,020
+The next feature that ships gives us is that you can create visual animation for all the elements inside
+
+70
+00:06:22,020 --> 00:06:23,250
+your shape layer.
+
+71
+00:06:24,720 --> 00:06:30,840
+While, if you want to create such animation manually, you must write the visual expression for each
+
+72
+00:06:30,840 --> 00:06:35,250
+one of these shapes separately and set each one of them separately.
+
+73
+00:06:35,700 --> 00:06:43,050
+But through the wiggle transferring modifier and using a controller, you can easily control the wiggle
+
+74
+00:06:43,050 --> 00:06:49,200
+of these elements and you won't need to create the wiggle animation for each of the elements.
+
+75
+00:06:51,990 --> 00:06:58,980
+As you see, the wiggle transfer modifier has greatly simplified the work in this plan and has saved
+
+76
+00:06:58,980 --> 00:07:00,300
+a lot of the time.
+
+77
+00:07:01,590 --> 00:07:02,520
+The next feature.
+
+78
+00:07:02,520 --> 00:07:09,750
+The shapes in after effects give us is to be able to create such a vibrational state for the shapes.
+
+79
+00:07:11,470 --> 00:07:18,100
+As you see, we have made such animations using the visual path without needing to create these vibrational
+
+80
+00:07:18,100 --> 00:07:19,600
+shapes one by one.
+
+81
+00:07:23,220 --> 00:07:30,900
+In this example, we have created such a repo using the zig zag modifier that making it manually not
+
+82
+00:07:30,900 --> 00:07:36,300
+only takes a long time, but also takes a lot of energy from us.
+
+83
+00:07:36,900 --> 00:07:43,500
+I think so far it is quite clear to you why we have to use the shape tool in After Effects to design
+
+84
+00:07:43,500 --> 00:07:44,820
+the motion graphics.
+
+85
+00:07:45,270 --> 00:07:53,160
+It is true that Illustrator and Photoshop are for design and are great for single frame design, but
+
+86
+00:07:53,160 --> 00:08:00,120
+you should know that After Effects is also for designing motion graphics and it has its own tools for
+
+87
+00:08:00,120 --> 00:08:03,000
+designing and creating motion graphics clips.
+
+88
+00:08:04,160 --> 00:08:06,550
+As we saw after effects shape too.
+
+89
+00:08:06,600 --> 00:08:14,480
+Apart from being a very powerful tool, it has many capabilities and features that cannot find in other
+
+90
+00:08:14,480 --> 00:08:15,410
+software.
+
+91
+00:08:15,590 --> 00:08:22,430
+Specifically, when you want to produce motion graphics that can simple your job a lot and take away
+
+92
+00:08:22,430 --> 00:08:23,810
+less time from you.
+
+93
+00:08:23,990 --> 00:08:31,610
+Another thing I have to say is that this course is suitable for people who have a brief acquaintance
+
+94
+00:08:31,610 --> 00:08:39,110
+with after effects to better be able to follow the course exercises and create motion graphic scenes.
+
+95
+00:08:39,140 --> 00:08:45,530
+Also, in order not to face any problems in creating keyframes and animations, I suggest you to watch
+
+96
+00:08:45,530 --> 00:08:50,510
+the course of creating animations and working with keyframes in after effects.

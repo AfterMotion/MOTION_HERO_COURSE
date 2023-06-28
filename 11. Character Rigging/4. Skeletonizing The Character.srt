@@ -1,0 +1,143 @@
+1
+00:00:00,360 --> 00:00:01,410
+Hello, everyone.
+
+2
+00:00:01,440 --> 00:00:07,590
+You might think that reading and animating a character is very difficult, but in this video I will
+
+3
+00:00:07,590 --> 00:00:13,080
+show you how easy it can be to rig and animate a character using the basil.
+
+4
+00:00:13,200 --> 00:00:16,200
+This is the result I want to get to at the end.
+
+5
+00:00:17,580 --> 00:00:19,200
+Let's get the sonnet.
+
+6
+00:00:19,230 --> 00:00:22,200
+The first thing I need from Regan is a character.
+
+7
+00:00:22,230 --> 00:00:24,150
+After downloading the character.
+
+8
+00:00:24,180 --> 00:00:30,930
+What I need to do is to make the joints of the character simpler so that no problem happens to the joints
+
+9
+00:00:30,930 --> 00:00:32,100
+while telling them.
+
+10
+00:00:35,200 --> 00:00:38,110
+As you see, I have made all join circular.
+
+11
+00:00:40,160 --> 00:00:44,570
+After that, I will go to the Duke and create the skeletons for it.
+
+12
+00:00:54,140 --> 00:00:59,720
+You must make sure that the anchor point of this skeleton is exactly on the layers Anchor point.
+
+13
+00:01:00,890 --> 00:01:01,400
+To do.
+
+14
+00:01:01,400 --> 00:01:03,710
+So I use this snapping tool.
+
+15
+00:01:31,350 --> 00:01:39,930
+To create the left arm skeleton, isolate these skeletons and duplicate them in the bezel and to rename
+
+16
+00:01:39,930 --> 00:01:40,620
+the layers.
+
+17
+00:01:40,620 --> 00:01:43,440
+I go to the tool section and then rename.
+
+18
+00:01:43,440 --> 00:01:49,950
+I want to remove two characters from the end of the names, so I insert tool here and also I want to
+
+19
+00:01:49,950 --> 00:01:52,650
+add live and an underline in the beginning.
+
+20
+00:01:53,010 --> 00:01:56,820
+I also want to name these layers for the right arm skeleton.
+
+21
+00:01:56,820 --> 00:01:58,770
+So I add this to the beginning.
+
+22
+00:02:00,020 --> 00:02:02,120
+I bring this skeleton here?
+
+23
+00:02:02,120 --> 00:02:03,440
+I don't need this.
+
+24
+00:02:04,320 --> 00:02:08,040
+I enable the snapping and put the layers into place.
+
+25
+00:02:17,010 --> 00:02:21,570
+After doing that, I move on to create the skeletons for the body.
+
+26
+00:02:21,600 --> 00:02:24,080
+The body consists of several parts.
+
+27
+00:02:24,090 --> 00:02:24,990
+First, the head.
+
+28
+00:02:25,020 --> 00:02:26,310
+Second, the chest.
+
+29
+00:02:26,340 --> 00:02:27,960
+Third, the neck and forth.
+
+30
+00:02:27,960 --> 00:02:28,440
+The head.
+
+31
+00:02:29,010 --> 00:02:31,320
+Therefore, I go to the spine settings.
+
+32
+00:02:32,880 --> 00:02:34,980
+I need a skeleton for the head.
+
+33
+00:02:35,490 --> 00:02:36,690
+One for the neck.
+
+34
+00:02:37,470 --> 00:02:38,760
+One for the spine.
+
+35
+00:02:38,760 --> 00:02:40,290
+And one for the hip.
+
+36
+00:02:42,820 --> 00:02:48,490
+Isolate the created layers along with the body, head, neck and hip layers.

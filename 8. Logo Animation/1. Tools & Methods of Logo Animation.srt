@@ -1,0 +1,827 @@
+1
+00:00:00,330 --> 00:00:01,300
+Hello, everyone.
+
+2
+00:00:01,320 --> 00:00:07,680
+In this video, I want to talk about one of the most attractive parts of motion graphics logo animation.
+
+3
+00:00:12,400 --> 00:00:13,290
+And his widow.
+
+4
+00:00:13,330 --> 00:00:20,020
+We will talk about all kinds of logo animations, how we can create them and the tools we can use for
+
+5
+00:00:20,020 --> 00:00:21,100
+creating them.
+
+6
+00:00:21,130 --> 00:00:26,920
+The first thing we should know is that we can create logo animations by two methods.
+
+7
+00:00:27,310 --> 00:00:33,160
+The first one, which is the fastest, is using templates and the second one is custom.
+
+8
+00:00:34,660 --> 00:00:40,840
+In the first method we go to video five dot net select the project that we think it is suitable for
+
+9
+00:00:40,840 --> 00:00:43,330
+our job and then put our logo in it.
+
+10
+00:00:43,960 --> 00:00:50,620
+We can also change the color if needed and eventually we render it and create our logo animation.
+
+11
+00:00:53,130 --> 00:00:59,580
+This method is more suitable for business managers and beginners who have just started motion graphics
+
+12
+00:00:59,580 --> 00:01:06,600
+and want to create their logo animation as soon as possible and they don't care about it being so unique
+
+13
+00:01:06,600 --> 00:01:07,710
+and special.
+
+14
+00:01:08,700 --> 00:01:15,120
+They should know that if some of these templates are so beautiful and detailed, yet they are not a
+
+15
+00:01:15,120 --> 00:01:21,780
+good option for some of the projects because they are not personalized at all and they express no meaning
+
+16
+00:01:21,780 --> 00:01:24,590
+about the brand or its productivity.
+
+17
+00:01:24,600 --> 00:01:32,130
+And it is also so hard to find a good quality project and what you really want between a lot of templates
+
+18
+00:01:32,130 --> 00:01:38,730
+and if you do, probably some people before have used it already, and when a customer sees that they
+
+19
+00:01:38,730 --> 00:01:46,170
+think you are a lazy or amateur motion graphics designer, well the second method of creating logo animations
+
+20
+00:01:46,170 --> 00:01:52,050
+is a little bit harder and more complicated to create custom logo animations.
+
+21
+00:01:52,050 --> 00:01:58,260
+And this method look animation should be created exclusively and relatively for customer purposes and
+
+22
+00:01:58,260 --> 00:01:59,520
+its work area.
+
+23
+00:01:59,670 --> 00:02:01,950
+So it is not like templates.
+
+24
+00:02:01,950 --> 00:02:08,880
+So we could use it for many customers and because it is exclusive and it has been made for a particular
+
+25
+00:02:08,880 --> 00:02:15,810
+brand and it is explaining about that, it can be a very good tool for the brand marketing.
+
+26
+00:02:16,200 --> 00:02:23,700
+Well, it is obvious that in this video our topic is the second method, because the first method it
+
+27
+00:02:23,700 --> 00:02:25,110
+is not professional.
+
+28
+00:02:25,110 --> 00:02:26,760
+It is even so simple.
+
+29
+00:02:26,760 --> 00:02:28,650
+It doesn't need instruction.
+
+30
+00:02:29,040 --> 00:02:35,550
+After getting acquainted with the ways of creating logo animations, it is better than at first.
+
+31
+00:02:35,550 --> 00:02:41,250
+We get to know all kinds of logo animations and the tools we can create them with.
+
+32
+00:02:44,490 --> 00:02:45,450
+That's first.
+
+33
+00:02:45,450 --> 00:02:48,970
+Before we can create a logo animation, we should have a logo.
+
+34
+00:02:48,990 --> 00:02:56,880
+We need to design a logo that can be designed in different ways and shapes like geometric, abstract
+
+35
+00:02:56,880 --> 00:02:57,960
+and etc..
+
+36
+00:02:58,230 --> 00:03:02,280
+And then for animating them, we can choose hard or easy ways.
+
+37
+00:03:03,740 --> 00:03:09,290
+The first and the simplest way to make logo animations is by using lines.
+
+38
+00:03:10,470 --> 00:03:17,040
+And this way we use exactly the same effects and do what we did for making lettering animations.
+
+39
+00:03:17,040 --> 00:03:20,940
+But differences here lines form the logo shapes.
+
+40
+00:03:21,700 --> 00:03:27,620
+Changing pathways can also help a lot for creating this kind of animation.
+
+41
+00:03:27,640 --> 00:03:31,180
+We can use shape reformers, especially tree path.
+
+42
+00:03:31,540 --> 00:03:39,550
+We can use effects like stroke, 3D stroke, track maps, and also curve a plugin which is particular
+
+43
+00:03:39,550 --> 00:03:40,960
+for this kind of works.
+
+44
+00:03:41,500 --> 00:03:46,990
+As you know, it is right that we are working with lines here, yet it doesn't mean because we are only
+
+45
+00:03:46,990 --> 00:03:48,020
+using lines.
+
+46
+00:03:48,040 --> 00:03:50,530
+Our work won't be attractive enough.
+
+47
+00:03:50,770 --> 00:03:57,070
+As you can see, with a little bit of taste, creativity and creation, we can create really beautiful
+
+48
+00:03:57,070 --> 00:03:59,440
+logo animations with these lines.
+
+49
+00:04:00,010 --> 00:04:01,930
+We have talked about lines.
+
+50
+00:04:01,930 --> 00:04:08,530
+Maybe you have already seen these kinds of logo animations which have been made by lines for these kinds
+
+51
+00:04:08,530 --> 00:04:09,260
+of works.
+
+52
+00:04:09,280 --> 00:04:14,850
+Connect Layer Script is going to be really useful for you for creating these connections.
+
+53
+00:04:14,860 --> 00:04:18,610
+It is enough to select the layers and click on the tree button.
+
+54
+00:04:18,910 --> 00:04:24,130
+After animating the layers, you can see that the lines are connected to them.
+
+55
+00:04:24,160 --> 00:04:30,430
+Of course, we can use other plugins for creating these kinds of work which are more advanced but not
+
+56
+00:04:30,430 --> 00:04:31,810
+free like plex's.
+
+57
+00:04:33,700 --> 00:04:39,460
+The next method, which is very interesting, is the Lego components shown by them impacting together
+
+58
+00:04:39,460 --> 00:04:40,750
+or to the surface.
+
+59
+00:04:40,750 --> 00:04:46,930
+For example, at the first animation, a circle goes into the scene and by meeting the logo components
+
+60
+00:04:46,930 --> 00:04:50,980
+and then logo components meeting to each other creates a logo.
+
+61
+00:04:51,010 --> 00:04:55,020
+We can say that our team's logo has been created with this method.
+
+62
+00:04:55,030 --> 00:05:02,050
+There are many tools we can use in this method, like changing the layers transform like changing rotation
+
+63
+00:05:02,050 --> 00:05:03,470
+position scale.
+
+64
+00:05:03,490 --> 00:05:10,420
+Scale is really important because layers bouncing animation depends on that and you should pay attention
+
+65
+00:05:10,420 --> 00:05:15,820
+a lot to the anchor points places because they have a big part in bouncing.
+
+66
+00:05:18,430 --> 00:05:21,490
+The next tools we can use are a squash and a stretch.
+
+67
+00:05:22,740 --> 00:05:27,060
+Changing pathways which it is used for changing objects shape.
+
+68
+00:05:27,920 --> 00:05:29,480
+Train path the former.
+
+69
+00:05:30,740 --> 00:05:38,270
+3D stroke and also warp and band effects, which are really handy for bending objects and making objects
+
+70
+00:05:38,270 --> 00:05:39,350
+look soft.
+
+71
+00:05:42,010 --> 00:05:43,900
+The next method is the glitch.
+
+72
+00:05:44,170 --> 00:05:50,380
+As you know, there are many kinds of glitches like moving pixelation, fragmentation of the logo and
+
+73
+00:05:50,380 --> 00:05:52,930
+its colors and other different kinds.
+
+74
+00:05:54,210 --> 00:05:57,300
+You can use all of the glitch coins in this method.
+
+75
+00:05:58,850 --> 00:06:04,820
+There are many ways to create glitch, and so far many plugins, scripts and templates have been created
+
+76
+00:06:04,820 --> 00:06:07,310
+which you can use to create glitchy.
+
+77
+00:06:08,930 --> 00:06:14,180
+I repeat the last point I told you, because it is so important in using methods you get familiar with
+
+78
+00:06:14,180 --> 00:06:15,110
+now or before.
+
+79
+00:06:15,140 --> 00:06:19,560
+Be a little bit cautious and consider its brand and work field.
+
+80
+00:06:19,580 --> 00:06:21,830
+Then use one of the methods.
+
+81
+00:06:21,830 --> 00:06:27,740
+So you should understand this kind of animation is related to what brand or field?
+
+82
+00:06:27,860 --> 00:06:34,460
+For example, if there is a company that is technology related, this kind of animation might be suitable
+
+83
+00:06:34,460 --> 00:06:35,120
+for it.
+
+84
+00:06:35,300 --> 00:06:42,220
+But if your customers field is meditation or cooking, there is no need to use glitch for that logo.
+
+85
+00:06:42,230 --> 00:06:45,710
+But if your customer likes it, you can use it.
+
+86
+00:06:45,830 --> 00:06:49,490
+A lot of people like these kind of logo animations.
+
+87
+00:06:52,070 --> 00:06:58,460
+Tools that we can use to create glitches are effects like turbulence, displaced displacement, map
+
+88
+00:06:58,460 --> 00:07:05,690
+noise, noise, less Venetian blinds, mosaic shift channel and posterized time.
+
+89
+00:07:08,100 --> 00:07:12,600
+The next method is using geometries and playing with geometric shapes.
+
+90
+00:07:14,340 --> 00:07:17,010
+And this method, simple things happen.
+
+91
+00:07:17,010 --> 00:07:24,060
+But because objects are scattered and in one moment a few objects go into the scene and are animating.
+
+92
+00:07:24,060 --> 00:07:27,180
+They make our work look professional and beautiful.
+
+93
+00:07:28,300 --> 00:07:30,700
+For creating these kind of logo animations.
+
+94
+00:07:30,700 --> 00:07:37,450
+As you can see in these examples, it is enough to imagine your logo to geometric shapes and then appear
+
+95
+00:07:37,450 --> 00:07:41,620
+each part with the geometric shape and combine those geometries.
+
+96
+00:07:41,620 --> 00:07:44,770
+So eventually your logo can take a shape.
+
+97
+00:07:44,870 --> 00:07:50,380
+You should be aware that you shouldn't disrupt scene balance, meaning we don't want our logo to be
+
+98
+00:07:50,380 --> 00:07:54,140
+so dynamic in some parts and not in other parts.
+
+99
+00:07:54,160 --> 00:08:00,700
+In other words, logo animations should be fully framed, meaning movements and tearing and exiting
+
+100
+00:08:00,700 --> 00:08:07,480
+objects should be the same on both sides of the scene so it can avoid the scene being unbalanced.
+
+101
+00:08:08,340 --> 00:08:13,650
+The next method is on fold, meaning opening, which shows opening or folding a paper.
+
+102
+00:08:14,700 --> 00:08:21,120
+As you can see, combining it by lines makes our work much more beautiful for creating this kind of
+
+103
+00:08:21,120 --> 00:08:22,150
+logo animation.
+
+104
+00:08:22,170 --> 00:08:27,420
+You can make your layer 3D and rotate them in X, y, and z axis.
+
+105
+00:08:27,450 --> 00:08:30,840
+With this method, you can create this kind of animation to.
+
+106
+00:08:31,820 --> 00:08:33,710
+The next method is 3D.
+
+107
+00:08:34,620 --> 00:08:41,670
+As you know, Aftereffect is not a 3D software, but yet it has good tools for making 3D like making
+
+108
+00:08:41,670 --> 00:08:48,840
+layers, 3D giving volume to the shapes and texts, creating shadow and light in 3D space.
+
+109
+00:08:48,870 --> 00:08:52,110
+If you set your cursor in the Engine and Cinema 40.
+
+110
+00:08:53,620 --> 00:08:59,860
+For example, these kinds of samples in which Lego components come into the scene and form the logo.
+
+111
+00:08:59,890 --> 00:09:06,430
+We can call them three logo animations, which are so popular in the past but now are unfashionable
+
+112
+00:09:06,430 --> 00:09:08,230
+and are not used anymore.
+
+113
+00:09:09,080 --> 00:09:16,160
+If you wanted to do a little more professional works, you can use the Elements three D plugin, which
+
+114
+00:09:16,160 --> 00:09:21,770
+has good abilities in animate and creating beautiful materials for 3D objects.
+
+115
+00:09:21,800 --> 00:09:27,680
+If you want to know all the abilities of this plugin is better to check out its creator website video
+
+116
+00:09:27,680 --> 00:09:31,340
+copilot and then watch the tutorial videos.
+
+117
+00:09:34,000 --> 00:09:41,470
+If you are more interested in making 3D animations, my opinion for you is to learn the Cinema 4D software
+
+118
+00:09:41,470 --> 00:09:47,650
+so you don't have after effects limits and your logo animations and anything else you want to create.
+
+119
+00:09:47,650 --> 00:09:52,960
+3D can be made faster and simpler with the software's professional tools.
+
+120
+00:09:55,830 --> 00:09:59,890
+The next method is retrospective, meaning take a look at the past.
+
+121
+00:09:59,910 --> 00:10:05,820
+The way that we create this kind of animation is so simple it is just enough to animate your logo's
+
+122
+00:10:05,820 --> 00:10:07,620
+texture and tissues.
+
+123
+00:10:07,800 --> 00:10:11,700
+So you can have this kind of result regularly.
+
+124
+00:10:11,700 --> 00:10:18,780
+This kind of animation is used for old companies which are willing to show their experience and knowledge
+
+125
+00:10:18,780 --> 00:10:20,370
+in their work field.
+
+126
+00:10:20,400 --> 00:10:23,520
+Pay attention that this technique shouldn't be used everywhere.
+
+127
+00:10:23,520 --> 00:10:28,280
+And as I said, this method usually shows the experience and the oldness of something.
+
+128
+00:10:28,290 --> 00:10:34,410
+Therefore, there is no need to use it always, especially when a brand wants to express itself being
+
+129
+00:10:34,410 --> 00:10:36,750
+modern and its vision to the future.
+
+130
+00:10:37,380 --> 00:10:43,740
+The next method is using character or some parts of it like face and or in logo animations.
+
+131
+00:10:44,280 --> 00:10:50,940
+The properties of this method are that it shows more life and our logo animation makes better contact
+
+132
+00:10:50,940 --> 00:10:52,290
+with our audience.
+
+133
+00:10:53,340 --> 00:10:59,790
+Usually being a character in logo shows a connection between the logo and the brand, or for expressing
+
+134
+00:10:59,790 --> 00:11:00,660
+the brand's work.
+
+135
+00:11:00,660 --> 00:11:03,660
+Feel better for creating this kind of animation.
+
+136
+00:11:03,660 --> 00:11:09,690
+We should have some pieces of information about characters make different poses and the way of animating
+
+137
+00:11:09,690 --> 00:11:12,470
+the different components of our character.
+
+138
+00:11:12,480 --> 00:11:18,960
+So eventually, with a little bit of help of creativity and different tools we have in this field get
+
+139
+00:11:18,960 --> 00:11:20,220
+a good result.
+
+140
+00:11:20,730 --> 00:11:27,060
+Maybe you think that this method is too hard and you don't want to go for it, but with a little learning
+
+141
+00:11:27,060 --> 00:11:31,980
+and practicing, it can create much more professional logo animations.
+
+142
+00:11:31,980 --> 00:11:38,400
+And after creating these animations, you're going to feel more confident and you will understand that
+
+143
+00:11:38,400 --> 00:11:45,450
+there is nothing that you can't do and other methods get much easier for you to do, and in the end
+
+144
+00:11:45,450 --> 00:11:47,910
+you will see that it is worth a try.
+
+145
+00:11:48,570 --> 00:11:55,860
+Sometimes you have to work with the typography logo that doesn't have any kind of icon or element graphic.
+
+146
+00:11:56,830 --> 00:11:59,680
+In these situations for getting a good result.
+
+147
+00:11:59,680 --> 00:12:01,510
+You can use your creativity.
+
+148
+00:12:01,510 --> 00:12:06,580
+Some tools which we talk about like line animation, glitch and other methods.
+
+149
+00:12:06,610 --> 00:12:08,800
+That's why I don't repeat them again.
+
+150
+00:12:13,390 --> 00:12:20,200
+The next method is animation Liquid, which is one of the most attractive methods to create logo animations,
+
+151
+00:12:20,200 --> 00:12:23,740
+and it is usable variously in different places.
+
+152
+00:12:27,150 --> 00:12:28,890
+For making liquid animation.
+
+153
+00:12:28,890 --> 00:12:32,430
+You can use the blur effect combining by the match of care.
+
+154
+00:12:32,460 --> 00:12:36,630
+This combination causes the objects to be shiny and flowing.
+
+155
+00:12:37,470 --> 00:12:43,440
+And the objects themselves can be created by 3D stroke or a particular effect.
+
+156
+00:12:43,470 --> 00:12:50,430
+And eventually, for creating splashes, we use a frame by frame animation to reach a great result.
+
+157
+00:12:56,330 --> 00:12:59,750
+Another log animation kind is intensive reveal.
+
+158
+00:12:59,780 --> 00:13:06,200
+This kind of animation is created by beak shapes, which further will be transformed into the logo.
+
+159
+00:13:06,230 --> 00:13:12,890
+This technique is frequently used in logos with small details like the logos you see now.
+
+160
+00:13:13,460 --> 00:13:19,730
+This method is going to be really useful when you want to use your log animation as the intro video.
+
+161
+00:13:20,700 --> 00:13:26,730
+For this method, you can combine different techniques together, but don't use more than three effects
+
+162
+00:13:26,730 --> 00:13:27,900
+at the same time.
+
+163
+00:13:27,900 --> 00:13:34,170
+And don't create your animation too long because watching some shapes which are frequently transforming
+
+164
+00:13:34,170 --> 00:13:38,340
+to another shapes more than 10 seconds is not so appealing.
+
+165
+00:13:38,760 --> 00:13:44,430
+After we got familiar with all the methods and different kinds of logo animations, it's better to talk
+
+166
+00:13:44,430 --> 00:13:50,640
+about giving sense to our animation that how we can make our animation meaningful and to understand
+
+167
+00:13:50,640 --> 00:13:52,440
+the concept to our audience.
+
+168
+00:13:54,230 --> 00:13:58,150
+There are two ways for giving sense to our animation generally.
+
+169
+00:13:58,160 --> 00:14:01,910
+The first one is abstraction, and the second one is sense.
+
+170
+00:14:01,940 --> 00:14:08,930
+The first method, which is so simple as its name implies, is abstraction animations, meaning creating
+
+171
+00:14:08,930 --> 00:14:15,800
+an animation by graphics elements and brand style, animate it the way you want and show it, because
+
+172
+00:14:15,800 --> 00:14:21,710
+this kind of animation doesn't say anything special, and it's enough for it to look attractive because
+
+173
+00:14:21,710 --> 00:14:22,940
+it's abstraction.
+
+174
+00:14:23,330 --> 00:14:29,750
+In the second method, which is sans your logo, an animation should express something about the brand
+
+175
+00:14:29,750 --> 00:14:34,520
+or the brand's products or its customers and explain about them.
+
+176
+00:14:35,270 --> 00:14:38,720
+There are different ways to make our logo animation meaningful.
+
+177
+00:14:40,230 --> 00:14:47,010
+The first way is to play a little bit with the logo or company's name because companies name explains
+
+178
+00:14:47,010 --> 00:14:53,580
+good descriptions about the company itself playing by name or logo and showing the company's activity
+
+179
+00:14:53,580 --> 00:14:54,390
+by objects.
+
+180
+00:14:54,390 --> 00:14:58,110
+Animation helps us to demonstrate the company's goal.
+
+181
+00:14:59,280 --> 00:15:05,970
+The next method is using morphing meaning showing what a company does by shapes, icons and effects.
+
+182
+00:15:07,520 --> 00:15:13,190
+You should pay attention that everything we use should be coordinated with the logo style animation
+
+183
+00:15:13,190 --> 00:15:14,030
+kind.
+
+184
+00:15:14,880 --> 00:15:21,810
+For example, if the logo has a smooth corners, we should try to use smooth corners in designing the
+
+185
+00:15:21,810 --> 00:15:24,870
+shapes we are adding to the logo animation.
+
+186
+00:15:24,900 --> 00:15:31,020
+Not only does this make the animation more beautiful, but makes our job much easier and more fun animating
+
+187
+00:15:31,020 --> 00:15:35,130
+the shapes and causes our animation to be more appealing.
+
+188
+00:15:35,490 --> 00:15:41,670
+The third method that we can make our animation meaningful with is animating the characters in the logo
+
+189
+00:15:41,670 --> 00:15:42,480
+itself.
+
+190
+00:15:42,510 --> 00:15:47,580
+Usually the characters using the logo are relevant to the company and its activities.
+
+191
+00:15:48,390 --> 00:15:52,950
+But yet you can do two things in animating the Lego characters.
+
+192
+00:15:54,150 --> 00:16:00,920
+The first thing you can do is to create a normal activity for your character, like flying for a bird,
+
+193
+00:16:00,930 --> 00:16:04,020
+because normal activity for bird is flying.
+
+194
+00:16:07,230 --> 00:16:13,260
+The second thing you can do is to animate your character as it does an activity which is related to
+
+195
+00:16:13,260 --> 00:16:14,020
+the company.
+
+196
+00:16:14,040 --> 00:16:17,610
+Like and are you looking around and looking for something?
+
+197
+00:16:17,620 --> 00:16:24,270
+And this animation is completely suitable for the researcher companies which are looking for new things.
+
+198
+00:16:27,380 --> 00:16:33,770
+The important point about logo animations that should be always considered is you are making logo animation.
+
+199
+00:16:34,280 --> 00:16:38,390
+So don't let it be too long and transform into a short film.
+
+200
+00:16:41,950 --> 00:16:47,020
+The last thing we should talk about is the animation from a technical point of view.
+
+201
+00:16:47,050 --> 00:16:49,940
+The logo animation should have an entrance at first.
+
+202
+00:16:49,960 --> 00:16:54,120
+It shouldn't be in the scene from the first, but it should form step by step.
+
+203
+00:16:54,130 --> 00:16:55,910
+Then the logo got formed.
+
+204
+00:16:55,930 --> 00:16:59,830
+If it is not going to be a loop, it should have an exit stage.
+
+205
+00:16:59,830 --> 00:17:07,180
+Meaning the logo after got completely formed again starts to end the animation and fades from the scene.
+
+206
+00:17:07,660 --> 00:17:13,990
+And if it is going to be looped, the first and the last part of the loop shouldn't be obvious.
+
+207
+00:17:15,060 --> 00:17:15,920
+Good luck.
